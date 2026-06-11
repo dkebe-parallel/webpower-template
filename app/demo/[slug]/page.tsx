@@ -1,3 +1,6 @@
+export const dynamic = 'force-dynamic'
+export const runtime = 'nodejs'
+
 import type { ReactNode } from 'react'
 import { notFound } from 'next/navigation'
 import { getBusiness } from '@/lib/getBusiness'
