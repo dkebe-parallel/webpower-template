@@ -1,0 +1,99 @@
+{
+  "business": {
+    "name": "Siamari Majid Est Plomberie",
+    "slug": "siamari-majid-est-plomberie",
+    "city": "Strasbourg",
+    "country": "France",
+    "phone": "+33 6 29 88 27 58",
+    "address": "10 Rue des Carolingiens, 67200 Strasbourg",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Siamari%20Majid%20Est%20Plomberie&query_place_id=ChIJtWD4LP_JlkcRbNQsokTkRa4",
+    "rating": 5,
+    "reviews_count": 1
+  },
+  "lang": "fr",
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Votre plombier de confiance à Strasbourg, disponible quand vous en avez besoin",
+    "hero_subtitle": "Intervention rapide en urgence · Devis gratuit et transparent · Artisan qualifié au service des Strasbourgeois",
+    "value_prop": "Siamari Majid Est Plomberie met son expertise au service des particuliers et professionnels de Strasbourg pour tous vos travaux de plomberie, du dépannage d'urgence à la rénovation complète, avec sérieux et réactivité.",
+    "about": "Établi à Strasbourg, Siamari Majid Est Plomberie est votre artisan plombier de proximité, reconnu pour son sérieux et son intervention rapide. Que ce soit pour une fuite soudaine en pleine nuit, l'installation de vos équipements sanitaires ou l'entretien de votre chaudière, Majid intervient avec le souci du travail bien fait. Vous bénéficiez d'un service humain, honnête et adapté à chaque situation.",
+    "services": [
+      {
+        "title": "Dépannage d'urgence",
+        "desc": "Une fuite, un robinet cassé ou une canalisation bouchée ? Majid intervient en urgence à Strasbourg et ses environs, 24h/24 et 7j/7, pour stopper les dégâts au plus vite.",
+        "icon": "zap"
+      },
+      {
+        "title": "Installation sanitaire",
+        "desc": "Pose de lavabo, baignoire, douche, WC ou évier : Siamari Majid assure l'installation complète de vos équipements sanitaires dans les règles de l'art, pour une salle de bain ou une cuisine fonctionnelle et durable.",
+        "icon": "droplets"
+      },
+      {
+        "title": "Chauffage & chaudière",
+        "desc": "Installation, remplacement et dépannage de chaudières gaz ou fioul à Strasbourg. Majid garantit votre confort thermique en toute saison et veille à la conformité de vos équipements de chauffage.",
+        "icon": "flame"
+      },
+      {
+        "title": "Rénovation plomberie",
+        "desc": "Vous rénovez votre logement en Alsace ? Majid prend en charge la reprise complète de votre réseau d'eau : remplacement des canalisations vétustes, mise aux normes et adaptation aux nouveaux équipements.",
+        "icon": "wrench"
+      },
+      {
+        "title": "Détection de fuite",
+        "desc": "Grâce à des techniques de détection non destructives, Majid localise avec précision l'origine des fuites cachées dans vos murs ou sous votre dalle, limitant ainsi les travaux et les dégâts des eaux.",
+        "icon": "search"
+      },
+      {
+        "title": "Entretien VMC",
+        "desc": "Un entretien régulier de votre VMC assure une bonne qualité d'air intérieur et prévient l'humidité. Majid contrôle, nettoie et règle votre système de ventilation pour un habitat sain à Strasbourg.",
+        "icon": "wind"
+      }
+    ],
+    "why_us": [
+      "Note parfaite 5/5 sur Google Maps : la satisfaction de chaque client est notre priorité absolue à Strasbourg",
+      "Disponibilité 24h/24 et 7j/7 pour les urgences plomberie, car une fuite n'attend pas les heures de bureau",
+      "Devis gratuit, clair et détaillé avant toute intervention : aucune mauvaise surprise sur la facture",
+      "Artisan local strasbourgeois, réactif et à l'écoute, qui connaît les spécificités des logements alsaciens anciens et récents",
+      "Travail soigné avec des matériaux de qualité et respect des normes en vigueur pour des installations fiables dans la durée"
+    ],
+    "service_area": "Siamari Majid Est Plomberie intervient principalement à Strasbourg et dans toute la Communauté Urbaine de Strasbourg, notamment à Schiltigheim, Illkirch-Graffenstaden, Hoenheim, Bischheim, Oberhausbergen, Lingolsheim, Ostwald, Wolfisheim et Eckbolsheim. Une urgence partout en Alsace ? Contactez-nous, nous étudions chaque demande.",
+    "reviews_note": "5 / 5 sur Google Maps · 1 avis client vérifié",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 6 29 88 27 58",
+      "email": "",
+      "hours": "Lun–Sam 7h–20h · Urgences 24h/24 7j/7"
+    },
+    "seo_title": "Plombier Strasbourg – Siamari Majid Est Plomberie",
+    "meta_description": "Plombier à Strasbourg disponible 24h/24 : dépannage urgence, installation sanitaire, chaudière, détection de fuite. Devis gratuit – Note 5/5 Google."
+  }
+}
