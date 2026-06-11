@@ -1,10 +1,8 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  experimental: {
-    outputFileTracingIncludes: {
-      '/demo/[slug]': ['./data/businesses/**/*'],
-    },
+  outputFileTracingIncludes: {
+    '/demo/[slug]': ['./data/businesses/**/*'],
   },
 };
 
