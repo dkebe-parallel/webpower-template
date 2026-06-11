@@ -42,49 +42,49 @@
   },
   "content": {
     "hero_title": "Votre plombier de confiance à Eysines, disponible quand vous en avez besoin",
-    "hero_subtitle": "Intervention rapide sur Eysines et le nord-ouest bordelais · Devis gratuit et transparent · Note parfaite 5/5 sur Google",
-    "value_prop": "Gregory plomberie, c'est l'artisan local qui répond présent — que ce soit pour une fuite en urgence à 22h ou pour rénover entièrement votre salle de bains. Un seul numéro, une vraie expertise, et des clients qui recommandent à chaque fois.",
-    "about": "Basé à Eysines, Gregory intervient chez les particuliers et les professionnels du secteur pour tous leurs besoins en plomberie et chauffage. Avec une approche soignée et un vrai sens du service, il a su bâtir une réputation solide auprès de ses clients, tous unanimes sur la qualité de ses prestations. Que ce soit pour un dépannage urgent ou un chantier de rénovation, Gregory s'engage à livrer un travail propre, dans les délais et au prix annoncé.",
+    "hero_subtitle": "Intervention rapide · Devis gratuit et transparent · Note parfaite 5/5 sur Google",
+    "value_prop": "Gregory plomberie, c'est l'expertise d'un artisan local qui connaît Eysines et ses environs sur le bout des doigts. Du dépannage d'urgence à la rénovation complète, chaque intervention est réalisée avec soin, dans les délais annoncés et au prix convenu.",
+    "about": "Gregory plomberie est une entreprise artisanale basée à Eysines, au cœur de la métropole bordelaise. Grégory intervient chez les particuliers et les professionnels pour tous les travaux de plomberie, de chauffage et de sanitaire. Reconnu pour son sérieux et sa réactivité, il a su bâtir une réputation irréprochable auprès de ses clients avec une note de 5 étoiles sur Google.",
     "services": [
       {
         "title": "Dépannage d'urgence",
-        "desc": "Fuite sous l'évier, canalisation bouchée, rupture de canalisation en pleine nuit ? Gregory intervient en urgence 24h/24 et 7j/7 sur Eysines et ses environs pour limiter les dégâts et remettre votre installation en état rapidement.",
+        "desc": "Fuite, canalisation bouchée ou rupture de canalisation : Grégory intervient en urgence à Eysines et alentours, 7j/7 et 24h/24 pour stopper les dégâts le plus vite possible.",
         "icon": "zap"
       },
       {
         "title": "Installation sanitaire",
-        "desc": "Pose de baignoire, douche à l'italienne, lavabo, WC suspendu ou lave-mains : Gregory installe vos équipements sanitaires avec soin, dans le respect des normes en vigueur et de vos exigences esthétiques.",
+        "desc": "Pose et remplacement de lavabos, douches, baignoires, WC et robinetterie. Chaque installation est réalisée dans les règles de l'art pour garantir étanchéité et durabilité.",
         "icon": "droplets"
       },
       {
         "title": "Chauffage & chaudière",
-        "desc": "Installation, remplacement ou dépannage de chaudière à gaz, entretien annuel obligatoire, rééquilibrage de radiateurs : Gregory assure le bon fonctionnement de votre système de chauffage pour l'hiver comme pour l'été.",
+        "desc": "Installation, remplacement et réparation de chaudières à gaz et systèmes de chauffage central. Grégory assure aussi la mise en service et les vérifications réglementaires.",
         "icon": "flame"
       },
       {
         "title": "Rénovation plomberie",
-        "desc": "Vous rénovez votre salle de bains, votre cuisine ou refaites la plomberie de votre logement ? Gregory reprend entièrement vos réseaux d'alimentation et d'évacuation, depuis le diagnostic jusqu'à la mise en service finale.",
+        "desc": "Refonte complète des réseaux d'eau dans le cadre d'une rénovation de salle de bain ou de cuisine : reprise des colonnes, mise aux normes, et finitions soignées.",
         "icon": "wrench"
       },
       {
         "title": "Détection de fuite",
-        "desc": "Une facture d'eau anormalement élevée ou une tache d'humidité inquiétante ? Gregory localise les fuites cachées — sous dalle, dans les murs ou en faux plafond — sans démolition inutile, grâce à des techniques de détection précises.",
+        "desc": "Grâce à des techniques de détection non destructives, Grégory localise avec précision les fuites cachées sous carrelage, dans les murs ou en sous-sol, sans démolition inutile.",
         "icon": "search"
       },
       {
         "title": "Entretien VMC",
-        "desc": "Une VMC mal entretenue détériore la qualité de l'air et favorise l'humidité. Gregory assure le nettoyage et la vérification de votre système de ventilation pour garantir un air sain dans votre logement tout au long de l'année.",
+        "desc": "Vérification, nettoyage et remplacement de vos systèmes de ventilation mécanique contrôlée pour garantir une qualité d'air optimale et prévenir les problèmes d'humidité.",
         "icon": "wind"
       }
     ],
     "why_us": [
-      "Note 5/5 sur Google : 6 clients satisfaits, 6 avis positifs — une régularité qui reflète un vrai engagement qualité à chaque intervention.",
-      "Disponible 24h/24 et 7j/7 pour les urgences : fuite, dégât des eaux ou panne de chauffage, Gregory répond présent même le week-end et les jours fériés.",
-      "Artisan local basé à Eysines : connaissance du terrain, réactivité garantie et proximité avec ses clients — pas de sous-traitance, c'est Gregory qui intervient.",
-      "Devis gratuit et prix transparents : aucune mauvaise surprise sur la facture, tout est expliqué clairement avant de commencer les travaux.",
-      "Travail soigné et dans les règles de l'art : respect des normes DTU, matériaux de qualité et finitions nettes pour des installations qui durent dans le temps."
+      "Note parfaite de 5/5 sur Google : chaque client repart satisfait, c'est notre engagement au quotidien.",
+      "Artisan local basé à Eysines : intervention rapide, connaissance du terrain et disponibilité réelle.",
+      "Devis gratuit et sans surprise : le prix annoncé est le prix facturé, sans frais cachés ni mauvaise surprise.",
+      "Disponible 24h/24 et 7j/7 pour les urgences : une fuite ne prévient pas, mais Grégory, lui, répond toujours.",
+      "Travail soigné et respect de votre domicile : protection des sols, nettoyage après intervention et respect de vos délais."
     ],
-    "service_area": "Gregory plomberie intervient principalement à Eysines et dans toutes les communes du nord-ouest de la métropole bordelaise : Le Bouscat, Bruges, Saint-Médard-en-Jalles, Mérignac, Blanquefort, Parempuyre et Bordeaux. Pour les urgences, la zone d'intervention est élargie sur simple appel.",
+    "service_area": "Gregory plomberie intervient principalement à Eysines et dans toute la rive gauche de la métropole bordelaise : Bordeaux, Le Bouscat, Mérignac, Bruges, Saint-Médard-en-Jalles, Blanquefort et les communes voisines. Pour toute urgence ou demande de devis, n'hésitez pas à appeler directement.",
     "reviews_note": "5 / 5 sur Google Maps · 6 avis clients vérifiés",
     "cta_primary": "Appeler maintenant",
     "cta_secondary": "Demander un devis gratuit",
@@ -93,7 +93,7 @@
       "email": "",
       "hours": "Lun–Sam 7h–20h · Urgences 24h/24 7j/7"
     },
-    "seo_title": "Plombier Eysines – Gregory plomberie, dépannage 24h/24",
-    "meta_description": "Plombier à Eysines disponible 24h/24. Dépannage urgence, installation sanitaire, chauffage et détection de fuite. Devis gratuit. Note 5/5 Google."
+    "seo_title": "Plombier Eysines – Gregory plomberie, devis gratuit",
+    "meta_description": "Plombier à Eysines (33320) : dépannage urgence, installation sanitaire, chauffage. Devis gratuit, intervention rapide. Note 5/5 sur Google. Appelez Gregory."
   }
 }
