@@ -42,50 +42,73 @@
   },
   "content": {
     "hero_title": "Votre plombier de confiance à Bourgvallées",
-    "hero_subtitle": "Intervention rapide, devis transparent et travail soigné — Niobey Jean-Guillaume prend en charge toutes vos urgences et projets de plomberie dans la Manche.",
-    "value_prop": "Un artisan plombier local qui répond présent quand vous avez besoin de lui : dépannage urgent, installation neuve ou rénovation, le tout avec le sérieux d'un professionnel ancré dans son territoire.",
-    "about": "Niobey Jean-Guillaume est un plombier indépendant établi à Bourgvallées, au cœur du département de la Manche. Fort d'une solide expérience dans le dépannage, l'installation sanitaire et le chauffage, il intervient rapidement chez les particuliers et professionnels de la région. Son approche artisanale privilégie la qualité du travail, le respect des délais et une relation de confiance durable avec chaque client.",
+    "hero_subtitle": "Intervention rapide, devis gratuit et travail soigné — Niobey Jean-Guillaume prend en charge toute urgence plomberie, installation sanitaire et chauffage dans le secteur de Bourgvallées.",
+    "value_prop": "Un artisan plombier local, réactif et rigoureux, au service des habitants de Bourgvallées et des communes voisines pour tous vos besoins en plomberie et chauffage.",
+    "about": "Niobey Jean-Guillaume est un plombier artisan établi à Bourgvallées, dans la Manche. Il intervient pour les particuliers et professionnels de la région pour tout type de travaux de plomberie, de sanitaire et de chauffage. Soucieux du travail bien fait, il met son savoir-faire au service de chaque client avec sérieux et disponibilité.",
     "services": [
       {
         "title": "Dépannage d'urgence",
-        "desc": "Fuite soudaine, canalisation bouchée ou coupure d'eau : Niobey Jean-Guillaume intervient en urgence à Bourgvallées et ses environs pour stopper les dégâts le plus vite possible, 7j/7 et 24h/24.",
+        "desc": "Fuite, canalisation bouchée ou panne soudaine à Bourgvallées ? Niobey Jean-Guillaume intervient rapidement pour remettre votre installation en état.",
         "icon": "zap"
       },
       {
         "title": "Installation sanitaire",
-        "desc": "Pose de lavabos, douches, baignoires, WC ou robinetterie : chaque installation est réalisée dans les règles de l'art pour un résultat durable et esthétique, neuf comme en rénovation.",
+        "desc": "Pose de lavabo, douche, baignoire ou WC — réalisation complète de vos installations sanitaires dans les règles de l'art.",
         "icon": "droplets"
       },
       {
         "title": "Chauffage & chaudière",
-        "desc": "Installation, remplacement et mise en service de chaudières à gaz ou fioul, entretien annuel obligatoire et dépannage rapide pour que vous ne manquiez jamais de chaleur.",
+        "desc": "Installation, remplacement et dépannage de chaudières et systèmes de chauffage pour assurer votre confort tout au long de l'année.",
         "icon": "flame"
       },
       {
         "title": "Rénovation plomberie",
-        "desc": "Remplacement de tuyauteries vétustes, mise aux normes des installations existantes ou refonte complète de la plomberie lors de travaux de rénovation de votre logement.",
+        "desc": "Mise aux normes ou rénovation complète de votre réseau de plomberie lors de travaux de réhabilitation ou d'aménagement.",
         "icon": "wrench"
       },
       {
         "title": "Détection de fuite",
-        "desc": "Grâce à des techniques adaptées, localisation précise des fuites cachées sous dalles, encastrées dans les murs ou dans les canalisations enterrées, sans démolition inutile.",
+        "desc": "Localisation précise des fuites cachées dans vos murs ou sous vos dalles pour une intervention ciblée et sans dégâts inutiles.",
         "icon": "search"
       },
       {
         "title": "Entretien VMC",
-        "desc": "Vérification, nettoyage et entretien de votre système de ventilation mécanique contrôlée pour garantir une qualité d'air optimale et prévenir humidité et moisissures.",
+        "desc": "Vérification et entretien de votre système de ventilation mécanique contrôlée pour garantir une bonne qualité d'air dans votre logement.",
         "icon": "wind"
       }
     ],
     "why_us": [
-      "Artisan local basé à Bourgvallées : une connaissance fine du territoire et des contraintes spécifiques à la Manche pour des interventions efficaces et sans perte de temps.",
-      "Disponibilité étendue 7j/7 avec une ligne directe pour les urgences, parce qu'une fuite n'attend pas le lundi matin.",
-      "Devis gratuit et détaillé avant chaque intervention, sans surprise sur la facture finale : transparence et honnêteté sont la marque de fabrique de l'entreprise.",
-      "Travaux soignés et matériaux de qualité sélectionnés auprès de fournisseurs fiables, pour des installations durables qui ne nécessitent pas de retour rapide.",
-      "Un interlocuteur unique du diagnostic à la fin du chantier : vous parlez directement à l'artisan qui réalise le travail, pas à un standard ou un sous-traitant."
+      {
+        "title": "Artisan local",
+        "desc": "Basé à Bourgvallées, Niobey Jean-Guillaume connaît parfaitement le secteur et intervient rapidement chez vous."
+      },
+      {
+        "title": "Réactivité garantie",
+        "desc": "En cas d'urgence plomberie, la priorité est de vous répondre vite et d'intervenir dans les meilleurs délais."
+      },
+      {
+        "title": "Devis gratuit",
+        "desc": "Chaque prestation commence par un devis clair et transparent, sans surprise sur la facture finale."
+      },
+      {
+        "title": "Travail soigné",
+        "desc": "Un savoir-faire artisanal appliqué avec rigueur, pour des installations durables et des finitions impeccables."
+      },
+      {
+        "title": "Interlocuteur unique",
+        "desc": "Vous traitez directement avec l'artisan, de la prise de contact jusqu'à la réception des travaux."
+      }
     ],
-    "service_area": "Niobey Jean-Guillaume intervient à Bourgvallées et dans l'ensemble des communes environnantes du secteur de Saint-Lô, notamment à Saint-Jean-de-Daye, Sainte-Suzanne-sur-Vire, Tessy-Bocage, Périers, Marigny-le-Lozon et plus largement dans le département de la Manche (50). Vous n'êtes pas certain d'être dans sa zone ? Appelez directement au +33 2 33 55 70 56 pour le vérifier.",
-    "reviews_note": "Contactez-nous pour en savoir plus sur nos réalisations et la satisfaction de nos clients.",
+    "service_area": "Niobey Jean-Guillaume intervient à Bourgvallées et dans les communes environnantes dans un rayon d'une quinzaine de kilomètres, notamment Saint-Lô, Tessy-Bocage, Marigny, Percy-en-Normandie, Canisy et Torigni-sur-Vire.",
+    "service_area_cities": [
+      "Bourgvallées",
+      "Saint-Lô",
+      "Tessy-Bocage",
+      "Marigny",
+      "Percy-en-Normandie",
+      "Torigni-sur-Vire"
+    ],
+    "reviews_note": "Contactez-nous pour en savoir plus sur nos prestations",
     "cta_primary": "Appeler maintenant",
     "cta_secondary": "Demander un devis gratuit",
     "contact": {
@@ -94,6 +117,7 @@
       "hours": "Lun–Sam 7h–20h · Urgences 24h/24 7j/7"
     },
     "seo_title": "Plombier Bourgvallées – Niobey Jean-Guillaume",
-    "meta_description": "Plombier à Bourgvallées (50) : dépannage urgent, installation sanitaire, chauffage et détection de fuite. Niobey Jean-Guillaume, artisan local disponible 7j/7."
-  }
+    "meta_description": "Plombier à Bourgvallées : dépannage urgence, installation sanitaire, chauffage et détection de fuite. Devis gratuit – Niobey Jean-Guillaume, artisan local."
+  },
+  "reviews": []
 }
