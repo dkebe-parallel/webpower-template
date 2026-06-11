@@ -2,55 +2,60 @@
 
 import { useEffect, useRef } from 'react'
 
+interface ServiceAreaStat {
+  value: string
+  label: string
+}
+
 interface ServiceAreaProps {
   serviceArea: string
   city: string
+  serviceAreaCities?: string[]
+  serviceAreaMapCities?: string[]
+  serviceAreaStats?: ServiceAreaStat[]
 }
 
-const RADAR_SPOTS = [
-  { a: -90,  r: 0.16, l: 'Opéra' },
-  { a: -20,  r: 0.20, l: 'Marais' },
-  { a: 60,   r: 0.18, l: 'Bastille' },
-  { a: 150,  r: 0.19, l: 'Montparnasse' },
-  { a: -150, r: 0.17, l: 'Étoile' },
-  { a: -55,  r: 0.40, l: 'Neuilly' },
-  { a: 35,   r: 0.42, l: 'Vincennes' },
-  { a: 120,  r: 0.41, l: 'Issy' },
-  { a: -120, r: 0.40, l: 'Levallois' },
-  { a: 175,  r: 0.43, l: 'Boulogne' },
-]
+// Fixed angle positions for up to 6 orbit cities
+const ORBIT_ANGLES = [-90, -25, 45, 135, 170, -150]
+const ORBIT_RADII = [0.21, 0.22, 0.21, 0.22, 0.20, 0.21]
 
-const COMMUNES = [
-  'Boulogne-Billancourt', 'Neuilly-sur-Seine', 'Levallois-Perret',
-  'Clichy', 'Saint-Denis', 'Montreuil', 'Vincennes', 'Issy-les-Moulineaux',
-]
-
-export default function ServiceArea({ serviceArea, city }: ServiceAreaProps) {
+export default function ServiceArea({
+  serviceArea,
+  city,
+  serviceAreaCities = [],
+  serviceAreaMapCities = [],
+  serviceAreaStats,
+}: ServiceAreaProps) {
   const radarRef = useRef<HTMLDivElement>(null)
 
   useEffect(() => {
     const radar = radarRef.current
     if (!radar) return
-    RADAR_SPOTS.forEach((s, i) => {
-      const rad = (s.a * Math.PI) / 180
-      const x = 50 + Math.cos(rad) * s.r * 100
-      const y = 50 + Math.sin(rad) * s.r * 100
+
+    const cities = serviceAreaMapCities.slice(0, 6)
+    cities.forEach((label, i) => {
+      const angle = ORBIT_ANGLES[i] ?? (i * 60 - 90)
+      const radius = ORBIT_RADII[i] ?? 0.21
+      const rad = (angle * Math.PI) / 180
+      const x = 50 + Math.cos(rad) * radius * 100
+      const y = 50 + Math.sin(rad) * radius * 100
+
       const pin = document.createElement('div')
       pin.className = 'radar-pin'
       pin.style.left = x + '%'
       pin.style.top = y + '%'
-      pin.style.opacity = s.r > 0.3 ? '0.7' : '1'
       radar.appendChild(pin)
-      if (i % 2 === 0) {
-        const lab = document.createElement('div')
-        lab.className = 'radar-lab'
-        lab.textContent = s.l
-        lab.style.left = x + '%'
-        lab.style.top = (y - 7) + '%'
-        radar.appendChild(lab)
-      }
+
+      const lab = document.createElement('div')
+      lab.className = 'radar-lab'
+      lab.textContent = label
+      lab.style.left = x + '%'
+      lab.style.top = (y - 7) + '%'
+      radar.appendChild(lab)
     })
-  }, [])
+  }, [serviceAreaMapCities])
+
+  const pills = serviceAreaCities.length > 0 ? serviceAreaCities : []
 
   return (
     <>
@@ -72,7 +77,7 @@ export default function ServiceArea({ serviceArea, city }: ServiceAreaProps) {
         .zone-eyebrow::before { content: ""; width: 26px; height: 2px; background: var(--copper); border-radius: 2px; }
         .zone-copy h2 { font-size: clamp(1.75rem,3.6vw,2.75rem); font-weight: 700; line-height: 1.15; letter-spacing: -.01em; margin-top: 16px; color: var(--navy); }
         .zone-copy > p { color: var(--muted); font-size: 17px; line-height: 1.65; margin-top: 14px; max-width: 460px; }
-        .zone-stats { display: grid; grid-template-columns: repeat(3,1fr); gap: 14px; margin: 30px 0 24px; }
+        .zone-stats { display: grid; gap: 14px; margin: 30px 0 24px; }
         .zstat { background: #fff; border: 1px solid var(--hair); border-radius: 14px; padding: 18px; }
         .zstat b { font-family: var(--display); font-size: 30px; color: var(--navy); display: block; line-height: 1; }
         .zstat span { font-size: 13px; color: var(--muted); }
@@ -82,7 +87,7 @@ export default function ServiceArea({ serviceArea, city }: ServiceAreaProps) {
         .zone-note { display: flex; align-items: center; gap: 12px; margin-top: 24px; color: var(--ink-2); font-size: 14.5px; background: #fff; border: 1px solid var(--hair); border-left: 3px solid var(--copper); border-radius: 12px; padding: 14px 18px; }
         .zone-note svg { color: var(--copper); flex-shrink: 0; }
         @media (max-width: 1000px) { .zone { padding: 84px 0; } .zone-wrap { grid-template-columns: 1fr; gap: 48px; } }
-        @media (max-width: 600px) { .zone-stats { grid-template-columns: 1fr 1fr; } .zone-wrap { padding: 0 20px; } }
+        @media (max-width: 600px) { .zone-stats { grid-template-columns: 1fr 1fr !important; } .zone-wrap { padding: 0 20px; } }
       `}</style>
 
       <section className="zone" id="zone">
@@ -103,28 +108,38 @@ export default function ServiceArea({ serviceArea, city }: ServiceAreaProps) {
 
           <div className="zone-copy">
             <span className="zone-eyebrow">Zone d&apos;intervention</span>
-            <h2>{city} &amp; toute<br />la petite couronne</h2>
-            <p>Une équipe basée au cœur de {city}, mobilisable rapidement dans toute la ville et les communes limitrophes.</p>
+            <h2>{city} &amp; ses communes<br />environnantes</h2>
+            <p>Basé à {city}, disponible rapidement dans toute la zone et les communes voisines.</p>
 
-            <div className="zone-stats">
-              <div className="zstat"><b>10+</b><span>villes couvertes</span></div>
-              <div className="zstat"><b>20+</b><span>communes desservies</span></div>
-              <div className="zstat"><b>&lt;&nbsp;2h</b><span>délai en urgence</span></div>
-            </div>
+            {serviceAreaStats && serviceAreaStats.length > 0 && (
+              <div
+                className="zone-stats"
+                style={{ gridTemplateColumns: `repeat(${Math.min(serviceAreaStats.length, 3)}, 1fr)` }}
+              >
+                {serviceAreaStats.map(s => (
+                  <div key={s.label} className="zstat">
+                    <b>{s.value}</b>
+                    <span>{s.label}</span>
+                  </div>
+                ))}
+              </div>
+            )}
 
-            <div className="communes">
-              {COMMUNES.map((c, i) => (
-                <span key={c} className="commune">
-                  {i === 0 && (
-                    <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2">
-                      <path d="M12 21s-7-6.2-7-11a7 7 0 0 1 14 0c0 4.8-7 11-7 11z"/>
-                      <circle cx="12" cy="10" r="2.5"/>
-                    </svg>
-                  )}
-                  {c}
-                </span>
-              ))}
-            </div>
+            {pills.length > 0 && (
+              <div className="communes">
+                {pills.map((c, i) => (
+                  <span key={c} className="commune">
+                    {i === 0 && (
+                      <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2">
+                        <path d="M12 21s-7-6.2-7-11a7 7 0 0 1 14 0c0 4.8-7 11-7 11z"/>
+                        <circle cx="12" cy="10" r="2.5"/>
+                      </svg>
+                    )}
+                    {c}
+                  </span>
+                ))}
+              </div>
+            )}
 
             <div className="zone-note">
               <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">

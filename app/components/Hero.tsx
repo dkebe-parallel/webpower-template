@@ -1,14 +1,25 @@
 import Image from 'next/image'
-import { BusinessData } from '@/lib/types'
+import { BusinessData, HeroStat } from '@/lib/types'
+import ElegantPlaceholder from './ElegantPlaceholder'
 
 interface HeroProps {
   business: BusinessData['business']
   content: Pick<BusinessData['content'], 'hero_title' | 'hero_subtitle' | 'cta_primary' | 'cta_secondary'>
+  heroStats?: HeroStat[]
+  certifications?: string[]
+  heroImage?: string
   variant: BusinessData['theme']['hero_variant']
 }
 
-export default function Hero({ business, content }: HeroProps) {
-  const { phone, rating, reviews_count } = business
+export default function Hero({ business, content, heroStats, certifications = [], heroImage }: HeroProps) {
+  const { phone, city, rating, reviews_count } = business
+
+  // Stats to show: use JSON hero_stats if present, else show rating stat only
+  const stats: HeroStat[] = heroStats && heroStats.length > 0
+    ? heroStats
+    : (rating ? [{ value: `${rating}/5`, label: `${reviews_count} avis Google` }] : [])
+
+  const hasRGE = certifications.includes('RGE')
 
   return (
     <>
@@ -73,13 +84,9 @@ export default function Hero({ business, content }: HeroProps) {
           <div className="hero-copy">
             <span className="hero-badge">
               <span className="pulse-green" />
-              Disponible · Intervention 7j/7
+              Disponible · Intervention rapide
             </span>
-            <h1>
-              {content.hero_title.includes('confiance')
-                ? <>Votre plombier de <em>confiance</em> à Paris</>
-                : content.hero_title}
-            </h1>
+            <h1>{content.hero_title}</h1>
             <p className="hero-lede">{content.hero_subtitle}</p>
             <div className="hero-cta">
               <a className="btn-copper" href={`tel:${phone.replace(/\s/g, '')}`}>
@@ -90,27 +97,39 @@ export default function Hero({ business, content }: HeroProps) {
               </a>
               <a className="btn-ghost" href="#contact">{content.cta_secondary}</a>
             </div>
-            <div className="hero-meta">
-              <div className="m"><b>15+</b><span>ans d&apos;expérience</span></div>
-              <div className="sep" />
-              <div className="m"><b>&lt;&nbsp;2h</b><span>délai d&apos;urgence</span></div>
-              <div className="sep" />
-              {rating && <div className="m"><b>{rating}/5</b><span>{reviews_count} avis Google</span></div>}
-            </div>
+
+            {stats.length > 0 && (
+              <div className="hero-meta">
+                {stats.map((s, i) => (
+                  <>
+                    {i > 0 && <div key={`sep-${i}`} className="sep" />}
+                    <div key={s.label} className="m"><b>{s.value}</b><span>{s.label}</span></div>
+                  </>
+                ))}
+              </div>
+            )}
           </div>
 
           <div className="hero-visual">
             <div className="hero-photo">
-              <Image src="/placeholder/hero.svg" alt="Artisan plombier en intervention" fill style={{ objectFit: 'cover' }} priority />
+              {heroImage ? (
+                <Image src={heroImage} alt={`Artisan plombier — ${city}`} fill style={{ objectFit: 'cover' }} priority />
+              ) : (
+                <ElegantPlaceholder type="hero" />
+              )}
             </div>
-            <div className="hero-float">
-              <span className="hero-float-ic">
-                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-                  <path d="M9 12l2 2 4-4"/><path d="M12 3a9 9 0 1 0 9 9 9 9 0 0 0-9-9z"/>
-                </svg>
-              </span>
-              Certifié RGE
-            </div>
+
+            {hasRGE && (
+              <div className="hero-float">
+                <span className="hero-float-ic">
+                  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                    <path d="M9 12l2 2 4-4"/><path d="M12 3a9 9 0 1 0 9 9 9 9 0 0 0-9-9z"/>
+                  </svg>
+                </span>
+                Certifié RGE
+              </div>
+            )}
+
             {rating && (
               <div className="hero-rating">
                 <div>
@@ -130,14 +149,16 @@ export default function Hero({ business, content }: HeroProps) {
       {/* Trust strip */}
       <div className="trust">
         <div className="trust-wrap">
-          <div className="trust-item">
-            <span className="trust-ic">
-              <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-                <path d="M12 2 4 5v6c0 5.55 3.84 10.74 8 12 4.16-1.26 8-6.45 8-12V5l-8-3z"/>
-              </svg>
-            </span>
-            <div><b>Artisan qualifié RGE</b><span>Éligible aux aides de l&apos;État</span></div>
-          </div>
+          {hasRGE && (
+            <div className="trust-item">
+              <span className="trust-ic">
+                <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                  <path d="M12 2 4 5v6c0 5.55 3.84 10.74 8 12 4.16-1.26 8-6.45 8-12V5l-8-3z"/>
+                </svg>
+              </span>
+              <div><b>Artisan qualifié RGE</b><span>Éligible aux aides de l&apos;État</span></div>
+            </div>
+          )}
           <div className="trust-item">
             <span className="trust-ic">
               <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
@@ -152,7 +173,7 @@ export default function Hero({ business, content }: HeroProps) {
                 <circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/>
               </svg>
             </span>
-            <div><b>Intervention en moins de 2h</b><span>En urgence, partout dans Paris</span></div>
+            <div><b>Intervention rapide</b><span>À {city} et communes voisines</span></div>
           </div>
         </div>
       </div>

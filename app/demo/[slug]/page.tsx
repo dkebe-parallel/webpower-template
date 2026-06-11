@@ -38,6 +38,9 @@ export default async function DemoPage({ params }: PageProps) {
           cta_primary: data.content.cta_primary,
           cta_secondary: data.content.cta_secondary,
         }}
+        heroStats={data.content.hero_stats}
+        certifications={data.badges?.certifications}
+        heroImage={data.images?.hero}
         variant={data.theme.hero_variant}
       />
     ),
@@ -47,14 +50,25 @@ export default async function DemoPage({ params }: PageProps) {
         key="services"
         services={data.content.services}
         valueProp={data.content.value_prop}
+        servicesIntro={data.content.services_intro}
       />
     ),
-    why_us: <WhyUs key="why_us" items={data.content.why_us} />,
+    why_us: (
+      <WhyUs
+        key="why_us"
+        items={data.content.why_us}
+        whyUsBadge={data.content.why_us_badge}
+        whyUsImage={data.images?.why_us}
+      />
+    ),
     service_area: (
       <ServiceArea
         key="service_area"
         serviceArea={data.content.service_area}
         city={data.business.city}
+        serviceAreaCities={data.content.service_area_cities}
+        serviceAreaMapCities={data.content.service_area_map_cities}
+        serviceAreaStats={data.content.service_area_stats}
       />
     ),
     reviews: (
@@ -105,6 +119,7 @@ export default async function DemoPage({ params }: PageProps) {
           address={data.business.address}
           mapsUrl={data.business.maps_url}
           about={data.content.about}
+          footerDescription={data.content.footer_description}
           rating={data.business.rating}
           reviewsCount={data.business.reviews_count}
           services={data.content.services}

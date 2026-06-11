@@ -7,6 +7,8 @@ interface ReviewsProps {
 }
 
 export default function Reviews({ rating, reviewsCount, reviewsNote, mapsUrl, reviews = [] }: ReviewsProps) {
+  const displayed = reviews.slice(0, 3)
+
   return (
     <>
       <style>{`
@@ -77,9 +79,9 @@ export default function Reviews({ rating, reviewsCount, reviewsNote, mapsUrl, re
             </a>
           </div>
 
-          {reviews.length > 0 && (
+          {displayed.length > 0 && (
             <div className="rev-grid">
-              {reviews.map((r, i) => (
+              {displayed.map((r, i) => (
                 <article key={i} className="review-card">
                   <div className="qstars">{'★'.repeat(r.rating)}</div>
                   <p>{r.text}</p>

@@ -1,28 +1,38 @@
 import Image from 'next/image'
 import { Zap, Droplets, Flame, Wrench, Search, Wind, LucideIcon } from 'lucide-react'
+import { ServiceItem } from '@/lib/types'
+import ElegantPlaceholder from './ElegantPlaceholder'
 
 const iconMap: Record<string, LucideIcon> = {
   zap: Zap, droplets: Droplets, flame: Flame, wrench: Wrench, search: Search, wind: Wind,
 }
 
-interface ServicesProps {
-  services: Array<{ title: string; desc: string; icon: string }>
-  valueProp: string
-}
-
-// Map service icon name → placeholder image (first 2 services get photo cards)
-const featImages: Record<string, string> = {
-  zap: '/placeholder/service1.svg',
-  droplets: '/placeholder/service2.svg',
-}
-const featTags: Record<string, string> = {
-  zap: 'Urgence 24/7',
+const defaultTags: Record<string, string> = {
+  zap: 'Urgence & réactivité',
   droplets: 'Pose & finitions',
+  flame: 'Chauffage',
+  wrench: 'Rénovation',
+  search: 'Diagnostic',
+  wind: 'Ventilation',
 }
 
-export default function Services({ services, valueProp }: ServicesProps) {
-  const featServices = services.filter(s => s.icon in featImages)
-  const iconServices = services.filter(s => !(s.icon in featImages))
+interface ServicesProps {
+  services: ServiceItem[]
+  valueProp: string
+  servicesIntro?: string
+}
+
+function trunc(str: string, max: number): string {
+  if (str.length <= max) return str
+  const cut = str.lastIndexOf(' ', max)
+  return (cut > 0 ? str.slice(0, cut) : str.slice(0, max)) + '…'
+}
+
+export default function Services({ services, valueProp, servicesIntro }: ServicesProps) {
+  const all = services.slice(0, 5)
+  const featServices = all.slice(0, 2)
+  const iconServices = all.slice(2)
+  const introText = trunc(servicesIntro ?? valueProp, 100)
 
   return (
     <>
@@ -78,40 +88,49 @@ export default function Services({ services, valueProp }: ServicesProps) {
               <span className="eyebrow">Nos prestations</span>
               <h2>Une expertise complète,<br />du dépannage à la rénovation</h2>
             </div>
-            <p style={{ color: 'var(--muted)', fontSize: '17px', maxWidth: '300px', margin: 0 }}>{valueProp}</p>
+            <p style={{ color: 'var(--muted)', fontSize: '17px', maxWidth: '300px', margin: 0 }}>{introText}</p>
           </div>
 
           <div className="bento">
-            {/* Featured photo cards */}
-            {featServices.map((service) => (
-              <article key={service.icon} className="scard feat">
-                <div className="ph">
-                  <Image src={featImages[service.icon]} alt={service.title} fill style={{ objectFit: 'cover' }} />
-                </div>
-                <div className="fc">
-                  <span className="tag">
-                    {service.icon === 'zap' && (
-                      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round">
-                        <path d="M13 2 3 14h9l-1 8 10-12h-9l1-8z"/>
-                      </svg>
+            {/* Featured photo cards — first 2 services */}
+            {featServices.map((service) => {
+              const tagLabel = service.tag ?? defaultTags[service.icon] ?? 'Prestation'
+              const desc = trunc(service.desc, 140)
+              return (
+                <article key={service.icon} className="scard feat">
+                  <div className="ph">
+                    {service.image ? (
+                      <Image src={service.image} alt={service.title} fill style={{ objectFit: 'cover' }} />
+                    ) : (
+                      <ElegantPlaceholder type="service" />
                     )}
-                    {featTags[service.icon] ?? 'Prestation'}
-                  </span>
-                  <h3>{service.title}</h3>
-                  <p>{service.desc}</p>
-                </div>
-              </article>
-            ))}
+                  </div>
+                  <div className="fc">
+                    <span className="tag">
+                      {service.icon === 'zap' && (
+                        <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round">
+                          <path d="M13 2 3 14h9l-1 8 10-12h-9l1-8z"/>
+                        </svg>
+                      )}
+                      {tagLabel}
+                    </span>
+                    <h3>{service.title}</h3>
+                    <p>{desc}</p>
+                  </div>
+                </article>
+              )
+            })}
 
-            {/* Icon cards */}
+            {/* Icon cards — remaining services */}
             {iconServices.map((service, i) => {
               const Icon = iconMap[service.icon] ?? Wrench
+              const desc = trunc(service.desc, 125)
               return (
                 <article key={service.icon} className="scard span2">
                   <span className="num">{String(featServices.length + i + 1).padStart(2, '0')}</span>
                   <span className="sic"><Icon size={26} /></span>
                   <h3>{service.title}</h3>
-                  <p>{service.desc}</p>
+                  <p>{desc}</p>
                 </article>
               )
             })}

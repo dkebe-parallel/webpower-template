@@ -5,16 +5,29 @@ interface FooterProps {
   address: string
   mapsUrl: string
   about: string
+  footerDescription?: string
   rating: number | null
   reviewsCount: number | null
   services: Array<{ title: string }>
   demoMode: boolean
 }
 
+function trunc(str: string, max: number): string {
+  if (str.length <= max) return str
+  const cut = str.lastIndexOf(' ', max)
+  return (cut > 0 ? str.slice(0, cut) : str.slice(0, max)) + '…'
+}
+
 export default function Footer({
-  businessName, phone, email, address, mapsUrl, about,
+  businessName, phone, email, address, mapsUrl,
+  about, footerDescription,
   rating, reviewsCount, services, demoMode,
 }: FooterProps) {
+  const desc = trunc(footerDescription ?? about, 205)
+  const hasEmail = Boolean(email && email.trim())
+  const hasPhone = Boolean(phone && phone.trim())
+  const hasAddress = Boolean(address && address.trim())
+
   return (
     <>
       <style>{`
@@ -57,7 +70,7 @@ export default function Footer({
                 </span>
                 {businessName}
               </span>
-              <p>{about}</p>
+              <p>{desc}</p>
               {rating && (
                 <div className="foot-rating">
                   <span className="stars">{'★'.repeat(Math.round(rating))}</span>
@@ -89,30 +102,38 @@ export default function Footer({
             <div className="foot-col foot-contact">
               <h4>Coordonnées</h4>
               <ul>
-                <li>
-                  <a href={mapsUrl} target="_blank" rel="noopener noreferrer">
-                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M12 21s-7-6.2-7-11a7 7 0 0 1 14 0c0 4.8-7 11-7 11z"/><circle cx="12" cy="10" r="2.5"/></svg>
-                    <span>{address}</span>
-                  </a>
-                </li>
-                <li>
-                  <a href={`tel:${phone.replace(/\s/g, '')}`}>
-                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
-                    <span>{phone}</span>
-                  </a>
-                </li>
-                <li>
-                  <a href={`mailto:${email}`}>
-                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m22 7-10 6L2 7"/></svg>
-                    <span>{email}</span>
-                  </a>
-                </li>
-                <li>
-                  <a href={mapsUrl} target="_blank" rel="noopener noreferrer" className="foot-maps">
-                    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2"><path d="M12 21s-7-6.2-7-11a7 7 0 0 1 14 0c0 4.8-7 11-7 11z"/><circle cx="12" cy="10" r="2.5"/></svg>
-                    Voir sur Google Maps →
-                  </a>
-                </li>
+                {hasAddress && (
+                  <li>
+                    <a href={mapsUrl} target="_blank" rel="noopener noreferrer">
+                      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M12 21s-7-6.2-7-11a7 7 0 0 1 14 0c0 4.8-7 11-7 11z"/><circle cx="12" cy="10" r="2.5"/></svg>
+                      <span>{address}</span>
+                    </a>
+                  </li>
+                )}
+                {hasPhone && (
+                  <li>
+                    <a href={`tel:${phone.replace(/\s/g, '')}`}>
+                      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
+                      <span>{phone}</span>
+                    </a>
+                  </li>
+                )}
+                {hasEmail && (
+                  <li>
+                    <a href={`mailto:${email}`}>
+                      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m22 7-10 6L2 7"/></svg>
+                      <span>{email}</span>
+                    </a>
+                  </li>
+                )}
+                {hasAddress && (
+                  <li>
+                    <a href={mapsUrl} target="_blank" rel="noopener noreferrer" className="foot-maps">
+                      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2"><path d="M12 21s-7-6.2-7-11a7 7 0 0 1 14 0c0 4.8-7 11-7 11z"/><circle cx="12" cy="10" r="2.5"/></svg>
+                      Voir sur Google Maps →
+                    </a>
+                  </li>
+                )}
               </ul>
             </div>
           </div>

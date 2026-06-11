@@ -1,31 +1,42 @@
 import Image from 'next/image'
+import { WhyUsItem } from '@/lib/types'
+import ElegantPlaceholder from './ElegantPlaceholder'
 
 interface WhyUsProps {
-  items: string[]
+  items: Array<WhyUsItem | string>
+  whyUsBadge?: { value: string; label: string } | null
+  whyUsImage?: string
 }
 
-// Hardcoded feature slots mapped from why_us items: [RGE, devis, urgence, dispo, garantie]
+function normalizeItems(items: Array<WhyUsItem | string>): WhyUsItem[] {
+  return items.map(item => {
+    if (typeof item === 'string') {
+      const colonIdx = item.indexOf(':')
+      if (colonIdx > 0 && colonIdx < 40) {
+        return { title: item.slice(0, colonIdx).trim(), desc: item.slice(colonIdx + 1).trim() }
+      }
+      const words = item.split(' ')
+      return { title: words.slice(0, 3).join(' '), desc: item }
+    }
+    return item
+  })
+}
+
+function trunc(str: string, max: number): string {
+  if (str.length <= max) return str
+  const cut = str.lastIndexOf(' ', max)
+  return (cut > 0 ? str.slice(0, cut) : str.slice(0, max)) + '…'
+}
+
 const featureIcons = [
-  // shield-check
   <svg key="shield" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M12 2 4 5v6c0 5.55 3.84 10.74 8 12 4.16-1.26 8-6.45 8-12V5l-8-3z"/><path d="m9 12 2 2 4-4"/></svg>,
-  // clock
   <svg key="clock" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg>,
-  // doc
-  <svg key="doc" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M3 21h18M5 21V7l8-4 8 4v14"/><path d="M9 9v.01M9 13v.01M9 17v.01"/></svg>,
-  // medal
+  <svg key="doc" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><rect x="3" y="4" width="18" height="16" rx="2"/><path d="M7 9h10M7 13h6"/></svg>,
   <svg key="medal" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="m12 15-2 5 2-1 2 1-2-5z"/><circle cx="12" cy="8" r="6"/></svg>,
 ]
 
-// Short titles for why-feat items (paired with items array)
-const featTitles = [
-  'Certifié RGE',
-  'Urgence < 2h',
-  'Devis transparent',
-  '10 ans de garantie',
-]
-
-export default function WhyUs({ items }: WhyUsProps) {
-  const feats = items.slice(0, 4)
+export default function WhyUs({ items, whyUsBadge, whyUsImage }: WhyUsProps) {
+  const normalized = normalizeItems(items).slice(0, 4)
 
   return (
     <>
@@ -59,36 +70,38 @@ export default function WhyUs({ items }: WhyUsProps) {
       <section className="why" id="pourquoi">
         <div className="why-wrap">
           <div className="why-photo">
-            <Image src="/placeholder/service3.svg" alt="Plombier avec un client à domicile" fill style={{ objectFit: 'cover' }} />
-            <div className="why-stat">
-              <b>2h</b>
-              <span>délai moyen<br />d&apos;intervention</span>
-            </div>
+            {whyUsImage ? (
+              <Image src={whyUsImage} alt="Artisan à domicile" fill style={{ objectFit: 'cover' }} />
+            ) : (
+              <ElegantPlaceholder type="whyus" />
+            )}
+            {whyUsBadge && (
+              <div className="why-stat">
+                <b>{whyUsBadge.value}</b>
+                <span>{whyUsBadge.label}</span>
+              </div>
+            )}
           </div>
 
           <div className="why-copy">
             <span className="why-eyebrow">Pourquoi nous choisir</span>
             <h2>L&apos;exigence d&apos;un<br />artisan, la fiabilité<br />d&apos;une équipe</h2>
             <p className="why-lede">
-              Chaque intervention est réalisée par un professionnel certifié, avec un devis clair et une garantie réelle. La tranquillité d&apos;esprit, sans mauvaise surprise.
+              Chaque intervention est réalisée avec soin, un devis clair et un engagement tenu. La tranquillité d&apos;esprit, sans mauvaise surprise.
             </p>
             <div className="why-feats">
-              {feats.map((item, i) => (
+              {normalized.map((item, i) => (
                 <div key={i} className="why-feat">
                   <span className="ic">{featureIcons[i % featureIcons.length]}</span>
                   <div>
-                    <b>{featTitles[i] ?? item.split(',')[0]}</b>
-                    <span>{item}</span>
+                    <b>{item.title}</b>
+                    <span>{trunc(item.desc, 60)}</span>
                   </div>
                 </div>
               ))}
             </div>
             <div className="why-cta">
-              <a
-                href="#contact"
-                >
-                Obtenir mon devis gratuit
-              </a>
+              <a href="#contact">Obtenir mon devis gratuit</a>
             </div>
           </div>
         </div>

@@ -11,12 +11,17 @@ interface ContactSectionProps {
 
 export default function ContactSection({ contact, ctaSecondary, businessName }: ContactSectionProps) {
   const [submitted, setSubmitted] = useState(false)
+  const hasEmail = Boolean(contact.email && contact.email.trim())
+  const hasPhone = Boolean(contact.phone && contact.phone.trim())
+  const hasHours = Boolean(contact.hours && contact.hours.trim())
 
   function handleSubmit(e: React.FormEvent<HTMLFormElement>) {
     e.preventDefault()
     const data = new FormData(e.currentTarget)
     const msg = encodeURIComponent(`Prénom: ${data.get('prenom')}\nMessage: ${data.get('message')}`)
-    window.location.href = `mailto:${contact.email}?subject=${encodeURIComponent(`Demande de devis — ${businessName}`)}&body=${msg}`
+    if (hasEmail) {
+      window.location.href = `mailto:${contact.email}?subject=${encodeURIComponent(`Demande de devis — ${businessName}`)}&body=${msg}`
+    }
     setSubmitted(true)
   }
 
@@ -87,32 +92,41 @@ export default function ContactSection({ contact, ctaSecondary, businessName }: 
           <div className="contact-side">
             <div className="cside-head" style={{ marginBottom: '6px' }}>
               <h3>Une urgence ?<br />Appelez directement</h3>
-              <p>On décroche 7j/7, urgences 24h/24.</p>
+              {hasHours && <p>{contact.hours}</p>}
             </div>
-            <a className="cinfo" href={`tel:${contact.phone.replace(/\s/g, '')}`}>
-              <span className="ic">
-                <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-                  <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/>
-                </svg>
-              </span>
-              <div><span>Téléphone</span><b>{contact.phone}</b></div>
-            </a>
-            <a className="cinfo" href={`mailto:${contact.email}`}>
-              <span className="ic">
-                <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-                  <rect x="2" y="4" width="20" height="16" rx="2"/><path d="m22 7-10 6L2 7"/>
-                </svg>
-              </span>
-              <div><span>Email</span><b>{contact.email}</b></div>
-            </a>
-            <div className="cinfo">
-              <span className="ic">
-                <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-                  <circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/>
-                </svg>
-              </span>
-              <div><span>Horaires</span><b>{contact.hours}</b></div>
-            </div>
+
+            {hasPhone && (
+              <a className="cinfo" href={`tel:${contact.phone.replace(/\s/g, '')}`}>
+                <span className="ic">
+                  <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                    <path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z"/>
+                  </svg>
+                </span>
+                <div><span>Téléphone</span><b>{contact.phone}</b></div>
+              </a>
+            )}
+
+            {hasEmail && (
+              <a className="cinfo" href={`mailto:${contact.email}`}>
+                <span className="ic">
+                  <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                    <rect x="2" y="4" width="20" height="16" rx="2"/><path d="m22 7-10 6L2 7"/>
+                  </svg>
+                </span>
+                <div><span>Email</span><b>{contact.email}</b></div>
+              </a>
+            )}
+
+            {hasHours && (
+              <div className="cinfo">
+                <span className="ic">
+                  <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                    <circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/>
+                  </svg>
+                </span>
+                <div><span>Horaires</span><b>{contact.hours}</b></div>
+              </div>
+            )}
           </div>
         </div>
       </section>
