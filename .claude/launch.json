@@ -1,0 +1,12 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "websitepower-dev",
+      "runtimeExecutable": "cmd.exe",
+      "runtimeArgs": ["/c", "C:\\Users\\paral\\Documents\\websitepower-template\\start-dev.cmd"],
+      "port": 3000,
+      "autoPort": false
+    }
+  ]
+}

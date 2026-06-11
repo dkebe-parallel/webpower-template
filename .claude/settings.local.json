@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx create-next-app@latest . --typescript --tailwind --app --no-src-dir --import-alias \"@/*\" --yes)",
+      "PowerShell(& \"C:\\\\Program Files\\\\nodejs\\\\node.exe\" --version)",
+      "PowerShell(& \"C:\\\\Program Files\\\\nodejs\\\\npm.cmd\" --version)",
+      "Bash(mkdir -p \"C:\\\\Users\\\\paral\\\\Documents\\\\websitepower-template\\\\lib\" \"C:\\\\Users\\\\paral\\\\Documents\\\\websitepower-template\\\\data\\\\businesses\" \"C:\\\\Users\\\\paral\\\\Documents\\\\websitepower-template\\\\app\\\\demo\\\\[slug]\" \"C:\\\\Users\\\\paral\\\\Documents\\\\websitepower-template\\\\app\\\\components\" \"C:\\\\Users\\\\paral\\\\Documents\\\\websitepower-template\\\\public\\\\placeholder\" 2>/dev/null; echo \"done\")",
+      "PowerShell($env:PATH = \"C:\\\\Program Files\\\\nodejs;\" + $env:PATH; cd \"C:\\\\Users\\\\paral\\\\Documents\\\\websitepower-template\"; npx tsc --noEmit 2>&1)",
+      "PowerShell($env:PATH = \"C:\\\\Program Files\\\\nodejs;\" + $env:PATH; cd \"C:\\\\Users\\\\paral\\\\Documents\\\\websitepower-template\"; Start-Process -FilePath \"C:\\\\Program Files\\\\nodejs\\\\npm.cmd\" -ArgumentList \"run\",\"dev\" -WorkingDirectory \"C:\\\\Users\\\\paral\\\\Documents\\\\websitepower-template\" -NoNewWindow -RedirectStandardOutput \"$env:TEMP\\\\nextjs-out.txt\" -RedirectStandardError \"$env:TEMP\\\\nextjs-err.txt\"; Start-Sleep -Seconds 10; Get-Content \"$env:TEMP\\\\nextjs-out.txt\",\"$env:TEMP\\\\nextjs-err.txt\" -ErrorAction SilentlyContinue)",
+      "mcp__Claude_Preview__preview_start",
+      "mcp__Claude_in_Chrome__tabs_context_mcp",
+      "PowerShell($env:PATH = \"C:\\\\Program Files\\\\nodejs;\" + $env:PATH; try { Invoke-WebRequest -Uri \"http://localhost:3000/demo/plomberie-martin-paris\" -UseBasicParsing } catch { $_.Exception.Response })",
+      "PowerShell(Start-Sleep -Seconds 4; $env:PATH = \"C:\\\\Program Files\\\\nodejs;\" + $env:PATH; try { $r = Invoke-WebRequest -Uri \"http://localhost:3000/demo/plomberie-martin-paris\" -UseBasicParsing; Write-Output \"Status: $\\($r.StatusCode\\) OK\" } catch { Write-Output \"Still erroring: $\\($_.Exception.Message\\)\" })",
+      "WebFetch(domain:api.anthropic.com)"
+    ]
+  }
+}
