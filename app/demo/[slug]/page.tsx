@@ -82,6 +82,7 @@ export default async function DemoPage({ params }: PageProps) {
         reviewsNote={data.content.reviews_note}
         mapsUrl={data.business.maps_url}
         reviews={data.reviews}
+        noReviewsCta={data.content.no_reviews_cta}
       />
     ),
     contact: (

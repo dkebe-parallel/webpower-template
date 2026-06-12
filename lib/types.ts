@@ -100,6 +100,12 @@ export interface BusinessData {
     }
     /** Description shown in footer brand column (≤ 205 chars). Falls back to about. */
     footer_description?: string
+    /** CTA shown in the reviews section when reviews array is empty. */
+    no_reviews_cta?: {
+      title: string
+      subtitle: string
+      button_text: string
+    }
     seo_title: string
     meta_description: string
   }

@@ -225,10 +225,21 @@ SERVICE AREA:
 - service_area_note: phrase COMMERCIALE ≤ 125 chars. PAS une liste de villes.
   Ex: "Déplacement rapide dans tout le secteur, devis gratuit sans engagement."
 
-REVIEWS:
-- Utiliser review_text_1/2/3 VERBATIM (jamais paraphrasés). Max 3 reviews.
-- author: prénom + initiale réaliste. location: vraie commune voisine.
-- rating: 5
+REVIEWS (EDGE CASE OBLIGATOIRE):
+- Si business.reviews_count est null, 0, ou qu'aucun champ review_text_X n'est renseigné dans les données brutes :
+  → Génère "reviews": []
+  → Génère content.no_reviews_cta: {
+      "title": string MAX 50 chars — ex: "Soyez parmi les premiers à témoigner",
+      "subtitle": string MAX 100 chars — phrase de confiance basée sur les vraies forces de l'analyse (qualité, réactivité, présence locale) — JAMAIS de faux avis,
+      "button_text": string MAX 30 chars — ex: "Demander un devis gratuit"
+    }
+  Ce bloc doit sembler intentionnel et confiant, pas une excuse pour l'absence de données.
+  Ton: tourné vers l'avenir, direct.
+- Si des review_text_X sont disponibles :
+  → Les utiliser VERBATIM (jamais paraphrasés). Max 3 reviews.
+  → author: prénom + initiale réaliste. location: vraie commune voisine.
+  → rating: 5
+  → Ne pas générer no_reviews_cta.
 
 CONTACT:
 - phone: numéro réel.
@@ -307,6 +318,7 @@ STRUCTURE JSON COMPLÈTE ATTENDUE:
     "service_area_map_cities": [],
     "service_area_stats": [],
     "service_area_note": "",
+    "no_reviews_cta": null,
     "reviews_note": "${f.note_google} / 5 sur Google Maps · ${f.nb_avis} avis clients vérifiés",
     "cta_primary": "Appeler maintenant",
     "cta_secondary": "Demander un devis gratuit",

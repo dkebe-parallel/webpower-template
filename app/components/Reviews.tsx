@@ -1,13 +1,28 @@
+interface NoReviewsCta {
+  title: string
+  subtitle: string
+  button_text: string
+}
+
 interface ReviewsProps {
   rating: number | null
   reviewsCount: number | null
   reviewsNote: string
   mapsUrl: string
   reviews?: Array<{ author: string; location: string; rating: number; text: string }>
+  noReviewsCta?: NoReviewsCta
 }
 
-export default function Reviews({ rating, reviewsCount, reviewsNote, mapsUrl, reviews = [] }: ReviewsProps) {
+const DEFAULT_NO_REVIEWS_CTA: NoReviewsCta = {
+  title: 'Soyez parmi les premiers à témoigner',
+  subtitle: 'Un service sérieux, des engagements tenus — partagez votre expérience après votre intervention.',
+  button_text: 'Demander un devis gratuit',
+}
+
+export default function Reviews({ rating, reviewsCount, reviewsNote, mapsUrl, reviews = [], noReviewsCta }: ReviewsProps) {
   const displayed = reviews.slice(0, 3)
+  const hasReviews = displayed.length > 0 && reviewsCount !== null && reviewsCount > 0
+  const cta = noReviewsCta ?? DEFAULT_NO_REVIEWS_CTA
 
   return (
     <>
@@ -40,65 +55,83 @@ export default function Reviews({ rating, reviewsCount, reviewsNote, mapsUrl, re
         .btn-ghost-rev:hover { border-color: #fff; background: rgba(255,255,255,.08); }
         .btn-copper-rev { display: inline-flex; align-items: center; gap: 10px; font-family: var(--display); font-weight: 600; font-size: 16px; padding: 15px 26px; border-radius: 13px; background: var(--copper); color: #fff; box-shadow: var(--shadow-accent); transition: transform .18s ease; text-decoration: none; white-space: nowrap; }
         .btn-copper-rev:hover { transform: translateY(-2px); }
+        /* No-reviews CTA block */
+        .no-rev-cta { text-align: center; max-width: 560px; margin: 0 auto; }
+        .no-rev-cta h2 { font-size: clamp(1.6rem,3.8vw,2.5rem); font-weight: 700; line-height: 1.2; letter-spacing: -.01em; color: #fff; margin-top: 18px; }
+        .no-rev-cta p { font-size: 18px; line-height: 1.65; color: rgba(255,255,255,.72); margin-top: 16px; }
+        .no-rev-cta .rev-cta { margin-top: 36px; }
         @media (max-width: 1000px) { .reviews-section { padding: 84px 0; } .rev-grid { grid-template-columns: 1fr; } .rev-top { grid-template-columns: 1fr; } .gscore { justify-content: center; } }
         @media (max-width: 600px) { .rev-wrap { padding: 0 20px; } }
       `}</style>
 
       <section className="reviews-section" id="avis">
         <div className="rev-wrap">
-          <div className="rev-head">
-            <span className="rev-eyebrow center" style={{ justifyContent: 'center' }}>Avis clients</span>
-            <h2>Ils nous ont fait confiance</h2>
-          </div>
 
-          <div className="rev-top">
-            {rating && (
-              <div className="gscore">
-                <div>
-                  <div className="big">{rating}<small>/5</small></div>
-                  <div className="stars">{'★'.repeat(Math.round(rating))}</div>
-                </div>
-                <div>
-                  <div className="gbadge">
-                    <svg width="18" height="18" viewBox="0 0 24 24">
-                      <path fill="#4285F4" d="M22.5 12.2c0-.7-.1-1.4-.2-2H12v3.9h5.9a5 5 0 0 1-2.2 3.3v2.7h3.6c2.1-2 3.2-4.9 3.2-7.9z"/>
-                      <path fill="#34A853" d="M12 23c2.9 0 5.4-1 7.2-2.6l-3.6-2.7c-1 .7-2.2 1.1-3.6 1.1-2.8 0-5.1-1.9-6-4.4H2.3v2.8A11 11 0 0 0 12 23z"/>
-                      <path fill="#FBBC05" d="M6 14.3a6.6 6.6 0 0 1 0-4.2V7.3H2.3a11 11 0 0 0 0 9.8L6 14.3z"/>
-                      <path fill="#EA4335" d="M12 5.4c1.6 0 3 .5 4.1 1.6l3.1-3.1A11 11 0 0 0 2.3 7.3L6 10.1c.9-2.6 3.2-4.7 6-4.7z"/>
-                    </svg>
-                    Google Reviews
-                  </div>
-                  <div className="gmeta">
-                    Basé sur <strong style={{ color: '#fff' }}>{reviewsNote}</strong>
-                  </div>
-                </div>
+          {hasReviews ? (
+            <>
+              <div className="rev-head">
+                <span className="rev-eyebrow center" style={{ justifyContent: 'center' }}>Avis clients</span>
+                <h2>Ils nous ont fait confiance</h2>
               </div>
-            )}
-            <a className="btn-copper-rev" href={mapsUrl} target="_blank" rel="noopener noreferrer">
-              Voir tous les avis sur Google
-            </a>
-          </div>
 
-          {displayed.length > 0 && (
-            <div className="rev-grid">
-              {displayed.map((r, i) => (
-                <article key={i} className="review-card">
-                  <div className="qstars">{'★'.repeat(r.rating)}</div>
-                  <p>{r.text}</p>
-                  <div className="who">
+              <div className="rev-top">
+                {rating && (
+                  <div className="gscore">
                     <div>
-                      <b>{r.author}</b>
-                      <span>Avis Google · {r.location}</span>
+                      <div className="big">{rating}<small>/5</small></div>
+                      <div className="stars">{'★'.repeat(Math.round(rating))}</div>
+                    </div>
+                    <div>
+                      <div className="gbadge">
+                        <svg width="18" height="18" viewBox="0 0 24 24">
+                          <path fill="#4285F4" d="M22.5 12.2c0-.7-.1-1.4-.2-2H12v3.9h5.9a5 5 0 0 1-2.2 3.3v2.7h3.6c2.1-2 3.2-4.9 3.2-7.9z"/>
+                          <path fill="#34A853" d="M12 23c2.9 0 5.4-1 7.2-2.6l-3.6-2.7c-1 .7-2.2 1.1-3.6 1.1-2.8 0-5.1-1.9-6-4.4H2.3v2.8A11 11 0 0 0 12 23z"/>
+                          <path fill="#FBBC05" d="M6 14.3a6.6 6.6 0 0 1 0-4.2V7.3H2.3a11 11 0 0 0 0 9.8L6 14.3z"/>
+                          <path fill="#EA4335" d="M12 5.4c1.6 0 3 .5 4.1 1.6l3.1-3.1A11 11 0 0 0 2.3 7.3L6 10.1c.9-2.6 3.2-4.7 6-4.7z"/>
+                        </svg>
+                        Google Reviews
+                      </div>
+                      <div className="gmeta">
+                        Basé sur <strong style={{ color: '#fff' }}>{reviewsNote}</strong>
+                      </div>
                     </div>
                   </div>
-                </article>
-              ))}
+                )}
+                <a className="btn-copper-rev" href={mapsUrl} target="_blank" rel="noopener noreferrer">
+                  Voir tous les avis sur Google
+                </a>
+              </div>
+
+              <div className="rev-grid">
+                {displayed.map((r, i) => (
+                  <article key={i} className="review-card">
+                    <div className="qstars">{'★'.repeat(r.rating)}</div>
+                    <p>{r.text}</p>
+                    <div className="who">
+                      <div>
+                        <b>{r.author}</b>
+                        <span>Avis Google · {r.location}</span>
+                      </div>
+                    </div>
+                  </article>
+                ))}
+              </div>
+
+              <div className="rev-cta">
+                <a className="btn-ghost-rev" href="#contact">Rejoindre nos clients satisfaits</a>
+              </div>
+            </>
+          ) : (
+            <div className="no-rev-cta">
+              <span className="rev-eyebrow center" style={{ justifyContent: 'center' }}>Avis clients</span>
+              <h2>{cta.title}</h2>
+              <p>{cta.subtitle}</p>
+              <div className="rev-cta">
+                <a className="btn-copper-rev" href="#contact">{cta.button_text}</a>
+              </div>
             </div>
           )}
 
-          <div className="rev-cta">
-            <a className="btn-ghost-rev" href="#contact">Rejoindre nos clients satisfaits</a>
-          </div>
         </div>
       </section>
     </>
