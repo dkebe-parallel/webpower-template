@@ -15,7 +15,8 @@
     "hero": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE2lbRV8icrVOSEgNx67I4yS3QZjjHCUkqlpJrv2ULicMG-0SHM2up8dHi-PExePkw6_p8n97kBGNpk7rZi8IKyCOrpwL0y24wUjdOKNKbfUoQnL3ZA7s105U0XkIhZRM4n1HM5=w1920-h1080-k-no"
   },
   "badges": {
-    "certifications": []
+    "certifications": [],
+    "highlight": "5/5 sur Google"
   },
   "theme": {
     "palette": {
@@ -51,7 +52,13 @@
     "hero_subtitle": "Réactif et rigoureux · Prix très corrects · 6 clients sur 6 recommandent à 100%",
     "hero_stats": [
       { "value": "5/5", "label": "6 avis Google" },
-      { "value": "Prix corrects", "label": "clients satisfaits" }
+      { "value": "Prix corrects", "label": "clients satisfaits" },
+      { "value": "Devis", "label": "gratuit" }
+    ],
+    "reassurance_items": [
+      { "title": "Devis gratuit & transparent", "subtitle": "Prix annoncé = prix facturé" },
+      { "title": "Réactivité garantie", "subtitle": "Disponible et ponctuel" },
+      { "title": "Artisan local", "subtitle": "Eysines & métropole bordelaise" }
     ],
     "value_prop": "Particuliers et propriétaires-bailleurs à Eysines et dans la métropole bordelaise, Grégory prend en charge l'ensemble de vos travaux de plomberie avec le soin et la rigueur que ses clients reconnaissent unanimement.",
     "services_intro": "Fuites, sanitaires, chauffe-eau, rénovation — chaque chantier traité avec soin.",
@@ -125,6 +132,7 @@
       "Blanquefort",
       "Saint-Médard"
     ],
+    "service_area_note": "Vous intervenez hors zone ? Grégory étudie chaque demande — appelez pour vérifier la disponibilité.",
     "service_area_stats": [
       { "value": "9", "label": "communes desservies" },
       { "value": "5/5", "label": "note Google" },

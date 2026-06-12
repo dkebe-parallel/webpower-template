@@ -8,6 +8,8 @@ interface WhyUsProps {
   whyUsImage?: string
 }
 
+const DEFAULT_BADGE = { value: '2h', label: "délai moyen d'intervention" }
+
 function normalizeItems(items: Array<WhyUsItem | string>): WhyUsItem[] {
   return items.map(item => {
     if (typeof item === 'string') {
@@ -37,6 +39,8 @@ const featureIcons = [
 
 export default function WhyUs({ items, whyUsBadge, whyUsImage }: WhyUsProps) {
   const normalized = normalizeItems(items).slice(0, 4)
+  // Badge always renders — fallback to default "2h" if null/absent
+  const badge = whyUsBadge ?? DEFAULT_BADGE
 
   return (
     <>
@@ -75,12 +79,11 @@ export default function WhyUs({ items, whyUsBadge, whyUsImage }: WhyUsProps) {
             ) : (
               <ElegantPlaceholder type="whyus" />
             )}
-            {whyUsBadge && (
-              <div className="why-stat">
-                <b>{whyUsBadge.value}</b>
-                <span>{whyUsBadge.label}</span>
-              </div>
-            )}
+            {/* Badge always renders */}
+            <div className="why-stat">
+              <b>{badge.value}</b>
+              <span>{badge.label}</span>
+            </div>
           </div>
 
           <div className="why-copy">

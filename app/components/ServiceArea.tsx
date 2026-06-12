@@ -13,11 +13,12 @@ interface ServiceAreaProps {
   serviceAreaCities?: string[]
   serviceAreaMapCities?: string[]
   serviceAreaStats?: ServiceAreaStat[]
+  serviceAreaNote?: string
 }
 
 // Fixed angle positions for up to 6 orbit cities
 const ORBIT_ANGLES = [-90, -25, 45, 135, 170, -150]
-const ORBIT_RADII = [0.21, 0.22, 0.21, 0.22, 0.20, 0.21]
+const ORBIT_RADII = [0.38, 0.42, 0.40, 0.38, 0.42, 0.40]
 
 export default function ServiceArea({
   serviceArea,
@@ -25,6 +26,7 @@ export default function ServiceArea({
   serviceAreaCities = [],
   serviceAreaMapCities = [],
   serviceAreaStats,
+  serviceAreaNote,
 }: ServiceAreaProps) {
   const radarRef = useRef<HTMLDivElement>(null)
 
@@ -141,14 +143,14 @@ export default function ServiceArea({
               </div>
             )}
 
-            <div className="zone-note">
-              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-                <circle cx="12" cy="12" r="9"/><path d="M12 8h.01M11 12h1v4h1"/>
-              </svg>
-              {serviceArea.length > 120
-                ? 'Vous êtes en dehors de cette zone ? Contactez-nous, nous étudions chaque demande au cas par cas.'
-                : serviceArea}
-            </div>
+            {serviceAreaNote && (
+              <div className="zone-note">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                  <circle cx="12" cy="12" r="9"/><path d="M12 8h.01M11 12h1v4h1"/>
+                </svg>
+                {serviceAreaNote}
+              </div>
+            )}
           </div>
         </div>
       </section>

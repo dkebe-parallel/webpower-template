@@ -40,6 +40,8 @@ export default async function DemoPage({ params }: PageProps) {
         }}
         heroStats={data.content.hero_stats}
         certifications={data.badges?.certifications}
+        badgeHighlight={data.badges?.highlight}
+        reassuranceItems={data.content.reassurance_items}
         heroImage={data.images?.hero}
         variant={data.theme.hero_variant}
       />
@@ -69,6 +71,7 @@ export default async function DemoPage({ params }: PageProps) {
         serviceAreaCities={data.content.service_area_cities}
         serviceAreaMapCities={data.content.service_area_map_cities}
         serviceAreaStats={data.content.service_area_stats}
+        serviceAreaNote={data.content.service_area_note}
       />
     ),
     reviews: (
