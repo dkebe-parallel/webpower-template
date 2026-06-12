@@ -102,6 +102,7 @@ export interface BusinessData {
     footer_description?: string
     /** CTA shown in the reviews section when reviews array is empty. */
     no_reviews_cta?: {
+      eyebrow?: string
       title: string
       subtitle: string
       button_text: string

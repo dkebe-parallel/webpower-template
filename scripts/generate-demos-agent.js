@@ -229,12 +229,17 @@ REVIEWS (EDGE CASE OBLIGATOIRE):
 - Si business.reviews_count est null, 0, ou qu'aucun champ review_text_X n'est renseigné dans les données brutes :
   → Génère "reviews": []
   → Génère content.no_reviews_cta: {
-      "title": string MAX 50 chars — ex: "Soyez parmi les premiers à témoigner",
-      "subtitle": string MAX 100 chars — phrase de confiance basée sur les vraies forces de l'analyse (qualité, réactivité, présence locale) — JAMAIS de faux avis,
+      "eyebrow": string MAX 20 chars, style majuscules — ex: "CONFIANCE", "PROXIMITÉ", "ENGAGEMENT",
+      "title": string MAX 45 chars — affirmation confiante sur l'entreprise, PAS sur les avis. Ex: "Un artisan de confiance dans votre secteur",
+      "subtitle": string MAX 110 chars — basée sur les VRAIES forces Stage 1 (réactivité, présence locale, qualité, certs si existantes),
       "button_text": string MAX 30 chars — ex: "Demander un devis gratuit"
     }
-  Ce bloc doit sembler intentionnel et confiant, pas une excuse pour l'absence de données.
-  Ton: tourné vers l'avenir, direct.
+  RÈGLES CRITIQUES POUR CE BLOC:
+  - Ne JAMAIS mentionner "avis", "témoignage", "review", "premier client", ni rien impliquant que l'entreprise est nouvelle.
+  - Ne JAMAIS combiner "établi de longue date" ET "soyez parmi les premiers" — contradiction absolue à éviter.
+  - Se concentrer sur ce qui EST connu et réel: réactivité, présence locale, services proposés.
+  - Si Stage 1 indique que l'entreprise est active depuis des années, s'appuyer dessus SANS jamais évoquer les avis.
+  - Ton: section normale et professionnelle — ni excuse, ni demande, juste une affirmation de confiance.
 - Si des review_text_X sont disponibles :
   → Les utiliser VERBATIM (jamais paraphrasés). Max 3 reviews.
   → author: prénom + initiale réaliste. location: vraie commune voisine.
@@ -318,7 +323,7 @@ STRUCTURE JSON COMPLÈTE ATTENDUE:
     "service_area_map_cities": [],
     "service_area_stats": [],
     "service_area_note": "",
-    "no_reviews_cta": null,
+    "no_reviews_cta": { "eyebrow": "", "title": "", "subtitle": "", "button_text": "" },
     "reviews_note": "${f.note_google} / 5 sur Google Maps · ${f.nb_avis} avis clients vérifiés",
     "cta_primary": "Appeler maintenant",
     "cta_secondary": "Demander un devis gratuit",

@@ -1,4 +1,5 @@
 interface NoReviewsCta {
+  eyebrow?: string
   title: string
   subtitle: string
   button_text: string
@@ -14,8 +15,9 @@ interface ReviewsProps {
 }
 
 const DEFAULT_NO_REVIEWS_CTA: NoReviewsCta = {
-  title: 'Soyez parmi les premiers à témoigner',
-  subtitle: 'Un service sérieux, des engagements tenus — partagez votre expérience après votre intervention.',
+  eyebrow: 'CONFIANCE',
+  title: 'Un artisan de confiance dans votre secteur',
+  subtitle: 'Sérieux, réactif et disponible — chaque intervention est réalisée avec soin et un devis clair.',
   button_text: 'Demander un devis gratuit',
 }
 
@@ -123,7 +125,7 @@ export default function Reviews({ rating, reviewsCount, reviewsNote, mapsUrl, re
             </>
           ) : (
             <div className="no-rev-cta">
-              <span className="rev-eyebrow center" style={{ justifyContent: 'center' }}>Avis clients</span>
+              <span className="rev-eyebrow center" style={{ justifyContent: 'center' }}>{cta.eyebrow ?? 'CONFIANCE'}</span>
               <h2>{cta.title}</h2>
               <p>{cta.subtitle}</p>
               <div className="rev-cta">
