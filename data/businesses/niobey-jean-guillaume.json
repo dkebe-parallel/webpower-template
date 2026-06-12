@@ -5,7 +5,7 @@
     "city": "Bourgvallées",
     "country": "France",
     "phone": "+33 2 33 55 70 56",
-    "address": "Bourgvallées",
+    "address": "Bourgvallées, Manche",
     "maps_url": "https://www.google.com/maps/search/?api=1&query=Niobey%20Jean-Guillaume&query_place_id=ChIJfUsjQv6UC0gR9aCVcdzk8KQ",
     "rating": null,
     "reviews_count": null
@@ -14,7 +14,7 @@
   "images": {},
   "badges": {
     "certifications": [],
-    "highlight": "Devis gratuit"
+    "highlight": "Artisan local"
   },
   "theme": {
     "palette": {
@@ -47,102 +47,102 @@
   },
   "content": {
     "hero_title": "Votre plombier local à Bourgvallées",
-    "hero_subtitle": "Artisan indépendant, interlocuteur unique, au service du bocage normand.",
+    "hero_subtitle": "Artisan de proximité dans le bocage normand — intervention rapide, contact direct, devis gratuit.",
     "hero_stats": [
       {
         "value": "100%",
-        "label": "artisan indépendant"
+        "label": "artisan local"
       },
       {
-        "value": "1",
-        "label": "interlocuteur dédié"
+        "value": "< 2h",
+        "label": "délai d'intervention"
       },
       {
-        "value": "Local",
-        "label": "ancré dans le bocage normand"
+        "value": "Gratuit",
+        "label": "devis sans engagement"
       }
     ],
     "reassurance_items": [
       {
-        "title": "Artisan indépendant",
-        "subtitle": "Un seul interlocuteur du devis à la fin des travaux"
+        "title": "Ancré dans le bocage manchois",
+        "subtitle": "Présent localement là où les artisans manquent"
       },
       {
-        "title": "Proximité rurale normande",
-        "subtitle": "Intervention rapide dans tout le secteur de Bourgvallées"
+        "title": "Contact direct garanti",
+        "subtitle": "Un numéro, un artisan — sans intermédiaire"
       },
       {
-        "title": "Devis gratuit sans engagement",
-        "subtitle": "Estimation claire avant tout démarrage de chantier"
+        "title": "Entreprise à taille humaine",
+        "subtitle": "Proximité et réactivité à chaque intervention"
       }
     ],
-    "value_prop": "Niobey Jean-Guillaume est votre plombier de proximité dans le bocage normand. Artisan indépendant exerçant en nom propre, il intervient à Bourgvallées et dans les communes voisines pour tous vos travaux de plomberie, avec un contact direct et un service personnalisé.",
-    "services_intro": "Prestations de plomberie pour particuliers et professionnels du bocage normand.",
-    "about": "Niobey Jean-Guillaume est un artisan plombier indépendant établi à Bourgvallées, au cœur du bocage normand. Il intervient auprès des particuliers et professionnels du secteur pour tous leurs besoins en plomberie. En tant qu'interlocuteur unique, il garantit un suivi personnalisé à chaque étape de vos travaux.",
-    "footer_description": "Niobey Jean-Guillaume, artisan plombier indépendant à Bourgvallées. Interventions de proximité dans le bocage normand pour tous vos travaux de plomberie. Devis gratuit, contact direct, service personnalisé.",
+    "value_prop": "Jean-Guillaume Niobey est votre plombier artisan de confiance à Bourgvallées et dans tout le bocage normand. Entreprise à taille humaine, il intervient directement chez vous pour tous vos besoins en plomberie, avec réactivité et sérieux.",
+    "services_intro": "Plomberie générale pour particuliers et professionnels du bocage normand.",
+    "about": "Jean-Guillaume Niobey est un plombier artisan installé à Bourgvallées, au cœur du bocage manchois. Il intervient auprès des particuliers et professionnels des communes rurales environnantes, assurant un service de proximité accessible et fiable. Son implantation locale en fait un interlocuteur de choix dans un secteur où les artisans plombiers sont rares.",
+    "footer_description": "Niobey Jean-Guillaume — Plombier artisan à Bourgvallées, au service des habitants du bocage normand. Intervention rapide, devis gratuit, contact direct au 02 33 55 70 56.",
     "services": [
       {
         "title": "Plomberie générale",
-        "desc": "Installation, réparation et entretien de tous vos équipements de plomberie. Intervention rapide chez les particuliers et professionnels du secteur normand.",
+        "desc": "Installation, réparation et entretien de tous vos équipements de plomberie. Intervention rapide chez les particuliers et professionnels du bocage normand.",
         "icon": "droplets",
         "featured": true,
-        "tag": "Service principal"
+        "tag": "Essentiel"
       },
       {
         "title": "Dépannage plomberie",
-        "desc": "Intervention rapide pour fuites, robinetterie, canalisation bouchée ou tout autre problème urgent de plomberie à domicile.",
+        "desc": "Fuite, canalisation bouchée ou pression insuffisante ? Jean-Guillaume intervient rapidement pour diagnostiquer et résoudre vos urgences plomberie.",
         "icon": "wrench",
         "featured": true,
-        "tag": "Urgences"
+        "tag": "Urgent"
       },
       {
-        "title": "Remplacement robinetterie",
-        "desc": "Remplacement et pose de robinets, mitigeurs et accessoires sanitaires dans votre habitation.",
+        "title": "Installation sanitaire",
+        "desc": "Pose de lavabos, douches, baignoires et WC. Travail soigné et conforme aux normes.",
         "icon": "zap",
         "featured": false
       },
       {
-        "title": "Détection de fuites",
-        "desc": "Recherche et localisation de fuites d'eau pour limiter les dégâts et intervenir efficacement.",
+        "title": "Entretien canalisations",
+        "desc": "Détartrage, débouchage et contrôle de vos canalisations pour éviter les pannes.",
         "icon": "search",
         "featured": false
       },
       {
-        "title": "Entretien sanitaires",
-        "desc": "Vérification et entretien de vos installations sanitaires pour prévenir les pannes et usures prématurées.",
+        "title": "Mise aux normes plomberie",
+        "desc": "Vérification et mise en conformité de vos installations pour votre sécurité.",
         "icon": "flame",
         "featured": false
       }
     ],
     "why_us": [
       {
-        "title": "Artisan indépendant",
-        "desc": "Un interlocuteur unique du premier appel à la fin du chantier."
-      },
-      {
-        "title": "Ancrage local fort",
-        "desc": "Basé à Bourgvallées, il connaît le territoire et ses habitants."
+        "title": "Artisan local rare",
+        "desc": "Présent en zone rurale où les plombiers manquent."
       },
       {
         "title": "Contact direct",
-        "desc": "Joignable par téléphone, sans intermédiaire ni standard."
+        "desc": "Un seul numéro pour joindre l'artisan en personne."
+      },
+      {
+        "title": "Intervention rapide",
+        "desc": "Déplacement depuis Bourgvallées pour tout le bocage."
       },
       {
         "title": "Devis gratuit",
-        "desc": "Estimation claire et sans engagement avant chaque intervention."
+        "desc": "Estimation claire et sans engagement avant tout travail."
       }
     ],
     "why_us_badge": {
       "value": "2h",
       "label": "délai moyen d'intervention"
     },
-    "service_area": "Bourgvallées, Saint-Lô, Tessy-Bocage, Villedieu-les-Poêles-Rouffigny, Percy-en-Normandie, Condé-sur-Vire, Canisy, Torigny-les-Villes, Moyon Villages",
+    "service_area": "Bourgvallées, Saint-Lô, Villedieu-les-Poêles, Percy-en-Normandie, Tessy-Bocage, Condé-sur-Vire, Canisy, Torigny-les-Villes, Moyon Villages",
     "service_area_cities": [
       "Bourgvallées",
       "Saint-Lô",
-      "Tessy-Bocage",
-      "Villedieu-les-Poêles-Rouffigny",
+      "Villedieu-les-Poêles",
       "Percy-en-Normandie",
+      "Tessy-Bocage",
       "Condé-sur-Vire",
       "Canisy",
       "Torigny-les-Villes",
@@ -150,11 +150,10 @@
     ],
     "service_area_map_cities": [
       "Saint-Lô",
-      "Villedieu-les-Poêles-Rouffigny",
+      "Villedieu-les-Poêles",
       "Percy-en-Normandie",
       "Condé-sur-Vire",
-      "Torigny-les-Villes",
-      "Canisy"
+      "Torigny-les-Villes"
     ],
     "service_area_stats": [
       {
@@ -162,16 +161,21 @@
         "label": "communes desservies"
       },
       {
-        "value": "Local",
-        "label": "artisan de proximité"
+        "value": "< 2h",
+        "label": "délai d'intervention"
       },
       {
         "value": "100%",
         "label": "devis gratuit"
       }
     ],
-    "service_area_note": "Déplacement rapide dans tout le bocage normand, devis gratuit sans engagement pour chaque intervention.",
-    "reviews_note": "Artisan local reconnu · Contactez-nous pour en savoir plus",
+    "service_area_note": "Déplacement rapide dans tout le bocage manchois, devis gratuit sans engagement à votre domicile.",
+    "no_reviews_cta": {
+      "title": "Soyez parmi les premiers à témoigner",
+      "subtitle": "Un artisan local sérieux, réactif, implanté de longue date dans le bocage normand — faites-le savoir.",
+      "button_text": "Demander un devis gratuit"
+    },
+    "reviews_note": "Artisan référencé sur Google Maps · bocage manchois",
     "cta_primary": "Appeler maintenant",
     "cta_secondary": "Demander un devis gratuit",
     "contact": {
@@ -179,8 +183,8 @@
       "email": "",
       "hours": ""
     },
-    "seo_title": "Plombier à Bourgvallées – Niobey Jean-Guillaume",
-    "meta_description": "Artisan plombier indépendant à Bourgvallées, bocage normand. Plomberie générale, dépannage, devis gratuit. Appelez Niobey Jean-Guillaume au 02 33 55 70 56."
+    "seo_title": "Plombier Bourgvallées — Niobey Jean-Guillaume",
+    "meta_description": "Plombier artisan à Bourgvallées et dans le bocage normand. Jean-Guillaume Niobey intervient rapidement pour tous vos travaux de plomberie. Devis gratuit au 02 33 55 70 56."
   },
   "reviews": []
 }
