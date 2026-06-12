@@ -16,6 +16,11 @@ export interface ServiceItem {
   tag?: string
 }
 
+export interface ReassuranceItem {
+  title: string
+  subtitle: string
+}
+
 export interface BusinessData {
   business: {
     name: string
@@ -54,15 +59,19 @@ export interface BusinessData {
     hero?: string
     why_us?: string
   }
-  /** Certifications earned by this business */
   badges?: {
+    /** Certifications earned, e.g. ["RGE"]. Empty array = no cert badge. */
     certifications?: string[]
+    /** Fallback highlight text when no certification. Max 20 chars. e.g. "5/5 sur Google" */
+    highlight?: string
   }
   content: {
     hero_title: string
     hero_subtitle: string
-    /** Optional stat tiles below the hero CTA. If absent, falls back to rating stat only. */
+    /** Exactly 3 stat tiles below the hero CTA. */
     hero_stats?: HeroStat[]
+    /** 3 items for the reassurance band below the hero. */
+    reassurance_items?: ReassuranceItem[]
     value_prop: string
     /** Short intro for the services section header (≤ 100 chars). Falls back to value_prop. */
     services_intro?: string
@@ -70,7 +79,7 @@ export interface BusinessData {
     services: ServiceItem[]
     /** Array of why-us items. Can be {title,desc} objects or legacy plain strings. */
     why_us: Array<WhyUsItem | string>
-    /** Optional floating badge on the why-us image. Set null to hide. */
+    /** Floating badge on the why-us image. Falls back to {value:"2h",label:"délai moyen d'intervention"}. */
     why_us_badge?: { value: string; label: string } | null
     service_area: string
     /** Pills shown in service area section */
@@ -79,6 +88,8 @@ export interface BusinessData {
     service_area_map_cities?: string[]
     /** Stats shown below the radar. If absent, stats row is hidden. */
     service_area_stats?: Array<{ value: string; label: string }>
+    /** Short commercial sentence for the info box (≤ 125 chars). If absent, box is hidden. */
+    service_area_note?: string
     reviews_note: string
     cta_primary: string
     cta_secondary: string

@@ -52,7 +52,7 @@ export default function Services({ services, valueProp, servicesIntro }: Service
         .scard:hover::before { transform: scaleX(1); }
         .scard .num { position: absolute; top: 24px; right: 26px; font-family: var(--display); font-weight: 700; font-size: 14px; color: var(--hair); }
         .scard .sic { width: 54px; height: 54px; border-radius: 14px; display: grid; place-items: center; background: var(--copper-tint); color: var(--copper-deep); margin-bottom: auto; }
-        .scard h3 { font-size: 21px; margin: 22px 0 0; color: var(--navy); }
+        .scard h3 { font-size: 21px; margin: 22px 0 0; color: var(--navy); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
         .scard p { color: var(--muted); font-size: 15px; margin: 9px 0 0; }
         .scard.span2 { grid-column: span 2; }
         .scard.span3 { grid-column: span 3; }
@@ -66,7 +66,7 @@ export default function Services({ services, valueProp, servicesIntro }: Service
         .scard.feat .fc { position: relative; margin-top: auto; padding: 32px; z-index: 1; }
         .scard.feat .tag { display: inline-flex; align-items: center; gap: 8px; background: var(--copper); color: #fff; font-family: var(--display); font-weight: 600; font-size: 12.5px; letter-spacing: .04em; padding: 7px 13px; border-radius: 100px; text-transform: uppercase; }
         .scard.feat .sic { background: rgba(200,121,65,.15); color: var(--copper); }
-        .scard.feat h3 { font-size: 27px; margin-top: 16px; }
+        .scard.feat h3 { font-size: 27px; margin-top: 16px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
         .scard.feat p { color: rgba(255,255,255,.82); font-size: 15.5px; }
         .scard.feat::before { display: none; }
 
@@ -95,7 +95,7 @@ export default function Services({ services, valueProp, servicesIntro }: Service
             {/* Featured photo cards — first 2 services */}
             {featServices.map((service) => {
               const tagLabel = service.tag ?? defaultTags[service.icon] ?? 'Prestation'
-              const desc = trunc(service.desc, 140)
+              const desc = trunc(service.desc, 130)
               return (
                 <article key={service.icon} className="scard feat">
                   <div className="ph">
@@ -124,7 +124,7 @@ export default function Services({ services, valueProp, servicesIntro }: Service
             {/* Icon cards — remaining services */}
             {iconServices.map((service, i) => {
               const Icon = iconMap[service.icon] ?? Wrench
-              const desc = trunc(service.desc, 125)
+              const desc = trunc(service.desc, 115)
               return (
                 <article key={service.icon} className="scard span2">
                   <span className="num">{String(featServices.length + i + 1).padStart(2, '0')}</span>
