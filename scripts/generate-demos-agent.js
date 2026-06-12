@@ -215,7 +215,12 @@ SERVICES:
 WHY_US:
 - 4 items {title ≤25 chars, desc ≤60 chars}.
 - Basés sur key_strengths de l'analyse. Jamais inventés.
-- why_us_badge: si délai d'intervention connu → utilise-le. Sinon → {"value":"2h","label":"délai moyen d'intervention"}.
+- why_us_badge: {value, label} — RÈGLES STRICTES:
+  · value = UNIQUEMENT une durée courte: "2h", "1h", "30min", "4h". JAMAIS "24h/24", "7j/7", "Rapide" ou toute phrase non-durée.
+  · label = TOUJOURS exactement "délai d'intervention" (texte fixe, ne pas varier).
+  · Si les données (horaires, avis, description) mentionnent une urgence/réactivité forte → value = "1h". Sinon → value = "2h".
+  · CORRECT: {"value": "2h", "label": "délai d'intervention"}
+  · INCORRECT: {"value": "24h/24", ...}, {"value": "Rapide", ...}, {"value": "2h", "label": "délai moyen d'intervention"}
 
 SERVICE AREA:
 - service_area: liste des communes, séparées par des virgules.
@@ -354,14 +359,14 @@ STRUCTURE JSON COMPLÈTE ATTENDUE:
   return JSON.parse(extractJSON(message.content[0].text))
 }
 
-// ─── STAGE 3 — Inject image fields ────────────────────────────────────────
+// ─── STAGE 3 — Images (disabled until Sprint 3 image bank is ready) ────────
+// Always use ElegantPlaceholder — never set images from Google photo URLs
+// (expired/low-quality URLs cause broken image icons)
 
-function injectImages(jsonData, f) {
+function injectImages(jsonData) {
   jsonData.images = {}
-  if (f.photo_url_1) jsonData.images.hero = f.photo_url_1
-  if (f.photo_url_2) jsonData.images.why_us = f.photo_url_2
 
-  // Leave service images empty — ElegantPlaceholder handles missing images
+  // Strip any service images the model may have generated
   if (Array.isArray(jsonData.content?.services)) {
     jsonData.content.services = jsonData.content.services.map(s => {
       const { image: _removed, ...rest } = s
@@ -461,8 +466,8 @@ async function main() {
         continue
       }
 
-      // Stage 3 — Images
-      jsonData = injectImages(jsonData, f)
+      // Stage 3 — Images (always empty until Sprint 3)
+      jsonData = injectImages(jsonData)
 
       // Stage 4 — Push & update
       await pushToGitHub(slug, jsonData)
