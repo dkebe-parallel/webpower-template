@@ -220,7 +220,13 @@ WHY_US:
 SERVICE AREA:
 - service_area: liste des communes, séparées par des virgules.
 - service_area_cities: 8-9 villes réelles de nearby_cities + ville principale.
+  OBLIGATOIREMENT un tableau de CHAÎNES SIMPLES, jamais d'objets.
+  CORRECT: ["Bourgvallées", "Saint-Lô", "Villedieu-les-Poêles"]
+  INCORRECT: [{"name": "Bourgvallées", "main": true}, {"name": "Saint-Lô"}]
 - service_area_map_cities: 5-6 des PLUS GRANDES villes parmi nearby_cities (labels radar).
+  OBLIGATOIREMENT un tableau de CHAÎNES SIMPLES, jamais d'objets.
+  CORRECT: ["Saint-Lô", "Villedieu-les-Poêles", "Condé-sur-Vire"]
+  INCORRECT: [{"name": "Saint-Lô"}, {"name": "Villedieu-les-Poêles"}]
 - service_area_stats: EXACTEMENT 3 items {value, label} (communes, note, avis).
 - service_area_note: phrase COMMERCIALE ≤ 125 chars. PAS une liste de villes.
   Ex: "Déplacement rapide dans tout le secteur, devis gratuit sans engagement."

@@ -7,13 +7,19 @@ interface ServiceAreaStat {
   label: string
 }
 
+type CityItem = string | { name: string; main?: boolean }
+
 interface ServiceAreaProps {
   serviceArea: string
   city: string
-  serviceAreaCities?: string[]
-  serviceAreaMapCities?: string[]
+  serviceAreaCities?: CityItem[]
+  serviceAreaMapCities?: CityItem[]
   serviceAreaStats?: ServiceAreaStat[]
   serviceAreaNote?: string
+}
+
+function getCityName(city: string | { name: string; main?: boolean }): string {
+  return typeof city === 'string' ? city : city.name
 }
 
 // Fixed angle positions for up to 6 orbit cities
@@ -35,7 +41,8 @@ export default function ServiceArea({
     if (!radar) return
 
     const cities = serviceAreaMapCities.slice(0, 6)
-    cities.forEach((label, i) => {
+    cities.forEach((raw, i) => {
+      const label = getCityName(raw)
       const angle = ORBIT_ANGLES[i] ?? (i * 60 - 90)
       const radius = ORBIT_RADII[i] ?? 0.21
       const rad = (angle * Math.PI) / 180
@@ -57,7 +64,7 @@ export default function ServiceArea({
     })
   }, [serviceAreaMapCities])
 
-  const pills = serviceAreaCities.length > 0 ? serviceAreaCities : []
+  const pills = serviceAreaCities.length > 0 ? serviceAreaCities.map(getCityName) : []
 
   return (
     <>

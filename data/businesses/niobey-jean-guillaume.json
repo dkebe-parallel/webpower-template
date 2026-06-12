@@ -138,51 +138,22 @@
     },
     "service_area": "Bourgvallées, Saint-Lô, Villedieu-les-Poêles, Percy-en-Normandie, Tessy-Bocage, Condé-sur-Vire, Torigny-les-Villes, Canisy, Moyon Villages",
     "service_area_cities": [
-      {
-        "name": "Bourgvallées",
-        "main": true
-      },
-      {
-        "name": "Saint-Lô"
-      },
-      {
-        "name": "Villedieu-les-Poêles"
-      },
-      {
-        "name": "Percy-en-Normandie"
-      },
-      {
-        "name": "Tessy-Bocage"
-      },
-      {
-        "name": "Condé-sur-Vire"
-      },
-      {
-        "name": "Torigny-les-Villes"
-      },
-      {
-        "name": "Canisy"
-      },
-      {
-        "name": "Moyon Villages"
-      }
+      "Bourgvallées",
+      "Saint-Lô",
+      "Villedieu-les-Poêles",
+      "Percy-en-Normandie",
+      "Tessy-Bocage",
+      "Condé-sur-Vire",
+      "Torigny-les-Villes",
+      "Canisy",
+      "Moyon Villages"
     ],
     "service_area_map_cities": [
-      {
-        "name": "Saint-Lô"
-      },
-      {
-        "name": "Villedieu-les-Poêles"
-      },
-      {
-        "name": "Condé-sur-Vire"
-      },
-      {
-        "name": "Torigny-les-Villes"
-      },
-      {
-        "name": "Percy-en-Normandie"
-      }
+      "Saint-Lô",
+      "Villedieu-les-Poêles",
+      "Condé-sur-Vire",
+      "Torigny-les-Villes",
+      "Percy-en-Normandie"
     ],
     "service_area_stats": [
       {
@@ -202,7 +173,7 @@
     "no_reviews_cta": {
       "eyebrow": "CONFIANCE",
       "title": "Un plombier de proximité dans votre secteur",
-      "subtitle": "Artisan indépendant basé à Bourgvallées, Jean-Guillaume Niobey assure des interventions sérieuses et réactives dans tout le bocage normand.",
+      "subtitle": "Artisan indépendant basé à Bourgvallées — interventions sérieuses et réactives dans tout le bocage normand.",
       "button_text": "Demander un devis gratuit"
     },
     "reviews_note": "Artisan local · Bocage normand",
