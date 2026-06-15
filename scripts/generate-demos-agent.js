@@ -1,6 +1,6 @@
 // ─── CONFIG ────────────────────────────────────────────────────────────────
 const TABLE_NAME = 'Sans Site'
-const LIMIT      = 5
+const LIMIT      = 20
 const VERTICAL   = 'plombier'
 const LANG       = 'fr'
 const COUNTRY    = 'France'
