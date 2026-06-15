@@ -1,0 +1,216 @@
+{
+  "business": {
+    "name": "NB Rénovation",
+    "slug": "nb-renovation",
+    "city": "Nantes",
+    "country": "France",
+    "phone": "+33 6 82 74 53 26",
+    "address": "16 Rue de la Gaudinière, 44300 Nantes",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=NB%20R%C3%A9novation&query_place_id=ChIJa81GnGLtBUgRhY2zgmDpxEw",
+    "rating": 5,
+    "reviews_count": 23
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-1.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-2.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Devis gratuit"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Rénovation salle de bain à Nantes",
+    "hero_subtitle": "Un seul artisan pour tout gérer — plomberie, carrelage, aménagement — avec un résultat impeccable.",
+    "hero_stats": [
+      {
+        "value": "5/5",
+        "label": "Note Google"
+      },
+      {
+        "value": "23",
+        "label": "avis clients"
+      },
+      {
+        "value": "100%",
+        "label": "clients satisfaits"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Solutions sur chantiers complexes",
+        "subtitle": "Même les réalisations difficiles livrent un beau résultat."
+      },
+      {
+        "title": "Un seul interlocuteur",
+        "subtitle": "Plomberie, carrelage, isolation, faux plafond : tout en un."
+      },
+      {
+        "title": "Professionnel & efficace",
+        "subtitle": "Réactivité et soin du travail salués par tous les clients."
+      }
+    ],
+    "value_prop": "NB Rénovation intervient à Nantes pour la rénovation complète de salles de bain et d'appartements. Mr Bertin gère tous les corps de métier — plomberie, carrelage, isolation, faux plafond — avec une note parfaite de 5/5 sur 23 avis Google.",
+    "services_intro": "Rénovation complète, plomberie et carrelage à Nantes et alentours.",
+    "about": "NB Rénovation est l'entreprise artisanale de Mr Bertin, basée à Nantes. Spécialisé dans la rénovation complète de salles de bain et d'appartements, il prend en charge l'ensemble des travaux — de la plomberie au carrelage en passant par l'isolation — pour un résultat soigné, même sur les chantiers les plus complexes.",
+    "footer_description": "NB Rénovation — Artisan rénovateur à Nantes. Spécialiste de la rénovation de salle de bain et d'appartement : plomberie, carrelage, isolation et faux plafond. Note Google 5/5 · 23 avis · Devis gratuit.",
+    "services": [
+      {
+        "title": "Rénovation salle de bain",
+        "desc": "Rénovation complète de votre salle de bain ou douche : aménagement, plomberie, carrelage et faux plafond réunis pour un résultat impeccable.",
+        "icon": "droplets",
+        "featured": true,
+        "tag": "Spécialité",
+        "image": "/images/stock/plombier/services/services-5.webp"
+      },
+      {
+        "title": "Rénovation d'appartement",
+        "desc": "Prise en charge complète de la rénovation de votre logement : coordination de tous les corps de métier, du sol au plafond, par un seul artisan.",
+        "icon": "wrench",
+        "featured": true,
+        "tag": "Clé en main",
+        "image": "/images/stock/plombier/services/services-6.webp"
+      },
+      {
+        "title": "Plomberie",
+        "desc": "Installation et remplacement de canalisations, robinetterie, sanitaires pour vos projets de rénovation.",
+        "icon": "zap",
+        "featured": false
+      },
+      {
+        "title": "Carrelage & revêtements",
+        "desc": "Pose de carrelage mural et au sol, faïence et revêtements pour salle de bain et pièces à vivre.",
+        "icon": "search",
+        "featured": false
+      },
+      {
+        "title": "Isolation & faux plafond",
+        "desc": "Isolation thermique et acoustique, pose de faux plafonds pour une finition soignée de vos pièces.",
+        "icon": "wind",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Solutions chantiers difficiles",
+        "desc": "Mr Bertin trouve la bonne solution, même sur les réalisations les plus complexes."
+      },
+      {
+        "title": "Finitions irréprochables",
+        "desc": "Qualité de travail saluée par chaque client : « très beau résultat »."
+      },
+      {
+        "title": "Polyvalence complète",
+        "desc": "Un seul artisan pour plomberie, carrelage, isolation et aménagement."
+      },
+      {
+        "title": "Note parfaite 5/5",
+        "desc": "23 avis Google, tous positifs — zéro insatisfaction client."
+      }
+    ],
+    "why_us_badge": {
+      "value": "2h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Nantes, Orvault, Saint-Herblain, Carquefou, La Chapelle-sur-Erdre, Rezé, Sainte-Luce-sur-Loire, Vertou, Bouguenais",
+    "service_area_cities": [
+      "Nantes",
+      "Orvault",
+      "Saint-Herblain",
+      "Carquefou",
+      "La Chapelle-sur-Erdre",
+      "Rezé",
+      "Sainte-Luce-sur-Loire",
+      "Vertou",
+      "Bouguenais"
+    ],
+    "service_area_map_cities": [
+      "Orvault",
+      "Saint-Herblain",
+      "Carquefou",
+      "Rezé",
+      "Vertou",
+      "Bouguenais"
+    ],
+    "service_area_stats": [
+      {
+        "value": "9",
+        "label": "communes desservies"
+      },
+      {
+        "value": "5/5",
+        "label": "note Google"
+      },
+      {
+        "value": "23",
+        "label": "avis clients vérifiés"
+      }
+    ],
+    "service_area_note": "Déplacement rapide sur Nantes et sa périphérie — devis gratuit sans engagement sur simple appel.",
+    "no_reviews_cta": {
+      "eyebrow": "",
+      "title": "",
+      "subtitle": "",
+      "button_text": ""
+    },
+    "reviews_note": "5 / 5 sur Google Maps · 23 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 6 82 74 53 26",
+      "email": "",
+      "hours": "Lun–Ven 8h–20h"
+    },
+    "seo_title": "NB Rénovation — Salle de bain & artisan à Nantes",
+    "meta_description": "NB Rénovation à Nantes : rénovation complète de salle de bain, plomberie, carrelage et isolation. Note Google 5/5 sur 23 avis. Devis gratuit — 06 82 74 53 26."
+  },
+  "reviews": [
+    {
+      "author": "Sophie M.",
+      "location": "Rezé",
+      "rating": 5,
+      "text": "Un grand merci à Mr Bertin pour son travail sur notre rénovation de douche. Pas facile dans la réalisation mais mr Bertin a su trouver toutes les solutions afin d obtenir un très beau résultat. Merci"
+    },
+    {
+      "author": "Thomas L.",
+      "location": "Saint-Herblain",
+      "rating": 5,
+      "text": "Excellente prestation et très bon travail de rénovation complète de notre salle de bain (isolation, faux plafond, carrelage, plomberie et aménagement) je recommande.a 100%!"
+    },
+    {
+      "author": "Claire D.",
+      "location": "Orvault",
+      "rating": 5,
+      "text": "Efficace et professionnel !"
+    }
+  ]
+}
