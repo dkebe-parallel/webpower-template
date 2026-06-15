@@ -1,0 +1,197 @@
+{
+  "business": {
+    "name": "PH dépannage",
+    "slug": "ph-depannage",
+    "city": "Strasbourg",
+    "country": "France",
+    "phone": "+33 7 83 14 77 54",
+    "address": "3 Bd de la Dordogne, 67000 Strasbourg",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=PH%20d%C3%A9pannage&query_place_id=ChIJW1hgNDHJlkcRem-2Xcy389M",
+    "rating": null,
+    "reviews_count": null
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-3.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-2.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Devis gratuit"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Dépannage plomberie à Strasbourg",
+    "hero_subtitle": "Intervention rapide 6j/7 · Fuite, débouchage, sanitaires · Artisan local disponible",
+    "hero_stats": [
+      {
+        "value": "6j/7",
+        "label": "disponibilité"
+      },
+      {
+        "value": "< 2h",
+        "label": "délai d'intervention"
+      },
+      {
+        "value": "100%",
+        "label": "devis gratuit"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Réactivité face aux urgences",
+        "subtitle": "Disponible 6 jours sur 7 pour intervenir vite"
+      },
+      {
+        "title": "Ouverture le samedi",
+        "subtitle": "Du lundi au samedi, de 8h à 18h sans interruption"
+      },
+      {
+        "title": "Artisan de proximité",
+        "subtitle": "Basé à Strasbourg, secteur Dordogne et alentours"
+      }
+    ],
+    "value_prop": "PH dépannage est votre plombier dépanneur de proximité à Strasbourg. Disponible 6 jours sur 7 de 8h à 18h, nous intervenons rapidement pour toute urgence : fuite, canalisation bouchée ou panne sanitaire. Un artisan local réactif, joignable directement par téléphone.",
+    "services_intro": "Dépannage et installation en plomberie à Strasbourg et alentours.",
+    "about": "PH dépannage est un artisan plombier basé à Strasbourg, spécialisé dans le dépannage rapide et l'installation sanitaire. Disponible du lundi au samedi, l'entreprise intervient avec réactivité pour tout besoin en plomberie, des plus courants aux plus urgents.",
+    "footer_description": "PH dépannage — Plombier dépanneur à Strasbourg. Intervention rapide 6j/7 pour fuites, débouchages et équipements sanitaires. Appelez directement pour un devis gratuit sans engagement.",
+    "services": [
+      {
+        "title": "Dépannage plomberie",
+        "desc": "Intervention rapide pour toute urgence plomberie : fuite d'eau, rupture de canalisation, problème de pression. Disponible 6 jours sur 7 à Strasbourg.",
+        "icon": "wrench",
+        "featured": true,
+        "tag": "Urgence",
+        "image": "/images/stock/plombier/services/services-1.webp"
+      },
+      {
+        "title": "Réparation fuites & canalisations",
+        "desc": "Détection et réparation de fuites visibles ou cachées, remise en état des canalisations endommagées pour stopper les dégâts rapidement.",
+        "icon": "droplets",
+        "featured": true,
+        "tag": "Intervention rapide",
+        "image": "/images/stock/plombier/services/services-2.webp"
+      },
+      {
+        "title": "Débouchage",
+        "desc": "Débouchage de WC, éviers, baignoires et canalisations bouchées. Intervention efficace chez vous à Strasbourg.",
+        "icon": "zap",
+        "featured": false
+      },
+      {
+        "title": "Installation sanitaires",
+        "desc": "Pose et remplacement de WC, lavabos, douches et autres équipements sanitaires par un artisan qualifié.",
+        "icon": "search",
+        "featured": false
+      },
+      {
+        "title": "Remplacement d'équipements",
+        "desc": "Remplacement de robinetterie, mitigeur, siphon ou tout équipement défectueux rapidement et soigneusement.",
+        "icon": "wind",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Réactivité garantie",
+        "desc": "Intervention en moins de 2h pour vos urgences plomberie à Strasbourg"
+      },
+      {
+        "title": "Disponible 6j/7",
+        "desc": "Ouvert du lundi au samedi de 8h à 18h, samedi inclus"
+      },
+      {
+        "title": "Artisan local",
+        "desc": "Basé à Strasbourg, au plus proche de vos besoins"
+      },
+      {
+        "title": "Contact direct",
+        "desc": "Un numéro unique pour joindre l'artisan sans intermédiaire"
+      }
+    ],
+    "why_us_badge": {
+      "value": "2h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Strasbourg, Schiltigheim, Illkirch-Graffenstaden, Lingolsheim, Ostwald, Bischheim, Hoenheim, Eckbolsheim, Oberhausbergen",
+    "service_area_cities": [
+      "Strasbourg",
+      "Schiltigheim",
+      "Illkirch-Graffenstaden",
+      "Lingolsheim",
+      "Ostwald",
+      "Bischheim",
+      "Hoenheim",
+      "Eckbolsheim",
+      "Oberhausbergen"
+    ],
+    "service_area_map_cities": [
+      "Schiltigheim",
+      "Illkirch-Graffenstaden",
+      "Lingolsheim",
+      "Ostwald",
+      "Bischheim",
+      "Hoenheim"
+    ],
+    "service_area_stats": [
+      {
+        "value": "9",
+        "label": "communes desservies"
+      },
+      {
+        "value": "6j/7",
+        "label": "jours d'intervention"
+      },
+      {
+        "value": "< 2h",
+        "label": "délai moyen d'arrivée"
+      }
+    ],
+    "service_area_note": "Déplacement rapide dans tout le secteur strasbourgeois, devis gratuit sans engagement.",
+    "no_reviews_cta": {
+      "eyebrow": "PROXIMITÉ",
+      "title": "Un dépanneur réactif au cœur de Strasbourg",
+      "subtitle": "Disponible 6 jours sur 7, PH dépannage intervient rapidement pour vos urgences plomberie dans tout le secteur strasbourgeois.",
+      "button_text": "Demander un devis gratuit"
+    },
+    "reviews_note": "",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 7 83 14 77 54",
+      "email": "",
+      "hours": "Lun–Sam 8h–18h"
+    },
+    "seo_title": "Plombier dépannage Strasbourg · PH dépannage",
+    "meta_description": "PH dépannage, plombier à Strasbourg : intervention rapide 6j/7 pour fuites, débouchage et sanitaires. Appelez au 07 83 14 77 54, devis gratuit."
+  },
+  "reviews": []
+}
