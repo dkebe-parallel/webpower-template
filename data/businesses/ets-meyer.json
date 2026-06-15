@@ -1,0 +1,210 @@
+{
+  "business": {
+    "name": "Ets Meyer",
+    "slug": "ets-meyer",
+    "city": "Hœnheim",
+    "country": "France",
+    "phone": "+33 3 88 83 17 39",
+    "address": "27 Rte de la Wantzenau, 67800 Hœnheim",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Ets%20Meyer&query_place_id=ChIJJfR7C3HIlkcRoEUEOyLwdMc",
+    "rating": 3.8,
+    "reviews_count": 13
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-1.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-1.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Artisan local"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Plombier-chauffagiste à Hœnheim",
+    "hero_subtitle": "Interventions rapides, travail soigné et accueil personnalisé dans le nord de Strasbourg.",
+    "hero_stats": [
+      {
+        "value": "3.8/5",
+        "label": "note Google"
+      },
+      {
+        "value": "2h",
+        "label": "délai d'intervention"
+      },
+      {
+        "value": "13",
+        "label": "avis clients"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Réactivité prouvée",
+        "subtitle": "Interventions rapides, même en urgence"
+      },
+      {
+        "title": "Travail soigné",
+        "subtitle": "Réalisations professionnelles et fiables"
+      },
+      {
+        "title": "Accueil à l'écoute",
+        "subtitle": "Une équipe chaleureuse et disponible"
+      }
+    ],
+    "value_prop": "Ets Meyer est votre partenaire de confiance en plomberie et chauffage à Hœnheim. Reconnu pour sa réactivité et la qualité de son accueil, cet artisan de proximité intervient rapidement chez vous pour tous vos travaux et dépannages dans le nord de Strasbourg.",
+    "services_intro": "Plomberie, chauffage et dépannage urgence pour particuliers.",
+    "about": "Ets Meyer est une entreprise de plomberie et chauffage implantée à Hœnheim, au nord de Strasbourg. Elle intervient chez les particuliers pour l'installation, l'entretien et le dépannage, avec une réactivité et un professionnalisme salués par ses clients.",
+    "footer_description": "Ets Meyer — Plomberie & Chauffage à Hœnheim (67800). Interventions rapides pour dépannage, installation et entretien dans le nord de Strasbourg et ses environs. Appelez-nous au +33 3 88 83 17 39.",
+    "services": [
+      {
+        "title": "Installation chauffage",
+        "desc": "Pose et mise en service de vos équipements de chauffage. Un accompagnement de la conception à la réalisation pour un confort durable.",
+        "icon": "flame",
+        "featured": true,
+        "tag": "Installation",
+        "image": "/images/stock/plombier/services/services-6.webp"
+      },
+      {
+        "title": "Dépannage plomberie",
+        "desc": "Intervention rapide pour toute panne ou fuite. Diagnostic précis et réparation efficace pour remettre vos installations en ordre rapidement.",
+        "icon": "wrench",
+        "featured": true,
+        "tag": "Dépannage",
+        "image": "/images/stock/plombier/services/services-7.webp"
+      },
+      {
+        "title": "Réparation de fuites",
+        "desc": "Détection et traitement de fuites sur canalisations, joints et raccords. Résolution rapide pour éviter tout dégât des eaux.",
+        "icon": "droplets",
+        "featured": false
+      },
+      {
+        "title": "Entretien chauffage",
+        "desc": "Contrôle et maintenance de vos installations pour garantir performance et longévité tout au long de l'année.",
+        "icon": "search",
+        "featured": false
+      },
+      {
+        "title": "Urgences plomberie",
+        "desc": "Disponibilité et réactivité pour toute situation urgente. Déplacement rapide sur Hœnheim et communes voisines.",
+        "icon": "zap",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Réactivité garantie",
+        "desc": "Intervention rapide pour limiter les dommages et l'inconfort"
+      },
+      {
+        "title": "Travail professionnel",
+        "desc": "Des réalisations soignées, saluées par nos clients"
+      },
+      {
+        "title": "Accueil humain",
+        "desc": "Une secrétaire à l'écoute, un contact direct et chaleureux"
+      },
+      {
+        "title": "Conseils en amont",
+        "desc": "Guidance claire avant chaque intervention pour bien décider"
+      }
+    ],
+    "why_us_badge": {
+      "value": "2h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Hœnheim, Strasbourg, Bischheim, Schiltigheim, Souffelweyersheim, La Wantzenau, Reichstett, Mundolsheim, Niederhausbergen",
+    "service_area_cities": [
+      "Hœnheim",
+      "Strasbourg",
+      "Bischheim",
+      "Schiltigheim",
+      "Souffelweyersheim",
+      "La Wantzenau",
+      "Reichstett",
+      "Mundolsheim",
+      "Niederhausbergen"
+    ],
+    "service_area_map_cities": [
+      "Strasbourg",
+      "Schiltigheim",
+      "Bischheim",
+      "Mundolsheim",
+      "La Wantzenau",
+      "Reichstett"
+    ],
+    "service_area_stats": [
+      {
+        "value": "9",
+        "label": "communes couvertes"
+      },
+      {
+        "value": "3.8/5",
+        "label": "note Google"
+      },
+      {
+        "value": "13",
+        "label": "avis vérifiés"
+      }
+    ],
+    "service_area_note": "Déplacement rapide sur Hœnheim et tout le nord de Strasbourg, devis gratuit sans engagement.",
+    "no_reviews_cta": {
+      "eyebrow": "",
+      "title": "",
+      "subtitle": "",
+      "button_text": ""
+    },
+    "reviews_note": "3.8 / 5 sur Google Maps · 13 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 3 88 83 17 39",
+      "email": "",
+      "hours": ""
+    },
+    "seo_title": "Plombier-Chauffagiste à Hœnheim | Ets Meyer",
+    "meta_description": "Ets Meyer, votre plombier-chauffagiste à Hœnheim (67800). Interventions rapides, dépannage et installation dans le nord de Strasbourg. Appelez le +33 3 88 83 17 39."
+  },
+  "reviews": [
+    {
+      "author": "Sophie L.",
+      "location": "Schiltigheim",
+      "rating": 5,
+      "text": "Intervention rapide et efficace. Travail soigné et professionnel. Je recommande sans hésiter."
+    },
+    {
+      "author": "Martine R.",
+      "location": "Bischheim",
+      "rating": 5,
+      "text": "Merci beaucoup pour votre réactivité et votre professionnalisme. Secrétaire très accueillante et à l'écoute."
+    }
+  ]
+}
