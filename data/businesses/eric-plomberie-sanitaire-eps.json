@@ -1,0 +1,215 @@
+{
+  "business": {
+    "name": "ERIC PLOMBERIE SANITAIRE E.P.S",
+    "slug": "eric-plomberie-sanitaire-eps",
+    "city": "Strasbourg",
+    "country": "France",
+    "phone": "+33 6 52 98 78 89",
+    "address": "15 Rue Jules Rathgeber, 67100 Strasbourg",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=ERIC%20PLOMBERIE%20SANITAIRE%20E.P.S&query_place_id=ChIJR8X2AaDJlkcRXIxzx7GhK0E",
+    "rating": 4.8,
+    "reviews_count": 70
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-3.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-5.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Disponible le samedi"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Votre plombier de confiance à Strasbourg",
+    "hero_subtitle": "Intervention rapide, diagnostic précis dès le 1er appel — recommandé à 100 % par ses clients.",
+    "hero_stats": [
+      {
+        "value": "4.8/5",
+        "label": "Note Google"
+      },
+      {
+        "value": "70",
+        "label": "Avis clients vérifiés"
+      },
+      {
+        "value": "100%",
+        "label": "Clients satisfaits"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Réactivité et flexibilité",
+        "subtitle": "Intervention rapide, disponible du lundi au samedi"
+      },
+      {
+        "title": "Diagnostic précis dès l'appel",
+        "subtitle": "Les bonnes questions pour la solution adaptée"
+      },
+      {
+        "title": "Travail sérieux et soigné",
+        "subtitle": "Clients fidèles qui reviennent à chaque problème"
+      }
+    ],
+    "value_prop": "Eric Plomberie Sanitaire EPS, c'est l'artisan strasbourgeois que ses clients rappellent à chaque problème — parce que la qualité du travail, la réactivité et la rigueur du diagnostic ont su les convaincre dès la première intervention.",
+    "services_intro": "Des interventions rapides et soignées pour tous vos besoins en plomberie.",
+    "about": "Eric Plomberie Sanitaire EPS est un artisan plombier basé à Strasbourg, reconnu pour sa réactivité et son sérieux. Dès le premier échange téléphonique, Eric pose les bonnes questions pour proposer la solution la plus adaptée. Ses clients, qui font régulièrement appel à lui, témoignent d'un travail efficace et d'un vrai souci du travail bien fait.",
+    "footer_description": "Eric Plomberie Sanitaire EPS — votre plombier artisan à Strasbourg. Réparations, dépannages, remplacement de sanitaires : un professionnel réactif et sérieux, disponible du lundi au samedi matin.",
+    "services": [
+      {
+        "title": "Réparation fuites et débordements",
+        "desc": "Diagnostic rapide et réparation efficace de vos fuites d'eau et débordements, pour stopper les dégâts au plus vite et protéger votre logement.",
+        "icon": "droplets",
+        "featured": true,
+        "tag": "Intervention rapide",
+        "image": "/images/stock/plombier/services/services-8.webp"
+      },
+      {
+        "title": "Remplacement WC et sanitaires",
+        "desc": "Pose et remplacement de WC, lavabos et équipements sanitaires avec un souci constant du travail bien fait et des finitions soignées.",
+        "icon": "wrench",
+        "featured": true,
+        "tag": "Sur mesure",
+        "image": "/images/stock/plombier/services/services-1.webp"
+      },
+      {
+        "title": "Pose et remplacement mitigeur",
+        "desc": "Remplacement ou installation de mitigeurs et robinetterie, intervention propre et durable chez vous.",
+        "icon": "zap",
+        "featured": false
+      },
+      {
+        "title": "Dépannage plomberie générale",
+        "desc": "Tous travaux de plomberie courants : joints, canalisations, raccords — un artisan fiable pour chaque besoin.",
+        "icon": "search",
+        "featured": false
+      },
+      {
+        "title": "Urgence plomberie",
+        "desc": "Disponible en semaine et le samedi matin pour intervenir rapidement face à vos urgences plomberie.",
+        "icon": "flame",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Réactivité exemplaire",
+        "desc": "Intervention rapide et grande flexibilité pour chaque dépannage."
+      },
+      {
+        "title": "Diagnostic téléphonique",
+        "desc": "Questions précises dès l'appel pour cibler la solution adaptée."
+      },
+      {
+        "title": "Travail soigné et durable",
+        "desc": "Souci constant du travail bien fait, clients convaincus dès la 1re fois."
+      },
+      {
+        "title": "Artisan de confiance",
+        "desc": "Note 4.8/5 sur 70 avis, clients fidèles et recommandation à 100 %."
+      }
+    ],
+    "why_us_badge": {
+      "value": "1h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Strasbourg, Schiltigheim, Illkirch-Graffenstaden, Lingolsheim, Ostwald, Hoenheim, Bischheim, Geispolsheim, Eckbolsheim",
+    "service_area_cities": [
+      "Strasbourg",
+      "Schiltigheim",
+      "Illkirch-Graffenstaden",
+      "Lingolsheim",
+      "Ostwald",
+      "Hoenheim",
+      "Bischheim",
+      "Geispolsheim",
+      "Eckbolsheim"
+    ],
+    "service_area_map_cities": [
+      "Schiltigheim",
+      "Illkirch-Graffenstaden",
+      "Lingolsheim",
+      "Ostwald",
+      "Bischheim"
+    ],
+    "service_area_stats": [
+      {
+        "value": "9",
+        "label": "Communes desservies"
+      },
+      {
+        "value": "4.8/5",
+        "label": "Note Google"
+      },
+      {
+        "value": "70",
+        "label": "Avis clients"
+      }
+    ],
+    "service_area_note": "Déplacement rapide dans tout le secteur strasbourgeois, devis gratuit et sans engagement sur simple appel.",
+    "no_reviews_cta": {
+      "eyebrow": "",
+      "title": "",
+      "subtitle": "",
+      "button_text": ""
+    },
+    "reviews_note": "4.8 / 5 sur Google Maps · 70 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 6 52 98 78 89",
+      "email": "",
+      "hours": "Lun–Ven 8h–18h · Sam 8h–12h"
+    },
+    "seo_title": "Plombier Strasbourg — Eric Plomberie Sanitaire EPS",
+    "meta_description": "Plombier à Strasbourg : réparation de fuites, remplacement sanitaires, dépannage urgent. Artisan sérieux, note 4.8/5 sur 70 avis. Disponible du lundi au samedi."
+  },
+  "reviews": [
+    {
+      "author": "Pascal M.",
+      "location": "Schiltigheim",
+      "rating": 5,
+      "text": "Eric plomberie sanitaire EPS personne très sérieux"
+    },
+    {
+      "author": "Nathalie R.",
+      "location": "Illkirch-Graffenstaden",
+      "rating": 5,
+      "text": "Intervention rapide et de qualité.\nJe recommande Eric plomberie sanitaire, professionnel agréable, ayant le souci du travail bien fait."
+    },
+    {
+      "author": "Julien K.",
+      "location": "Lingolsheim",
+      "rating": 5,
+      "text": "J'ai fait appel à Eric Plomberie Sanitaire à plusieurs reprises pour différents problèmes : fuites, débordements, remplacement de WC, etc. Dès le premier échange téléphonique, on ressent le professionnalisme d'Eric. Il pose les bonnes questions pour bien comprendre le problème et proposer la solution adaptée.\n\nIntervention rapide, travail efficace et grande flexibilité : c'est devenu mon contact principal pour tout problème de plomberie. Je le recommande à 100 %"
+    }
+  ]
+}
