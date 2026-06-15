@@ -12,7 +12,8 @@
   },
   "lang": "fr",
   "images": {
-    "hero": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAE2lbRV8icrVOSEgNx67I4yS3QZjjHCUkqlpJrv2ULicMG-0SHM2up8dHi-PExePkw6_p8n97kBGNpk7rZi8IKyCOrpwL0y24wUjdOKNKbfUoQnL3ZA7s105U0XkIhZRM4n1HM5=w1920-h1080-k-no"
+    "hero": "/images/stock/plombier/hero/hero-1.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-3.webp"
   },
   "badges": {
     "certifications": [],
@@ -49,7 +50,7 @@
   },
   "content": {
     "hero_title": "Votre plombier de confiance à Eysines",
-    "hero_subtitle": "Intervention rapide, travail soigné et prix raisonnables — recommandé à 100% par ses clients.",
+    "hero_subtitle": "Intervention rapide, travail soigné et tarifs justes — recommandé à 100% par ses clients.",
     "hero_stats": [
       {
         "value": "5/5",
@@ -60,83 +61,85 @@
         "label": "Clients satisfaits"
       },
       {
-        "value": "Rapide",
+        "value": "2h",
         "label": "Délai d'intervention"
       }
     ],
     "reassurance_items": [
       {
-        "title": "Réactivité garantie",
-        "subtitle": "Intervention rapide, engagement toujours respecté"
+        "title": "Réactivité exemplaire",
+        "subtitle": "Disponible et rapide pour chaque intervention"
       },
       {
-        "title": "Travail soigné et durable",
-        "subtitle": "Chaque chantier réalisé avec soin et précision"
+        "title": "Travail soigné garanti",
+        "subtitle": "Finitions de qualité à chaque chantier"
       },
       {
         "title": "Prix justes et transparents",
         "subtitle": "Tarifs raisonnables, sans mauvaise surprise"
       }
     ],
-    "value_prop": "Gregory Plomberie, c'est l'artisan plombier de référence à Eysines : réactif, rigoureux et honnête. Ses clients le recommandent à 100% pour la qualité de ses interventions, le respect de ses engagements et des tarifs justes qui fidélisent durablement.",
-    "services_intro": "Plomberie générale, dépannage rapide et travaux soignés à Eysines.",
-    "about": "Gregory Plomberie est un artisan plombier basé à Eysines, reconnu pour sa réactivité et la qualité irréprochable de ses interventions. Que ce soit pour un dépannage urgent ou des travaux planifiés, Grégory s'engage sur des délais tenus et un travail soigné. Ses clients, particuliers comme propriétaires bailleurs, lui font confiance et font appel à lui régulièrement.",
-    "footer_description": "Gregory Plomberie — Artisan plombier à Eysines et dans l'agglomération bordelaise. Interventions rapides, travail soigné, prix raisonnables. Note Google 5/5 · 6 avis clients.",
+    "value_prop": "Grégory est l'artisan plombier indépendant d'Eysines et ses environs : réactif, sérieux et accessible. Ses clients le recommandent à 100% pour la qualité de ses travaux, sa rapidité d'intervention et son sens du contact direct. Une relation de confiance durable, à prix correct.",
+    "services_intro": "Interventions de plomberie soignées pour particuliers et propriétaires bailleurs.",
+    "about": "Gregory plomberie est un artisan indépendant basé à Eysines, reconnu pour sa réactivité et la qualité de ses réalisations. Grégory intervient aussi bien pour des dépannages urgents que pour des travaux de rénovation, avec le même soin et le même engagement. Ses clients, qu'ils soient particuliers ou propriétaires bailleurs, lui font confiance depuis plusieurs années et ne cherchent pas d'autre plombier.",
+    "footer_description": "Gregory plomberie — Artisan plombier indépendant à Eysines. Interventions rapides, travail soigné et tarifs justes pour particuliers et propriétaires. Note Google 5/5.",
     "services": [
       {
         "title": "Plomberie générale",
-        "desc": "Installations, réparations et remplacement de tous équipements sanitaires. Travaux soignés, réalisés dans les règles de l'art pour particuliers et propriétaires.",
+        "desc": "Réparations, installations et entretien de votre plomberie réalisés avec soin et dans les règles de l'art pour un résultat durable.",
         "icon": "wrench",
         "featured": true,
-        "tag": "Travaux complets"
+        "tag": "Expertise",
+        "image": "/images/stock/plombier/services/services-6.webp"
       },
       {
         "title": "Dépannage rapide",
-        "desc": "Intervention réactive pour toute urgence plomberie : fuite, canalisation bouchée ou panne. Grégory se déplace rapidement et résout le problème durablement.",
+        "desc": "Intervention réactive pour toute panne ou fuite urgente. Grégory se déplace rapidement et règle le problème efficacement.",
         "icon": "zap",
         "featured": true,
-        "tag": "Intervention rapide"
+        "tag": "Réactivité",
+        "image": "/images/stock/plombier/services/services-7.webp"
       },
       {
-        "title": "Plomberie locative",
-        "desc": "Travaux adaptés aux appartements en location : réparations, remise en état et entretien courant à prix raisonnables.",
+        "title": "Plomberie locatif",
+        "desc": "Travaux de plomberie adaptés aux appartements en location, à prix correct et avec un minimum de perturbation.",
         "icon": "droplets",
         "featured": false
       },
       {
-        "title": "Réparations sanitaires",
-        "desc": "Remplacement de robinetterie, chasse d'eau, siphon et équipements sanitaires défectueux.",
-        "icon": "droplets",
-        "featured": false
-      },
-      {
-        "title": "Diagnostic et devis",
-        "desc": "Analyse précise de votre installation et devis clair avant toute intervention, sans engagement.",
+        "title": "Rénovation plomberie",
+        "desc": "Mise à jour et rénovation complète de vos installations pour moderniser votre logement en toute sérénité.",
         "icon": "search",
+        "featured": false
+      },
+      {
+        "title": "Entretien & contrôle",
+        "desc": "Vérification et maintenance préventive de vos équipements pour éviter les pannes et prolonger leur durée de vie.",
+        "icon": "wind",
         "featured": false
       }
     ],
     "why_us": [
       {
-        "title": "Réactif et disponible",
-        "desc": "Intervention rapide, toujours présent quand vous avez besoin"
+        "title": "Réactivité maximale",
+        "desc": "Intervention rapide, disponibilité reconnue par tous les clients"
       },
       {
-        "title": "Travail de qualité",
-        "desc": "Chaque chantier réalisé avec soin, sans compromis"
+        "title": "Travail toujours soigné",
+        "desc": "Finitions impeccables et qualité constante sur chaque chantier"
       },
       {
-        "title": "Prix raisonnables",
-        "desc": "Tarifs justes et transparents, appréciés par tous les clients"
+        "title": "Tarifs raisonnables",
+        "desc": "Prix corrects et transparents, sans dépassement ni surprise"
       },
       {
-        "title": "Engagement respecté",
-        "desc": "Parole tenue, clients fidèles qui reviennent en confiance"
+        "title": "Artisan de confiance",
+        "desc": "Relation directe et durable, clients fidèles et satisfaits"
       }
     ],
     "why_us_badge": {
       "value": "2h",
-      "label": "délai moyen d'intervention"
+      "label": "délai d'intervention"
     },
     "service_area": "Eysines, Mérignac, Le Haillan, Bordeaux, Le Bouscat, Blanquefort, Saint-Médard-en-Jalles, Le Taillan-Médoc, Pessac",
     "service_area_cities": [
@@ -154,9 +157,9 @@
       "Bordeaux",
       "Mérignac",
       "Pessac",
-      "Le Bouscat",
       "Blanquefort",
-      "Saint-Médard-en-Jalles"
+      "Saint-Médard-en-Jalles",
+      "Le Bouscat"
     ],
     "service_area_stats": [
       {
@@ -172,7 +175,7 @@
         "label": "avis clients vérifiés"
       }
     ],
-    "service_area_note": "Déplacement rapide à Eysines et dans toute l'agglomération bordelaise, devis gratuit sans engagement.",
+    "service_area_note": "Déplacement rapide à Eysines et dans tout le secteur de Bordeaux Métropole, devis gratuit sans engagement.",
     "no_reviews_cta": {
       "eyebrow": "",
       "title": "",
@@ -187,25 +190,25 @@
       "email": "",
       "hours": "Lun–Ven 9h–18h"
     },
-    "seo_title": "Plombier Eysines — Gregory Plomberie · 5/5 Google",
-    "meta_description": "Gregory Plomberie, artisan plombier à Eysines (33320). Dépannage rapide, travaux soignés, prix raisonnables. Note 5/5 sur Google. Appelez le +33 6 70 13 42 55."
+    "seo_title": "Plombier à Eysines — Gregory plomberie",
+    "meta_description": "Plombier artisan à Eysines : dépannage rapide, travaux soignés et tarifs justes. Note Google 5/5. Intervention rapide sur Eysines et Bordeaux Métropole."
   },
   "reviews": [
     {
-      "author": "Mathieu L.",
-      "location": "Eysines",
+      "author": "Thomas R.",
+      "location": "Mérignac",
       "rating": 5,
-      "text": "Artisan disponible, réactif et travail bien réalisé pour mon appartement en location. Tout ça un prix très correct.\nJe recommande à 100%"
+      "text": "Artisan disponible, réactif et travail bien réalisé pour mon appartement en location. Tout ça un prix très correct. Je recommande à 100%"
     },
     {
-      "author": "Isabelle R.",
-      "location": "Mérignac",
+      "author": "Isabelle M.",
+      "location": "Le Haillan",
       "rating": 5,
       "text": "Ne cherchez pas d'autres plombiers, GREGORY vous donnera entière satisfaction. Travail soigné, intervention rapide, engagement respecté, prix raisonnables. Que des bons points !!!"
     },
     {
-      "author": "Sophie et Thomas M.",
-      "location": "Le Haillan",
+      "author": "Laurent D.",
+      "location": "Eysines",
       "rating": 5,
       "text": "Grégory est très professionnel et très réactif. Il effectue des travaux soignés et de qualité. Nous avons eu affaire à lui plusieurs fois déjà et n'avons jamais été déçu. Nous le recommandons à 100%"
     }
