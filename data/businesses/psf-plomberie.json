@@ -1,0 +1,195 @@
+{
+  "business": {
+    "name": "PSF Plomberie",
+    "slug": "psf-plomberie",
+    "city": "Rennes",
+    "country": "France",
+    "phone": "+33 6 95 08 36 88",
+    "address": "Région rennaise, Bretagne",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=PSF%20Plomberie&query_place_id=ChIJAUTt6OUdD0gR_M0mfibo__M",
+    "rating": 3.6,
+    "reviews_count": 10
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-1.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-1.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Contact direct mobile"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Votre plombier local à Rennes",
+    "hero_subtitle": "Joignable directement sur mobile · Dépannage et installation · Secteur rennais",
+    "hero_stats": [
+      {
+        "value": "3.6/5",
+        "label": "note Google"
+      },
+      {
+        "value": "06",
+        "label": "contact direct sans intermédiaire"
+      },
+      {
+        "value": "2h",
+        "label": "délai d'intervention"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Joignable directement sur mobile",
+        "subtitle": "Un numéro direct, sans standard ni secrétariat"
+      },
+      {
+        "title": "Artisan de proximité rennais",
+        "subtitle": "Intervention rapide dans l'agglomération de Rennes"
+      },
+      {
+        "title": "Présence locale établie",
+        "subtitle": "Fiche Google Maps active avec avis clients vérifiés"
+      }
+    ],
+    "value_prop": "PSF Plomberie intervient dans l'agglomération rennaise pour tous vos besoins en plomberie : dépannage, réparation de fuites, installation sanitaire. Joignez directement l'artisan sur son mobile pour une réponse rapide et sans intermédiaire.",
+    "services_intro": "Plomberie générale, dépannage et installation sanitaire en Bretagne.",
+    "about": "PSF Plomberie est un artisan plombier de proximité actif dans la région rennaise. Joignable directement sur mobile, il intervient pour vos dépannages et travaux de plomberie du quotidien. Sa présence sur Google Maps témoigne de son ancrage local dans le bassin rennais.",
+    "footer_description": "PSF Plomberie — Artisan plombier dans l'agglomération rennaise. Dépannage, installation sanitaire et réparation de fuites. Contactez-nous directement au +33 6 95 08 36 88.",
+    "services": [
+      {
+        "title": "Plomberie générale",
+        "desc": "Prise en charge complète de vos travaux de plomberie : remplacement de canalisations, mise aux normes, installation de nouveaux équipements dans votre logement.",
+        "icon": "wrench",
+        "featured": true,
+        "tag": "Intervention rapide",
+        "image": "/images/stock/plombier/services/services-8.webp"
+      },
+      {
+        "title": "Dépannage plomberie",
+        "desc": "Intervention rapide pour tous vos dépannages urgents : fuite d'eau, robinetterie défaillante, canalisation bouchée. Joignez l'artisan directement sur son mobile.",
+        "icon": "zap",
+        "featured": true,
+        "tag": "Urgence",
+        "image": "/images/stock/plombier/services/services-1.webp"
+      },
+      {
+        "title": "Installation sanitaire",
+        "desc": "Pose et remplacement de WC, lavabos, douches et baignoires. Travail soigné pour une installation durable.",
+        "icon": "droplets",
+        "featured": false
+      },
+      {
+        "title": "Réparation de fuites",
+        "desc": "Détection et réparation de fuites visibles ou cachées pour préserver votre logement et éviter les dégâts des eaux.",
+        "icon": "search",
+        "featured": false
+      },
+      {
+        "title": "Entretien & maintenance",
+        "desc": "Contrôle régulier de vos installations pour anticiper les pannes et garantir le bon fonctionnement de votre plomberie.",
+        "icon": "wind",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Mobile direct",
+        "desc": "Appelez sans standard ni secrétariat pour une réponse immédiate."
+      },
+      {
+        "title": "Ancrage rennais",
+        "desc": "Artisan implanté localement, rapide à se déplacer dans le secteur."
+      },
+      {
+        "title": "Avis clients Google",
+        "desc": "Fiche Google Maps active avec 10 avis clients vérifiés."
+      },
+      {
+        "title": "Intervention réactive",
+        "desc": "Dépannage et travaux traités avec réactivité dans l'agglomération."
+      }
+    ],
+    "why_us_badge": {
+      "value": "2h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Rennes, Bruz, Chartres-de-Bretagne, Mordelles, Le Rheu, Vezin-le-Coquet, Bréal-sous-Montfort, Montfort-sur-Meu",
+    "service_area_cities": [
+      "Rennes",
+      "Bruz",
+      "Chartres-de-Bretagne",
+      "Mordelles",
+      "Le Rheu",
+      "Vezin-le-Coquet",
+      "Bréal-sous-Montfort",
+      "Montfort-sur-Meu"
+    ],
+    "service_area_map_cities": [
+      "Rennes",
+      "Bruz",
+      "Mordelles",
+      "Le Rheu",
+      "Montfort-sur-Meu"
+    ],
+    "service_area_stats": [
+      {
+        "value": "8+",
+        "label": "communes desservies"
+      },
+      {
+        "value": "3.6/5",
+        "label": "note Google"
+      },
+      {
+        "value": "10",
+        "label": "avis clients"
+      }
+    ],
+    "service_area_note": "Déplacement rapide dans tout le secteur rennais, devis gratuit sans engagement.",
+    "no_reviews_cta": {
+      "eyebrow": "PROXIMITÉ",
+      "title": "Un artisan de confiance en région rennaise",
+      "subtitle": "Joignable directement sur mobile, PSF Plomberie intervient rapidement dans l'agglomération rennaise pour tous vos travaux de plomberie.",
+      "button_text": "Demander un devis gratuit"
+    },
+    "reviews_note": "3.6 / 5 sur Google Maps · 10 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 6 95 08 36 88",
+      "email": "",
+      "hours": ""
+    },
+    "seo_title": "PSF Plomberie — Plombier à Rennes et agglomération",
+    "meta_description": "PSF Plomberie, artisan plombier dans l'agglomération rennaise. Dépannage, installation sanitaire, réparation de fuites. Contactez-nous directement au 06 95 08 36 88."
+  },
+  "reviews": []
+}
