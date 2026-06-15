@@ -1,0 +1,216 @@
+{
+  "business": {
+    "name": "AG Plombier Chauffagiste",
+    "slug": "ag-plombier-chauffagiste",
+    "city": "Marcq-en-Barœul",
+    "country": "France",
+    "phone": "+33 7 71 88 67 51",
+    "address": "146 Rue de la Pilaterie, 59700 Marcq-en-Barœul",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=AG%20Plombier%20Chauffagiste&query_place_id=ChIJeSRkm_Qpw0cRCBBqj9Lxnj4",
+    "rating": 4.8,
+    "reviews_count": 63
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-3.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-4.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Chantier toujours propre"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Votre plombier de confiance à Marcq",
+    "hero_subtitle": "Ponctuel, pédagogue et soigné — Antoine intervient vite sur vos urgences plomberie et chauffage.",
+    "hero_stats": [
+      {
+        "value": "4.8/5",
+        "label": "note Google"
+      },
+      {
+        "value": "63",
+        "label": "avis vérifiés"
+      },
+      {
+        "value": "2h",
+        "label": "délai d'intervention"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Ponctuel et réactif",
+        "subtitle": "Rendez-vous respectés, intervention rapide garantie"
+      },
+      {
+        "title": "Travail soigné et propre",
+        "subtitle": "Chantier impeccable, sans trace après chaque passage"
+      },
+      {
+        "title": "Conseils personnalisés",
+        "subtitle": "Explications claires pour réduire votre consommation"
+      }
+    ],
+    "value_prop": "Antoine Gast, plombier chauffagiste à Marcq-en-Barœul, est reconnu pour sa ponctualité exemplaire, la propreté irréprochable de ses chantiers et ses conseils concrets en économies d'énergie. Une relation directe, un travail de qualité, un tarif honnête.",
+    "services_intro": "Plomberie et chauffage : entretien, dépannage et installation à Marcq-en-Barœul.",
+    "about": "AG Plombier Chauffagiste, c'est Antoine Gast, artisan indépendant basé à Marcq-en-Barœul. Il intervient sur l'entretien de chaudières, la plomberie générale et les installations de chauffage. Réactif, pédagogue et soigneux, il est la référence locale plébiscitée par ses clients pour la qualité et la transparence de ses interventions.",
+    "footer_description": "AG Plombier Chauffagiste — Antoine Gast, artisan indépendant à Marcq-en-Barœul. Entretien de chaudières, plomberie, chauffage. Ponctuel, soigné, conseils inclus. Note 4.8/5 sur 63 avis Google.",
+    "services": [
+      {
+        "title": "Entretien de chaudière",
+        "desc": "Révision annuelle, diagnostic et dépannage de votre chaudière pour garantir performance et sécurité tout au long de l'année.",
+        "icon": "flame",
+        "featured": true,
+        "tag": "Service phare",
+        "image": "/images/stock/plombier/services/services-3.webp"
+      },
+      {
+        "title": "Plomberie générale",
+        "desc": "Remplacement de robinets, pose de WC, réparation de fuites : interventions soignées et rapides sur toute votre installation.",
+        "icon": "droplets",
+        "featured": true,
+        "tag": "Dépannage rapide",
+        "image": "/images/stock/plombier/services/services-4.webp"
+      },
+      {
+        "title": "Radiateurs & chauffage",
+        "desc": "Remplacement de robinets thermostatiques, désembouage et équilibrage de vos radiateurs pour un confort optimal.",
+        "icon": "zap",
+        "featured": false
+      },
+      {
+        "title": "Désembouage circuit",
+        "desc": "Nettoyage en profondeur de votre circuit de chauffage pour retrouver efficacité et réduire votre consommation.",
+        "icon": "wrench",
+        "featured": false
+      },
+      {
+        "title": "Conseils énergie",
+        "desc": "Recommandations personnalisées pour optimiser votre installation et limiter vos dépenses énergétiques.",
+        "icon": "search",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Toujours à l'heure",
+        "desc": "Ponctualité systématiquement saluée par les clients"
+      },
+      {
+        "title": "Chantier impeccable",
+        "desc": "Aucune trace laissée après chaque intervention"
+      },
+      {
+        "title": "Pédagogie et clarté",
+        "desc": "Explications précises et conseils concrets à chaque visite"
+      },
+      {
+        "title": "Rapport qualité/prix",
+        "desc": "Tarifs honnêtes, qualité constante sur 63 avis clients"
+      }
+    ],
+    "why_us_badge": {
+      "value": "2h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Marcq-en-Barœul, Lille, Wasquehal, Croix, Bondues, Mouvaux, La Madeleine, Villeneuve-d'Ascq, Lambersart",
+    "service_area_cities": [
+      "Marcq-en-Barœul",
+      "Lille",
+      "Wasquehal",
+      "Croix",
+      "Bondues",
+      "Mouvaux",
+      "La Madeleine",
+      "Villeneuve-d'Ascq",
+      "Lambersart"
+    ],
+    "service_area_map_cities": [
+      "Lille",
+      "Wasquehal",
+      "Croix",
+      "Villeneuve-d'Ascq",
+      "La Madeleine",
+      "Lambersart"
+    ],
+    "service_area_stats": [
+      {
+        "value": "9",
+        "label": "communes desservies"
+      },
+      {
+        "value": "4.8/5",
+        "label": "note Google"
+      },
+      {
+        "value": "63",
+        "label": "avis clients vérifiés"
+      }
+    ],
+    "service_area_note": "Déplacement rapide à Marcq-en-Barœul et dans toute la métropole lilloise, devis gratuit sans engagement.",
+    "no_reviews_cta": {
+      "eyebrow": "",
+      "title": "",
+      "subtitle": "",
+      "button_text": ""
+    },
+    "reviews_note": "4.8 / 5 sur Google Maps · 63 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 7 71 88 67 51",
+      "email": "",
+      "hours": "Lun–Ven 9h–19h"
+    },
+    "seo_title": "Plombier Chauffagiste Marcq-en-Barœul | AG Plomberie",
+    "meta_description": "AG Plombier Chauffagiste à Marcq-en-Barœul : entretien chaudière, plomberie, radiateurs. Ponctuel, soigné, 4.8/5 sur 63 avis. Appelez Antoine au 07 71 88 67 51."
+  },
+  "reviews": [
+    {
+      "author": "Sophie M.",
+      "location": "Marcq-en-Barœul",
+      "rating": 5,
+      "text": "Nous avons fait appel à AG Plombier Chauffagiste pour l'entretien de notre chaudière ainsi que le remplacement de plusieurs robinets thermostatiques sur nos radiateurs et le changement d'un toilette.\n\nTrès bonne expérience du début à la fin.\nAntoine est ponctuel, professionnel et prend le temps d'expliquer clairement les interventions réalisées. Le travail a été effectué avec soin et efficacité, et le chantier laissé parfaitement propre après son passage.\n\nNous avons particulièrement apprécié :\n- la réactivité pour la prise de rendez-vous,\n- la qualité des conseils,\n- le sérieux de l'intervention,\n- et le rapport qualité/prix très correct.\n\nC'est rassurant de pouvoir compter sur un artisan fiable et consciencieux. Nous referons appel à lui sans hésiter pour l'entretien et les futurs travaux de plomberie/chauffage."
+    },
+    {
+      "author": "Thomas B.",
+      "location": "Wasquehal",
+      "rating": 5,
+      "text": "Intervention parfaite. Le plombier est arrivé à l'heure, a été très rapide et surtout très efficace pour résoudre le problème. Travail propre et professionnel. Je recommande sans hésiter."
+    },
+    {
+      "author": "Nathalie R.",
+      "location": "Bondues",
+      "rating": 5,
+      "text": "Mr Gast est venu pour un désembouage de mes radiateurs et me changer un robinet. Je suis très contente de son travail rapide et efficace. Très professionnel. Il donne d'excellents conseils pour éviter de trop consommer…."
+    }
+  ]
+}
