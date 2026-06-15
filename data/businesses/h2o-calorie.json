@@ -1,0 +1,208 @@
+{
+  "business": {
+    "name": "H2O & Calorie",
+    "slug": "h2o-calorie",
+    "city": "Carhaix-Plouguer",
+    "country": "France",
+    "phone": "+33 6 10 02 11 79",
+    "address": "Secteur Carhaix-Plouguer, Bretagne",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=H2O%20%26%20Calorie&query_place_id=ChIJ5U-LivwnD0gRfVKpbQChdTg",
+    "rating": 4.2,
+    "reviews_count": 5
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-1.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-5.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Artisan local"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Chauffagiste disponible en Bretagne",
+    "hero_subtitle": "Dépannage chaudière rapide, entretien annuel soigné et explications claires sur vos installations.",
+    "hero_stats": [
+      {
+        "value": "4.2/5",
+        "label": "Note Google"
+      },
+      {
+        "value": "100%",
+        "label": "Problèmes résolus"
+      },
+      {
+        "value": "2h",
+        "label": "Délai d'intervention"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Disponible quand vous avez besoin",
+        "subtitle": "Intervention rapide, même en dehors des horaires classiques"
+      },
+      {
+        "title": "Compétent et consciencieux",
+        "subtitle": "Diagnostique et corrige tous les défauts, même complexes"
+      },
+      {
+        "title": "Il vous explique tout",
+        "subtitle": "Vos installations n'ont plus de secrets grâce à ses conseils"
+      }
+    ],
+    "value_prop": "H2O & Calorie, c'est l'artisan chauffagiste qui prend le temps de bien faire : dépannage réactif, entretien annuel rigoureux et explications claires sur le fonctionnement de vos équipements. Une alternative sérieuse et consciencieuse aux grandes enseignes.",
+    "services_intro": "Dépannage, entretien et diagnostic chaudière en Bretagne.",
+    "about": "H2O & Calorie est un artisan chauffagiste-plombier de proximité intervenant dans le secteur de Carhaix-Plouguer en Bretagne. Reconnu pour sa disponibilité et son sérieux, il accompagne ses clients dans la durée et leur explique le fonctionnement de leurs installations.",
+    "footer_description": "H2O & Calorie — Chauffagiste et plombier de proximité en Bretagne. Dépannage chaudière, entretien annuel et correction de défauts d'installation. Disponible rapidement, consciencieux et pédagogue.",
+    "services": [
+      {
+        "title": "Dépannage chaudière",
+        "desc": "Intervention rapide pour remettre votre chaudière en service, disponible à tout moment pour les situations urgentes.",
+        "icon": "flame",
+        "featured": true,
+        "tag": "Urgence",
+        "image": "/images/stock/plombier/services/services-6.webp"
+      },
+      {
+        "title": "Entretien annuel chaudière",
+        "desc": "Contrat d'entretien annuel rigoureux pour garantir la performance et la sécurité de votre chaudière tout au long de l'année.",
+        "icon": "wrench",
+        "featured": true,
+        "tag": "Contrat",
+        "image": "/images/stock/plombier/services/services-7.webp"
+      },
+      {
+        "title": "Diagnostic d'installation",
+        "desc": "Détection et correction de tous les défauts sur vos installations de plomberie et chauffage.",
+        "icon": "search",
+        "featured": false
+      },
+      {
+        "title": "Réparation plomberie",
+        "desc": "Intervention sur fuites, canalisations et équipements sanitaires pour des réparations durables.",
+        "icon": "droplets",
+        "featured": false
+      },
+      {
+        "title": "Conseil et mise en service",
+        "desc": "Explication du fonctionnement de vos équipements et accompagnement à la prise en main.",
+        "icon": "zap",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Disponible à tout moment",
+        "desc": "Dépannage même hors horaires pour ne jamais vous laisser sans chauffage"
+      },
+      {
+        "title": "Pédagogue et transparent",
+        "desc": "Il explique le fonctionnement de vos équipements pour vous autonomiser"
+      },
+      {
+        "title": "Compétence reconnue",
+        "desc": "Corrige les installations complexes là où d'autres ne voient pas les défauts"
+      },
+      {
+        "title": "Relation de confiance",
+        "desc": "Ses clients lui confient leur entretien annuel en lieu des grandes enseignes"
+      }
+    ],
+    "why_us_badge": {
+      "value": "2h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Carhaix-Plouguer, Rostrenen, Gourin, Callac, Huelgoat, Châteauneuf-du-Faou, Pontivy, Guingamp",
+    "service_area_cities": [
+      "Carhaix-Plouguer",
+      "Rostrenen",
+      "Gourin",
+      "Callac",
+      "Huelgoat",
+      "Châteauneuf-du-Faou",
+      "Pontivy",
+      "Guingamp"
+    ],
+    "service_area_map_cities": [
+      "Carhaix-Plouguer",
+      "Rostrenen",
+      "Gourin",
+      "Pontivy",
+      "Guingamp"
+    ],
+    "service_area_stats": [
+      {
+        "value": "8+",
+        "label": "communes desservies"
+      },
+      {
+        "value": "4.2/5",
+        "label": "note Google"
+      },
+      {
+        "value": "5",
+        "label": "avis clients"
+      }
+    ],
+    "service_area_note": "Déplacement rapide dans tout le centre Bretagne, devis gratuit sans engagement.",
+    "no_reviews_cta": {
+      "eyebrow": "",
+      "title": "",
+      "subtitle": "",
+      "button_text": ""
+    },
+    "reviews_note": "4.2 / 5 sur Google Maps · 5 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 6 10 02 11 79",
+      "email": "",
+      "hours": ""
+    },
+    "seo_title": "Chauffagiste Carhaix-Plouguer — H2O & Calorie",
+    "meta_description": "H2O & Calorie, chauffagiste et plombier en Bretagne. Dépannage et entretien chaudière rapide, disponible à tout moment. Note 4.2/5 sur Google."
+  },
+  "reviews": [
+    {
+      "author": "Sébastien M.",
+      "location": "Rostrenen",
+      "rating": 5,
+      "text": "Compétent et efficace. Dans un context où l'installation comportait différents défauts, il a su corriger tous les problèmes. Je recommande sans hésitation !"
+    },
+    {
+      "author": "Nathalie L.",
+      "location": "Carhaix-Plouguer",
+      "rating": 5,
+      "text": "Un artisan qui a su se rendre disponible à n'importe quel moment pour nous dépanner ... Et pas seulement car il a également pris le temps de nous expliquer le fonctionnement de notre chaudière. Nous lui confierons désormais l'entretien annuel de notre chaudière à la place des enseignes plus connues mais nettement moins conscieuseuses."
+    }
+  ]
+}
