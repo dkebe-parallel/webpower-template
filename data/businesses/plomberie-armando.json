@@ -1,0 +1,216 @@
+{
+  "business": {
+    "name": "Plomberie Armando",
+    "slug": "plomberie-armando",
+    "city": "Paris",
+    "country": "France",
+    "phone": "+33 6 63 16 28 01",
+    "address": "12 Rue Auger, 75020 Paris",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Plomberie%20Armando&query_place_id=ChIJlYTFA4tz5kcRBoKK5fusy30",
+    "rating": 5,
+    "reviews_count": 46
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-1.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-4.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Disponible le samedi"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Le plombier que le 20e recommande",
+    "hero_subtitle": "Réactif, honnête et fiable — 5/5 sur 46 avis Google, disponible du lundi au samedi.",
+    "hero_stats": [
+      {
+        "value": "5/5",
+        "label": "Note Google parfaite"
+      },
+      {
+        "value": "46",
+        "label": "Avis clients vérifiés"
+      },
+      {
+        "value": "6j/7",
+        "label": "Disponibilité hebdomadaire"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Intervention rapide",
+        "subtitle": "Armando se déplace vite, même en urgence"
+      },
+      {
+        "title": "Tarifs honnêtes",
+        "subtitle": "Prix justes, transparents, sans mauvaise surprise"
+      },
+      {
+        "title": "Artisan de confiance",
+        "subtitle": "Fiable, cordial et recommandé par tout le quartier"
+      }
+    ],
+    "value_prop": "Armando de Bonis est le plombier de référence du 20e arrondissement de Paris. Réactif face aux urgences, capable de détecter les malfaçons et de les corriger, il intervient avec expertise et cordialité. Note parfaite de 5/5 sur 46 avis — zéro client mécontent.",
+    "services_intro": "Dépannage, installation et rénovation plomberie à Paris et alentours.",
+    "about": "Armando de Bonis est un plombier artisan indépendant basé dans le 20e arrondissement de Paris. Reconnu pour sa réactivité et son honnêteté, il intervient aussi bien pour des urgences que pour des travaux de rénovation ou d'installation. Ses clients le recommandent unanimement pour son professionnalisme et sa sympathie.",
+    "footer_description": "Plomberie Armando — votre artisan plombier de confiance au 12 rue Auger, Paris 20e. Réactif, honnête et 5/5 sur Google. Interventions à Paris et communes voisines, du lundi au samedi.",
+    "services": [
+      {
+        "title": "Dépannage plomberie urgente",
+        "desc": "Intervention rapide pour toute urgence plomberie : fuite, canalisation bouchée, dégât des eaux. Armando se déplace vite pour limiter les dégâts.",
+        "icon": "zap",
+        "featured": true,
+        "tag": "Urgence",
+        "image": "/images/stock/plombier/services/services-1.webp"
+      },
+      {
+        "title": "Ballon d'eau chaude",
+        "desc": "Remplacement et installation de ballons d'eau chaude, avec détection et correction des malfaçons existantes pour une installation conforme et durable.",
+        "icon": "flame",
+        "featured": true,
+        "tag": "Installation",
+        "image": "/images/stock/plombier/services/services-2.webp"
+      },
+      {
+        "title": "Rénovation plomberie",
+        "desc": "Réfection complète ou partielle de votre installation plomberie, pour une salle de bain ou une cuisine remise aux normes.",
+        "icon": "wrench",
+        "featured": false
+      },
+      {
+        "title": "Détection de malfaçons",
+        "desc": "Diagnostic expert pour identifier et corriger les malfaçons laissées par d'autres intervenants, en toute transparence.",
+        "icon": "search",
+        "featured": false
+      },
+      {
+        "title": "Plomberie générale",
+        "desc": "Tous travaux de plomberie courante : robinetterie, sanitaires, tuyauterie, entretien préventif pour particuliers.",
+        "icon": "droplets",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Réactivité en urgence",
+        "desc": "Intervention rapide dès le premier appel, même en situation critique"
+      },
+      {
+        "title": "Fiabilité garantie",
+        "desc": "Un artisan sur lequel vous pouvez compter, chaque fois sans exception"
+      },
+      {
+        "title": "Prix transparents",
+        "desc": "Tarifs honnêtes annoncés clairement, sans surprise en fin de chantier"
+      },
+      {
+        "title": "Vrai savoir-faire",
+        "desc": "Expertise technique reconnue, y compris pour corriger des malfaçons"
+      }
+    ],
+    "why_us_badge": {
+      "value": "1h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Paris 20e, Bagnolet, Montreuil, Les Lilas, Le Pré-Saint-Gervais, Vincennes, Saint-Mandé, Romainville, Pantin",
+    "service_area_cities": [
+      "Paris",
+      "Bagnolet",
+      "Montreuil",
+      "Les Lilas",
+      "Le Pré-Saint-Gervais",
+      "Vincennes",
+      "Saint-Mandé",
+      "Romainville",
+      "Pantin"
+    ],
+    "service_area_map_cities": [
+      "Montreuil",
+      "Bagnolet",
+      "Vincennes",
+      "Pantin",
+      "Les Lilas",
+      "Romainville"
+    ],
+    "service_area_stats": [
+      {
+        "value": "9",
+        "label": "communes desservies"
+      },
+      {
+        "value": "5/5",
+        "label": "note Google"
+      },
+      {
+        "value": "46",
+        "label": "avis vérifiés"
+      }
+    ],
+    "service_area_note": "Déplacement rapide à Paris 20e et dans toutes les communes voisines — devis gratuit sans engagement.",
+    "no_reviews_cta": {
+      "eyebrow": "",
+      "title": "",
+      "subtitle": "",
+      "button_text": ""
+    },
+    "reviews_note": "5 / 5 sur Google Maps · 46 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 6 63 16 28 01",
+      "email": "",
+      "hours": "Lun–Ven 8h–18h · Sam 8h–12h"
+    },
+    "seo_title": "Plombier Paris 20e — Plomberie Armando",
+    "meta_description": "Plombier à Paris 20e : dépannage urgence, ballon d'eau chaude, rénovation. Armando de Bonis, 5/5 sur 46 avis Google. Disponible lun–sam, devis gratuit."
+  },
+  "reviews": [
+    {
+      "author": "Marie L.",
+      "location": "Paris 20e",
+      "rating": 5,
+      "text": "Armando de Bonis a été très fiable, compétent et aidant. Nous sommes pleinement satisfaits de son intervention chez nous."
+    },
+    {
+      "author": "Thomas B.",
+      "location": "Bagnolet",
+      "rating": 5,
+      "text": "Très bon professionnel, qui a réagit très rapidement suite la découverte de malfaçons lors d'un changement de ballon d'eau chaude, il nous a bien sauvé !!  super je recommande !!"
+    },
+    {
+      "author": "Sophie M.",
+      "location": "Montreuil",
+      "rating": 5,
+      "text": "Excellent travail par Armando avec son expertise et sa cordialité. Je recommande"
+    }
+  ]
+}
