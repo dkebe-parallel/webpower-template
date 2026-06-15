@@ -1,0 +1,197 @@
+{
+  "business": {
+    "name": "Erdre Chauffage",
+    "slug": "erdre-chauffage",
+    "city": "Nantes",
+    "country": "France",
+    "phone": "+33 7 59 88 28 15",
+    "address": "95 Rte de la Chapelle-sur-Erdre, 44300 Nantes",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Erdre%20Chauffage&query_place_id=ChIJbT6dHtv2BUgRsX4hg8C2hUQ",
+    "rating": 2.6,
+    "reviews_count": 33
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-4.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-3.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Artisan local"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Chauffagiste réactif à Nantes",
+    "hero_subtitle": "Dépannage et entretien chaudière rapides, intervention sur Nantes nord et la Chapelle-sur-Erdre.",
+    "hero_stats": [
+      {
+        "value": "2.6/5",
+        "label": "Note Google"
+      },
+      {
+        "value": "33",
+        "label": "avis clients"
+      },
+      {
+        "value": "2h",
+        "label": "délai d'intervention"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Réactivité terrain prouvée",
+        "subtitle": "Interventions rapides reconnues par les clients"
+      },
+      {
+        "title": "Spécialiste chaudières",
+        "subtitle": "Entretien, dépannage et mise en service"
+      },
+      {
+        "title": "Ancrage nord Nantes",
+        "subtitle": "Présence locale axe Nantes–Chapelle-sur-Erdre"
+      }
+    ],
+    "value_prop": "Erdre Chauffage intervient sur le nord de Nantes et les communes voisines pour l'entretien, le dépannage et l'installation de chaudières. Réactivité et qualité d'exécution au cœur de chaque intervention, pour un service de proximité fiable.",
+    "services_intro": "Entretien, dépannage et installation de chauffage à Nantes.",
+    "about": "Erdre Chauffage est un artisan chauffagiste implanté au 95 route de la Chapelle-sur-Erdre, au nord de Nantes. Spécialisé dans les chaudières et la plomberie, il intervient rapidement chez les particuliers et professionnels du secteur. Son ancrage local lui permet d'assurer des délais d'intervention courts sur tout le nord nantais.",
+    "footer_description": "Erdre Chauffage — Chauffagiste et plombier à Nantes. Entretien, dépannage et installation de chaudières sur Nantes nord, La Chapelle-sur-Erdre et communes voisines. Tél. +33 7 59 88 28 15.",
+    "services": [
+      {
+        "title": "Entretien de chaudière",
+        "desc": "Maintenance annuelle et vérification complète de votre chaudière pour garantir sécurité, performance et conformité réglementaire.",
+        "icon": "flame",
+        "featured": true,
+        "tag": "Incontournable",
+        "image": "/images/stock/plombier/services/services-4.webp"
+      },
+      {
+        "title": "Dépannage chauffage",
+        "desc": "Intervention rapide en cas de panne de chauffage ou d'eau chaude sanitaire, diagnostic précis et remise en service dans les meilleurs délais.",
+        "icon": "wrench",
+        "featured": true,
+        "tag": "Réactivité",
+        "image": "/images/stock/plombier/services/services-5.webp"
+      },
+      {
+        "title": "Installation de chaudière",
+        "desc": "Pose et mise en service de chaudières gaz ou fioul, conseil sur le matériel adapté à votre logement.",
+        "icon": "zap",
+        "featured": false
+      },
+      {
+        "title": "Remplacement de chaudière",
+        "desc": "Remplacement de votre ancien équipement par un modèle performant, avec reprise de l'installation existante.",
+        "icon": "search",
+        "featured": false
+      },
+      {
+        "title": "Plomberie générale",
+        "desc": "Travaux de plomberie courants : robinetterie, canalisations, sanitaires et mise aux normes.",
+        "icon": "droplets",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Réactivité reconnue",
+        "desc": "Interventions rapides saluées par les clients satisfaits"
+      },
+      {
+        "title": "Travail soigné",
+        "desc": "Qualité d'exécution confirmée par les avis positifs"
+      },
+      {
+        "title": "Expert chaudières",
+        "desc": "Spécialisation technique identifiée sur chaudières"
+      },
+      {
+        "title": "Présence locale",
+        "desc": "Artisan de proximité sur le nord de Nantes"
+      }
+    ],
+    "why_us_badge": {
+      "value": "2h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Nantes, La Chapelle-sur-Erdre, Orvault, Carquefou, Sucé-sur-Erdre, Treillières, Grandchamp-des-Fontaines, Saint-Herblain, Sainte-Luce-sur-Loire",
+    "service_area_cities": [
+      "Nantes",
+      "La Chapelle-sur-Erdre",
+      "Orvault",
+      "Carquefou",
+      "Sucé-sur-Erdre",
+      "Treillières",
+      "Grandchamp-des-Fontaines",
+      "Saint-Herblain",
+      "Sainte-Luce-sur-Loire"
+    ],
+    "service_area_map_cities": [
+      "Nantes",
+      "La Chapelle-sur-Erdre",
+      "Orvault",
+      "Carquefou",
+      "Saint-Herblain",
+      "Treillières"
+    ],
+    "service_area_stats": [
+      {
+        "value": "9",
+        "label": "communes couvertes"
+      },
+      {
+        "value": "2.6/5",
+        "label": "note Google"
+      },
+      {
+        "value": "33",
+        "label": "avis clients"
+      }
+    ],
+    "service_area_note": "Déplacement rapide sur tout le nord de Nantes et les communes voisines, devis gratuit sans engagement.",
+    "no_reviews_cta": {
+      "eyebrow": "CONFIANCE",
+      "title": "Un chauffagiste de proximité à Nantes",
+      "subtitle": "Réactivité terrain, spécialisation chaudières et ancrage local sur l'axe Nantes–Chapelle-sur-Erdre pour un service fiable.",
+      "button_text": "Demander un devis gratuit"
+    },
+    "reviews_note": "2.6 / 5 sur Google Maps · 33 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 7 59 88 28 15",
+      "email": "",
+      "hours": "Lun–Mar · Jeu 09h–12h · 13h30–17h30 · Ven 09h–12h · 13h30–16h30 · Mer 09h–13h"
+    },
+    "seo_title": "Chauffagiste Nantes — Erdre Chauffage",
+    "meta_description": "Erdre Chauffage, chauffagiste à Nantes nord. Entretien, dépannage et installation de chaudières. Intervention rapide sur Nantes et communes voisines."
+  },
+  "reviews": []
+}
