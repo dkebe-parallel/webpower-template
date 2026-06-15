@@ -1,0 +1,196 @@
+{
+  "business": {
+    "name": "Gallego Eric",
+    "slug": "gallego-eric",
+    "city": "Estagel",
+    "country": "France",
+    "phone": "+33 4 68 29 12 93",
+    "address": "16 Imp. de Strasbourg, 66310 Estagel",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Gallego%20Eric&query_place_id=ChIJDdSGZB8UsBIRBhk9d5Su91Q",
+    "rating": null,
+    "reviews_count": null
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-4.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-1.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Artisan local"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Votre plombier à Estagel",
+    "hero_subtitle": "Plombier de proximité dans le Fenouillèdes — intervention rapide, adresse locale, devis sans engagement.",
+    "hero_stats": [
+      {
+        "value": "2h",
+        "label": "délai d'intervention"
+      },
+      {
+        "value": "100%",
+        "label": "artisan local ancré"
+      },
+      {
+        "value": "Gratuit",
+        "label": "devis sans engagement"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Ancrage local dans le Fenouillèdes",
+        "subtitle": "Présent à Estagel, je connais le secteur et ses contraintes."
+      },
+      {
+        "title": "Joignable par téléphone fixe",
+        "subtitle": "Un numéro local stable, une entreprise pérenne et fiable."
+      },
+      {
+        "title": "Intervention rapide en zone rurale",
+        "subtitle": "Proximité garantie là où les artisans sont rares."
+      }
+    ],
+    "value_prop": "Gallego Eric est votre plombier de confiance à Estagel et dans les villages du Fenouillèdes. Implanté localement, il assure plomberie générale, dépannage et installation sanitaire avec la réactivité d'un artisan ancré dans son territoire.",
+    "services_intro": "Plomberie générale, dépannage et installation sanitaire à Estagel.",
+    "about": "Gallego Eric est un plombier artisan établi à Estagel, au cœur du Fenouillèdes dans les Pyrénées-Orientales. Il intervient chez les particuliers et professionnels du secteur pour tous travaux de plomberie, du dépannage d'urgence à l'installation complète. Sa connaissance du territoire local lui permet d'intervenir rapidement dans les communes environnantes.",
+    "footer_description": "Gallego Eric — Plombier artisan à Estagel (66310). Plomberie générale, dépannage et installation sanitaire au service des habitants du Fenouillèdes et des Pyrénées-Orientales.",
+    "services": [
+      {
+        "title": "Plomberie générale",
+        "desc": "Réalisation et entretien de tous vos travaux de plomberie : canalisations, robinetterie, compteurs et réseaux d'eau pour particuliers et professionnels.",
+        "icon": "droplets",
+        "featured": true,
+        "tag": "Essentiel",
+        "image": "/images/stock/plombier/services/services-2.webp"
+      },
+      {
+        "title": "Dépannage et réparation",
+        "desc": "Intervention rapide pour fuite, canalisation bouchée ou panne sanitaire. Artisan local disponible pour résoudre vos urgences plomberie sans délai.",
+        "icon": "wrench",
+        "featured": true,
+        "tag": "Urgence",
+        "image": "/images/stock/plombier/services/services-3.webp"
+      },
+      {
+        "title": "Installation sanitaire",
+        "desc": "Pose et remplacement de WC, lavabo, douche, baignoire et équipements sanitaires avec finitions soignées.",
+        "icon": "zap",
+        "featured": false
+      },
+      {
+        "title": "Remplacement de robinetterie",
+        "desc": "Changement de mitigeurs, robinets et vannes d'arrêt pour remettre vos installations en état optimal.",
+        "icon": "search",
+        "featured": false
+      },
+      {
+        "title": "Entretien des réseaux",
+        "desc": "Contrôle et maintenance préventive de vos canalisations pour éviter pannes et dégâts des eaux.",
+        "icon": "wind",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Ancrage territorial réel",
+        "desc": "Basé à Estagel, intervient dans tout le Fenouillèdes rapidement."
+      },
+      {
+        "title": "Plombier de proximité",
+        "desc": "Artisan rare en zone rurale, disponible pour les villages alentour."
+      },
+      {
+        "title": "Adresse physique vérifiable",
+        "desc": "Entreprise identifiée, stable et référencée sur Google Maps."
+      },
+      {
+        "title": "Numéro fixe local",
+        "desc": "Indicatif 04 68, signe de sérieux et de pérennité."
+      }
+    ],
+    "why_us_badge": {
+      "value": "2h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Estagel, Maury, Tautavel, Cases-de-Pène, Vingrau, Latour-de-France, Calce, Espira-de-l'Agly, Rivesaltes",
+    "service_area_cities": [
+      "Estagel",
+      "Maury",
+      "Tautavel",
+      "Cases-de-Pène",
+      "Vingrau",
+      "Latour-de-France",
+      "Calce",
+      "Espira-de-l'Agly",
+      "Rivesaltes"
+    ],
+    "service_area_map_cities": [
+      "Rivesaltes",
+      "Espira-de-l'Agly",
+      "Tautavel",
+      "Maury",
+      "Latour-de-France"
+    ],
+    "service_area_stats": [
+      {
+        "value": "9",
+        "label": "communes desservies"
+      },
+      {
+        "value": "~2h",
+        "label": "délai d'intervention moyen"
+      },
+      {
+        "value": "100%",
+        "label": "devis gratuit et sans engagement"
+      }
+    ],
+    "service_area_note": "Déplacement rapide dans tout le Fenouillèdes et les alentours d'Estagel, devis gratuit sans engagement.",
+    "no_reviews_cta": {
+      "eyebrow": "CONFIANCE",
+      "title": "Un plombier ancré dans votre secteur",
+      "subtitle": "Implanté à Estagel avec une adresse physique et un numéro fixe local, Gallego Eric intervient rapidement pour tous vos besoins en plomberie.",
+      "button_text": "Demander un devis gratuit"
+    },
+    "reviews_note": "Artisan référencé sur Google Maps · Estagel, Pyrénées-Orientales",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 4 68 29 12 93",
+      "email": "",
+      "hours": ""
+    },
+    "seo_title": "Plombier Estagel (66310) — Gallego Eric",
+    "meta_description": "Plombier à Estagel et dans le Fenouillèdes : plomberie générale, dépannage et installation sanitaire. Artisan local, intervention rapide. Devis gratuit."
+  },
+  "reviews": []
+}
