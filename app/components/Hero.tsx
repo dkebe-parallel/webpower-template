@@ -1,5 +1,6 @@
 import Image from 'next/image'
 import { BusinessData, HeroStat, ReassuranceItem } from '@/lib/types'
+import { getObjectPosition } from '@/lib/imagePositions'
 import ElegantPlaceholder from './ElegantPlaceholder'
 
 interface HeroProps {
@@ -153,7 +154,7 @@ export default function Hero({
           <div className="hero-visual">
             <div className="hero-photo">
               {heroImage ? (
-                <Image src={heroImage} alt={`Artisan — ${city}`} fill style={{ objectFit: 'cover' }} priority />
+                <Image src={heroImage} alt={`Artisan — ${city}`} fill style={{ objectFit: 'cover', objectPosition: getObjectPosition(heroImage) }} priority />
               ) : (
                 <ElegantPlaceholder type="hero" />
               )}

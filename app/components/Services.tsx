@@ -1,6 +1,7 @@
 import Image from 'next/image'
 import { Zap, Droplets, Flame, Wrench, Search, Wind, LucideIcon } from 'lucide-react'
 import { ServiceItem } from '@/lib/types'
+import { getObjectPosition } from '@/lib/imagePositions'
 import ElegantPlaceholder from './ElegantPlaceholder'
 
 const iconMap: Record<string, LucideIcon> = {
@@ -100,7 +101,7 @@ export default function Services({ services, valueProp, servicesIntro }: Service
                 <article key={service.icon} className="scard feat">
                   <div className="ph">
                     {service.image ? (
-                      <Image src={service.image} alt={service.title} fill style={{ objectFit: 'cover' }} />
+                      <Image src={service.image} alt={service.title} fill style={{ objectFit: 'cover', objectPosition: getObjectPosition(service.image) }} />
                     ) : (
                       <ElegantPlaceholder type="service" />
                     )}

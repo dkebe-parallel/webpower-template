@@ -1,5 +1,6 @@
 import Image from 'next/image'
 import { WhyUsItem } from '@/lib/types'
+import { getObjectPosition } from '@/lib/imagePositions'
 import ElegantPlaceholder from './ElegantPlaceholder'
 
 interface WhyUsProps {
@@ -75,7 +76,7 @@ export default function WhyUs({ items, whyUsBadge, whyUsImage }: WhyUsProps) {
         <div className="why-wrap">
           <div className="why-photo">
             {whyUsImage ? (
-              <Image src={whyUsImage} alt="Artisan à domicile" fill style={{ objectFit: 'cover' }} />
+              <Image src={whyUsImage} alt="Artisan à domicile" fill style={{ objectFit: 'cover', objectPosition: getObjectPosition(whyUsImage) }} />
             ) : (
               <ElegantPlaceholder type="whyus" />
             )}
