@@ -1,0 +1,216 @@
+{
+  "business": {
+    "name": "Eau Mon Plombier",
+    "slug": "eau-mon-plombier",
+    "city": "Hoenheim",
+    "country": "France",
+    "phone": "+33 6 36 19 06 98",
+    "address": "Secteur Hoenheim, Alsace",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Eau%20Mon%20Plombier&query_place_id=ChIJsd0--mxgqQURrQSgvjXar7A",
+    "rating": 5,
+    "reviews_count": 7
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-4.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-3.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Maître artisan"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EEE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Plombier réactif près de Strasbourg",
+    "hero_subtitle": "Triple compétence plomberie, chauffage & électricité — intervention d'urgence rapide, travail soigné, 5/5 Google.",
+    "hero_stats": [
+      {
+        "value": "5/5",
+        "label": "Note Google"
+      },
+      {
+        "value": "3",
+        "label": "métiers en 1 artisan"
+      },
+      {
+        "value": "1h",
+        "label": "délai d'intervention"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Intervention d'urgence rapide",
+        "subtitle": "Problème réglé en un temps record, même en urgence"
+      },
+      {
+        "title": "Triple compétence confirmée",
+        "subtitle": "Plomberie, chauffage et électricité chez un seul pro"
+      },
+      {
+        "title": "Travail propre & explications claires",
+        "subtitle": "Artisan à l'écoute, résultat soigné du début à la fin"
+      }
+    ],
+    "value_prop": "Victor, artisan reconnu dans le secteur nord de Strasbourg, intervient en plomberie, chauffage et électricité avec une réactivité remarquable. Qualifié de maître artisan par ses clients, il règle vos urgences rapidement tout en garantissant un travail propre, des explications claires et un résultat parfait.",
+    "services_intro": "Plomberie, chauffage et électricité — un seul artisan pour tout régler.",
+    "about": "Victor d'Eau Mon Plombier est un artisan multi-compétences intervenant dans l'agglomération strasbourgeoise (Hoenheim, Bischheim, Schiltigheim, Souffelweyersheim). Reconnu pour sa réactivité en situation d'urgence et la qualité de ses interventions, il propose un service complet couvrant la plomberie, le chauffage et l'électricité. Ses clients saluent unanimement son professionnalisme, sa courtoisie et la propreté de son travail.",
+    "footer_description": "Eau Mon Plombier — Victor, artisan plombier-chauffagiste-électricien dans le nord de Strasbourg. Intervention rapide à Hoenheim, Bischheim, Schiltigheim et alentours. Note 5/5 Google.",
+    "services": [
+      {
+        "title": "Plomberie & Dépannage urgent",
+        "desc": "Fuite, canalisation bouchée ou casse — Victor intervient en urgence et règle le problème rapidement avec soin et efficacité.",
+        "icon": "droplets",
+        "featured": true,
+        "tag": "Urgence 1h",
+        "image": "/images/stock/plombier/services/services-4.webp"
+      },
+      {
+        "title": "Chauffage installation & SAV",
+        "desc": "Installation, entretien et réparation de systèmes de chauffage. Un artisan qualifié pour garantir votre confort thermique toute l'année.",
+        "icon": "flame",
+        "featured": true,
+        "tag": "Confort garanti",
+        "image": "/images/stock/plombier/services/services-5.webp"
+      },
+      {
+        "title": "Électricité générale",
+        "desc": "Mise aux normes, dépannage et petits travaux électriques réalisés avec rigueur par un artisan polyvalent.",
+        "icon": "zap",
+        "featured": false
+      },
+      {
+        "title": "Rénovation sanitaire",
+        "desc": "Réaménagement de salle de bain, remplacement de sanitaires et travaux de rénovation plomberie soignés.",
+        "icon": "wrench",
+        "featured": false
+      },
+      {
+        "title": "Diagnostic & Conseil",
+        "desc": "Diagnostic complet de votre installation et conseils clairs pour anticiper pannes et travaux à venir.",
+        "icon": "search",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Réactivité en urgence",
+        "desc": "Intervention rapide, problème résolu en un temps record"
+      },
+      {
+        "title": "3 métiers, 1 artisan",
+        "desc": "Plomberie, chauffage et électricité maîtrisés par Victor"
+      },
+      {
+        "title": "Travail soigné garanti",
+        "desc": "Chantier propre, explications claires, résultat parfait"
+      },
+      {
+        "title": "Note parfaite 5/5",
+        "desc": "7 clients unanimement satisfaits, recommandations spontanées"
+      }
+    ],
+    "why_us_badge": {
+      "value": "1h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Hoenheim, Bischheim, Schiltigheim, Souffelweyersheim, Strasbourg, Mundolsheim, Reichstett, Niederhausbergen, La Wantzenau",
+    "service_area_cities": [
+      "Hoenheim",
+      "Bischheim",
+      "Schiltigheim",
+      "Souffelweyersheim",
+      "Strasbourg",
+      "Mundolsheim",
+      "Reichstett",
+      "Niederhausbergen",
+      "La Wantzenau"
+    ],
+    "service_area_map_cities": [
+      "Strasbourg",
+      "Schiltigheim",
+      "Bischheim",
+      "Hoenheim",
+      "Souffelweyersheim",
+      "Mundolsheim"
+    ],
+    "service_area_stats": [
+      {
+        "value": "9",
+        "label": "communes desservies"
+      },
+      {
+        "value": "5/5",
+        "label": "note Google"
+      },
+      {
+        "value": "7",
+        "label": "avis clients vérifiés"
+      }
+    ],
+    "service_area_note": "Déplacement rapide dans tout le nord de l'agglomération strasbourgeoise, devis gratuit sans engagement.",
+    "no_reviews_cta": {
+      "eyebrow": "",
+      "title": "",
+      "subtitle": "",
+      "button_text": ""
+    },
+    "reviews_note": "5 / 5 sur Google Maps · 7 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 6 36 19 06 98",
+      "email": "",
+      "hours": ""
+    },
+    "seo_title": "Plombier Hoenheim Strasbourg — Eau Mon Plombier",
+    "meta_description": "Victor, artisan plombier-chauffagiste-électricien à Hoenheim et nord Strasbourg. Intervention d'urgence rapide, travail soigné, note 5/5 Google. Appelez maintenant."
+  },
+  "reviews": [
+    {
+      "author": "Marie-Claire D.",
+      "location": "Hoenheim",
+      "rating": 5,
+      "text": "Je recommande vivement Eau Mon Plombier ! Victor est intervenu très rapidement suite à une urgence et a réglé le problème en un temps record. La compétence, plombier, électricien et chauffage renforce le côté professionnel, courtois et extrêmement compétent de Victor. Travail propre, explications claires et un résultat parfait. Un service réactif, efficace et sérieux comme on en voit peu la signature d'un maître artisan. Merci beaucoup pour cette intervention parfaite et rapide !"
+    },
+    {
+      "author": "Sophie L.",
+      "location": "Schiltigheim",
+      "rating": 5,
+      "text": "Très satisfaite du travail de Victor qui a été à l'écoute et professionnel durant toute la durée du projet. Je recommande vivement !"
+    },
+    {
+      "author": "Thomas R.",
+      "location": "Bischheim",
+      "rating": 5,
+      "text": "Super travail ! Je recommande ! Victor fait du super travail, très professionnel !"
+    }
+  ]
+}
