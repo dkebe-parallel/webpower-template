@@ -1,0 +1,198 @@
+{
+  "business": {
+    "name": "AQUA TECH",
+    "slug": "aqua-tech",
+    "city": "Lille",
+    "country": "France",
+    "phone": "+33 6 21 89 58 61",
+    "address": "56 Rue de Madagascar, 59800 Lille",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=AQUA%20TECH&query_place_id=ChIJV-rGxcTXwkcRroNqHg-PiAQ",
+    "rating": 3.7,
+    "reviews_count": 3
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-5.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-3.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Conseil honnête"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Plombier disponible à Lille",
+    "hero_subtitle": "Dépannage chaudière et plomberie · Conseils honnêtes · Disponible même en août",
+    "hero_stats": [
+      {
+        "value": "3.7/5",
+        "label": "Note Google"
+      },
+      {
+        "value": "Août",
+        "label": "Disponible en plein été"
+      },
+      {
+        "value": "100%",
+        "label": "Conseils sans frais inutiles"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Disponible quand les autres ne le sont pas",
+        "subtitle": "Joignable même en semaine du 15 août"
+      },
+      {
+        "title": "Conseil avant intervention",
+        "subtitle": "On privilégie votre intérêt, pas la facture"
+      },
+      {
+        "title": "Ancrage local à Lille-Sud",
+        "subtitle": "Intervention rapide depuis la Rue de Madagascar"
+      }
+    ],
+    "value_prop": "AQUA TECH, c'est un plombier-chauffagiste de proximité à Lille qui prend le temps de vous conseiller avant d'intervenir. Disponible même en plein mois d'août, il vous aide à résoudre votre problème — même si cela évite une intervention facturée.",
+    "services_intro": "Dépannage, entretien chaudière et plomberie à Lille et alentours.",
+    "about": "AQUA TECH est un artisan plombier-chauffagiste installé à Lille, rue de Madagascar. Reconnu pour sa disponibilité et son honnêteté, il conseille ses clients avant toute intervention pour éviter des frais inutiles. Une approche rare qui fait la différence, même en pleine période estivale.",
+    "footer_description": "AQUA TECH — Plombier-chauffagiste à Lille. Dépannage chaudière, plomberie générale et conseils honnêtes. Disponible au 56 Rue de Madagascar, 59800 Lille.",
+    "services": [
+      {
+        "title": "Dépannage chaudière",
+        "desc": "Intervention rapide pour tout défaut d'allumage, panne ou dysfonctionnement de votre chaudière, y compris en période estivale.",
+        "icon": "flame",
+        "featured": true,
+        "tag": "Urgence & dépannage",
+        "image": "/images/stock/plombier/services/services-8.webp"
+      },
+      {
+        "title": "Entretien chaudière",
+        "desc": "Révision annuelle de votre chaudière pour garantir sécurité, performance et longévité de votre installation de chauffage.",
+        "icon": "wrench",
+        "featured": true,
+        "tag": "Maintenance préventive",
+        "image": "/images/stock/plombier/services/services-1.webp"
+      },
+      {
+        "title": "Plomberie générale",
+        "desc": "Réparation de fuites, remplacement de robinetterie et travaux courants de plomberie dans votre logement.",
+        "icon": "droplets",
+        "featured": false
+      },
+      {
+        "title": "Diagnostic à distance",
+        "desc": "Conseil téléphonique pour identifier une panne et orienter vers la bonne solution avant toute intervention.",
+        "icon": "search",
+        "featured": false
+      },
+      {
+        "title": "Dépannage eau chaude",
+        "desc": "Rétablissement rapide de la production d'eau chaude sanitaire en cas de panne ou de coupure inattendue.",
+        "icon": "zap",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Disponible en août",
+        "desc": "Joignable quand tous les autres dépanneurs sont en vacances."
+      },
+      {
+        "title": "Conseil honnête",
+        "desc": "On vous guide pour résoudre le problème, même sans intervenir."
+      },
+      {
+        "title": "Artisan de proximité",
+        "desc": "Basé à Lille-Sud, intervention rapide dans tout le secteur."
+      },
+      {
+        "title": "Écoute et pédagogie",
+        "desc": "Prend le temps d'expliquer le problème et les solutions possibles."
+      }
+    ],
+    "why_us_badge": {
+      "value": "2h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Lille, Ronchin, Faches-Thumesnil, Loos, Haubourdin, Wattignies, Seclin, Hellemmes, Mons-en-Barœul",
+    "service_area_cities": [
+      "Lille",
+      "Ronchin",
+      "Faches-Thumesnil",
+      "Loos",
+      "Haubourdin",
+      "Wattignies",
+      "Seclin",
+      "Hellemmes",
+      "Mons-en-Barœul"
+    ],
+    "service_area_map_cities": [
+      "Ronchin",
+      "Loos",
+      "Haubourdin",
+      "Seclin",
+      "Mons-en-Barœul"
+    ],
+    "service_area_stats": [
+      {
+        "value": "9",
+        "label": "communes desservies"
+      },
+      {
+        "value": "3.7/5",
+        "label": "Note Google"
+      },
+      {
+        "value": "3",
+        "label": "avis clients"
+      }
+    ],
+    "service_area_note": "Déplacement rapide dans tout le secteur lillois, conseils gratuits avant toute intervention.",
+    "no_reviews_cta": null,
+    "reviews_note": "3.7 / 5 sur Google Maps · 3 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 6 21 89 58 61",
+      "email": "",
+      "hours": "Lun–Ven 9h–18h"
+    },
+    "seo_title": "Plombier-chauffagiste à Lille | AQUA TECH",
+    "meta_description": "AQUA TECH, plombier-chauffagiste à Lille. Dépannage chaudière, plomberie, conseils honnêtes. Disponible même en août. Appelez le +33 6 21 89 58 61."
+  },
+  "reviews": [
+    {
+      "author": "Sophie L.",
+      "location": "Ronchin",
+      "rating": 5,
+      "text": "En rentrant de 2 semaines de vacances, nous constatons un défaut d'allumage de notre chaudière. Durant la semaine du 15 août, impossible de trouver un dépanneur de dispo. Une semaine sans eau chaude se profile... La personne de AQUA TECH prend le temps et me conseille de persévérer à l'allumer car cela peut se produire lorsqu'on ne l'a pas utilisé pendant un moment et sinon de tester si j'ai bien le gaz qui arrive. Très bon conseil car en effet au bout de 5 fois elle s'est rallumée. Merci pour votre disponibilité et votre conseil."
+    }
+  ]
+}
