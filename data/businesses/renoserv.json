@@ -1,0 +1,197 @@
+{
+  "business": {
+    "name": "RENOSERV",
+    "slug": "renoserv",
+    "city": "Saint-Jacques-de-la-Lande",
+    "country": "France",
+    "phone": "+33 2 99 30 69 49",
+    "address": "15 Rue Henri Pollès, 35136 Saint-Jacques-de-la-Lande",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=RENOSERV&query_place_id=ChIJ4YTjxf0fD0gROb9_FDABle4",
+    "rating": 3.2,
+    "reviews_count": 18
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-4.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-6.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Artisan local"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Intervention rapide à Saint-Jacques",
+    "hero_subtitle": "Plomberie, sinistres et vitrerie — réponse rapide, présence locale dans l'agglomération rennaise.",
+    "hero_stats": [
+      {
+        "value": "3.2/5",
+        "label": "Note Google"
+      },
+      {
+        "value": "< 2h",
+        "label": "délai d'intervention"
+      },
+      {
+        "value": "3",
+        "label": "services couverts"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Intervention sur sinistres",
+        "subtitle": "Prise en charge des dossiers assurance dégâts des eaux"
+      },
+      {
+        "title": "Polyvalence plomberie & vitrerie",
+        "subtitle": "Un interlocuteur unique pour vos urgences habitat"
+      },
+      {
+        "title": "Présence locale confirmée",
+        "subtitle": "Basé à Saint-Jacques, proche de Rennes et Bruz"
+      }
+    ],
+    "value_prop": "RENOSERV intervient à Saint-Jacques-de-la-Lande et dans l'agglomération rennaise pour vos besoins en plomberie, réparation de sinistres et remplacement de vitres. Un artisan de proximité disponible du lundi au vendredi pour des interventions rapides et ciblées.",
+    "services_intro": "Plomberie, sinistres et vitrerie dans l'agglomération rennaise.",
+    "about": "RENOSERV est une entreprise artisanale implantée au 15 Rue Henri Pollès à Saint-Jacques-de-la-Lande, intervenant sur la plomberie, les sinistres et la vitrerie. Disponible du lundi au vendredi de 8h30 à 17h00, elle accompagne particuliers et professionnels dans la périphérie de Rennes.",
+    "footer_description": "RENOSERV — Artisan plombier et vitrier à Saint-Jacques-de-la-Lande (35136). Intervention sur sinistres, dépannage plomberie et remplacement de vitres dans l'agglomération rennaise. Lun–Ven 8h30–17h.",
+    "services": [
+      {
+        "title": "Plomberie & dépannage",
+        "desc": "Intervention rapide pour vos fuites, canalisations et installations sanitaires. Dépannage réactif à Saint-Jacques-de-la-Lande et environs.",
+        "icon": "droplets",
+        "featured": true,
+        "tag": "Service principal",
+        "image": "/images/stock/plombier/services/services-3.webp"
+      },
+      {
+        "title": "Réparation de sinistres",
+        "desc": "Prise en charge des dégâts des eaux après déclaration de sinistre auprès de votre assurance. Intervention coordonnée et suivi de dossier.",
+        "icon": "wrench",
+        "featured": true,
+        "tag": "Assurance prise en charge",
+        "image": "/images/stock/plombier/services/services-4.webp"
+      },
+      {
+        "title": "Remplacement de vitres",
+        "desc": "Remplacement et pose de vitres pour habitat et locaux professionnels. Intervention locale rapide.",
+        "icon": "zap",
+        "featured": false
+      },
+      {
+        "title": "Diagnostic plomberie",
+        "desc": "Identification des pannes et anomalies sur vos installations sanitaires et réseaux d'eau.",
+        "icon": "search",
+        "featured": false
+      },
+      {
+        "title": "Travaux de rénovation",
+        "desc": "Petits travaux de remise en état suite à sinistre ou usure, dans votre logement ou local.",
+        "icon": "flame",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Réactivité terrain",
+        "desc": "Délai d'intervention court pour limiter les dégâts chez vous"
+      },
+      {
+        "title": "Sinistres assurances",
+        "desc": "Expérience dans la gestion de dossiers assurance dégâts"
+      },
+      {
+        "title": "Polyvalence métiers",
+        "desc": "Plomberie et vitrerie : un seul contact pour agir vite"
+      },
+      {
+        "title": "Ancrage local Rennes",
+        "desc": "Basé en périphérie sud-ouest de Rennes, terrain connu"
+      }
+    ],
+    "why_us_badge": {
+      "value": "2h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Saint-Jacques-de-la-Lande, Rennes, Bruz, Chartres-de-Bretagne, Vezin-le-Coquet, Chantepie, Pacé, Le Rheu, Noyal-Châtillon-sur-Seiche",
+    "service_area_cities": [
+      "Saint-Jacques-de-la-Lande",
+      "Rennes",
+      "Bruz",
+      "Chartres-de-Bretagne",
+      "Vezin-le-Coquet",
+      "Chantepie",
+      "Pacé",
+      "Le Rheu",
+      "Noyal-Châtillon-sur-Seiche"
+    ],
+    "service_area_map_cities": [
+      "Rennes",
+      "Bruz",
+      "Chantepie",
+      "Pacé",
+      "Le Rheu",
+      "Vezin-le-Coquet"
+    ],
+    "service_area_stats": [
+      {
+        "value": "9",
+        "label": "communes desservies"
+      },
+      {
+        "value": "3.2/5",
+        "label": "note Google"
+      },
+      {
+        "value": "18",
+        "label": "avis clients"
+      }
+    ],
+    "service_area_note": "Déplacement rapide dans l'agglomération rennaise, devis gratuit sans engagement.",
+    "no_reviews_cta": {
+      "eyebrow": "CONFIANCE",
+      "title": "Un artisan de proximité dans votre secteur",
+      "subtitle": "Présent à Saint-Jacques-de-la-Lande, disponible du lundi au vendredi pour vos besoins en plomberie et vitrerie.",
+      "button_text": "Demander un devis gratuit"
+    },
+    "reviews_note": "3.2 / 5 sur Google Maps · 18 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 2 99 30 69 49",
+      "email": "",
+      "hours": "Lun–Ven 8h30–17h00"
+    },
+    "seo_title": "RENOSERV — Plombier & Vitrier Saint-Jacques-de-la-Lande",
+    "meta_description": "RENOSERV intervient à Saint-Jacques-de-la-Lande pour vos travaux de plomberie, sinistres et remplacement de vitres. Artisan local, disponible lundi au vendredi."
+  },
+  "reviews": []
+}
