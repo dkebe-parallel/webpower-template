@@ -1,0 +1,216 @@
+{
+  "business": {
+    "name": "ID'EAU PLOMBERIE-Plombier Rennes",
+    "slug": "ideau-plomberie-plombier-rennes",
+    "city": "L'Hermitage",
+    "country": "France",
+    "phone": "+33 6 73 58 80 50",
+    "address": "13 Rue de la Rossignolière, 35590 L'Hermitage",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=ID'EAU%20PLOMBERIE-Plombier%20Rennes&query_place_id=ChIJ1Ukb7NC9vikRFBueWccGES8",
+    "rating": 5,
+    "reviews_count": 31
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-2.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-1.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Devis gratuit"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Plombier honnête à L'Hermitage",
+    "hero_subtitle": "Intervention rapide, conseil juste et chantier propre — disponible 6j/7 de 8h à 20h.",
+    "hero_stats": [
+      {
+        "value": "5/5",
+        "label": "Note Google"
+      },
+      {
+        "value": "31",
+        "label": "avis clients"
+      },
+      {
+        "value": "6j/7",
+        "label": "disponibilité"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Honnêteté & transparence",
+        "subtitle": "Matériel adéquat, jamais de dépenses inutiles"
+      },
+      {
+        "title": "Ponctualité garantie",
+        "subtitle": "RDV respectés, chantier laissé propre"
+      },
+      {
+        "title": "Suivi attentif",
+        "subtitle": "Artisan à l'écoute avant, pendant et après"
+      }
+    ],
+    "value_prop": "ID'EAU Plomberie, c'est un artisan reconnu pour son honnêteté et sa réactivité sur Rennes et sa périphérie ouest. Particuliers et professionnels apprécient des conseils justes, sans surfacturation, et des interventions soignées du premier coup.",
+    "services_intro": "Dépannage, installation et conseil en plomberie pour particuliers et pros.",
+    "about": "ID'EAU Plomberie intervient sur Rennes et sa périphérie pour tous vos besoins en plomberie, auprès des particuliers comme des professionnels. L'artisan privilégie toujours la solution adaptée à votre situation, sans vous orienter vers des dépenses superflues. Disponible du lundi au samedi de 8h à 20h, il assure réactivité et suivi personnalisé sur chaque chantier.",
+    "footer_description": "ID'EAU Plomberie — Artisan plombier basé à L'Hermitage (35590), intervenant sur Rennes et sa périphérie ouest. Réactivité, honnêteté et soin du travail bien fait, 6 jours sur 7.",
+    "services": [
+      {
+        "title": "Dépannage plomberie",
+        "desc": "Intervention rapide pour tout dépannage plomberie chez les particuliers et les professionnels, y compris en centre-ville de Rennes.",
+        "icon": "zap",
+        "featured": true,
+        "tag": "Intervention rapide",
+        "image": "/images/stock/plombier/services/services-6.webp"
+      },
+      {
+        "title": "Installation de matériel",
+        "desc": "Pose et remplacement de tout équipement de plomberie avec recommandation du matériel réellement adapté à votre besoin.",
+        "icon": "wrench",
+        "featured": true,
+        "tag": "Conseil honnête",
+        "image": "/images/stock/plombier/services/services-7.webp"
+      },
+      {
+        "title": "Diagnostic plomberie",
+        "desc": "Analyse précise de vos installations pour identifier les causes et proposer la solution la plus pertinente.",
+        "icon": "search",
+        "featured": false
+      },
+      {
+        "title": "Conseil personnalisé",
+        "desc": "Accompagnement et conseils sur mesure pour choisir les équipements adéquats sans dépense inutile.",
+        "icon": "droplets",
+        "featured": false
+      },
+      {
+        "title": "Maintenance & suivi",
+        "desc": "Entretien régulier et suivi attentif de vos installations pour éviter les pannes et prolonger leur durée de vie.",
+        "icon": "flame",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Réactivité immédiate",
+        "desc": "Disponible 6j/7 de 8h à 20h pour intervenir rapidement"
+      },
+      {
+        "title": "Honnêteté artisanale",
+        "desc": "Conseil juste, sans pousser à des dépenses inutiles"
+      },
+      {
+        "title": "Travail soigné",
+        "desc": "RDV ponctuels et chantier toujours laissé propre"
+      },
+      {
+        "title": "Suivi personnalisé",
+        "desc": "Artisan sympathique et attentif après chaque intervention"
+      }
+    ],
+    "why_us_badge": {
+      "value": "2h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "L'Hermitage, Rennes, Pacé, Mordelles, Le Rheu, Vezin-le-Coquet, Saint-Gilles, Bréal-sous-Montfort, Montgermont",
+    "service_area_cities": [
+      "L'Hermitage",
+      "Rennes",
+      "Pacé",
+      "Mordelles",
+      "Le Rheu",
+      "Vezin-le-Coquet",
+      "Saint-Gilles",
+      "Bréal-sous-Montfort",
+      "Montgermont"
+    ],
+    "service_area_map_cities": [
+      "Rennes",
+      "Pacé",
+      "Mordelles",
+      "Le Rheu",
+      "Saint-Gilles",
+      "Montgermont"
+    ],
+    "service_area_stats": [
+      {
+        "value": "9",
+        "label": "communes couvertes"
+      },
+      {
+        "value": "5/5",
+        "label": "note Google"
+      },
+      {
+        "value": "31",
+        "label": "avis vérifiés"
+      }
+    ],
+    "service_area_note": "Déplacement rapide sur Rennes et sa périphérie ouest, devis gratuit sans engagement.",
+    "no_reviews_cta": {
+      "eyebrow": "",
+      "title": "",
+      "subtitle": "",
+      "button_text": ""
+    },
+    "reviews_note": "5 / 5 sur Google Maps · 31 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 6 73 58 80 50",
+      "email": "",
+      "hours": "Lun–Sam 8h–20h"
+    },
+    "seo_title": "Plombier L'Hermitage & Rennes — ID'EAU Plomberie",
+    "meta_description": "ID'EAU Plomberie, artisan plombier à L'Hermitage (35590). Dépannage rapide, installation et conseil honnête sur Rennes et périphérie. Note 5/5 · 31 avis · 6j/7."
+  },
+  "reviews": [
+    {
+      "author": "Stéphane M.",
+      "location": "Rennes",
+      "rating": 5,
+      "text": "Merci à ID'EAU plomberie pour son professionnalisme. Artisan sérieux, s'est rendu disponible rapidement pour mon commerce situé en centre ville de Rennes. Je recommande!"
+    },
+    {
+      "author": "Brigitte L.",
+      "location": "Pacé",
+      "rating": 5,
+      "text": "J'ai apprécié un artisan plus intéressé à mettre en place le matériel adéquat qu'à pousser à des dépenses inutiles.\nL'intervention a été rapide, les horaires de RDV respectés, le chantier laissé propre.\nCerise sur le gâteau l'intervenant est sympathique et attentif en terme de suivi.\nPas d'autre possibilité que de vous recommander chaudement cette entreprise."
+    },
+    {
+      "author": "Valérie D.",
+      "location": "Le Rheu",
+      "rating": 5,
+      "text": "Personne de très bon conseil, travail consciencieux, je recommande."
+    }
+  ]
+}
