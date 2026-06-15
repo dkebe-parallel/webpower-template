@@ -67,7 +67,7 @@ export default function Services({ services, valueProp, servicesIntro }: Service
         .scard.feat .fc { position: relative; margin-top: auto; padding: 32px; z-index: 1; }
         .scard.feat .tag { display: inline-flex; align-items: center; gap: 8px; background: var(--copper); color: #fff; font-family: var(--display); font-weight: 600; font-size: 12.5px; letter-spacing: .04em; padding: 7px 13px; border-radius: 100px; text-transform: uppercase; }
         .scard.feat .sic { background: rgba(200,121,65,.15); color: var(--copper); }
-        .scard.feat h3 { font-size: 27px; margin-top: 16px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+        .scard.feat h3 { font-size: 27px; margin-top: 16px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; color: #fff; text-shadow: 0 1px 3px rgba(0,0,0,.4); }
         .scard.feat p { color: rgba(255,255,255,.82); font-size: 15.5px; }
         .scard.feat::before { display: none; }
 
