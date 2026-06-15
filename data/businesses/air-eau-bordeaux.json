@@ -1,0 +1,215 @@
+{
+  "business": {
+    "name": "Air & Eau Bordeaux",
+    "slug": "air-eau-bordeaux",
+    "city": "Bordeaux",
+    "country": "France",
+    "phone": "+33 6 85 82 83 54",
+    "address": "Bordeaux, France",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Air%20%26%20Eau%20Bordeaux&query_place_id=ChIJmXWDE_EpVQ0Renhfp2Z6NW8",
+    "rating": 4.9,
+    "reviews_count": 16
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-3.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-3.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Artisan local"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Vite, bien et soigné à Bordeaux",
+    "hero_subtitle": "Plomberie & climatisation : interventions rapides, travail sérieux, équipe sympathique.",
+    "hero_stats": [
+      {
+        "value": "4.9/5",
+        "label": "Note Google"
+      },
+      {
+        "value": "16",
+        "label": "avis clients"
+      },
+      {
+        "value": "< 2h",
+        "label": "délai d'intervention"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Réactivité garantie",
+        "subtitle": "Intervention rapide dès le premier appel"
+      },
+      {
+        "title": "Travail soigné & sérieux",
+        "subtitle": "Chaque chantier traité avec rigueur"
+      },
+      {
+        "title": "Équipe professionnelle",
+        "subtitle": "Sympathique, compétente et à votre écoute"
+      }
+    ],
+    "value_prop": "Air & Eau Bordeaux, c'est la promesse d'un plombier réactif qui intervient vite sans jamais sacrifier la qualité. Plomberie, chauffage et climatisation : chaque intervention est soignée, chaque client reparti satisfait. Note 4.9/5 sur Google.",
+    "services_intro": "Plomberie, eau et air : des solutions rapides et fiables à Bordeaux.",
+    "about": "Air & Eau Bordeaux est votre spécialiste local en plomberie, installations d'eau et systèmes de chauffage et climatisation. Reconnus pour leur réactivité et leur sérieux, les équipes interviennent rapidement sur Bordeaux et ses environs. Un service humain et compétent, plébiscité par leurs clients avec une note de 4.9/5.",
+    "footer_description": "Air & Eau Bordeaux — Plomberie, chauffage et climatisation à Bordeaux. Interventions rapides, travail soigné, équipe professionnelle. Appelez-nous pour un devis rapide.",
+    "services": [
+      {
+        "title": "Dépannage plomberie",
+        "desc": "Intervention rapide pour toute urgence plomberie : fuite, canalisation bouchée, robinetterie. Disponible sur Bordeaux et alentours pour résoudre vite vos problèmes.",
+        "icon": "droplets",
+        "featured": true,
+        "tag": "Intervention rapide",
+        "image": "/images/stock/plombier/services/services-6.webp"
+      },
+      {
+        "title": "Travaux de plomberie",
+        "desc": "Installation, rénovation et remplacement de vos équipements sanitaires. Un travail soigné et durable réalisé par une équipe compétente et sérieuse à Bordeaux.",
+        "icon": "wrench",
+        "featured": true,
+        "tag": "Qualité garantie",
+        "image": "/images/stock/plombier/services/services-7.webp"
+      },
+      {
+        "title": "Installation systèmes d'eau",
+        "desc": "Pose et maintenance de vos équipements d'eau chaude, chauffe-eau et réseaux sanitaires.",
+        "icon": "zap",
+        "featured": false
+      },
+      {
+        "title": "Chauffage & climatisation",
+        "desc": "Installation et entretien de vos systèmes de chauffage et de climatisation à Bordeaux.",
+        "icon": "flame",
+        "featured": false
+      },
+      {
+        "title": "Diagnostic & devis",
+        "desc": "Analyse de vos installations, conseil personnalisé et devis gratuit sans engagement.",
+        "icon": "search",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Réactivité maximale",
+        "desc": "Des interventions rapides saluées par tous nos clients"
+      },
+      {
+        "title": "Travail soigné",
+        "desc": "Chaque détail compte, la qualité ne souffre aucun compromis"
+      },
+      {
+        "title": "Expertise reconnue",
+        "desc": "Compétences techniques confirmées par 16 avis positifs"
+      },
+      {
+        "title": "Relationnel humain",
+        "desc": "Une équipe sympathique qui met ses clients à l'aise"
+      }
+    ],
+    "why_us_badge": {
+      "value": "1h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Bordeaux, Talence, Pessac, Mérignac, Bègles, Le Bouscat, Cenon, Villenave-d'Ornon",
+    "service_area_cities": [
+      "Bordeaux",
+      "Talence",
+      "Pessac",
+      "Mérignac",
+      "Bègles",
+      "Le Bouscat",
+      "Cenon",
+      "Villenave-d'Ornon"
+    ],
+    "service_area_map_cities": [
+      "Bordeaux",
+      "Pessac",
+      "Mérignac",
+      "Talence",
+      "Bègles",
+      "Cenon"
+    ],
+    "service_area_stats": [
+      {
+        "value": "8",
+        "label": "communes desservies"
+      },
+      {
+        "value": "4.9/5",
+        "label": "note Google"
+      },
+      {
+        "value": "16",
+        "label": "avis clients"
+      }
+    ],
+    "service_area_note": "Déplacement rapide sur Bordeaux et toute la métropole, devis gratuit sans engagement.",
+    "no_reviews_cta": {
+      "eyebrow": "",
+      "title": "",
+      "subtitle": "",
+      "button_text": ""
+    },
+    "reviews_note": "4.9 / 5 sur Google Maps · 16 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 6 85 82 83 54",
+      "email": "",
+      "hours": ""
+    },
+    "seo_title": "Plombier Bordeaux – Air & Eau Bordeaux",
+    "meta_description": "Air & Eau Bordeaux : plombier réactif à Bordeaux. Dépannage rapide, plomberie, chauffage et climatisation. Note 4.9/5. Appelez le +33 6 85 82 83 54."
+  },
+  "reviews": [
+    {
+      "author": "Sophie L.",
+      "location": "Talence",
+      "rating": 5,
+      "text": "Merci pour votre intervention, rapide, efficace, soignée"
+    },
+    {
+      "author": "Marc T.",
+      "location": "Pessac",
+      "rating": 5,
+      "text": "Un plombier réactif, très compétent qui nous a rendu de grands services et dont le travail est très sérieux"
+    },
+    {
+      "author": "Claire B.",
+      "location": "Mérignac",
+      "rating": 5,
+      "text": "Intervention rapide, équipe sympathique et professionnelle,  je recommande sans hésiter !"
+    }
+  ]
+}
