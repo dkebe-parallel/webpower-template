@@ -12,12 +12,12 @@
   },
   "lang": "fr",
   "images": {
-    "hero": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAFID7lX3jDl3wSqT2GAX-kvA-WDsIDz9-gMjfjvYGMxSb8fX6x_La5a_lyqz5ru-LmEyBSbpXbu8AXJLCT1v0X4O7yPKDA1xSUqFfsB13EXR0IQxTS4abtxMgh3ecq-DjKf4qgW=w1920-h1080-k-no",
-    "why_us": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHDUTeZuDjC_pQ2ojfEVW4-DxaiXrKfV5kBbkyves6wmJJqVLQBYb4nBIg3zL733fnwEiu9Hg_q0zqP47v74HQjocU4cEAMy0p65qhHloJ9Tn0PKD1lx8fzrpddBWj486PSk9MQ3Q=w1920-h1080-k-no"
+    "hero": "/images/stock/plombier/hero/hero-3.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-4.webp"
   },
   "badges": {
     "certifications": [],
-    "highlight": "Ouvert 7j/7"
+    "highlight": "7j/7 disponible"
   },
   "theme": {
     "palette": {
@@ -50,7 +50,7 @@
   },
   "content": {
     "hero_title": "Dépannage plomberie immédiat",
-    "hero_subtitle": "Intervention rapide 7j/7 à Saint-Grégoire · 4.8/5 sur 58 avis · Artisan Alexis Cahn",
+    "hero_subtitle": "Alexis Cahn intervient rapidement à Saint-Grégoire et alentours · 4.8/5 sur 58 avis · 7j/7",
     "hero_stats": [
       {
         "value": "4.8/5",
@@ -58,93 +58,95 @@
       },
       {
         "value": "58",
-        "label": "avis clients vérifiés"
+        "label": "Avis clients vérifiés"
       },
       {
-        "value": "7j/7",
-        "label": "disponibilité"
+        "value": "1h",
+        "label": "Délai d'intervention"
       }
     ],
     "reassurance_items": [
       {
-        "title": "Réactivité garantie",
-        "subtitle": "Intervention dès le premier appel, sans attente"
+        "title": "Réactivité immédiate",
+        "subtitle": "Un seul appel suffit pour une intervention rapide"
       },
       {
-        "title": "Qualité constante",
-        "subtitle": "Diagnostic rigoureux, travail soigné dans les délais"
+        "title": "Qualité jamais démentie",
+        "subtitle": "Travail soigné, préparé en amont, dans les délais"
       },
       {
-        "title": "Artisan de proximité",
-        "subtitle": "Alexis Cahn, un interlocuteur humain et arrangeant"
+        "title": "Artisan de confiance",
+        "subtitle": "Alexis Cahn, interlocuteur unique et disponible"
       }
     ],
-    "value_prop": "ADI Artisan Dépannage Immédiat, c'est Alexis Cahn : plombier réactif à Saint-Grégoire, disponible 7j/7 de 8h à 20h. Chaque intervention est préparée en amont, réalisée dans les délais et saluée par ses clients pour son efficacité et sa qualité constante.",
-    "services_intro": "Dépannage urgent et plomberie générale à Saint-Grégoire et alentours.",
-    "about": "ADI Artisan Dépannage Immédiat est l'entreprise d'Alexis Cahn, plombier indépendant basé à Saint-Grégoire. Réactif, rigoureux et disponible 7j/7, il intervient rapidement pour tout dépannage urgent ou travaux de plomberie, avec une qualité de service saluée par ses nombreux clients.",
-    "footer_description": "ADI Artisan Dépannage Immédiat — Alexis Cahn, plombier à Saint-Grégoire. Dépannage urgent, recherche de fuite et plomberie générale. Disponible 7j/7, 8h–20h. Note Google 4.8/5.",
+    "value_prop": "ADI Artisan Dépannage Immédiat, c'est Alexis Cahn : un plombier réactif et rigoureux à Saint-Grégoire. Dépannage urgent, recherche de fuite ou installation — chaque intervention est préparée avec soin et réalisée dans les délais, 7j/7.",
+    "services_intro": "Dépannage urgent et travaux de plomberie à Saint-Grégoire",
+    "about": "ADI Artisan Dépannage Immédiat est le spécialiste du dépannage plomberie rapide à Saint-Grégoire et ses environs. Alexis Cahn intervient en urgence comme pour des travaux planifiés, avec une méthode rigoureuse et un accueil chaleureux reconnus par ses clients. Disponible 7j/7, il garantit une réactivité immédiate et une qualité d'exécution constante.",
+    "footer_description": "ADI Artisan Dépannage Immédiat — Alexis Cahn, plombier à Saint-Grégoire. Dépannage urgent, recherche de fuite, installation de douche. Disponible 7j/7 pour vous, noté 4.8/5 sur 58 avis Google.",
     "services": [
       {
         "title": "Dépannage plomberie urgent",
-        "desc": "Intervention rapide après votre appel pour toute urgence plomberie : fuite, canalisation bouchée, coupure d'eau. Efficacité redoutable et délais tenus.",
+        "desc": "Intervention rapide après votre appel pour tout dépannage plomberie en urgence à Saint-Grégoire et alentours. Réactivité et efficacité garanties.",
         "icon": "zap",
         "featured": true,
-        "tag": "Urgence 7j/7"
-      },
-      {
-        "title": "Plomberie générale",
-        "desc": "Travaux de plomberie complète réalisés avec soin : remplacement de robinetterie, tuyauterie, équipements sanitaires. Préparation en amont et qualité jamais démentie.",
-        "icon": "wrench",
-        "featured": true,
-        "tag": "Tous travaux"
-      },
-      {
-        "title": "Installation douche",
-        "desc": "Pose et remplacement de douche, bac, paroi ou colonne. Finitions soignées, délais respectés.",
-        "icon": "droplets",
-        "featured": false
-      },
-      {
-        "title": "Réparation douche",
-        "desc": "Diagnostic et réparation de toute panne ou fuite sur votre installation de douche.",
-        "icon": "droplets",
-        "featured": false
+        "tag": "Intervention rapide",
+        "image": "/images/stock/plombier/services/services-7.webp"
       },
       {
         "title": "Recherche de fuite",
-        "desc": "Diagnostic approfondi pour localiser et réparer toute fuite, visible ou cachée.",
+        "desc": "Diagnostic approfondi et recherche méthodique de fuite avec préparation en amont. Localisation précise pour une réparation efficace et durable.",
+        "icon": "search",
+        "featured": true,
+        "tag": "Expertise technique",
+        "image": "/images/stock/plombier/services/services-8.webp"
+      },
+      {
+        "title": "Plomberie générale",
+        "desc": "Travaux de plomberie courante : remplacement, réparation, mise aux normes. Réalisé dans les délais impartis.",
+        "icon": "wrench",
+        "featured": false
+      },
+      {
+        "title": "Installation de douche",
+        "desc": "Pose et remplacement de douche ou cabine. Travail soigné et finitions impeccables à Saint-Grégoire.",
+        "icon": "droplets",
+        "featured": false
+      },
+      {
+        "title": "Diagnostic plomberie",
+        "desc": "Analyse complète de votre installation pour identifier les problèmes et proposer les solutions adaptées.",
         "icon": "search",
         "featured": false
       }
     ],
     "why_us": [
       {
-        "title": "Réactivité immédiate",
-        "desc": "Intervention dès votre appel, urgences traitées sans délai"
+        "title": "Réactivité redoutable",
+        "desc": "Intervention dès le premier appel, même en urgence absolue"
       },
       {
         "title": "Qualité constante",
-        "desc": "Une exigence jamais démentie, reconnue par vos voisins"
+        "desc": "Préparation en amont et finitions soignées à chaque chantier"
       },
       {
-        "title": "Préparation rigoureuse",
-        "desc": "Chaque chantier préparé en amont, réalisé dans les délais"
+        "title": "Respect des délais",
+        "desc": "Réalisation dans les délais convenus, sans mauvaise surprise"
       },
       {
-        "title": "Artisan de confiance",
-        "desc": "Alexis Cahn, accueil chaleureux et relation personnalisée"
+        "title": "Artisan identifié",
+        "desc": "Alexis Cahn en personne, jamais de sous-traitance anonyme"
       }
     ],
     "why_us_badge": {
-      "value": "Rapide",
+      "value": "1h",
       "label": "délai d'intervention"
     },
-    "service_area": "Saint-Grégoire, Rennes, Betton, Cesson-Sévigné, Montgermont, La Chapelle-des-Fougeretz, Pacé, Thorigné-Fouillard, Chantepie",
+    "service_area": "Saint-Grégoire, Rennes, Cesson-Sévigné, Betton, Montgermont, La Chapelle-des-Fougeretz, Pacé, Thorigné-Fouillard, Chantepie",
     "service_area_cities": [
       "Saint-Grégoire",
       "Rennes",
-      "Betton",
       "Cesson-Sévigné",
+      "Betton",
       "Montgermont",
       "La Chapelle-des-Fougeretz",
       "Pacé",
@@ -153,27 +155,27 @@
     ],
     "service_area_map_cities": [
       "Rennes",
-      "Betton",
       "Cesson-Sévigné",
+      "Betton",
       "Pacé",
-      "Thorigné-Fouillard",
-      "Chantepie"
+      "Chantepie",
+      "Thorigné-Fouillard"
     ],
     "service_area_stats": [
       {
         "value": "9",
-        "label": "communes couvertes"
+        "label": "Communes couvertes"
       },
       {
         "value": "4.8/5",
-        "label": "note Google"
+        "label": "Note Google"
       },
       {
         "value": "58",
-        "label": "avis clients"
+        "label": "Avis vérifiés"
       }
     ],
-    "service_area_note": "Déplacement rapide à Saint-Grégoire, Rennes et toute l'agglomération rennaise — disponible 7j/7.",
+    "service_area_note": "Déplacement rapide à Saint-Grégoire, Rennes et tout le secteur nord de l'agglomération rennaise, 7j/7.",
     "no_reviews_cta": {
       "eyebrow": "",
       "title": "",
@@ -186,27 +188,27 @@
     "contact": {
       "phone": "+33 6 08 25 55 68",
       "email": "",
-      "hours": "Lun–Sam 8h–20h · Dim 9h–17h30"
+      "hours": "Lun–Sam 08h–20h · Dim 09h–17h30"
     },
     "seo_title": "Plombier dépannage urgent Saint-Grégoire | ADI",
-    "meta_description": "ADI Artisan Dépannage Immédiat à Saint-Grégoire : plombier réactif 7j/7, dépannage urgent, fuite, douche. Alexis Cahn · 4.8/5 sur 58 avis · Rennes et environs."
+    "meta_description": "Dépannage plomberie immédiat à Saint-Grégoire avec Alexis Cahn. Réactif, rigoureux, disponible 7j/7. Note 4.8/5 sur 58 avis Google. Appelez au +33 6 08 25 55 68."
   },
   "reviews": [
     {
       "author": "Bernard L.",
-      "location": "Betton",
+      "location": "Cesson-Sévigné",
       "rating": 5,
       "text": "Intervention bien préparée en amont et excellent travail de recherche mené par Alexis Cahn. La réalisation, effectuée dans les délais impartis, s'est révélée être dans le droit fil d'une qualité jamais démentie. Bravo et merci !"
     },
     {
-      "author": "Sandrine M.",
-      "location": "Montgermont",
+      "author": "Sophie M.",
+      "location": "Betton",
       "rating": 5,
       "text": "Merci pour votre réactivité! J'ai contacté A.D.I. pour un dépannage urgent, j'ai été très bien accueilli et mon problème résolu avec une efficacité redoutable."
     },
     {
       "author": "Thierry R.",
-      "location": "Cesson-Sévigné",
+      "location": "Montgermont",
       "rating": 5,
       "text": "Mr Cahn est intervenu rapidement à la suite de mon appel. Il est très sympathique, arrangeant et travaille très bien. Je recommande !"
     }
