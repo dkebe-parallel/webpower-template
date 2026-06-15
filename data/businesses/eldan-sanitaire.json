@@ -1,0 +1,204 @@
+{
+  "business": {
+    "name": "ELDAN Sanitaire",
+    "slug": "eldan-sanitaire",
+    "city": "Strasbourg",
+    "country": "France",
+    "phone": "+33 6 18 34 54 44",
+    "address": "48 A All. de la Robertsau, 67000 Strasbourg",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=ELDAN%20Sanitaire&query_place_id=ChIJ6_SdNvfIlkcRT019HBREblY",
+    "rating": 3.3,
+    "reviews_count": 3
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-1.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-5.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Artisan local"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Plombier-chauffagiste à Strasbourg",
+    "hero_subtitle": "Chaudières, fuites, sanitaire : interventions durables et travail soigné au cœur de Strasbourg.",
+    "hero_stats": [
+      {
+        "value": "3.3/5",
+        "label": "note Google"
+      },
+      {
+        "value": "9 ans",
+        "label": "durabilité prouvée"
+      },
+      {
+        "value": "100%",
+        "label": "travail soigné garanti"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Interventions durables",
+        "subtitle": "Des installations qui tiennent dans le temps"
+      },
+      {
+        "title": "Tarifs corrects et honnêtes",
+        "subtitle": "Des prix accessibles reconnus par nos clients"
+      },
+      {
+        "title": "Polyvalence plomberie-chauffage",
+        "subtitle": "Chaudière, fuite, sanitaire et revêtement sol"
+      }
+    ],
+    "value_prop": "ELDAN Sanitaire intervient à Strasbourg et ses environs pour vos chaudières gaz, réparations de fuites et travaux sanitaires. Une chaudière installée en 2013 toujours fonctionnelle en 2022 : la durabilité des interventions parle d'elle-même.",
+    "services_intro": "Plomberie, chauffage et revêtement sol : une offre complète à Strasbourg.",
+    "about": "ELDAN Sanitaire est un artisan plombier-chauffagiste installé à Strasbourg, quartier Robertsau. Spécialisé dans le remplacement de chaudières gaz, le dépannage sanitaire et la pose de revêtements de sol, il intervient chez les particuliers et en location. Sa clientèle fidèle depuis plusieurs années témoigne de la solidité de son savoir-faire.",
+    "footer_description": "ELDAN Sanitaire — Plombier-chauffagiste à Strasbourg (Robertsau). Chaudières gaz, dépannage fuites, réglage de pression et PVC sol. Interventions soignées et durables dans tout le secteur strasbourgeois.",
+    "services": [
+      {
+        "title": "Chaudière gaz",
+        "desc": "Remplacement et installation de chaudière gaz, y compris en espaces exigus. Travail soigné avec des équipements fiables et durables.",
+        "icon": "flame",
+        "featured": true,
+        "tag": "Expertise reconnue",
+        "image": "/images/stock/plombier/services/services-4.webp"
+      },
+      {
+        "title": "Dépannage fuites",
+        "desc": "Diagnostic et réparation rapide de fuites en appartement ou location. Intervention propre, même avec des configurations d'accès difficiles.",
+        "icon": "droplets",
+        "featured": true,
+        "tag": "Intervention rapide",
+        "image": "/images/stock/plombier/services/services-5.webp"
+      },
+      {
+        "title": "Pression sanitaire",
+        "desc": "Diagnostic et réglage de pression d'eau pour appartements et habitations.",
+        "icon": "wrench",
+        "featured": false
+      },
+      {
+        "title": "Pose de PVC sol",
+        "desc": "Fourniture et pose de revêtement PVC sol pour vos pièces humides.",
+        "icon": "zap",
+        "featured": false
+      },
+      {
+        "title": "Plomberie générale",
+        "desc": "Entretien, réparation et mise aux normes de vos installations sanitaires.",
+        "icon": "search",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Fidélité client 10 ans",
+        "desc": "Des clients qui reviennent depuis 2013 : gage de qualité durable."
+      },
+      {
+        "title": "Travail propre et soigné",
+        "desc": "Chaque intervention est réalisée avec soin, même en espace exigu."
+      },
+      {
+        "title": "Tarifs acceptables",
+        "desc": "Des prix corrects et transparents, reconnus par une clientèle fidèle."
+      },
+      {
+        "title": "Artisan de proximité",
+        "desc": "Basé à Strasbourg Robertsau, intervenant dans tout le secteur."
+      }
+    ],
+    "why_us_badge": {
+      "value": "2h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Strasbourg, Schiltigheim, Bischheim, Hoenheim, Illkirch-Graffenstaden, Lingolsheim, Ostwald, Eckbolsheim, La Wantzenau",
+    "service_area_cities": [
+      "Strasbourg",
+      "Schiltigheim",
+      "Bischheim",
+      "Hoenheim",
+      "Illkirch-Graffenstaden",
+      "Lingolsheim",
+      "Ostwald",
+      "Eckbolsheim",
+      "La Wantzenau"
+    ],
+    "service_area_map_cities": [
+      "Schiltigheim",
+      "Bischheim",
+      "Illkirch-Graffenstaden",
+      "Lingolsheim",
+      "Ostwald",
+      "La Wantzenau"
+    ],
+    "service_area_stats": [
+      {
+        "value": "9",
+        "label": "communes couvertes"
+      },
+      {
+        "value": "3.3/5",
+        "label": "note Google"
+      },
+      {
+        "value": "3",
+        "label": "avis clients"
+      }
+    ],
+    "service_area_note": "Déplacement rapide dans tout le secteur strasbourgeois, devis gratuit sans engagement.",
+    "no_reviews_cta": {
+      "eyebrow": "",
+      "title": "",
+      "subtitle": "",
+      "button_text": ""
+    },
+    "reviews_note": "3.3 / 5 sur Google Maps · 3 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 6 18 34 54 44",
+      "email": "",
+      "hours": ""
+    },
+    "seo_title": "Plombier-chauffagiste Strasbourg | ELDAN Sanitaire",
+    "meta_description": "ELDAN Sanitaire, plombier-chauffagiste à Strasbourg (Robertsau). Chaudière gaz, dépannage fuites, pression sanitaire et PVC sol. Devis gratuit, intervention rapide."
+  },
+  "reviews": [
+    {
+      "author": "Marc T.",
+      "location": "Schiltigheim",
+      "rating": 5,
+      "text": "Très bon artisan, professionnel, fiable, respectueux des engagements,des tarifs plus que corrects et acceptables , travail propre et soigné, m'a remplacé une chaudière gaz à ventouse en 2013 dans un endroit exigus ,toujours fonctionnelle, il m'avait fait profiter d'une offre de la marque, et j'ai sollicité ses services à nouveau cette année 2022 pour une fuite dans une location avec locataire difficile et idem depuis 2013, au top ! 👍Je conseille vous ne serez pas déçu. 👍🔝"
+    }
+  ]
+}
