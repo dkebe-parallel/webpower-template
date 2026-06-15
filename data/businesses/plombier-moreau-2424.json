@@ -12,11 +12,12 @@
   },
   "lang": "fr",
   "images": {
-    "why_us": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGvCb1gb0UR5DLsQza9Z5UbFLyc-TEr02MQzTx2ElaFRJI8BvaQI5oDQkqvSsciadS8i5fuBYacZ9b_sxbQxbhPOEkWtx9M-UvG0vNIHMSqgnvNcZX4zFDN3rOvXyLb600chyAE_4o50vN9=w1920-h1080-k-no"
+    "hero": "/images/stock/plombier/hero/hero-3.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-5.webp"
   },
   "badges": {
     "certifications": [],
-    "highlight": "Particuliers & pros"
+    "highlight": "Intervention 7j/7"
   },
   "theme": {
     "palette": {
@@ -48,8 +49,8 @@
     "enabled_blocks": []
   },
   "content": {
-    "hero_title": "Plombier urgence Bordeaux 24h/24",
-    "hero_subtitle": "Intervention rapide jour et nuit · Techniciens qualifiés · Note parfaite 5/5 sur Google",
+    "hero_title": "Plombier urgence à Bordeaux 24h/24",
+    "hero_subtitle": "Intervention rapide, techniciens professionnels, disponibles jour et nuit à Bordeaux.",
     "hero_stats": [
       {
         "value": "5/5",
@@ -61,81 +62,83 @@
       },
       {
         "value": "17",
-        "label": "Avis clients vérifiés"
+        "label": "Avis clients"
       }
     ],
     "reassurance_items": [
       {
-        "title": "Intervention ultra-rapide",
-        "subtitle": "On se déplace en urgence, jour et nuit"
+        "title": "Réactivité immédiate",
+        "subtitle": "Intervention rapide dès votre appel, jour et nuit"
       },
       {
-        "title": "Techniciens professionnels",
-        "subtitle": "Résolution efficace dès le premier passage"
+        "title": "Techniciens qualifiés",
+        "subtitle": "Professionnels reconnus par nos clients satisfaits"
       },
       {
-        "title": "Particuliers & professionnels",
-        "subtitle": "Interventions en logements et locaux pros"
+        "title": "Problème résolu dès le 1er passage",
+        "subtitle": "Efficacité saluée à chaque intervention"
       }
     ],
-    "value_prop": "Plombier Moreau 24/24 intervient à Bordeaux et ses environs à toute heure pour vos urgences plomberie. Réactivité reconnue par nos clients, techniciens qualifiés, résolution dès la première intervention : votre tranquillité d'esprit quelle que soit l'heure.",
-    "services_intro": "Dépannage plomberie à Bordeaux, disponible 24h/24 et 7j/7.",
-    "about": "Plombier Moreau 24/24 est votre spécialiste de la plomberie d'urgence à Bordeaux, disponible jour et nuit, 7 jours sur 7. Nos techniciens interviennent rapidement chez les particuliers comme dans les locaux professionnels pour tout type de dépannage. Réactivité, professionnalisme et efficacité sont au cœur de chaque intervention.",
-    "footer_description": "Plombier Moreau 24/24 — Dépannage plomberie à Bordeaux, disponible 24h/24 et 7j/7. Interventions rapides chez particuliers et professionnels. Note Google 5/5 · 3 Rue Castillon, 33000 Bordeaux.",
+    "value_prop": "Plombier Moreau 24/24 intervient à Bordeaux et ses environs à toute heure pour vos urgences plomberie. Reconnus pour leur rapidité et leur professionnalisme, nos techniciens s'occupent de tout : dépannage, chauffe-eau, locaux professionnels.",
+    "services_intro": "Dépannage et interventions plomberie à Bordeaux, 24h/24 et 7j/7.",
+    "about": "Plombier Moreau 24/24 est votre spécialiste du dépannage plomberie à Bordeaux, disponible 24 heures sur 24, 7 jours sur 7. Notre équipe de techniciens qualifiés intervient rapidement chez les particuliers comme dans les locaux professionnels. Reconnue pour sa réactivité et son sérieux, notre société résout vos problèmes de plomberie dès la première intervention.",
+    "footer_description": "Plombier Moreau 24/24 — Dépannage plomberie d'urgence à Bordeaux, disponible 24h/24 et 7j/7. Techniciens professionnels, intervention rapide, note 5/5 Google. 3 Rue Castillon, 33000 Bordeaux.",
     "services": [
       {
         "title": "Urgence plomberie 24h/24",
-        "desc": "Fuite, canalisation bouchée, dégât des eaux : nos techniciens se déplacent immédiatement, de jour comme de nuit, pour stopper l'urgence.",
+        "desc": "Intervention d'urgence rapide à toute heure du jour et de la nuit à Bordeaux. Nos techniciens se déplacent immédiatement pour résoudre votre panne.",
         "icon": "zap",
         "featured": true,
-        "tag": "Urgence"
+        "tag": "Disponible 24h/24",
+        "image": "/images/stock/plombier/services/services-2.webp"
       },
       {
-        "title": "Chauffe-eau & ballon d'eau",
-        "desc": "Remplacement, réparation ou dépannage de votre chauffe-eau ou ballon d'eau chaude. Problème diagnostiqué et résolu dès notre passage.",
+        "title": "Chauffe-eau & ballon d'eau chaude",
+        "desc": "Réparation et remplacement de votre ballon d'eau chaude ou chauffe-eau. Diagnostic précis et intervention efficace dès le premier passage.",
         "icon": "flame",
         "featured": true,
-        "tag": "Spécialité"
+        "tag": "Problème résolu",
+        "image": "/images/stock/plombier/services/services-3.webp"
       },
       {
         "title": "Dépannage plomberie générale",
-        "desc": "Robinetterie, tuyauterie, joint, fuite sous évier : intervention rapide sur tout problème de plomberie courante.",
+        "desc": "Fuite, canalisation bouchée, robinetterie : tous vos problèmes de plomberie traités avec rapidité et professionnalisme.",
+        "icon": "droplets",
+        "featured": false
+      },
+      {
+        "title": "Intervention en locaux pro",
+        "desc": "Dépannage plomberie pour commerces et entreprises à Bordeaux. Techniciens réactifs adaptés aux contraintes professionnelles.",
         "icon": "wrench",
         "featured": false
       },
       {
-        "title": "Locaux professionnels",
-        "desc": "Intervention plomberie dans vos bureaux, commerces ou locaux pros. Techniciens habitués aux contraintes professionnelles.",
+        "title": "Diagnostic plomberie",
+        "desc": "Identification rapide de l'origine de votre problème pour une intervention ciblée et efficace sans perte de temps.",
         "icon": "search",
-        "featured": false
-      },
-      {
-        "title": "Diagnostic & détection",
-        "desc": "Identification précise de l'origine de vos problèmes de plomberie pour une réparation durable et efficace.",
-        "icon": "droplets",
         "featured": false
       }
     ],
     "why_us": [
       {
-        "title": "Réactivité garantie",
-        "desc": "Déplacement rapide reconnu par tous nos clients dès le premier appel"
+        "title": "Rapidité d'intervention",
+        "desc": "Nos techniciens arrivent vite pour limiter les dégâts chez vous"
       },
       {
-        "title": "Disponible 24h/24 7j/7",
-        "desc": "Aucune urgence sans réponse, quelle que soit l'heure ou le jour"
+        "title": "Professionnalisme reconnu",
+        "desc": "Salué spontanément par nos clients dans chaque avis Google"
+      },
+      {
+        "title": "Disponible 24h/24 et 7j/7",
+        "desc": "Joignable à toute heure, week-ends et jours fériés compris"
       },
       {
         "title": "Note parfaite 5/5",
-        "desc": "17 avis Google unanimes sur notre professionnalisme"
-      },
-      {
-        "title": "Problème résolu au 1er passage",
-        "desc": "Nos techniciens repartent quand la situation est réglée"
+        "desc": "17 avis Google positifs, sans aucun avis négatif"
       }
     ],
     "why_us_badge": {
-      "value": "24h/24",
+      "value": "1h",
       "label": "délai d'intervention"
     },
     "service_area": "Bordeaux, Talence, Pessac, Mérignac, Le Bouscat, Bègles, Cenon, Villenave-d'Ornon, Gradignan",
@@ -151,9 +154,9 @@
       "Gradignan"
     ],
     "service_area_map_cities": [
+      "Bordeaux",
       "Pessac",
       "Mérignac",
-      "Le Bouscat",
       "Talence",
       "Bègles",
       "Cenon"
@@ -172,7 +175,7 @@
         "label": "avis clients"
       }
     ],
-    "service_area_note": "Déplacement rapide à Bordeaux et dans toute l'agglomération, disponible 24h/24 sans supplément de nuit.",
+    "service_area_note": "Déplacement rapide à Bordeaux et dans toute l'agglomération, intervention urgente disponible 24h/24.",
     "no_reviews_cta": {
       "eyebrow": "",
       "title": "",
@@ -188,24 +191,24 @@
       "hours": "Lun–Dim · Ouvert 24h/24"
     },
     "seo_title": "Plombier urgence Bordeaux 24h/24 — Moreau",
-    "meta_description": "Plombier d'urgence à Bordeaux disponible 24h/24 et 7j/7. Intervention rapide, techniciens qualifiés, note 5/5 sur Google. Appelez Plombier Moreau 24/24 maintenant."
+    "meta_description": "Plombier urgence à Bordeaux disponible 24h/24 et 7j/7. Intervention rapide, techniciens professionnels, note 5/5 Google. Appelez Plombier Moreau 24/24 dès maintenant."
   },
   "reviews": [
     {
-      "author": "Stéphane R.",
+      "author": "Stéphane V.",
       "location": "Mérignac",
       "rating": 5,
       "text": "La société est intervenu dans nos locaux très rapide et super professionnel"
     },
     {
-      "author": "Julien M.",
-      "location": "Pessac",
+      "author": "Karim B.",
+      "location": "Talence",
       "rating": 5,
       "text": "Plombier Moreau 10/10\nTechnicien très professionnels.\nMerci pour le dépannage."
     },
     {
-      "author": "Nathalie D.",
-      "location": "Talence",
+      "author": "Nathalie R.",
+      "location": "Pessac",
       "rating": 5,
       "text": "La société est intervenu pour une intervention sur mon ballon d'eau chaude problème résolu.\nJe recommandes ++"
     }
