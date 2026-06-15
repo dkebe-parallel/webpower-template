@@ -1,0 +1,210 @@
+{
+  "business": {
+    "name": "Balas et Fils",
+    "slug": "balas-et-fils",
+    "city": "Bénéjacq",
+    "country": "France",
+    "phone": "+33 5 59 61 07 14",
+    "address": "3 Rue d'Ossau, 64800 Bénéjacq",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Balas%20et%20Fils&query_place_id=ChIJEUfDkkYzVg0R9jHoVQ9tM1Y",
+    "rating": 4.9,
+    "reviews_count": 8
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-5.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-2.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Entreprise familiale"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Plomberie sérieuse à Bénéjacq",
+    "hero_subtitle": "Chantiers propres, délais respectés, conseils personnalisés — l'engagement d'une entreprise familiale.",
+    "hero_stats": [
+      {
+        "value": "4.9/5",
+        "label": "Note Google"
+      },
+      {
+        "value": "100%",
+        "label": "clients satisfaits"
+      },
+      {
+        "value": "Famille",
+        "label": "entreprise engagée"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Chantiers toujours propres",
+        "subtitle": "Aucune mauvaise surprise après notre passage"
+      },
+      {
+        "title": "Délais rigoureusement tenus",
+        "subtitle": "Respect des dates et des consignes de chantier"
+      },
+      {
+        "title": "Conseils & disponibilité",
+        "subtitle": "Accompagnement humain du début à la fin"
+      }
+    ],
+    "value_prop": "Balas et Fils, c'est une entreprise familiale béarnaise qui prend en charge vos travaux de plomberie avec rigueur et professionnalisme. Rénovation complète de réseaux, installation ou réfection : chaque chantier est mené proprement, dans les délais, par une équipe dont le savoir-faire et le savoir-être sont unanimement salués.",
+    "services_intro": "Travaux de plomberie soignés pour vos projets de rénovation et d'installation.",
+    "about": "Balas et Fils est une entreprise familiale de plomberie installée à Bénéjacq, au cœur du Piémont béarnais. L'équipe intervient sur des chantiers d'envergure comme des rénovations complètes de réseaux, toujours avec le même souci de propreté et de professionnalisme. Leur engagement : un travail bien fait, des délais respectés et un accompagnement sincère à chaque étape.",
+    "footer_description": "Balas et Fils — Plombier à Bénéjacq (64800). Entreprise familiale spécialisée en rénovation de réseaux de plomberie dans le Piémont béarnais. Sérieux, propre, disponible.",
+    "services": [
+      {
+        "title": "Rénovation réseau plomberie",
+        "desc": "Refonte complète de votre réseau de plomberie dans le cadre d'une rénovation : planification rigoureuse, pose soignée et chantier laissé impeccable.",
+        "icon": "wrench",
+        "featured": true,
+        "tag": "Spécialité",
+        "image": "/images/stock/plombier/services/services-3.webp"
+      },
+      {
+        "title": "Installation plomberie neuve",
+        "desc": "Mise en place de vos équipements sanitaires et alimentations eau froide/chaude pour une construction ou une rénovation complète de salle de bain ou cuisine.",
+        "icon": "droplets",
+        "featured": true,
+        "tag": "Sur mesure",
+        "image": "/images/stock/plombier/services/services-4.webp"
+      },
+      {
+        "title": "Réfection de canalisations",
+        "desc": "Remplacement et remise en état de canalisations vétustes pour garantir étanchéité et performance de votre réseau.",
+        "icon": "search",
+        "featured": false
+      },
+      {
+        "title": "Dépannage plomberie",
+        "desc": "Intervention rapide pour fuite, canalisation bouchée ou problème sanitaire urgent dans votre habitation.",
+        "icon": "zap",
+        "featured": false
+      },
+      {
+        "title": "Conseil & suivi de chantier",
+        "desc": "Accompagnement personnalisé à chaque phase de vos travaux, avec des conseils adaptés à votre projet.",
+        "icon": "wind",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Travail soigné et propre",
+        "desc": "Chantiers systématiquement laissés propres après chaque intervention."
+      },
+      {
+        "title": "Délais toujours respectés",
+        "desc": "Les dates de chantier sont tenues, sans exception ni retard."
+      },
+      {
+        "title": "Équipe familiale engagée",
+        "desc": "Savoir-faire et savoir-être reconnus de l'ensemble de l'équipe."
+      },
+      {
+        "title": "Conseil & disponibilité",
+        "desc": "Présents et de bon conseil du début à la fin du chantier."
+      }
+    ],
+    "why_us_badge": {
+      "value": "2h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Bénéjacq, Nay, Coarraze, Bordes, Igon, Asson, Pau, Jurançon, Lestelle-Bétharram",
+    "service_area_cities": [
+      "Bénéjacq",
+      "Nay",
+      "Coarraze",
+      "Bordes",
+      "Igon",
+      "Asson",
+      "Pau",
+      "Jurançon",
+      "Lestelle-Bétharram"
+    ],
+    "service_area_map_cities": [
+      "Pau",
+      "Nay",
+      "Jurançon",
+      "Coarraze",
+      "Asson",
+      "Lestelle-Bétharram"
+    ],
+    "service_area_stats": [
+      {
+        "value": "9",
+        "label": "communes desservies"
+      },
+      {
+        "value": "4.9/5",
+        "label": "note Google"
+      },
+      {
+        "value": "8",
+        "label": "avis clients vérifiés"
+      }
+    ],
+    "service_area_note": "Déplacement dans tout le Piémont béarnais, de Pau à Lestelle-Bétharram. Devis gratuit sans engagement.",
+    "no_reviews_cta": {
+      "eyebrow": "",
+      "title": "",
+      "subtitle": "",
+      "button_text": ""
+    },
+    "reviews_note": "4.9 / 5 sur Google Maps · 8 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 5 59 61 07 14",
+      "email": "",
+      "hours": ""
+    },
+    "seo_title": "Plombier à Bénéjacq — Balas et Fils | 4.9/5",
+    "meta_description": "Balas et Fils, plombier familial à Bénéjacq (64800). Rénovation de réseaux, installation sanitaire. Travail soigné, délais respectés. Note 4.9/5 sur Google."
+  },
+  "reviews": [
+    {
+      "author": "Pascal M.",
+      "location": "Nay",
+      "rating": 5,
+      "text": "Dans le cadre de la rénovation complète de notre maison, l'entreprise Balas a entièrement refait tout le réseau de plomberie, et nous sommes très satisfaits du résultat.\n\nTravail sérieux, propre et réalisé avec beaucoup de professionnalisme. Toujours de bon conseil et disponible tout au long du chantier.\nJe recommande"
+    },
+    {
+      "author": "Nathalie C.",
+      "location": "Coarraze",
+      "rating": 5,
+      "text": "Savoir-faire et savoir-être au top de l'ensemble de l'équipe. Travail très bien réalisé et rapidement. Chantier laissé propre. Respect des dates de chantier, des consignes. Je recommande vivement 👍"
+    }
+  ]
+}
