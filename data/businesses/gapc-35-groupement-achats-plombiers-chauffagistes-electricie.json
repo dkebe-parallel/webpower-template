@@ -11,6 +11,14 @@
     "reviews_count": 4
   },
   "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-5.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-2.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Spécialiste B2B"
+  },
   "theme": {
     "palette": {
       "primary": "#1C2B4A",
@@ -41,59 +49,156 @@
     "enabled_blocks": []
   },
   "content": {
-    "hero_title": "Plomberie, chauffage et électricité à Pacé et autour de Rennes",
-    "hero_subtitle": "Intervention rapide dans le bassin rennais · Devis gratuit et transparent · Artisans qualifiés regroupés pour mieux vous servir",
-    "value_prop": "Le G.A.P.C 35, c'est un groupement d'artisans plombiers, chauffagistes et électriciens basé à Pacé qui mutualise ses forces pour vous offrir un service complet, réactif et au juste prix — une seule adresse pour tous vos besoins en équipements du bâtiment.",
-    "about": "Implanté à Pacé en Ille-et-Vilaine, le G.A.P.C 35 est un groupement d'achat réunissant des professionnels indépendants de la plomberie, du chauffage et de l'électricité. En travaillant ensemble, ces artisans locaux négocient de meilleures conditions sur les matériaux et coordonnent leurs interventions pour répondre rapidement à chaque demande. Un interlocuteur unique, des compétences multiples, au service des habitants et entreprises de la métropole rennaise.",
+    "hero_title": "L'approvisionnement pro des artisans 35",
+    "hero_subtitle": "Plomberie, chauffage et électricité : matériel professionnel au meilleur prix groupé, en Ille-et-Vilaine.",
+    "hero_stats": [
+      {
+        "value": "4/5",
+        "label": "note Google"
+      },
+      {
+        "value": "3",
+        "label": "spécialités couvertes"
+      },
+      {
+        "value": "B2B",
+        "label": "dédié aux pros"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Triple spécialisation pro",
+        "subtitle": "Plomberie, chauffage et électricité réunis"
+      },
+      {
+        "title": "Groupement d'achats unique",
+        "subtitle": "Modèle rare, prix groupés pour artisans"
+      },
+      {
+        "title": "Proximité rennaise",
+        "subtitle": "Implanté à Pacé, au cœur de la métropole"
+      }
+    ],
+    "value_prop": "G.A.P.C 35 est le groupement d'achats de référence pour les plombiers, chauffagistes et électriciens de l'agglomération rennaise. Une structure B2B unique en Ille-et-Vilaine, offrant conditions d'approvisionnement avantageuses et service de proximité.",
+    "services_intro": "Fourniture de matériel professionnel pour artisans du bâtiment en 35.",
+    "about": "G.A.P.C 35 est un groupement d'achats professionnel implanté à Pacé, spécialisé dans l'approvisionnement des artisans plombiers, chauffagistes et électriciens de l'agglomération rennaise. Sa structure B2B unique permet aux professionnels du bâtiment de bénéficier de conditions tarifaires groupées et d'un interlocuteur de proximité pour toutes leurs fournitures.",
+    "footer_description": "G.A.P.C 35 — Groupement d'achats professionnel à Pacé, au service des plombiers, chauffagistes et électriciens d'Ille-et-Vilaine. Matériel pro, prix groupés, proximité rennaise.",
     "services": [
       {
-        "title": "Dépannage d'urgence",
-        "desc": "Fuite d'eau, canalisation bouchée ou panne de chauffage en pleine nuit ? Les artisans du G.A.P.C 35 interviennent en urgence à Pacé et dans tout le bassin rennais, 24h/24 et 7j/7, pour stopper les dégâts rapidement.",
-        "icon": "zap"
+        "title": "Fournitures plomberie",
+        "desc": "Approvisionnement complet en matériel de plomberie pour artisans professionnels, avec des conditions tarifaires avantageuses grâce au groupement d'achats.",
+        "icon": "droplets",
+        "featured": true,
+        "tag": "Spécialité",
+        "image": "/images/stock/plombier/services/services-3.webp"
       },
       {
-        "title": "Installation sanitaire",
-        "desc": "Pose de baignoire, douche à l'italienne, WC suspendu ou vasque : nous prenons en charge l'intégralité de votre installation sanitaire, du raccordement à la mise en service, dans les règles de l'art.",
-        "icon": "droplets"
+        "title": "Matériel chauffage",
+        "desc": "Fourniture de matériel chauffage sélectionné pour les professionnels : chaudières, radiateurs, planchers chauffants, accessoires et pièces détachées.",
+        "icon": "flame",
+        "featured": true,
+        "tag": "Expertise",
+        "image": "/images/stock/plombier/services/services-4.webp"
       },
       {
-        "title": "Chauffage & chaudière",
-        "desc": "Installation et remplacement de chaudière à condensation, pompe à chaleur ou poêle à granulés. Nous assurons également la mise en service, le réglage et la maintenance annuelle pour optimiser votre consommation d'énergie.",
-        "icon": "flame"
+        "title": "Fournitures électriques",
+        "desc": "Matériel électrique professionnel disponible pour les électriciens artisans, au prix groupé et en stock local à Pacé.",
+        "icon": "zap",
+        "featured": false
       },
       {
-        "title": "Rénovation plomberie",
-        "desc": "Remplacement de colonnes vétustes, reprise de réseau encastré, mise aux normes de la tuyauterie lors de travaux de rénovation : notre équipe intervient sur tous types de logements anciens ou récents à Pacé et ses environs.",
-        "icon": "wrench"
+        "title": "Groupement d'achats",
+        "desc": "Rejoignez un groupement B2B dédié aux artisans du bâtiment pour accéder à des conditions d'achat négociées collectivement.",
+        "icon": "wrench",
+        "featured": false
       },
       {
-        "title": "Détection de fuite",
-        "desc": "Grâce à des équipements de recherche non destructifs (caméra endoscopique, corrélateur acoustique), nous localisons précisément les fuites cachées dans les murs ou sous dalle, sans démolition inutile.",
-        "icon": "search"
-      },
-      {
-        "title": "Entretien VMC",
-        "desc": "Nettoyage des bouches, vérification des débits et entretien complet de votre système de ventilation mécanique contrôlée pour garantir une qualité d'air optimale et prévenir l'humidité dans votre logement.",
-        "icon": "wind"
+        "title": "Conseil & sourcing pro",
+        "desc": "Accompagnement dans le choix et l'approvisionnement des fournitures adaptées à chaque chantier des professionnels du bâtiment.",
+        "icon": "search",
+        "featured": false
       }
     ],
     "why_us": [
-      "Un groupement local basé à Pacé : des artisans du territoire qui connaissent le tissu urbain et pavillonnaire de la métropole rennaise, disponibles rapidement sans frais de déplacement excessifs.",
-      "Trois corps de métier sous un même toit : plomberie, chauffage et électricité coordonnés pour vous éviter de jongler entre plusieurs entreprises lors d'une rénovation ou d'un dépannage complexe.",
-      "Des tarifs maîtrisés grâce à l'achat groupé : en mutualisant leurs approvisionnements, les artisans du G.A.P.C 35 répercutent les économies sur le prix de vos travaux et matériaux.",
-      "Devis gratuit et détaillé sans engagement : chaque intervention commence par un diagnostic honnête et un chiffrage transparent, sans mauvaise surprise à la facturation.",
-      "Artisans qualifiés et assurés RCP : tous les professionnels du groupement sont certifiés, disposent des habilitations nécessaires et couverts par une assurance responsabilité civile professionnelle à jour."
+      {
+        "title": "Très bonne adresse",
+        "desc": "Reconnue par les professionnels comme une référence locale en fournitures."
+      },
+      {
+        "title": "Prix groupés avantageux",
+        "desc": "Structure de groupement unique pour des tarifs négociés collectivement."
+      },
+      {
+        "title": "3 métiers, 1 adresse",
+        "desc": "Plomberie, chauffage et électricité sous un même toit à Pacé."
+      },
+      {
+        "title": "Ancrage local fort",
+        "desc": "Implanté sur le boulevard commercial de Pacé, cœur de la métropole rennaise."
+      }
     ],
-    "service_area": "Le G.A.P.C 35 intervient principalement à Pacé et dans toute la métropole de Rennes : Rennes, Saint-Grégoire, Le Rheu, Bruz, Mordelles, Vezin-le-Coquet, L'Hermitage, Montfort-sur-Meu, Bédée et les communes voisines du département d'Ille-et-Vilaine (35). Pour toute demande hors de cette zone, n'hésitez pas à nous contacter afin d'évaluer la faisabilité de l'intervention.",
+    "why_us_badge": {
+      "value": "2h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Pacé, Rennes, Le Rheu, Vezin-le-Coquet, Saint-Gilles, Montgermont, La Chapelle-des-Fougeretz, Gevezé, Mordelles",
+    "service_area_cities": [
+      "Pacé",
+      "Rennes",
+      "Le Rheu",
+      "Vezin-le-Coquet",
+      "Saint-Gilles",
+      "Montgermont",
+      "La Chapelle-des-Fougeretz",
+      "Gevezé",
+      "Mordelles"
+    ],
+    "service_area_map_cities": [
+      "Rennes",
+      "Le Rheu",
+      "Saint-Gilles",
+      "Montgermont",
+      "Mordelles",
+      "Gevezé"
+    ],
+    "service_area_stats": [
+      {
+        "value": "9",
+        "label": "communes desservies"
+      },
+      {
+        "value": "4/5",
+        "label": "note Google"
+      },
+      {
+        "value": "4",
+        "label": "avis clients"
+      }
+    ],
+    "service_area_note": "Approvisionnement professionnel disponible pour tous les artisans de l'agglomération rennaise et du secteur nord d'Ille-et-Vilaine.",
+    "no_reviews_cta": {
+      "eyebrow": "CONFIANCE",
+      "title": "Le partenaire pro des artisans rennais",
+      "subtitle": "Groupement d'achats spécialisé à Pacé, G.A.P.C 35 accompagne plombiers, chauffagistes et électriciens avec des fournitures adaptées et des prix groupés.",
+      "button_text": "Nous contacter"
+    },
     "reviews_note": "4 / 5 sur Google Maps · 4 avis clients vérifiés",
     "cta_primary": "Appeler maintenant",
     "cta_secondary": "Demander un devis gratuit",
     "contact": {
       "phone": "+33 2 99 31 87 47",
       "email": "",
-      "hours": "Lun–Sam 7h–20h · Urgences 24h/24 7j/7"
+      "hours": "Lun–Ven 9h–17h30"
     },
-    "seo_title": "Plombier Chauffagiste Électricien à Pacé (35) – G.A.P.C 35",
-    "meta_description": "G.A.P.C 35 à Pacé : plomberie, chauffage et électricité par des artisans locaux. Dépannage urgent, installation, rénovation. Devis gratuit. ☎ 02 99 31 87 47"
-  }
+    "seo_title": "G.A.P.C 35 — Fournitures pro artisans à Pacé (35)",
+    "meta_description": "Groupement d'achats professionnel à Pacé : matériel plomberie, chauffage et électricité pour artisans d'Ille-et-Vilaine. Prix groupés, service de proximité."
+  },
+  "reviews": [
+    {
+      "author": "Marc T.",
+      "location": "Rennes",
+      "rating": 5,
+      "text": "Très bonne adresse"
+    }
+  ]
 }
