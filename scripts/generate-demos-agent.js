@@ -9,6 +9,8 @@ const COUNTRY    = 'France'
 const Anthropic   = require('@anthropic-ai/sdk').default
 const Airtable    = require('airtable')
 const { Octokit } = require('@octokit/rest')
+const fs          = require('fs')
+const path        = require('path')
 
 // ─── HELPERS ───────────────────────────────────────────────────────────────
 
@@ -359,19 +361,55 @@ STRUCTURE JSON COMPLÈTE ATTENDUE:
   return JSON.parse(extractJSON(message.content[0].text))
 }
 
-// ─── STAGE 3 — Images (disabled until Sprint 3 image bank is ready) ────────
-// Always use ElegantPlaceholder — never set images from Google photo URLs
-// (expired/low-quality URLs cause broken image icons)
+// ─── STAGE 3 — Stock image selection ──────────────────────────────────────
+
+function hashString(str) {
+  let hash = 0
+  for (let i = 0; i < str.length; i++) {
+    hash = (hash * 31 + str.charCodeAt(i)) >>> 0
+  }
+  return hash
+}
+
+function getStockImages(vertical, category) {
+  const dir = path.join(process.cwd(), 'public', 'images', 'stock', vertical, category)
+  try {
+    return fs.readdirSync(dir).filter(f => f.endsWith('.webp')).sort()
+  } catch {
+    return []
+  }
+}
 
 function injectImages(jsonData) {
+  // Strip any images the model may have set
   jsonData.images = {}
-
-  // Strip any service images the model may have generated
   if (Array.isArray(jsonData.content?.services)) {
     jsonData.content.services = jsonData.content.services.map(s => {
       const { image: _removed, ...rest } = s
       return rest
     })
+  }
+
+  const heroImages    = getStockImages(VERTICAL, 'hero')
+  const whyUsImages   = getStockImages(VERTICAL, 'why-us')
+  const serviceImages = getStockImages(VERTICAL, 'services')
+  const h = hashString(jsonData.business.slug)
+
+  if (heroImages.length > 0) {
+    jsonData.images.hero = `/images/stock/${VERTICAL}/hero/${heroImages[h % heroImages.length]}`
+  }
+  if (whyUsImages.length > 0) {
+    jsonData.images.why_us = `/images/stock/${VERTICAL}/why-us/${whyUsImages[(h + 1) % whyUsImages.length]}`
+  }
+  if (serviceImages.length >= 2 && jsonData.content?.services) {
+    const idx1 = h % serviceImages.length
+    const idx2 = (h + 1) % serviceImages.length
+    if (jsonData.content.services[0]) {
+      jsonData.content.services[0].image = `/images/stock/${VERTICAL}/services/${serviceImages[idx1]}`
+    }
+    if (jsonData.content.services[1]) {
+      jsonData.content.services[1].image = `/images/stock/${VERTICAL}/services/${serviceImages[idx2]}`
+    }
   }
 
   return jsonData
@@ -466,7 +504,7 @@ async function main() {
         continue
       }
 
-      // Stage 3 — Images (always empty until Sprint 3)
+      // Stage 3 — Stock image selection (deterministic by slug hash)
       jsonData = injectImages(jsonData)
 
       // Stage 4 — Push & update
