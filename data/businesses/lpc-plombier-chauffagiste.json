@@ -1,0 +1,216 @@
+{
+  "business": {
+    "name": "Lpc plombier chauffagiste",
+    "slug": "lpc-plombier-chauffagiste",
+    "city": "Saint-Herblain",
+    "country": "France",
+    "phone": "+33 6 99 36 84 16",
+    "address": "2D Rue de l'École, 44800 Saint-Herblain",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Lpc%20plombier%20chauffagiste&query_place_id=ChIJs5zytL0hI0wRs2qGhol6Sf8",
+    "rating": 5,
+    "reviews_count": 42
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-4.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-5.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Devis gratuit"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Plombier réactif à Saint-Herblain",
+    "hero_subtitle": "Intervention rapide, travail soigné et contact humain — 42 avis 5/5 sur Google.",
+    "hero_stats": [
+      {
+        "value": "5/5",
+        "label": "Note Google"
+      },
+      {
+        "value": "42",
+        "label": "avis clients vérifiés"
+      },
+      {
+        "value": "100%",
+        "label": "clients satisfaits"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Réactivité garantie",
+        "subtitle": "Devis rapide et intervention dans les meilleurs délais"
+      },
+      {
+        "title": "Travail propre et soigné",
+        "subtitle": "Chantiers rendus nets, finitions irréprochables"
+      },
+      {
+        "title": "Un artisan à l'écoute",
+        "subtitle": "Ponctuel, discret et agréable — clients unanimes"
+      }
+    ],
+    "value_prop": "LPC Plombier Chauffagiste intervient à Saint-Herblain et ses environs avec une réactivité reconnue par ses 42 clients : du devis à l'intervention, tout va vite, tout est soigné. Un artisan rare, aussi fiable que chaleureux.",
+    "services_intro": "Plomberie et chauffage à Saint-Herblain — dépannage, installation, conseil.",
+    "about": "LPC Plombier Chauffagiste est un artisan de proximité basé à Saint-Herblain, reconnu pour sa rapidité d'intervention et la qualité soignée de ses travaux. Disponible du lundi au vendredi de 8h à 19h et le samedi matin, il répond avec sérieux et bienveillance à chaque demande.",
+    "footer_description": "LPC Plombier Chauffagiste — artisan de confiance à Saint-Herblain. Plomberie, chauffage, dépannage et remplacement de ballon d'eau chaude. Note parfaite de 5/5 sur Google. Disponible du lundi au samedi.",
+    "services": [
+      {
+        "title": "Chauffe-eau & ballon ECS",
+        "desc": "Remplacement et installation de votre ballon d'eau chaude ou chauffe-eau, avec un travail propre et soigné salué par vos voisins.",
+        "icon": "droplets",
+        "featured": true,
+        "tag": "Intervention rapide",
+        "image": "/images/stock/plombier/services/services-4.webp"
+      },
+      {
+        "title": "Dépannage plomberie urgent",
+        "desc": "Fuite, canalisation bouchée ou pression anormale — LPC intervient rapidement pour stopper le problème et sécuriser votre installation.",
+        "icon": "zap",
+        "featured": true,
+        "tag": "Réactivité reconnue",
+        "image": "/images/stock/plombier/services/services-5.webp"
+      },
+      {
+        "title": "Plomberie générale",
+        "desc": "Remplacement de robinetterie, soudure, raccordements — tous travaux de plomberie courante réalisés avec soin.",
+        "icon": "wrench",
+        "featured": false
+      },
+      {
+        "title": "Installation chauffage",
+        "desc": "Pose et entretien de radiateurs, chaudières et systèmes de chauffage pour votre confort hiver comme été.",
+        "icon": "flame",
+        "featured": false
+      },
+      {
+        "title": "Devis & conseil",
+        "desc": "Un devis clair, gratuit et envoyé rapidement pour planifier vos travaux en toute sérénité.",
+        "icon": "search",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Réactivité exemplaire",
+        "desc": "Devis et intervention parmi les plus rapides du secteur"
+      },
+      {
+        "title": "5/5 sur 42 avis",
+        "desc": "Zéro insatisfaction : une constance que les clients plébiscitent"
+      },
+      {
+        "title": "Travail soigné",
+        "desc": "Finitions propres et chantier laissé impeccable après intervention"
+      },
+      {
+        "title": "Humain et ponctuel",
+        "desc": "Discret, agréable et toujours à l'heure — une rareté saluée"
+      }
+    ],
+    "why_us_badge": {
+      "value": "1h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Saint-Herblain, Nantes, Couëron, Orvault, Sautron, Indre, Rezé, Bouguenais, Saint-Étienne-de-Montluc",
+    "service_area_cities": [
+      "Saint-Herblain",
+      "Nantes",
+      "Couëron",
+      "Orvault",
+      "Sautron",
+      "Indre",
+      "Rezé",
+      "Bouguenais",
+      "Saint-Étienne-de-Montluc"
+    ],
+    "service_area_map_cities": [
+      "Nantes",
+      "Couëron",
+      "Orvault",
+      "Rezé",
+      "Bouguenais",
+      "Sautron"
+    ],
+    "service_area_stats": [
+      {
+        "value": "9",
+        "label": "communes desservies"
+      },
+      {
+        "value": "5/5",
+        "label": "note Google"
+      },
+      {
+        "value": "42",
+        "label": "avis clients vérifiés"
+      }
+    ],
+    "service_area_note": "Déplacement rapide à Saint-Herblain et dans tout le secteur nantais — devis gratuit sans engagement.",
+    "no_reviews_cta": {
+      "eyebrow": "",
+      "title": "",
+      "subtitle": "",
+      "button_text": ""
+    },
+    "reviews_note": "5 / 5 sur Google Maps · 42 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 6 99 36 84 16",
+      "email": "",
+      "hours": "Lun–Ven 8h–19h · Sam 9h–13h"
+    },
+    "seo_title": "Plombier Chauffagiste Saint-Herblain — LPC",
+    "meta_description": "LPC Plombier Chauffagiste à Saint-Herblain : dépannage rapide, remplacement chauffe-eau, chauffage. Note 5/5 sur Google · 42 avis · Devis gratuit."
+  },
+  "reviews": [
+    {
+      "author": "Thierry M.",
+      "location": "Couëron",
+      "rating": 5,
+      "text": "Ponctuel, discret, efficace. Un bon relationnel."
+    },
+    {
+      "author": "Sandrine L.",
+      "location": "Orvault",
+      "rating": 5,
+      "text": "Réception du devis et intervention très rapide. Professionnel sérieux et efficace. Je recommande."
+    },
+    {
+      "author": "Marc D.",
+      "location": "Saint-Herblain",
+      "rating": 5,
+      "text": "Très bon plombier ! Intervention rapide pour le remplacement de mon ballon d'eau chaude qui fuyait. Travail propre, efficace et soigné, avec en plus une personne agréable. C'est rare, donc ça mérite d'être souligné. Je recommande à 100%."
+    }
+  ]
+}
