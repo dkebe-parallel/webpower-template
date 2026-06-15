@@ -1,0 +1,204 @@
+{
+  "business": {
+    "name": "THERMO-SAN",
+    "slug": "thermo-san",
+    "city": "Ostwald",
+    "country": "France",
+    "phone": "+33 6 41 38 73 65",
+    "address": "8 Rue Théodore Monod, 67540 Ostwald",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=THERMO-SAN&query_place_id=ChIJ4S6ADOq1lkcR7PG_fT8efx0",
+    "rating": 4.7,
+    "reviews_count": 30
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-4.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-4.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Équipe de confiance"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Chauffagiste fiable à Ostwald",
+    "hero_subtitle": "Techniciens qualifiés, rendez-vous honorés et travail exceptionnel sur le sud de Strasbourg.",
+    "hero_stats": [
+      {
+        "value": "4.7/5",
+        "label": "Note Google"
+      },
+      {
+        "value": "30",
+        "label": "avis clients"
+      },
+      {
+        "value": "#pasdelapin",
+        "label": "ponctualité garantie"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Techniciens nommés et reconnus",
+        "subtitle": "Allan et Sébastien, salués par vos voisins"
+      },
+      {
+        "title": "Rendez-vous toujours honorés",
+        "subtitle": "Ponctualité spontanément citée par les clients"
+      },
+      {
+        "title": "Expertise thermique & sanitaire",
+        "subtitle": "Spécialistes chauffage, plomberie et dépannage"
+      }
+    ],
+    "value_prop": "THERMO-SAN, c'est une équipe de chauffagistes et plombiers établis à Ostwald, reconnue pour la qualité de ses interventions et la fiabilité de ses rendez-vous. Allan, Sébastien et leurs collègues interviennent avec sérieux sur tout le secteur sud de Strasbourg.",
+    "services_intro": "Chauffage, plomberie et dépannage thermique près d'Ostwald.",
+    "about": "THERMO-SAN est une entreprise spécialisée en chauffage et sanitaire implantée à Ostwald, au cœur de l'agglomération strasbourgeoise. L'équipe, composée de techniciens reconnus par leur clientèle, assure des interventions soignées en installation, entretien et dépannage. Proximité, fiabilité et compétence technique sont les maîtres-mots de cette structure artisanale du sud de Strasbourg.",
+    "footer_description": "THERMO-SAN — Chauffagiste et plombier à Ostwald. Interventions en chauffage, plomberie et dépannage thermique sur Ostwald, Strasbourg et le secteur sud du Bas-Rhin. 8 Rue Théodore Monod, 67540 Ostwald.",
+    "services": [
+      {
+        "title": "Chauffage & installation",
+        "desc": "Installation et remplacement de chaudières, radiateurs et systèmes de chauffage central pour un confort thermique durable chez vous.",
+        "icon": "flame",
+        "featured": true,
+        "tag": "Expertise thermique",
+        "image": "/images/stock/plombier/services/services-7.webp"
+      },
+      {
+        "title": "Plomberie générale",
+        "desc": "Travaux de plomberie sanitaire, remplacement de robinetterie, réparation de fuites et installation d'équipements dans votre logement.",
+        "icon": "droplets",
+        "featured": true,
+        "tag": "Intervention rapide",
+        "image": "/images/stock/plombier/services/services-8.webp"
+      },
+      {
+        "title": "Dépannage sur site",
+        "desc": "Intervention rapide pour tout dépannage chauffage ou plomberie, avec des techniciens réactifs et ponctuels.",
+        "icon": "wrench",
+        "featured": false
+      },
+      {
+        "title": "Maintenance thermique",
+        "desc": "Entretien annuel et vérification de vos systèmes pour prévenir les pannes et optimiser vos consommations.",
+        "icon": "search",
+        "featured": false
+      },
+      {
+        "title": "Diagnostic & conseil",
+        "desc": "Analyse de vos installations et recommandations adaptées pour améliorer votre confort et réduire vos coûts.",
+        "icon": "zap",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Travail exceptionnel",
+        "desc": "Qualité d'exécution saluée spontanément par les clients satisfaits."
+      },
+      {
+        "title": "Toujours à l'heure",
+        "desc": "Une équipe qui honore ses rendez-vous, sans jamais poser de lapin."
+      },
+      {
+        "title": "Duo de techniciens pro",
+        "desc": "Allan et Sébastien, reconnus nommément pour leur sérieux sur chantier."
+      },
+      {
+        "title": "4,7/5 sur Google",
+        "desc": "Note élevée sur 30 avis, reflet d'une satisfaction client constante."
+      }
+    ],
+    "why_us_badge": {
+      "value": "2h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Ostwald, Strasbourg, Illkirch-Graffenstaden, Lingolsheim, Geispolsheim, Entzheim, Holtzheim, Wolfisheim, Schiltigheim",
+    "service_area_cities": [
+      "Ostwald",
+      "Strasbourg",
+      "Illkirch-Graffenstaden",
+      "Lingolsheim",
+      "Geispolsheim",
+      "Entzheim",
+      "Holtzheim",
+      "Wolfisheim",
+      "Schiltigheim"
+    ],
+    "service_area_map_cities": [
+      "Strasbourg",
+      "Illkirch-Graffenstaden",
+      "Lingolsheim",
+      "Geispolsheim",
+      "Schiltigheim",
+      "Entzheim"
+    ],
+    "service_area_stats": [
+      {
+        "value": "9",
+        "label": "communes couvertes"
+      },
+      {
+        "value": "4.7/5",
+        "label": "note Google"
+      },
+      {
+        "value": "30",
+        "label": "avis clients"
+      }
+    ],
+    "service_area_note": "Déplacement rapide sur Ostwald et tout le secteur sud de Strasbourg, devis gratuit sans engagement.",
+    "no_reviews_cta": {
+      "eyebrow": "",
+      "title": "",
+      "subtitle": "",
+      "button_text": ""
+    },
+    "reviews_note": "4.7 / 5 sur Google Maps · 30 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 6 41 38 73 65",
+      "email": "",
+      "hours": "Lun 08h–12h · 14h–17h · Mar 08h–12h · Mer 14h–17h · Jeu–Ven 08h–12h · 14h–17h"
+    },
+    "seo_title": "Chauffagiste Plombier Ostwald — THERMO-SAN",
+    "meta_description": "THERMO-SAN, chauffagiste et plombier à Ostwald (67540). Installation, entretien et dépannage chauffage & plomberie sur Strasbourg et le secteur sud. Note 4,7/5."
+  },
+  "reviews": [
+    {
+      "author": "Marc D.",
+      "location": "Illkirch-Graffenstaden",
+      "rating": 5,
+      "text": "Chauffagiste exceptionnel\nMerci l'équipe\n#pasdelapin\n\nTrès bon travail effectué par Allan et Sébastien\n#duodechoc"
+    }
+  ]
+}
