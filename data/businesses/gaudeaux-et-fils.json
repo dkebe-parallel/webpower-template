@@ -1,0 +1,216 @@
+{
+  "business": {
+    "name": "GAUDEAUX ET FILS",
+    "slug": "gaudeaux-et-fils",
+    "city": "Fère-en-Tardenois",
+    "country": "France",
+    "phone": "+33 3 23 69 86 72",
+    "address": "16 Rue Carnot, 2130 Fère-en-Tardenois",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=GAUDEAUX%20ET%20FILS&query_place_id=ChIJXZw0nWX86EcR00Yk5-tlV6o",
+    "rating": 4.7,
+    "reviews_count": 100
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-4.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-3.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Maison familiale"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "La droguerie de confiance à Fère",
+    "hero_subtitle": "Quincaillerie, plomberie et bons conseils — tout ce qu'il faut, avec le sourire, depuis des générations.",
+    "hero_stats": [
+      {
+        "value": "4.7/5",
+        "label": "Note Google"
+      },
+      {
+        "value": "100",
+        "label": "Avis clients"
+      },
+      {
+        "value": "5j/sem",
+        "label": "Ouvert pour vous"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Toujours ce qu'il vous faut",
+        "subtitle": "Stock complet pour bricoler, rénover ou réparer"
+      },
+      {
+        "title": "Conseil humain et sincère",
+        "subtitle": "Une équipe à l'écoute, réputée pour sa gentillesse"
+      },
+      {
+        "title": "Commerce familial de génération",
+        "subtitle": "Un savoir-faire transmis, ancré dans le territoire"
+      }
+    ],
+    "value_prop": "Gaudeaux et Fils, c'est le commerce de proximité « comme dans le temps » à Fère-en-Tardenois : droguerie, quincaillerie, plomberie et chauffage réunis sous un même toit. Ici, on prend le temps de vous conseiller, on connaît vos besoins, et on trouve toujours la bonne solution.",
+    "services_intro": "Droguerie, quincaillerie, plomberie et chauffage : tout pour l'entretien de votre maison.",
+    "about": "Gaudeaux et Fils est une maison familiale implantée au cœur de Fère-en-Tardenois, alliant droguerie traditionnelle, quincaillerie complète et expertise en plomberie. Reconnus pour leur gentillesse et la qualité de leurs conseils, ils accompagnent particuliers et voisins depuis des générations. Un commerce rare, unanimement salué pour son authenticité et sa disponibilité.",
+    "footer_description": "Gaudeaux et Fils — Droguerie, quincaillerie et plomberie à Fère-en-Tardenois. Commerce familial de proximité, conseils personnalisés, produits disponibles. Ouvert du mardi au samedi. Note Google 4.7/5.",
+    "services": [
+      {
+        "title": "Droguerie & Quincaillerie",
+        "desc": "Tout ce qu'il faut pour bricoler, entretenir et réparer chez vous : produits ménagers, outillage, visserie et fournitures de chantier en stock.",
+        "icon": "wrench",
+        "featured": true,
+        "tag": "Commerce de proximité",
+        "image": "/images/stock/plombier/services/services-4.webp"
+      },
+      {
+        "title": "Plomberie & Installation",
+        "desc": "Installation, dépannage et devis en plomberie pour vos projets de rénovation ou d'urgence, avec un accompagnement personnalisé de A à Z.",
+        "icon": "droplets",
+        "featured": true,
+        "tag": "Artisan qualifié",
+        "image": "/images/stock/plombier/services/services-5.webp"
+      },
+      {
+        "title": "Poêles & Chauffage",
+        "desc": "Vente et conseil en appareils de chauffage, poêles et accessoires pour un hiver confortable et économique.",
+        "icon": "flame",
+        "featured": false
+      },
+      {
+        "title": "Pièces & Accessoires",
+        "desc": "Large sélection de pièces détachées et accessoires pour machines et équipements du quotidien.",
+        "icon": "zap",
+        "featured": false
+      },
+      {
+        "title": "Conseil personnalisé",
+        "desc": "Un accompagnement sur mesure pour chaque projet, par une équipe disponible et reconnue pour ses bons conseils.",
+        "icon": "search",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Toujours en stock",
+        "desc": "Vous trouvez ce qu'il vous faut à chaque visite, sans mauvaise surprise."
+      },
+      {
+        "title": "Gentillesse reconnue",
+        "desc": "Une équipe chaleureuse, saluée par 100 clients pour son amabilité."
+      },
+      {
+        "title": "Savoir-faire familial",
+        "desc": "Une transmission de génération en génération, gage de sérieux."
+      },
+      {
+        "title": "Ancrage local fort",
+        "desc": "Un commerce de voisinage au cœur de Fère-en-Tardenois depuis des années."
+      }
+    ],
+    "why_us_badge": {
+      "value": "2h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Fère-en-Tardenois, Château-Thierry, Fismes, Oulchy-le-Château, Braine, Villers-Cotterêts, Soissons, Dormans, Épernay",
+    "service_area_cities": [
+      "Fère-en-Tardenois",
+      "Château-Thierry",
+      "Fismes",
+      "Oulchy-le-Château",
+      "Braine",
+      "Villers-Cotterêts",
+      "Soissons",
+      "Dormans",
+      "Épernay"
+    ],
+    "service_area_map_cities": [
+      "Château-Thierry",
+      "Soissons",
+      "Villers-Cotterêts",
+      "Épernay",
+      "Fismes",
+      "Dormans"
+    ],
+    "service_area_stats": [
+      {
+        "value": "9",
+        "label": "communes desservies"
+      },
+      {
+        "value": "4.7/5",
+        "label": "Note Google"
+      },
+      {
+        "value": "100",
+        "label": "avis clients"
+      }
+    ],
+    "service_area_note": "Déplacement et livraison dans tout le secteur Tardenois et Vallée de la Marne — devis gratuit sans engagement.",
+    "no_reviews_cta": {
+      "eyebrow": "",
+      "title": "",
+      "subtitle": "",
+      "button_text": ""
+    },
+    "reviews_note": "4.7 / 5 sur Google Maps · 100 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 3 23 69 86 72",
+      "email": "",
+      "hours": "Mar–Mer–Jeu–Ven–Sam 8h30–12h · 14h–18h30"
+    },
+    "seo_title": "Droguerie Quincaillerie Plomberie Fère-en-Tardenois",
+    "meta_description": "Gaudeaux et Fils à Fère-en-Tardenois : droguerie, quincaillerie, plomberie et chauffage. Commerce familial, conseil expert, 4.7/5 sur Google. Appelez-nous !"
+  },
+  "reviews": [
+    {
+      "author": "Marie-Hélène T.",
+      "location": "Oulchy-le-Château",
+      "rating": 5,
+      "text": "Une boutique locale ou l'on y trouve toujours ce dont on a besoin et entre voisin c'est vraiment utile. Ils sont également très agréable et de bon conseils. Je recommande sans hésiter !"
+    },
+    {
+      "author": "François D.",
+      "location": "Braine",
+      "rating": 5,
+      "text": "Un commerce comme nous en rêvons !les bons produits bien conseillés avec amabilité 10/10"
+    },
+    {
+      "author": "Sylvie M.",
+      "location": "Château-Thierry",
+      "rating": 5,
+      "text": "J'ai toujours trouvé ce que je voulais il y a de tous pour bricoler.les personnes sont d'une extrême gentillesse et ça compte une très bonne droguerie comme dans le temps"
+    }
+  ]
+}
