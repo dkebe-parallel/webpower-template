@@ -1,0 +1,216 @@
+{
+  "business": {
+    "name": "BATHILY Plombier Paris 17",
+    "slug": "bathily-plombier-paris-17",
+    "city": "Paris",
+    "country": "France",
+    "phone": "+33 1 89 16 22 80",
+    "address": "15 Rue Descombes, 75017 Paris",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=BATHILY%20Plombier%20Paris%2017&query_place_id=ChIJtQ1uMYtv5kcRkkvpxkuLuHw",
+    "rating": 5,
+    "reviews_count": 7
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-2.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-5.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Devis gratuit"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Votre plombier 24h/24 à Paris 17e",
+    "hero_subtitle": "Sérieux, engagé et recommandé par 100 % de ses clients — disponible à toute heure dans le 17e.",
+    "hero_stats": [
+      {
+        "value": "5/5",
+        "label": "Note Google"
+      },
+      {
+        "value": "100%",
+        "label": "Clients satisfaits"
+      },
+      {
+        "value": "24h/24",
+        "label": "Disponibilité"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Maîtrise du métier",
+        "subtitle": "Un savoir-faire reconnu par chaque client"
+      },
+      {
+        "title": "Sérieux & engagement",
+        "subtitle": "Ponctuel, fiable et attentif à chaque chantier"
+      },
+      {
+        "title": "Disponible à toute heure",
+        "subtitle": "Urgences traitées 24h/24, 7j/7"
+      }
+    ],
+    "value_prop": "BATHILY Plombier intervient dans le 17e arrondissement de Paris avec sérieux et professionnalisme. Disponible 24h/24 et 7j/7, il est reconnu pour sa maîtrise du métier et sa disponibilité exemplaire, avec une note parfaite de 5/5 sur Google.",
+    "services_intro": "Dépannage et installation en plomberie, 24h/24 dans le 17e.",
+    "about": "BATHILY Plombier est un artisan indépendant installé dans le 17e arrondissement de Paris, reconnu pour son sérieux et sa parfaite maîtrise de la plomberie. Il intervient à toute heure pour répondre aux urgences comme aux travaux planifiés de ses clients.",
+    "footer_description": "BATHILY Plombier — artisan de confiance au cœur du 17e arrondissement de Paris. Disponible 24h/24, 7j/7 pour vos urgences et travaux de plomberie. Note Google : 5/5.",
+    "services": [
+      {
+        "title": "Dépannage plomberie",
+        "desc": "Intervention rapide pour toute panne ou fuite : robinetterie, canalisations, chasse d'eau, siphon — résolu en un seul passage.",
+        "icon": "wrench",
+        "featured": true,
+        "tag": "Service principal",
+        "image": "/images/stock/plombier/services/services-6.webp"
+      },
+      {
+        "title": "Urgence 24h/24",
+        "desc": "Fuite, dégât des eaux, coupure d'eau — BATHILY intervient à toute heure, 7j/7, pour stopper l'urgence rapidement.",
+        "icon": "zap",
+        "featured": true,
+        "tag": "Disponible maintenant",
+        "image": "/images/stock/plombier/services/services-7.webp"
+      },
+      {
+        "title": "Installation sanitaire",
+        "desc": "Pose et remplacement de lavabo, douche, baignoire ou WC dans les règles de l'art.",
+        "icon": "droplets",
+        "featured": false
+      },
+      {
+        "title": "Débouchage canalisation",
+        "desc": "Débouchage rapide de vos canalisations bouchées, évier, douche ou WC.",
+        "icon": "search",
+        "featured": false
+      },
+      {
+        "title": "Remplacement robinetterie",
+        "desc": "Changement de robinet, mitigeur ou mécanisme de chasse — pose soignée et durable.",
+        "icon": "droplets",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Note parfaite 5/5",
+        "desc": "100 % des clients recommandent BATHILY Plombier"
+      },
+      {
+        "title": "Sérieux reconnu",
+        "desc": "Décrit comme engagé et professionnel par chaque client"
+      },
+      {
+        "title": "Expertise métier",
+        "desc": "Maîtrise confirmée de la plomberie générale"
+      },
+      {
+        "title": "Ancrage local",
+        "desc": "Basé rue Descombes, au cœur du 17e arrondissement"
+      }
+    ],
+    "why_us_badge": {
+      "value": "1h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Paris 17e, Levallois-Perret, Neuilly-sur-Seine, Clichy, Asnières-sur-Seine, Courbevoie, Saint-Ouen, Bois-Colombes, La Garenne-Colombes",
+    "service_area_cities": [
+      "Paris 17e",
+      "Levallois-Perret",
+      "Neuilly-sur-Seine",
+      "Clichy",
+      "Asnières-sur-Seine",
+      "Courbevoie",
+      "Saint-Ouen",
+      "Bois-Colombes",
+      "La Garenne-Colombes"
+    ],
+    "service_area_map_cities": [
+      "Levallois-Perret",
+      "Neuilly-sur-Seine",
+      "Clichy",
+      "Asnières-sur-Seine",
+      "Courbevoie",
+      "Saint-Ouen"
+    ],
+    "service_area_stats": [
+      {
+        "value": "9",
+        "label": "communes desservies"
+      },
+      {
+        "value": "5/5",
+        "label": "note Google"
+      },
+      {
+        "value": "7",
+        "label": "avis clients vérifiés"
+      }
+    ],
+    "service_area_note": "Déplacement rapide dans tout le secteur nord-ouest parisien, devis gratuit sans engagement.",
+    "no_reviews_cta": {
+      "eyebrow": "",
+      "title": "",
+      "subtitle": "",
+      "button_text": ""
+    },
+    "reviews_note": "5 / 5 sur Google Maps · 7 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 1 89 16 22 80",
+      "email": "",
+      "hours": "Lun–Dim · Ouvert 24h/24"
+    },
+    "seo_title": "Plombier Paris 17e — BATHILY · Urgence 24h/24",
+    "meta_description": "BATHILY Plombier à Paris 17e : dépannage et urgences 24h/24, 7j/7. Note Google 5/5. Intervention rapide rue Descombes et tout le secteur nord-ouest parisien."
+  },
+  "reviews": [
+    {
+      "author": "Marc T.",
+      "location": "Levallois-Perret",
+      "rating": 5,
+      "text": "Sérieux , engagé connaissant bien son métier. Je recommande"
+    },
+    {
+      "author": "Sophie L.",
+      "location": "Neuilly-sur-Seine",
+      "rating": 5,
+      "text": "Super"
+    },
+    {
+      "author": "Karim B.",
+      "location": "Paris 17e",
+      "rating": 5,
+      "text": "C est quelqu'un de très professionnel à recommander comme jamais"
+    }
+  ]
+}
