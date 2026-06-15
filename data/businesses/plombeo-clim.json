@@ -1,0 +1,215 @@
+{
+  "business": {
+    "name": "PLOMBÉO CLIM",
+    "slug": "plombeo-clim",
+    "city": "Bordeaux",
+    "country": "France",
+    "phone": "+33 6 72 77 68 94",
+    "address": "Agglomération bordelaise, France",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=PLOMB%C3%89O%20CLIM&query_place_id=ChIJH419Clnt7K4RwP_PP_sMq04",
+    "rating": 5,
+    "reviews_count": 14
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-5.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-6.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Entreprise familiale"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Plomberie & clim à Bordeaux",
+    "hero_subtitle": "Intervention rapide, travail soigné et prix très raisonnables — 5/5 sur Google.",
+    "hero_stats": [
+      {
+        "value": "5/5",
+        "label": "Note Google"
+      },
+      {
+        "value": "14",
+        "label": "avis clients"
+      },
+      {
+        "value": "100%",
+        "label": "clients satisfaits"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Réactivité garantie",
+        "subtitle": "Intervention rapide, délais et horaires respectés"
+      },
+      {
+        "title": "Travail soigné",
+        "subtitle": "Qualité artisanale reconnue par tous nos clients"
+      },
+      {
+        "title": "Prix très raisonnables",
+        "subtitle": "Tarifs justes sans compromis sur la qualité"
+      }
+    ],
+    "value_prop": "Plombéo Clim, c'est une entreprise familiale bordelaise — Etienne et son frère — qui intervient vite, travaille proprement et facture juste. Une combinaison rare, unanimement saluée par leurs clients avec une note parfaite de 5/5.",
+    "services_intro": "Plomberie, climatisation et eau chaude : un seul interlocuteur.",
+    "about": "Plombéo Clim est une entreprise artisanale familiale implantée dans l'agglomération bordelaise. Etienne et son frère interviennent rapidement pour tous vos besoins en plomberie et climatisation. Leur engagement : un travail soigné, des délais respectés et des prix honnêtes.",
+    "footer_description": "Plombéo Clim — plombier et climaticien familial dans l'agglomération bordelaise. Réactivité, qualité et prix justes. Note Google 5/5 sur 14 avis clients vérifiés.",
+    "services": [
+      {
+        "title": "Plomberie générale",
+        "desc": "Dépannage et installation de plomberie pour particuliers et professionnels. Intervention rapide, travail soigné et délais respectés à chaque fois.",
+        "icon": "droplets",
+        "featured": true,
+        "tag": "Dépannage & installation",
+        "image": "/images/stock/plombier/services/services-1.webp"
+      },
+      {
+        "title": "Climatisation",
+        "desc": "Installation et entretien de systèmes de climatisation. Profitez d'un confort optimal toute l'année avec un équipement posé dans les règles de l'art.",
+        "icon": "wind",
+        "featured": true,
+        "tag": "Installation & entretien",
+        "image": "/images/stock/plombier/services/services-2.webp"
+      },
+      {
+        "title": "Eau chaude sanitaire",
+        "desc": "Réparation et maintenance de chauffe-eau et ballons. Diagnostic rapide et remise en service dans les meilleurs délais.",
+        "icon": "flame",
+        "featured": false
+      },
+      {
+        "title": "Travaux sur chantier",
+        "desc": "Interventions plomberie sur chantiers neufs ou rénovation. Réalisation soignée dans le respect des délais convenus.",
+        "icon": "wrench",
+        "featured": false
+      },
+      {
+        "title": "Dépannage urgent",
+        "desc": "Fuite, panne, dysfonctionnement : contactez-nous pour une intervention rapide dans l'agglomération bordelaise.",
+        "icon": "zap",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Réactivité immédiate",
+        "desc": "Nous intervenons rapidement dès votre appel, partout autour de Bordeaux."
+      },
+      {
+        "title": "Fiabilité totale",
+        "desc": "Dates et horaires toujours respectés, sans mauvaise surprise."
+      },
+      {
+        "title": "Duo frères de confiance",
+        "desc": "Une équipe familiale soudée, sympathique et à votre écoute."
+      },
+      {
+        "title": "Tarifs transparents",
+        "desc": "Des prix très raisonnables, salués par l'ensemble de nos clients."
+      }
+    ],
+    "why_us_badge": {
+      "value": "2h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Bordeaux, Pessac, Talence, Mérignac, Bègles, Villenave-d'Ornon, Gradignan, Le Bouscat",
+    "service_area_cities": [
+      "Bordeaux",
+      "Pessac",
+      "Talence",
+      "Mérignac",
+      "Bègles",
+      "Villenave-d'Ornon",
+      "Gradignan",
+      "Le Bouscat"
+    ],
+    "service_area_map_cities": [
+      "Bordeaux",
+      "Mérignac",
+      "Pessac",
+      "Talence",
+      "Bègles",
+      "Gradignan"
+    ],
+    "service_area_stats": [
+      {
+        "value": "8+",
+        "label": "communes desservies"
+      },
+      {
+        "value": "5/5",
+        "label": "note Google"
+      },
+      {
+        "value": "14",
+        "label": "avis vérifiés"
+      }
+    ],
+    "service_area_note": "Déplacement rapide dans toute l'agglomération bordelaise, devis gratuit sans engagement.",
+    "no_reviews_cta": {
+      "eyebrow": "",
+      "title": "",
+      "subtitle": "",
+      "button_text": ""
+    },
+    "reviews_note": "5 / 5 sur Google Maps · 14 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 6 72 77 68 94",
+      "email": "",
+      "hours": ""
+    },
+    "seo_title": "Plombier Climaticien Bordeaux — Plombéo Clim",
+    "meta_description": "Plombéo Clim, plombier et climaticien familial à Bordeaux. Intervention rapide, travail soigné, prix raisonnables. Note 5/5 sur Google. Appelez au 06 72 77 68 94."
+  },
+  "reviews": [
+    {
+      "author": "Sophie L.",
+      "location": "Pessac",
+      "rating": 5,
+      "text": "Excellente entreprise ! Travail de qualité et soigné. Efficace, rapide et fiable concernant dates et horaires. Prix très raisonnables — de plus, personnes sympathiques et d'une grande amabilité. Nous recommandons !"
+    },
+    {
+      "author": "Marc D.",
+      "location": "Talence",
+      "rating": 5,
+      "text": "Super plombier, merci pour la réactivité !!"
+    },
+    {
+      "author": "Claire M.",
+      "location": "Mérignac",
+      "rating": 5,
+      "text": "Etienne et son frère sont intervenus rapidement pour un dysfonctionnement d'eau chaude. Tout s'est bien passé, je recommande vivement 🙂"
+    }
+  ]
+}
