@@ -1,0 +1,216 @@
+{
+  "business": {
+    "name": "LSK Plomberie",
+    "slug": "lsk-plomberie",
+    "city": "Bordeaux",
+    "country": "France",
+    "phone": "+33 7 69 94 22 20",
+    "address": "40 Rue Despujols, 33000 Bordeaux",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=LSK%20Plomberie&query_place_id=ChIJz-UtYsjZVA0RInS-BtgMkjM",
+    "rating": 5,
+    "reviews_count": 9
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-1.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-2.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Devis gratuit"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Votre plombier de confiance à Bordeaux",
+    "hero_subtitle": "Intervention rapide en urgence, devis clair et transparent, chantier propre garanti.",
+    "hero_stats": [
+      {
+        "value": "5/5",
+        "label": "Note Google"
+      },
+      {
+        "value": "9",
+        "label": "Avis vérifiés"
+      },
+      {
+        "value": "1h",
+        "label": "Délai d'intervention"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Réactivité en urgence",
+        "subtitle": "Intervention rapide dès le premier appel"
+      },
+      {
+        "title": "Transparence totale",
+        "subtitle": "Devis expliqué clause par clause avant travaux"
+      },
+      {
+        "title": "Propreté irréprochable",
+        "subtitle": "Chantier nettoyé, rapport qualité/prix salué"
+      }
+    ],
+    "value_prop": "LSK Plomberie, c'est l'artisan bordelais qui transforme une urgence stressante en intervention sereine. Mathieu intervient vite, explique clairement, propose des alternatives honnêtes et repart en laissant votre logement impeccable. Note parfaite 5/5 sur Google.",
+    "services_intro": "Dépannage, installation et travaux de plomberie à Bordeaux et alentours.",
+    "about": "LSK Plomberie est une entreprise artisanale basée à Bordeaux, portée par Mathieu, un plombier passionné reconnu pour sa réactivité et son sérieux. De la fuite d'urgence à la reprise complète d'une installation, chaque intervention est réalisée avec soin, transparence et respect du client.",
+    "footer_description": "LSK Plomberie — Artisan plombier à Bordeaux. Dépannage urgence, installation, remplacement de vannes gaz. Devis gratuit, travail soigné, note 5/5 Google. 40 Rue Despujols, 33000 Bordeaux.",
+    "services": [
+      {
+        "title": "Dépannage plomberie urgence",
+        "desc": "Fuite, canalisation bouchée ou rupture : Mathieu intervient rapidement pour stopper les dégâts, rassurer et proposer la meilleure solution adaptée à votre situation.",
+        "icon": "zap",
+        "featured": true,
+        "tag": "Urgence",
+        "image": "/images/stock/plombier/services/services-1.webp"
+      },
+      {
+        "title": "Rénovation plomberie cuisine",
+        "desc": "Reprise complète de votre installation de cuisine avec devis détaillé, explications claires et finitions soignées pour un résultat durable et propre.",
+        "icon": "wrench",
+        "featured": true,
+        "tag": "Rénovation",
+        "image": "/images/stock/plombier/services/services-2.webp"
+      },
+      {
+        "title": "Remplacement vannes gaz",
+        "desc": "Changement de vanne gaz réalisé avec rigueur et sécurité, par un artisan qui inspire confiance et travaille avec précision.",
+        "icon": "flame",
+        "featured": false
+      },
+      {
+        "title": "Installation plomberie",
+        "desc": "Pose et installation de tous équipements sanitaires, avec un soin particulier apporté à la propreté du chantier et au respect des normes.",
+        "icon": "droplets",
+        "featured": false
+      },
+      {
+        "title": "Diagnostic et réparation",
+        "desc": "Détection précise de l'origine d'une panne ou d'une fuite, avec une intervention ciblée et un rapport qualité/prix avantageux.",
+        "icon": "search",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Réactivité en urgence",
+        "desc": "Intervention rapide, même en situation de fuite critique"
+      },
+      {
+        "title": "Devis transparent",
+        "desc": "Chaque poste expliqué clairement avant de commencer"
+      },
+      {
+        "title": "Chantier propre",
+        "desc": "Propreté exemplaire saluée par tous les clients"
+      },
+      {
+        "title": "Artisan passionné",
+        "desc": "Engagement personnel qui fait la différence au quotidien"
+      }
+    ],
+    "why_us_badge": {
+      "value": "1h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Bordeaux, Talence, Pessac, Mérignac, Le Bouscat, Bègles, Cenon, Villenave-d'Ornon, Gradignan",
+    "service_area_cities": [
+      "Bordeaux",
+      "Talence",
+      "Pessac",
+      "Mérignac",
+      "Le Bouscat",
+      "Bègles",
+      "Cenon",
+      "Villenave-d'Ornon",
+      "Gradignan"
+    ],
+    "service_area_map_cities": [
+      "Mérignac",
+      "Pessac",
+      "Talence",
+      "Bègles",
+      "Cenon",
+      "Gradignan"
+    ],
+    "service_area_stats": [
+      {
+        "value": "9",
+        "label": "communes desservies"
+      },
+      {
+        "value": "5/5",
+        "label": "note Google"
+      },
+      {
+        "value": "9",
+        "label": "avis clients vérifiés"
+      }
+    ],
+    "service_area_note": "Déplacement rapide sur Bordeaux et toute la métropole, devis gratuit sans engagement.",
+    "no_reviews_cta": {
+      "eyebrow": "",
+      "title": "",
+      "subtitle": "",
+      "button_text": ""
+    },
+    "reviews_note": "5 / 5 sur Google Maps · 9 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 7 69 94 22 20",
+      "email": "",
+      "hours": "Lun–Ven 8h–17h"
+    },
+    "seo_title": "Plombier Bordeaux — LSK Plomberie, urgence & rénovation",
+    "meta_description": "LSK Plomberie à Bordeaux : dépannage urgence, rénovation plomberie, remplacement vannes gaz. Artisan réactif, devis gratuit, note 5/5 Google. Appelez Mathieu."
+  },
+  "reviews": [
+    {
+      "author": "Frédéric M.",
+      "location": "Pessac",
+      "rating": 5,
+      "text": "Dans l'urgence de la fuite, j'ai rapidement mis la main sur la carte de visite de LSK plomberie pour appeler Mathieu. Rapide, efficace et propre, ce plombier a su être rassurant et proposer de bonnes alternatives au regard de la situation. S'en est suivi une proposition de reprise complète de la plomberie de ma cuisine que j'ai acceptée après une explication claire de ce que composait le devis. L'intervention s'est bien passée et le rapport qualité/prix/efficacite/propreté est très largement à mon avantage. Cet artisan passionné est très recommandé dans ce domaine de la plomberie qui peut-être source de stress et de méfiance."
+    },
+    {
+      "author": "Claire D.",
+      "location": "Talence",
+      "rating": 5,
+      "text": "Appelé pour changer une vanne gaz, ce jeune artisan sympathique exécute un travail remarquable et inspire confiance."
+    },
+    {
+      "author": "Sophie L.",
+      "location": "Mérignac",
+      "rating": 5,
+      "text": "Mathieu a su être très réactif et très professionnel ! Je recommande vivement LSK plomberie"
+    }
+  ]
+}
