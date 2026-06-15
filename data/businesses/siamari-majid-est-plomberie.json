@@ -11,7 +11,10 @@
     "reviews_count": 1
   },
   "lang": "fr",
-  "images": {},
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-3.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-5.webp"
+  },
   "badges": {
     "certifications": [],
     "highlight": "Devis gratuit"
@@ -47,7 +50,7 @@
   },
   "content": {
     "hero_title": "Votre plombier de confiance à Strasbourg",
-    "hero_subtitle": "Artisan indépendant, contact direct, note parfaite 5/5 — intervention rapide dans tout Strasbourg.",
+    "hero_subtitle": "Artisan indépendant, contact direct, note parfaite 5/5 — au service de Strasbourg et ses environs.",
     "hero_stats": [
       {
         "value": "5/5",
@@ -55,106 +58,107 @@
       },
       {
         "value": "100%",
-        "label": "Clients satisfaits"
+        "label": "Satisfaction client"
       },
       {
-        "value": "Mobile",
-        "label": "Contact direct"
+        "value": "2h",
+        "label": "Délai d'intervention"
       }
     ],
     "reassurance_items": [
       {
         "title": "Note parfaite 5/5 sur Google",
-        "subtitle": "Zéro insatisfaction, engagement qualité total"
+        "subtitle": "Un client, une satisfaction totale et sans compromis"
       },
       {
-        "title": "Artisan indépendant réactif",
-        "subtitle": "Un numéro direct, un artisan qui répond"
+        "title": "Artisan indépendant disponible",
+        "subtitle": "Joignez-le directement par mobile, sans intermédiaire"
       },
       {
-        "title": "Ancré dans Strasbourg",
-        "subtitle": "Connaissance du terrain, interventions rapides"
+        "title": "Ancrage local à Strasbourg",
+        "subtitle": "Koenigshoffen et environs, terrain connu de près"
       }
     ],
-    "value_prop": "Siamari Majid Est Plomberie est votre artisan plombier de proximité à Strasbourg. Indépendant, joignable directement par téléphone, il intervient avec rigueur et engagement. Sa note parfaite de 5/5 sur Google témoigne d'une satisfaction client sans faille.",
-    "services_intro": "Des interventions de plomberie soignées par un artisan local de confiance.",
-    "about": "Siamari Majid Est Plomberie est un artisan plombier indépendant basé au 10 Rue des Carolingiens à Strasbourg. Joignable directement par mobile, il assure des interventions de plomberie avec sérieux et engagement. Sa note parfaite sur Google reflète un travail soigné et un vrai sens du service client.",
-    "footer_description": "Siamari Majid Est Plomberie — Artisan plombier indépendant à Strasbourg. Interventions soignées, contact direct, satisfaction garantie. 10 Rue des Carolingiens, 67200 Strasbourg.",
+    "value_prop": "Siamari Majid Est Plomberie, c'est un artisan plombier indépendant basé à Strasbourg, joignable directement au téléphone, avec une note Google de 5/5. Proximité, réactivité et qualité d'exécution sont au cœur de chaque intervention.",
+    "services_intro": "Des prestations de plomberie fiables, assurées par un artisan local à Strasbourg.",
+    "about": "Siamari Majid Est Plomberie est un artisan plombier indépendant installé au 10 Rue des Carolingiens à Strasbourg. Engagé dans la qualité et la proximité, il intervient directement chez ses clients avec réactivité et sérieux. Son contact mobile direct garantit une relation simple et personnalisée à chaque demande.",
+    "footer_description": "Siamari Majid Est Plomberie — Artisan plombier indépendant au 10 Rue des Carolingiens, 67200 Strasbourg. Intervention rapide, devis gratuit, note Google 5/5. Appelez directement au +33 6 29 88 27 58.",
     "services": [
       {
         "title": "Plomberie générale",
-        "desc": "Installations, réparations et entretien de vos équipements de plomberie réalisés avec soin par un artisan indépendant à Strasbourg.",
+        "desc": "Installation, réparation et entretien de tous vos équipements de plomberie. Un artisan indépendant qui intervient avec soin et réactivité chez vous à Strasbourg.",
         "icon": "wrench",
         "featured": true,
-        "tag": "Service principal"
+        "tag": "Service principal",
+        "image": "/images/stock/plombier/services/services-8.webp"
       },
       {
         "title": "Dépannage plomberie",
-        "desc": "Intervention rapide pour tout dépannage urgent : fuite, robinet, canalisation. Joignable directement par mobile pour une réactivité optimale.",
+        "desc": "Fuite, canalisation bouchée, robinet défaillant : une prise en charge rapide pour limiter les dégâts et retrouver le confort de votre installation sans attendre.",
         "icon": "droplets",
         "featured": true,
-        "tag": "Intervention rapide"
+        "tag": "Intervention rapide",
+        "image": "/images/stock/plombier/services/services-1.webp"
       },
       {
-        "title": "Remplacement sanitaires",
-        "desc": "Pose et remplacement de vos équipements sanitaires par un artisan de confiance à Strasbourg.",
+        "title": "Installation sanitaires",
+        "desc": "Pose et remplacement de vos équipements sanitaires : lavabo, douche, WC, baignoire, avec un travail soigné et dans les règles de l'art.",
         "icon": "zap",
         "featured": false
       },
       {
-        "title": "Détection de fuites",
-        "desc": "Localisation et réparation de fuites sur vos installations pour éviter tout dégât des eaux.",
+        "title": "Réparation de fuites",
+        "desc": "Détection et réparation de fuites apparentes ou cachées pour protéger votre logement et éviter tout dégât des eaux.",
         "icon": "search",
         "featured": false
       },
       {
-        "title": "Entretien canalisations",
-        "desc": "Débouchage et entretien de vos canalisations pour un réseau toujours en parfait état.",
-        "icon": "wind",
+        "title": "Entretien installations",
+        "desc": "Vérification et entretien régulier de vos équipements de plomberie pour prévenir les pannes et garantir leur bon fonctionnement dans la durée.",
+        "icon": "flame",
         "featured": false
       }
     ],
     "why_us": [
       {
         "title": "Note Google 5/5",
-        "desc": "Satisfaction client maximale attestée par les avis Google"
+        "desc": "Satisfaction client totale attestée par les avis en ligne"
       },
       {
-        "title": "Artisan indépendant",
-        "desc": "Contact direct, sans intermédiaire, pour plus de réactivité"
+        "title": "Contact direct garanti",
+        "desc": "Joignez l'artisan directement, sans intermédiaire ni attente"
       },
       {
-        "title": "Ancrage local Strasbourg",
-        "desc": "Connaissance du quartier pour des interventions ciblées"
+        "title": "Artisan local Strasbourg",
+        "desc": "Koenigshoffen et environs, connaissance parfaite du secteur"
       },
       {
-        "title": "Joignabilité immédiate",
-        "desc": "Un numéro mobile dédié pour vous répondre rapidement"
+        "title": "Qualité sans compromis",
+        "desc": "Chaque intervention réalisée avec soin et professionnalisme"
       }
     ],
     "why_us_badge": {
       "value": "2h",
-      "label": "délai moyen d'intervention"
+      "label": "délai d'intervention"
     },
-    "service_area": "Strasbourg, Schiltigheim, Lingolsheim, Illkirch-Graffenstaden, Ostwald, Eckbolsheim, Oberhausbergen, Wolfisheim, Hoenheim",
+    "service_area": "Strasbourg, Schiltigheim, Lingolsheim, Eckbolsheim, Oberhausbergen, Hoenheim, Bischheim, Ostwald, Illkirch-Graffenstaden",
     "service_area_cities": [
       "Strasbourg",
       "Schiltigheim",
       "Lingolsheim",
-      "Illkirch-Graffenstaden",
-      "Ostwald",
       "Eckbolsheim",
       "Oberhausbergen",
-      "Wolfisheim",
-      "Hoenheim"
+      "Hoenheim",
+      "Bischheim",
+      "Ostwald",
+      "Illkirch-Graffenstaden"
     ],
     "service_area_map_cities": [
-      "Strasbourg",
       "Schiltigheim",
-      "Illkirch-Graffenstaden",
-      "Ostwald",
       "Lingolsheim",
-      "Hoenheim"
+      "Bischheim",
+      "Ostwald",
+      "Illkirch-Graffenstaden"
     ],
     "service_area_stats": [
       {
@@ -163,18 +167,18 @@
       },
       {
         "value": "5/5",
-        "label": "note Google"
+        "label": "Note Google"
       },
       {
         "value": "100%",
         "label": "clients satisfaits"
       }
     ],
-    "service_area_note": "Déplacement rapide sur Strasbourg et ses environs — devis gratuit sans engagement sur simple appel.",
+    "service_area_note": "Déplacement rapide à Strasbourg et dans tout le secteur alsacien, devis gratuit sans engagement.",
     "no_reviews_cta": {
       "eyebrow": "CONFIANCE",
       "title": "Un artisan de confiance à Strasbourg",
-      "subtitle": "Artisan indépendant, joignable directement par mobile, engagé pour la qualité à chaque intervention dans Strasbourg et ses environs.",
+      "subtitle": "Artisan indépendant joignable directement, implanté localement et reconnu pour la qualité de ses interventions en plomberie.",
       "button_text": "Demander un devis gratuit"
     },
     "reviews_note": "5 / 5 sur Google Maps · 1 avis clients vérifiés",
@@ -186,7 +190,7 @@
       "hours": ""
     },
     "seo_title": "Plombier à Strasbourg — Siamari Majid Est Plomberie",
-    "meta_description": "Artisan plombier indépendant à Strasbourg, note 5/5 sur Google. Interventions soignées, contact direct par mobile. Devis gratuit sans engagement."
+    "meta_description": "Artisan plombier indépendant à Strasbourg, note Google 5/5. Intervention rapide, devis gratuit. Appelez le +33 6 29 88 27 58."
   },
   "reviews": []
 }
