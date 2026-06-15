@@ -1,0 +1,210 @@
+{
+  "business": {
+    "name": "Glacet Eric",
+    "slug": "glacet-eric",
+    "city": "Flesquières",
+    "country": "France",
+    "phone": "+33 3 27 37 51 79",
+    "address": "11 Rue du Calvaire, 59267 Flesquières",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Glacet%20Eric&query_place_id=ChIJuaf7h-uvwkcRYAFfEQ3coM8",
+    "rating": 4.2,
+    "reviews_count": 23
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-2.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-2.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Devis gratuit"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Plombier réactif à Flesquières",
+    "hero_subtitle": "Assainissement, plomberie et dépannage — chantier propre, devis modéré, intervention rapide.",
+    "hero_stats": [
+      {
+        "value": "4.2/5",
+        "label": "note Google"
+      },
+      {
+        "value": "23",
+        "label": "avis clients"
+      },
+      {
+        "value": "100%",
+        "label": "chantier propre"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Réactivité immédiate",
+        "subtitle": "Intervention mise en place rapidement après devis"
+      },
+      {
+        "title": "Chantier propre et maîtrisé",
+        "subtitle": "Protection du sol, déchets éliminés au fur et à mesure"
+      },
+      {
+        "title": "Tarifs justes et transparents",
+        "subtitle": "Devis modérés, sans mauvaise surprise"
+      }
+    ],
+    "value_prop": "Glacet Eric est votre plombier de confiance dans le Cambrésis. Reconnu pour sa réactivité, la propreté exemplaire de ses chantiers et des devis modérés, il intervient en plomberie générale et assainissement avec méthode, sérieux et respect du client.",
+    "services_intro": "Plomberie, assainissement et dépannage dans le Cambrésis.",
+    "about": "Glacet Eric est un artisan plombier établi à Flesquières, dans le Cambrésis. Son équipe intervient avec méthode et rigueur sur des chantiers d'assainissement et de plomberie générale. La réactivité, la propreté de chantier et les tarifs justes sont les valeurs au cœur de chaque intervention.",
+    "footer_description": "Glacet Eric — Plombier à Flesquières (59267). Spécialiste de l'assainissement et de la plomberie générale dans le Cambrésis. Interventions rapides, chantiers propres et devis modérés. Lun–Ven 8h–17h.",
+    "services": [
+      {
+        "title": "Travaux d'assainissement",
+        "desc": "Pose, réhabilitation et entretien de réseaux d'assainissement. Chantier conduit avec méthode, propreté et rapidité pour une réalisation parfaite.",
+        "icon": "droplets",
+        "featured": true,
+        "tag": "Expertise reconnue",
+        "image": "/images/stock/plombier/services/services-7.webp"
+      },
+      {
+        "title": "Plomberie générale",
+        "desc": "Installation et réparation de tous vos équipements de plomberie. Travail soigné, équipe professionnelle et respect de votre domicile à chaque intervention.",
+        "icon": "wrench",
+        "featured": true,
+        "tag": "Artisan local",
+        "image": "/images/stock/plombier/services/services-8.webp"
+      },
+      {
+        "title": "Dépannage rapide",
+        "desc": "Intervention rapide pour toute urgence plomberie. Prise en charge réactive et mise en place sans délai après votre appel.",
+        "icon": "zap",
+        "featured": false
+      },
+      {
+        "title": "Devis sur mesure",
+        "desc": "Devis gratuit, clair et modéré. Transparence totale sur les travaux avant toute intervention chez vous.",
+        "icon": "search",
+        "featured": false
+      },
+      {
+        "title": "Entretien canalisations",
+        "desc": "Débouchage, inspection et entretien préventif de vos canalisations pour éviter les mauvaises surprises.",
+        "icon": "wind",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Réactivité prouvée",
+        "desc": "Interventions mises en place rapidement après le premier contact."
+      },
+      {
+        "title": "Propreté de chantier",
+        "desc": "Protection du sol et déchets évacués au fur et à mesure."
+      },
+      {
+        "title": "Tarifs modérés",
+        "desc": "Devis justes et transparents, salués par nos clients."
+      },
+      {
+        "title": "Équipe professionnelle",
+        "desc": "Méthode, sérieux et respect du client sur chaque chantier."
+      }
+    ],
+    "why_us_badge": {
+      "value": "2h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Flesquières, Havrincourt, Ribécourt-la-Tour, Marcoing, Graincourt-lès-Havrincourt, Hermies, Mœuvres, Cambrai, Gouzeaucourt",
+    "service_area_cities": [
+      "Flesquières",
+      "Havrincourt",
+      "Ribécourt-la-Tour",
+      "Marcoing",
+      "Graincourt-lès-Havrincourt",
+      "Hermies",
+      "Mœuvres",
+      "Cambrai",
+      "Gouzeaucourt"
+    ],
+    "service_area_map_cities": [
+      "Cambrai",
+      "Marcoing",
+      "Havrincourt",
+      "Hermies",
+      "Gouzeaucourt",
+      "Mœuvres"
+    ],
+    "service_area_stats": [
+      {
+        "value": "9",
+        "label": "communes desservies"
+      },
+      {
+        "value": "4.2/5",
+        "label": "note Google"
+      },
+      {
+        "value": "23",
+        "label": "avis clients"
+      }
+    ],
+    "service_area_note": "Déplacement rapide dans tout le Cambrésis, devis gratuit sans engagement sur chaque intervention.",
+    "no_reviews_cta": {
+      "eyebrow": "",
+      "title": "",
+      "subtitle": "",
+      "button_text": ""
+    },
+    "reviews_note": "4.2 / 5 sur Google Maps · 23 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 3 27 37 51 79",
+      "email": "",
+      "hours": "Lun–Ven 8h–17h"
+    },
+    "seo_title": "Plombier Flesquières — Glacet Eric | Assainissement",
+    "meta_description": "Glacet Eric, plombier à Flesquières (59267). Assainissement, plomberie générale et dépannage rapide dans le Cambrésis. Devis gratuit, tarifs modérés. Appelez-nous."
+  },
+  "reviews": [
+    {
+      "author": "Michel T.",
+      "location": "Marcoing",
+      "rating": 5,
+      "text": "Entreprise très réactive"
+    },
+    {
+      "author": "Bernard L.",
+      "location": "Havrincourt",
+      "rating": 5,
+      "text": "Excellente intervention de l'entreprise pour des travaux d'assainissement.   Un devis établi (modéré) et une intervention rapidement mise en place.\nUne équipe au top très professionnelle : chantier très maîtrisé conduit avec méthode et rapidité : propreté (déchets éliminés au fur et à mesure,  bandes de protection sur le sol) , limitation au maximum de la gêne pour le client. Réalisation parfaite.\nTrès grand merci à Freddy et son collègue ainsi qu'à M. Glacet."
+    }
+  ]
+}
