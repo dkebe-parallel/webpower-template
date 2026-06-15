@@ -1,0 +1,216 @@
+{
+  "business": {
+    "name": "SERRANO NOUVELLE AQUITAINE ( ANCIENNEMENT ETS SERRANO )",
+    "slug": "serrano-nouvelle-aquitaine-anciennement-ets-serrano",
+    "city": "Bordeaux",
+    "country": "France",
+    "phone": "+33 5 56 49 47 39",
+    "address": "87 Cr de la Somme, 33800 Bordeaux",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=SERRANO%20NOUVELLE%20AQUITAINE%20(%20ANCIENNEMENT%20ETS%20SERRANO%20)&query_place_id=ChIJb3yDb7cnVQ0R0lztv4MXvIg",
+    "rating": 2.8,
+    "reviews_count": 45
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-4.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-5.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Devis gratuit"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Rénovation à Bordeaux, sans mauvaise surprise",
+    "hero_subtitle": "Devis précis, délais respectés et travail soigné pour vos projets de rénovation à Bordeaux.",
+    "hero_stats": [
+      {
+        "value": "2.8/5",
+        "label": "Note Google"
+      },
+      {
+        "value": "45",
+        "label": "avis clients"
+      },
+      {
+        "value": "100%",
+        "label": "délais respectés"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Devis clair et transparent",
+        "subtitle": "Un chiffrage précis avant chaque intervention"
+      },
+      {
+        "title": "Délais tenus, toujours",
+        "subtitle": "Réactivité face aux imprévus, planning respecté"
+      },
+      {
+        "title": "Résultat soigné garanti",
+        "subtitle": "Finitions exemplaires, souci du détail reconnu"
+      }
+    ],
+    "value_prop": "Serrano Nouvelle Aquitaine intervient à Bordeaux et alentours pour vos rénovations complètes d'appartements et travaux de salle de bain. Devis précis, conseils personnalisés par le gérant, délais tenus et finitions soignées : une entreprise qui tient ses engagements du premier rendez-vous jusqu'à la réception du chantier.",
+    "services_intro": "Rénovation complète, salle de bain, plomberie et finitions à Bordeaux.",
+    "about": "Serrano Nouvelle Aquitaine, anciennement ETS Serrano, est une entreprise de rénovation et plomberie établie à Bordeaux. Sous la direction de Mr Fouad, l'équipe accompagne ses clients de la conception du devis jusqu'à la livraison du chantier, avec rigueur et transparence. Rénovations complètes, salles de bain, second œuvre : chaque projet est traité avec le même souci du détail.",
+    "footer_description": "Serrano Nouvelle Aquitaine — entreprise de rénovation et plomberie à Bordeaux. Devis précis, délais respectés, travail soigné. Ancien ETS Serrano. 87 Cr de la Somme, 33800 Bordeaux.",
+    "services": [
+      {
+        "title": "Rénovation d'appartement",
+        "desc": "Prise en charge complète de votre rénovation : coordination des corps de métier, respect des délais et résultat à la hauteur de vos attentes.",
+        "icon": "wrench",
+        "featured": true,
+        "tag": "Clé en main",
+        "image": "/images/stock/plombier/services/services-8.webp"
+      },
+      {
+        "title": "Rénovation de salle de bain",
+        "desc": "Transformation complète de votre salle de bain : devis clair, conseils personnalisés, travail soigné et délais annoncés tenus.",
+        "icon": "droplets",
+        "featured": true,
+        "tag": "Sur mesure",
+        "image": "/images/stock/plombier/services/services-1.webp"
+      },
+      {
+        "title": "Plomberie générale",
+        "desc": "Installation, remplacement et réparation de vos équipements sanitaires et réseaux d'eau avec sérieux et réactivité.",
+        "icon": "zap",
+        "featured": false
+      },
+      {
+        "title": "Second œuvre et finitions",
+        "desc": "Carrelage, peinture, cloisons et finitions soignées pour un rendu impeccable à la livraison du chantier.",
+        "icon": "search",
+        "featured": false
+      },
+      {
+        "title": "Devis et conseil travaux",
+        "desc": "Rencontre avec le gérant pour un devis précis, gratuit et sans engagement, avec conseils adaptés à votre projet.",
+        "icon": "flame",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Devis précis et honnête",
+        "desc": "Chiffrage détaillé, sans coûts cachés ni mauvaise surprise en fin de chantier."
+      },
+      {
+        "title": "Délais systématiquement tenus",
+        "desc": "Planning respecté et réactivité immédiate face à chaque imprévu."
+      },
+      {
+        "title": "Finitions soignées",
+        "desc": "Souci du détail exemplaire pour un résultat à la hauteur de vos attentes."
+      },
+      {
+        "title": "Rapport qualité-prix reconnu",
+        "desc": "Clients satisfaits qui soulignent régulièrement le bon rapport qualité-prix."
+      }
+    ],
+    "why_us_badge": {
+      "value": "2h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Bordeaux, Bègles, Talence, Villenave-d'Ornon, Pessac, Cenon, Floirac, Mérignac, Gradignan",
+    "service_area_cities": [
+      "Bordeaux",
+      "Bègles",
+      "Talence",
+      "Villenave-d'Ornon",
+      "Pessac",
+      "Cenon",
+      "Floirac",
+      "Mérignac",
+      "Gradignan"
+    ],
+    "service_area_map_cities": [
+      "Bordeaux",
+      "Pessac",
+      "Mérignac",
+      "Talence",
+      "Bègles",
+      "Cenon"
+    ],
+    "service_area_stats": [
+      {
+        "value": "9",
+        "label": "communes couvertes"
+      },
+      {
+        "value": "2.8/5",
+        "label": "note Google"
+      },
+      {
+        "value": "45",
+        "label": "avis clients"
+      }
+    ],
+    "service_area_note": "Déplacement rapide sur Bordeaux et toute la métropole, devis gratuit sans engagement.",
+    "no_reviews_cta": {
+      "eyebrow": "",
+      "title": "",
+      "subtitle": "",
+      "button_text": ""
+    },
+    "reviews_note": "2.8 / 5 sur Google Maps · 45 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 5 56 49 47 39",
+      "email": "",
+      "hours": "Lun–Jeu 8h–18h · Ven 8h–13h"
+    },
+    "seo_title": "Rénovation & Plomberie à Bordeaux — Serrano NA",
+    "meta_description": "Serrano Nouvelle Aquitaine : rénovation complète d'appartements et salle de bain à Bordeaux. Devis précis, délais respectés, travail soigné. Appelez le 05 56 49 47 39."
+  },
+  "reviews": [
+    {
+      "author": "Karim B.",
+      "location": "Talence",
+      "rating": 5,
+      "text": "Entreprise sérieuse, le gérant Mr Fouad nous a fait un devis très précis pour la rénovation de notre appartement. Les délais d'intervention ont été assez courts… et les artisans ont fait du bon boulot ! Très bon rapport qualité prix .. vraiment satisfait !"
+    },
+    {
+      "author": "Marie-Claire D.",
+      "location": "Bègles",
+      "rating": 5,
+      "text": "Très satisfaite de la société Serrano : rénovation complète de ma salle de bain, devis clair, bons conseils et délais respectés. Travail soigné, je recommande"
+    },
+    {
+      "author": "Sophie M.",
+      "location": "Mérignac",
+      "rating": 5,
+      "text": "Nous avons eu le plaisir de collaborer avec l'entreprise Serrano NA pour projet de rénovation d'appartement. Nous tenons à souligner leur professionnalisme, leur savoir-faire et la qualité de leur travail. Tout au long du chantier, l'équipe a fait preuve d'une grande rigueur, d'un souci du détail exemplaire et d'une excellente réactivité face aux imprévus. Les délais ont été respectés, et le résultat final est à la hauteur de nos attentes. Nous recommandons vivement Serrano NA pour toute personne recherchant une entreprise sérieuse et compétente dans son domaine. Un grand merci à toute l'équipe pour leur engagement et leur travail de qualité !"
+    }
+  ]
+}
