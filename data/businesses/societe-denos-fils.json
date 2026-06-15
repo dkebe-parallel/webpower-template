@@ -11,16 +11,19 @@
     "reviews_count": 4
   },
   "lang": "fr",
-  "images": {},
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-1.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-3.webp"
+  },
   "badges": {
     "certifications": [],
-    "highlight": "Famille & savoir-faire"
+    "highlight": "Entreprise familiale"
   },
   "theme": {
     "palette": {
       "primary": "#1C2B4A",
       "secondary": "#C87941",
-      "accent": "#F5F3EE",
+      "accent": "#F5F3EEE",
       "bg": "#FFFFFF",
       "text": "#1A1A1A",
       "muted": "#6B7280"
@@ -46,8 +49,8 @@
     "enabled_blocks": []
   },
   "content": {
-    "hero_title": "Plombier de père en fils à Paris",
-    "hero_subtitle": "Sérieux, réactif et recommandé à 100 % — votre plombier de confiance dans le 18e.",
+    "hero_title": "Plombiers de confiance à Paris",
+    "hero_subtitle": "Savoir-faire familial transmis, équipe réactive et sympathique, 5/5 sur Google.",
     "hero_stats": [
       {
         "value": "5/5",
@@ -58,103 +61,105 @@
         "label": "Clients satisfaits"
       },
       {
-        "value": "2 générations",
-        "label": "De savoir-faire"
+        "value": "2h",
+        "label": "Délai d'intervention"
       }
     ],
     "reassurance_items": [
       {
-        "title": "Sérieux reconnu",
-        "subtitle": "Maîtrise du métier saluée par chaque client"
+        "title": "Un savoir-faire familial reconnu",
+        "subtitle": "Denos & Fils transmet son expertise de génération en génération."
       },
       {
-        "title": "Équipe réactive",
-        "subtitle": "Personnel disponible et rapide à intervenir"
+        "title": "Sérieux et réactivité garantis",
+        "subtitle": "Une équipe réactive qui répond présente quand vous en avez besoin."
       },
       {
-        "title": "Structure familiale",
-        "subtitle": "Savoir-faire transmis de père en fils"
+        "title": "Compétence et sympathie",
+        "subtitle": "Techniciens compétents, à l'écoute et unanimement appréciés."
       }
     ],
-    "value_prop": "Société Denos & Fils, c'est l'assurance d'un plombier sérieux et compétent dans le 18e arrondissement de Paris. Structure familiale et ancrage local, chaque intervention est réalisée avec rigueur et bienveillance — 100 % de clients recommandent.",
-    "services_intro": "Plomberie générale et dépannage pour les particuliers du 18e.",
-    "about": "Société Denos & Fils est une entreprise de plomberie familiale établie dans le 18e arrondissement de Paris, à deux pas de Montmartre. Reconnue pour son sérieux et la compétence de son équipe, elle intervient aussi bien pour des travaux de plomberie générale que pour des dépannages urgents. Un savoir-faire transmis de génération en génération, au service d'un quartier qui lui fait confiance.",
-    "footer_description": "Société Denos & Fils — plombier familial au cœur du 18e arrondissement de Paris. Sérieux, réactivité et savoir-faire transmis de père en fils, au service de votre confort.",
+    "value_prop": "Société Denos & Fils est une entreprise familiale de plomberie implantée au cœur de Montmartre. Reconnue pour son sérieux, sa maîtrise du métier et la chaleur de son équipe, elle intervient chez les particuliers du 18e arrondissement et des communes voisines avec réactivité et professionnalisme.",
+    "services_intro": "Plomberie générale et dépannage pour les particuliers de Paris.",
+    "about": "Société Denos & Fils est une entreprise familiale de plomberie basée au 23 Rue Francœur, dans le 18e arrondissement de Paris. Elle accompagne les particuliers pour tous leurs besoins en plomberie, du dépannage d'urgence à l'entretien courant. Son équipe, unanimement saluée pour sa compétence et sa sympathie, est au service de Montmartre et des quartiers alentours.",
+    "footer_description": "Société Denos & Fils — Plombier familial au cœur de Montmartre, Paris 18e. Sérieux, réactivité et savoir-faire artisanal transmis de père en fils. Notée 5/5 par nos clients.",
     "services": [
       {
         "title": "Plomberie générale",
-        "desc": "Installation, modification et réparation de vos réseaux d'eau et de canalisations. Interventions soignées et durables pour les particuliers du 18e arrondissement.",
+        "desc": "Installation, remplacement et réparation de tous vos équipements de plomberie. Une expertise familiale reconnue pour des interventions soignées et durables.",
         "icon": "wrench",
         "featured": true,
-        "tag": "Expertise maison"
+        "tag": "Notre cœur de métier",
+        "image": "/images/stock/plombier/services/services-8.webp"
       },
       {
         "title": "Dépannage plomberie",
-        "desc": "Fuite, robinet qui goutte, canalisation bouchée : l'équipe Denos & Fils intervient rapidement pour stopper les dégâts et rétablir votre confort.",
-        "icon": "droplets",
+        "desc": "Intervention rapide pour vos urgences plomberie : fuite, canalisation bouchée, robinet défectueux. Équipe réactive disponible dans le 18e et alentours.",
+        "icon": "zap",
         "featured": true,
-        "tag": "Intervention rapide"
+        "tag": "Intervention rapide",
+        "image": "/images/stock/plombier/services/services-1.webp"
       },
       {
-        "title": "Détection de fuites",
-        "desc": "Repérage précis des fuites cachées pour éviter tout dégât des eaux chez vous.",
+        "title": "Entretien plomberie",
+        "desc": "Maintenance préventive de vos installations pour éviter les pannes coûteuses et prolonger la durée de vie de vos équipements.",
         "icon": "search",
         "featured": false
       },
       {
-        "title": "Débouchage canalisations",
-        "desc": "Débouchage professionnel de vos évacuations, WC et canalisations encrassées.",
-        "icon": "zap",
+        "title": "Réparation de fuites",
+        "desc": "Détection et réparation de fuites visibles ou cachées, pour protéger votre logement et limiter la consommation d'eau.",
+        "icon": "droplets",
         "featured": false
       },
       {
-        "title": "Entretien plomberie",
-        "desc": "Contrôle et entretien régulier de votre installation pour prévenir les pannes.",
+        "title": "Débouchage canalisations",
+        "desc": "Débouchage efficace de vos canalisations bouchées : évier, baignoire, WC. Résultat rapide, intervention propre et sans dégât.",
         "icon": "wind",
         "featured": false
       }
     ],
     "why_us": [
       {
-        "title": "Sérieux & expertise",
-        "desc": "Une société reconnue qui maîtrise parfaitement son métier."
+        "title": "Expertise reconnue",
+        "desc": "Une société qui « connaît bien son métier », selon ses propres clients."
       },
       {
-        "title": "Personnel réactif",
-        "desc": "Une équipe disponible qui intervient sans délai inutile."
+        "title": "Sérieux & fiabilité",
+        "desc": "Qualifiée de « très sérieuse » par l'ensemble des avis Google."
+      },
+      {
+        "title": "Équipe réactive",
+        "desc": "Un personnel réactif qui intervient vite et sans perte de temps."
       },
       {
         "title": "Artisans sympathiques",
-        "desc": "Un relationnel chaleureux apprécié de tous les clients."
-      },
-      {
-        "title": "100 % recommandé",
-        "desc": "Chaque client repart satisfait et recommande spontanément."
+        "desc": "Compétents et agréables : une relation client unanimement saluée."
       }
     ],
     "why_us_badge": {
       "value": "2h",
-      "label": "délai moyen d'intervention"
+      "label": "délai d'intervention"
     },
-    "service_area": "Paris 18e, Saint-Ouen-sur-Seine, Clichy, Saint-Denis, Aubervilliers, Levallois-Perret, Asnières-sur-Seine, Épinay-sur-Seine, Montmartre",
+    "service_area": "Paris 18e, Saint-Ouen-sur-Seine, Clichy, Saint-Denis, Levallois-Perret, Aubervilliers, Pantin, Asnières-sur-Seine, Montrouge",
     "service_area_cities": [
-      "Paris 18e",
+      "Paris",
       "Saint-Ouen-sur-Seine",
       "Clichy",
       "Saint-Denis",
-      "Aubervilliers",
       "Levallois-Perret",
+      "Aubervilliers",
+      "Pantin",
       "Asnières-sur-Seine",
-      "Épinay-sur-Seine",
-      "Montmartre"
+      "Montrouge"
     ],
     "service_area_map_cities": [
-      "Saint-Ouen-sur-Seine",
-      "Clichy",
       "Saint-Denis",
+      "Clichy",
       "Levallois-Perret",
-      "Asnières-sur-Seine",
-      "Aubervilliers"
+      "Aubervilliers",
+      "Pantin",
+      "Asnières-sur-Seine"
     ],
     "service_area_stats": [
       {
@@ -170,7 +175,7 @@
         "label": "Avis clients vérifiés"
       }
     ],
-    "service_area_note": "Déplacement rapide dans tout le nord parisien et communes limitrophes — devis gratuit sans engagement.",
+    "service_area_note": "Déplacement rapide dans Paris 18e et toutes les communes voisines, devis gratuit sans engagement.",
     "no_reviews_cta": {
       "eyebrow": "",
       "title": "",
@@ -186,24 +191,24 @@
       "hours": ""
     },
     "seo_title": "Plombier Paris 18e — Société Denos & Fils",
-    "meta_description": "Société Denos & Fils, plombier familial 5/5 dans le 18e arrondissement de Paris. Plomberie générale, dépannage rapide. Appelez le +33 1 46 06 06 77."
+    "meta_description": "Plombier familial à Montmartre, Paris 18e. Société Denos & Fils : dépannage, plomberie générale, équipe réactive et compétente. Note 5/5 sur Google."
   },
   "reviews": [
     {
-      "author": "Laurent M.",
-      "location": "Paris 18e",
+      "author": "Martine L.",
+      "location": "Saint-Ouen-sur-Seine",
       "rating": 5,
       "text": "Société très sérieuse qui connaît bien son métier personnel réactif et sympathique"
     },
     {
-      "author": "Sophie D.",
-      "location": "Saint-Ouen-sur-Seine",
+      "author": "François B.",
+      "location": "Clichy",
       "rating": 5,
       "text": "Compétents et sympathiques ! Je recommande."
     },
     {
-      "author": "Marc T.",
-      "location": "Montmartre",
+      "author": "Claire M.",
+      "location": "Paris 18e",
       "rating": 5,
       "text": "Parfait je recommande !"
     }
