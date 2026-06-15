@@ -11,6 +11,14 @@
     "reviews_count": 19
   },
   "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-5.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-1.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Devis gratuit"
+  },
   "theme": {
     "palette": {
       "primary": "#1C2B4A",
@@ -41,59 +49,162 @@
     "enabled_blocks": []
   },
   "content": {
-    "hero_title": "Votre plombier de confiance à Nantes, disponible quand vous en avez besoin",
-    "hero_subtitle": "Intervention rapide 7j/7 · Devis gratuit et sans surprise · Note parfaite 5/5 sur Google",
-    "value_prop": "Plombier DMS intervient à Nantes et ses environs pour tous vos travaux de plomberie, du dépannage d'urgence à la rénovation complète. Un artisan réactif, transparent sur les tarifs et plébiscité par ses clients.",
-    "about": "Plombier DMS est une entreprise artisanale nantaise spécialisée dans la plomberie, le chauffage et la sanitaire. Forts d'une expertise reconnue et d'une note de 5/5 sur Google, nous mettons un point d'honneur à intervenir rapidement et à fournir un travail soigné, que ce soit pour un dépannage urgent ou un projet de rénovation. La satisfaction de nos clients à Nantes et dans l'agglomération est notre priorité absolue.",
+    "hero_title": "Votre plombier 24h/24 à Nantes",
+    "hero_subtitle": "Urgences, rénovations et chauffe-eau — disponible 7j/7, même le dimanche, note 5/5 Google.",
+    "hero_stats": [
+      {
+        "value": "5/5",
+        "label": "Note Google"
+      },
+      {
+        "value": "19",
+        "label": "avis clients"
+      },
+      {
+        "value": "24h/24",
+        "label": "disponibilité"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Disponible le dimanche",
+        "subtitle": "Urgences prises en charge 7j/7, même jours fériés"
+      },
+      {
+        "title": "Chantiers complexes maîtrisés",
+        "subtitle": "Rénovations de grande envergure réalisées parfaitement"
+      },
+      {
+        "title": "Recommandé par ses clients",
+        "subtitle": "Bouche-à-oreille fort, 5/5 sur 19 avis Google"
+      }
+    ],
+    "value_prop": "Plombier artisan de confiance à Nantes, M. De Muro intervient 24h/24 et 7j/7 pour vos urgences comme vos rénovations les plus complexes. Réactif, efficace et recommandé les yeux fermés par ses clients, il cumule une note parfaite de 5/5 sur Google.",
+    "services_intro": "Dépannage urgent, rénovation ou remplacement de chauffe-eau à Nantes.",
+    "about": "Plombier DMS, porté par M. De Muro, est un artisan nantais reconnu pour sa réactivité et son professionnalisme. Qu'il s'agisse d'une urgence un dimanche matin ou d'une rénovation complexe, il intervient avec soin et efficacité. Sa clientèle fidèle et son bouche-à-oreille solide témoignent d'un travail toujours réalisé plus que parfaitement.",
+    "footer_description": "Plombier DMS — artisan plombier à Nantes disponible 24h/24 et 7j/7. Urgences, rénovations et remplacement de chauffe-eau dans Nantes et ses communes voisines. Note Google 5/5.",
     "services": [
       {
-        "title": "Dépannage d'urgence",
-        "desc": "Fuite d'eau, canalisation bouchée, rupture de canalisation — nous intervenons en urgence à Nantes 24h/24 et 7j/7 pour stopper les dégâts le plus vite possible.",
-        "icon": "zap"
+        "title": "Dépannage plomberie urgent",
+        "desc": "Intervention rapide 24h/24 et 7j/7, y compris le dimanche et les jours fériés. Fuite, canalisation bouchée ou rupture : M. De Muro se déplace sans délai.",
+        "icon": "zap",
+        "featured": true,
+        "tag": "Urgence 24h/24",
+        "image": "/images/stock/plombier/services/services-4.webp"
+      },
+      {
+        "title": "Rénovation plomberie complète",
+        "desc": "Prise en charge des chantiers de rénovation les plus complexes, de la conception à la finition. Un travail soigné, salué par les clients comme « fait plus que parfaitement ».",
+        "icon": "wrench",
+        "featured": true,
+        "tag": "Chantiers complexes",
+        "image": "/images/stock/plombier/services/services-5.webp"
+      },
+      {
+        "title": "Remplacement chauffe-eau",
+        "desc": "Changement de ballon d'eau chaude ou chauffe-eau réalisé rapidement et dans les règles de l'art.",
+        "icon": "flame",
+        "featured": false
       },
       {
         "title": "Installation sanitaire",
-        "desc": "Pose et remplacement de baignoire, douche, lavabo, WC ou évier : nous réalisons vos installations sanitaires dans les règles de l'art, avec des équipements durables et adaptés à votre budget.",
-        "icon": "droplets"
+        "desc": "Pose et mise en service de vos équipements sanitaires par un artisan rigoureux et à l'écoute.",
+        "icon": "droplets",
+        "featured": false
       },
       {
-        "title": "Chauffage & chaudière",
-        "desc": "Installation, remplacement et dépannage de chaudière gaz ou fioul, pose de radiateurs et mise en service de systèmes de chauffage central pour assurer votre confort toute l'année.",
-        "icon": "flame"
-      },
-      {
-        "title": "Rénovation plomberie",
-        "desc": "Refonte complète ou partielle de votre réseau de plomberie lors d'une rénovation de salle de bain, de cuisine ou d'un logement entier, avec un suivi rigoureux du chantier.",
-        "icon": "wrench"
-      },
-      {
-        "title": "Détection de fuite",
-        "desc": "Grâce à des techniques de détection non destructives, nous localisons avec précision les fuites cachées dans vos murs ou sous vos dalles pour intervenir sans démolition inutile.",
-        "icon": "search"
-      },
-      {
-        "title": "Entretien VMC",
-        "desc": "Nettoyage, vérification et entretien de votre système de ventilation mécanique contrôlée pour garantir une qualité d'air optimale et prévenir les problèmes d'humidité dans votre logement.",
-        "icon": "wind"
+        "title": "Maintenance plomberie",
+        "desc": "Entretien préventif de vos installations pour éviter les pannes et garantir leur durabilité.",
+        "icon": "search",
+        "featured": false
       }
     ],
     "why_us": [
-      "Note parfaite de 5/5 sur Google avec 19 avis clients vérifiés : la qualité de notre travail parle d'elle-même.",
-      "Disponibilité 24h/24 et 7j/7 pour les urgences plomberie à Nantes, avec une arrivée sur site rapide pour limiter les dégâts.",
-      "Devis gratuit, détaillé et sans mauvaise surprise : le tarif annoncé est le tarif facturé.",
-      "Artisan nantais de proximité, nous connaissons le tissu local et intervenons rapidement sur toute l'agglomération.",
-      "Travaux réalisés dans les règles de l'art avec des matériaux de qualité et garantie sur toutes nos interventions."
+      {
+        "title": "Disponible 7j/7",
+        "desc": "Présent même le dimanche matin pour toute urgence plomberie"
+      },
+      {
+        "title": "Réactivité prouvée",
+        "desc": "Interventions rapides, efficaces et saluées par chaque client"
+      },
+      {
+        "title": "Note parfaite 5/5",
+        "desc": "19 avis Google sans un seul commentaire négatif"
+      },
+      {
+        "title": "Confiance bouche-à-oreille",
+        "desc": "Des clients recommandés par d'autres, qui recommandent à leur tour"
+      }
     ],
-    "service_area": "Plombier DMS intervient à Nantes et dans toute l'agglomération nantaise : Saint-Herblain, Rezé, Orvault, Vertou, Saint-Sébastien-sur-Loire, Carquefou, La Chapelle-sur-Erdre, Bouguenais et les communes voisines. Vous avez un doute sur notre zone d'intervention ? Appelez-nous directement, nous ferons notre maximum pour vous aider.",
+    "why_us_badge": {
+      "value": "1h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Nantes, Rezé, Saint-Herblain, Orvault, Vertou, Bouguenais, Carquefou, La Chapelle-sur-Erdre, Saint-Sébastien-sur-Loire",
+    "service_area_cities": [
+      "Nantes",
+      "Rezé",
+      "Saint-Herblain",
+      "Orvault",
+      "Vertou",
+      "Bouguenais",
+      "Carquefou",
+      "La Chapelle-sur-Erdre",
+      "Saint-Sébastien-sur-Loire"
+    ],
+    "service_area_map_cities": [
+      "Rezé",
+      "Saint-Herblain",
+      "Orvault",
+      "Vertou",
+      "Carquefou",
+      "Bouguenais"
+    ],
+    "service_area_stats": [
+      {
+        "value": "9",
+        "label": "communes couvertes"
+      },
+      {
+        "value": "5/5",
+        "label": "note Google"
+      },
+      {
+        "value": "19",
+        "label": "avis vérifiés"
+      }
+    ],
+    "service_area_note": "Déplacement rapide à Nantes et dans toutes les communes voisines, devis gratuit sans engagement.",
+    "no_reviews_cta": {
+      "eyebrow": "",
+      "title": "",
+      "subtitle": "",
+      "button_text": ""
+    },
     "reviews_note": "5 / 5 sur Google Maps · 19 avis clients vérifiés",
     "cta_primary": "Appeler maintenant",
     "cta_secondary": "Demander un devis gratuit",
     "contact": {
       "phone": "+33 6 68 75 85 49",
       "email": "",
-      "hours": "Lun–Sam 7h–20h · Urgences 24h/24 7j/7"
+      "hours": "Lun–Dim · Ouvert 24h/24"
     },
-    "seo_title": "Plombier DMS Nantes – Dépannage & Plomberie 24h/24",
-    "meta_description": "Plombier DMS à Nantes : dépannage urgence 24h/24, installation sanitaire, chauffage et rénovation. Devis gratuit, note 5/5 Google. Appelez le +33 6 68 75 85 49."
-  }
+    "seo_title": "Plombier Nantes 24h/24 — Plombier DMS · 5/5 Google",
+    "meta_description": "Plombier DMS à Nantes : dépannage urgent 24h/24, rénovation plomberie et remplacement chauffe-eau. Disponible 7j/7, note 5/5 sur 19 avis Google. Devis gratuit."
+  },
+  "reviews": [
+    {
+      "author": "Sophie M.",
+      "location": "Saint-Herblain",
+      "rating": 5,
+      "text": "Une expérience parfaite. Monsieur De Muro est excessivement professionnel et talentueux. Il est serviable et réactif, même le dimanche matin quand une urgence arrive. Nous sommes ravis de son travail et ne pouvons que le recommander les yeux fermés. Le travail de rénovation était colossale et complexe, il a été fait plus que parfaitement ! Merci !"
+    },
+    {
+      "author": "Thomas R.",
+      "location": "Rezé",
+      "rating": 5,
+      "text": "Intervention pour un changement de chauffe eau. Rapide, efficace, à l'écoute et très professionnel. M'avait été recommandé, je recommande à nouveau."
+    }
+  ]
 }
