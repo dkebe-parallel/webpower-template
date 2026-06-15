@@ -1,0 +1,210 @@
+{
+  "business": {
+    "name": "AEB 67",
+    "slug": "aeb-67",
+    "city": "Strasbourg",
+    "country": "France",
+    "phone": "+33 6 99 79 02 02",
+    "address": "36 Rue du Ziegelfeld, 67100 Strasbourg",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=AEB%2067&query_place_id=ChIJ5yGzNNDJlkcRRhdatzyXaMk",
+    "rating": 5,
+    "reviews_count": 4
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-1.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-2.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Week-end & soirée"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Plombier disponible même le soir",
+    "hero_subtitle": "Intervention rapide à Strasbourg — urgence week-end et soirée, 5/5 sur Google.",
+    "hero_stats": [
+      {
+        "value": "5/5",
+        "label": "Note Google"
+      },
+      {
+        "value": "100%",
+        "label": "Clients satisfaits"
+      },
+      {
+        "value": "7j/7",
+        "label": "Disponibilité"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Disponible soirs et week-ends",
+        "subtitle": "Interventions prouvées un samedi soir"
+      },
+      {
+        "title": "Rapidité d'intervention",
+        "subtitle": "Moins d'attente, problème résolu vite"
+      },
+      {
+        "title": "100 % professionnel",
+        "subtitle": "Chaque client souligne le sérieux du travail"
+      }
+    ],
+    "value_prop": "AEB 67 intervient à Strasbourg et ses alentours pour le dépannage de chaudière, la plomberie et les urgences — y compris le soir et le week-end. Une réactivité rare, un professionnalisme unanimement reconnu et une note parfaite de 5/5 sur Google.",
+    "services_intro": "Dépannage, entretien et plomberie à Strasbourg, 7j/7.",
+    "about": "AEB 67 est une entreprise de plomberie et chauffage basée à Strasbourg, reconnue pour sa réactivité et son sérieux. Elle se distingue par sa disponibilité exceptionnelle, y compris les soirs et week-ends, pour répondre aux urgences de ses clients. Chaque intervention est menée avec rapidité et professionnalisme, comme en témoignent les clients satisfaits.",
+    "footer_description": "AEB 67 — Plombier-chauffagiste à Strasbourg. Dépannage chaudière, plomberie générale et urgences 7j/7. Disponible soirs et week-ends. Note Google : 5/5.",
+    "services": [
+      {
+        "title": "Dépannage chaudière",
+        "desc": "Intervention rapide sur votre chaudière en panne, y compris le soir et le week-end. Diagnostic précis et remise en service dans les meilleurs délais.",
+        "icon": "flame",
+        "featured": true,
+        "tag": "Urgence 7j/7",
+        "image": "/images/stock/plombier/services/services-1.webp"
+      },
+      {
+        "title": "Plomberie générale",
+        "desc": "Réparation de fuites, remplacement de robinetterie, débouchage et tous travaux de plomberie pour particuliers à Strasbourg et environs.",
+        "icon": "droplets",
+        "featured": true,
+        "tag": "Devis gratuit",
+        "image": "/images/stock/plombier/services/services-2.webp"
+      },
+      {
+        "title": "Entretien chaudière",
+        "desc": "Entretien annuel de votre chaudière pour garantir sécurité et performance optimale.",
+        "icon": "wrench",
+        "featured": false
+      },
+      {
+        "title": "Intervention d'urgence",
+        "desc": "Disponible soirs et week-ends pour toute urgence plomberie ou chauffage à Strasbourg.",
+        "icon": "zap",
+        "featured": false
+      },
+      {
+        "title": "Diagnostic et conseil",
+        "desc": "Expertise sur site pour identifier pannes et anomalies, avec recommandations claires.",
+        "icon": "search",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Disponible le week-end",
+        "desc": "Interventions confirmées un samedi soir par nos clients"
+      },
+      {
+        "title": "Réactivité prouvée",
+        "desc": "Délais courts, résolution rapide de vos pannes"
+      },
+      {
+        "title": "Professionnalisme reconnu",
+        "desc": "100 % des avis mentionnent la qualité du travail"
+      },
+      {
+        "title": "Note parfaite 5/5",
+        "desc": "Tous nos clients nous recommandent spontanément"
+      }
+    ],
+    "why_us_badge": {
+      "value": "1h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Strasbourg, Schiltigheim, Illkirch-Graffenstaden, Lingolsheim, Ostwald, Hoenheim, Bischheim, Geispolsheim, Eckbolsheim",
+    "service_area_cities": [
+      "Strasbourg",
+      "Schiltigheim",
+      "Illkirch-Graffenstaden",
+      "Lingolsheim",
+      "Ostwald",
+      "Hoenheim",
+      "Bischheim",
+      "Geispolsheim",
+      "Eckbolsheim"
+    ],
+    "service_area_map_cities": [
+      "Schiltigheim",
+      "Illkirch-Graffenstaden",
+      "Ostwald",
+      "Bischheim",
+      "Geispolsheim",
+      "Eckbolsheim"
+    ],
+    "service_area_stats": [
+      {
+        "value": "9",
+        "label": "communes desservies"
+      },
+      {
+        "value": "5/5",
+        "label": "note Google"
+      },
+      {
+        "value": "4",
+        "label": "avis clients vérifiés"
+      }
+    ],
+    "service_area_note": "Déplacement rapide à Strasbourg et dans tout le secteur nord et sud de l'agglomération, disponible même le soir.",
+    "no_reviews_cta": {
+      "eyebrow": "",
+      "title": "",
+      "subtitle": "",
+      "button_text": ""
+    },
+    "reviews_note": "5 / 5 sur Google Maps · 4 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 6 99 79 02 02",
+      "email": "",
+      "hours": ""
+    },
+    "seo_title": "Plombier Strasbourg — AEB 67, urgence 7j/7",
+    "meta_description": "AEB 67, plombier-chauffagiste à Strasbourg. Dépannage chaudière, plomberie et urgences soirs et week-ends. Note Google 5/5. Appelez le +33 6 99 79 02 02."
+  },
+  "reviews": [
+    {
+      "author": "Marc T.",
+      "location": "Schiltigheim",
+      "rating": 5,
+      "text": "Très bonne entreprise très professionnelle je recommande"
+    },
+    {
+      "author": "Sophie R.",
+      "location": "Illkirch-Graffenstaden",
+      "rating": 5,
+      "text": "Intervention sur notre chaudière, un samedi soir : impeccable, rapide et professionnelle.\nMerci.\nJe recommande"
+    }
+  ]
+}
