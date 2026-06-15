@@ -1,0 +1,216 @@
+{
+  "business": {
+    "name": "Kevin Plombier paris 8",
+    "slug": "kevin-plombier-paris-8",
+    "city": "Paris",
+    "country": "France",
+    "phone": "+33 1 89 74 47 01",
+    "address": "Av. des Champs-Élysées, 75008 Paris",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Kevin%20Plombier%20paris%208&query_place_id=ChIJBx46Nd1v5kcRjRoFOHTHz-o",
+    "rating": 5,
+    "reviews_count": 6
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-2.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-5.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Devis gratuit"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Plombier 24h/24 dans le 8e",
+    "hero_subtitle": "Intervention rapide, budget respecté, résultat impeccable — disponible 7j/7 aux Champs-Élysées.",
+    "hero_stats": [
+      {
+        "value": "5/5",
+        "label": "Note Google"
+      },
+      {
+        "value": "24h/24",
+        "label": "Disponibilité"
+      },
+      {
+        "value": "100%",
+        "label": "Clients satisfaits"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Budget respecté à la lettre",
+        "subtitle": "Le devis annoncé est celui facturé, sans surprise."
+      },
+      {
+        "title": "Équipe courtoise & pro",
+        "subtitle": "Un personnel respectueux et à l'écoute à chaque visite."
+      },
+      {
+        "title": "Résultat impeccable garanti",
+        "subtitle": "Finitions soignées, travail décrit « comme neuf »."
+      }
+    ],
+    "value_prop": "Kevin Plombier intervient 24h/24 et 7j/7 dans le 8e arrondissement de Paris et ses environs. Réputé pour son sérieux, le respect strict des budgets convenus et des finitions impeccables, il est l'artisan de confiance du quartier des Champs-Élysées.",
+    "services_intro": "Plomberie, réparation et rénovation au cœur du 8e arrondissement.",
+    "about": "Kevin Plombier est un artisan parisien établi dans le 8e arrondissement, disponible 24h/24 tous les jours de la semaine. Reconnu par ses clients pour la qualité irréprochable de son travail et sa communication transparente tout au long des chantiers, il intervient aussi bien en plomberie générale qu'en rénovation intérieure.",
+    "footer_description": "Kevin Plombier Paris 8 — artisan disponible 24h/24, 7j/7, au cœur du 8e arrondissement. Interventions de plomberie et rénovation sur les Champs-Élysées et dans tout Paris ouest. Note Google : 5/5.",
+    "services": [
+      {
+        "title": "Plomberie & réparation",
+        "desc": "Intervention rapide pour toute panne ou fuite : robinetterie, canalisation, chauffe-eau, WC. Disponible 24h/24 y compris week-ends et jours fériés.",
+        "icon": "droplets",
+        "featured": true,
+        "tag": "Urgence 24h/24",
+        "image": "/images/stock/plombier/services/services-4.webp"
+      },
+      {
+        "title": "Peinture intérieure",
+        "desc": "Peinture cuisine, meubles et parois avec finitions haut de gamme. Un résultat « impeccable, comme neuf » attesté par nos clients satisfaits.",
+        "icon": "wrench",
+        "featured": true,
+        "tag": "Qualité premium",
+        "image": "/images/stock/plombier/services/services-5.webp"
+      },
+      {
+        "title": "Rénovation & entretien",
+        "desc": "Travaux de rénovation complète ou partielle, entretien régulier de vos installations pour un logement toujours en parfait état.",
+        "icon": "zap",
+        "featured": false
+      },
+      {
+        "title": "Diagnostic & conseil",
+        "desc": "Inspection de vos installations, détection de fuites et conseils personnalisés pour anticiper les problèmes avant qu'ils s'aggravent.",
+        "icon": "search",
+        "featured": false
+      },
+      {
+        "title": "Devis gratuit sur place",
+        "desc": "Évaluation précise et devis détaillé sans engagement, pour des travaux sans surprise budgétaire du début à la fin.",
+        "icon": "flame",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Budget toujours respecté",
+        "desc": "Le prix annoncé est le prix final, zéro mauvaise surprise."
+      },
+      {
+        "title": "Communication continue",
+        "desc": "Vous êtes informé à chaque étape, en temps réel."
+      },
+      {
+        "title": "Finitions impeccables",
+        "desc": "Un résultat soigné, « comme neuf », attesté par nos clients."
+      },
+      {
+        "title": "Équipe respectueuse",
+        "desc": "Personnel courtois, ponctuel et professionnel à chaque fois."
+      }
+    ],
+    "why_us_badge": {
+      "value": "1h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Paris 8e, Paris 16e, Paris 17e, Paris 9e, Paris 1er, Neuilly-sur-Seine, Levallois-Perret, Courbevoie, Boulogne-Billancourt",
+    "service_area_cities": [
+      "Paris 8e",
+      "Paris 16e",
+      "Paris 17e",
+      "Paris 9e",
+      "Paris 1er",
+      "Neuilly-sur-Seine",
+      "Levallois-Perret",
+      "Courbevoie",
+      "Boulogne-Billancourt"
+    ],
+    "service_area_map_cities": [
+      "Neuilly-sur-Seine",
+      "Levallois-Perret",
+      "Courbevoie",
+      "Boulogne-Billancourt",
+      "Paris 16e",
+      "Paris 17e"
+    ],
+    "service_area_stats": [
+      {
+        "value": "9",
+        "label": "communes couvertes"
+      },
+      {
+        "value": "5/5",
+        "label": "note Google"
+      },
+      {
+        "value": "6",
+        "label": "avis clients vérifiés"
+      }
+    ],
+    "service_area_note": "Déplacement rapide dans tout Paris ouest et les communes limitrophes — devis gratuit sans engagement.",
+    "no_reviews_cta": {
+      "eyebrow": "",
+      "title": "",
+      "subtitle": "",
+      "button_text": ""
+    },
+    "reviews_note": "5 / 5 sur Google Maps · 6 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 1 89 74 47 01",
+      "email": "",
+      "hours": "Lun–Dim · Ouvert 24h/24"
+    },
+    "seo_title": "Plombier Paris 8 — Kevin, disponible 24h/24",
+    "meta_description": "Kevin Plombier Paris 8 : intervention 24h/24, 7j/7, sur les Champs-Élysées et tout Paris ouest. Note Google 5/5. Devis gratuit, budget respecté."
+  },
+  "reviews": [
+    {
+      "author": "Thomas L.",
+      "location": "Paris 8e",
+      "rating": 5,
+      "text": "Le travail a été bien réalisé et dans le respect du budget."
+    },
+    {
+      "author": "Sophie M.",
+      "location": "Neuilly-sur-Seine",
+      "rating": 5,
+      "text": "Le personnel a toujours été courtois et respectueux."
+    },
+    {
+      "author": "Isabelle R.",
+      "location": "Paris 17e",
+      "rating": 5,
+      "text": "Nos armoires de cuisine ont été peintes avec une qualité très élevée. Le peintre était extrêmement compétent, professionnel et aimable, et il nous tenait informés tout au long du processus. Le produit final était un poli impeccable qui donnait l'impression d'être tout neuf."
+    }
+  ]
+}
