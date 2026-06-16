@@ -1,0 +1,209 @@
+{
+  "business": {
+    "name": "EURL MEGARDON",
+    "slug": "eurl-megardon",
+    "city": "Bordeaux",
+    "country": "France",
+    "phone": "+33 6 18 22 76 86",
+    "address": "Bordeaux, France",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=EURL%20MEGARDON&query_place_id=ChIJpe8l3gQmVQ0RDFy7iDcDeZw",
+    "rating": 4.8,
+    "reviews_count": 30
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-2.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-6.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Devis gratuit"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Plombier de confiance à Bordeaux",
+    "hero_subtitle": "Travail dans les règles de l'art · Méticuleux · Excellent rapport qualité/prix",
+    "hero_stats": [
+      {
+        "value": "4.8/5",
+        "label": "Note Google"
+      },
+      {
+        "value": "30",
+        "label": "avis clients"
+      },
+      {
+        "value": "100%",
+        "label": "clients satisfaits"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Travail dans les règles de l'art",
+        "subtitle": "Vérification systématique à chaque étape"
+      },
+      {
+        "title": "Ponctuel et méticuleux",
+        "subtitle": "Chaque détail soigné, résultat impeccable"
+      },
+      {
+        "title": "Transparent et pédagogue",
+        "subtitle": "Explique chaque intervention à ses clients"
+      }
+    ],
+    "value_prop": "Plombier artisan reconnu sur Bordeaux et ses environs, M. Megardon intervient avec rigueur et honnêteté. Compétence technique, ponctualité et pédagogie font de chaque chantier une expérience sereine pour ses clients.",
+    "services_intro": "Des interventions soignées, du conseil à la réalisation.",
+    "about": "EURL Megardon est un artisan plombier établi dans le secteur bordelais, reconnu pour la qualité et la rigueur de ses interventions. M. Megardon travaille dans les règles de l'art, explique chaque étape à ses clients et veille à leur satisfaction à chaque chantier.",
+    "footer_description": "EURL Megardon — Plombier artisan à Bordeaux et environs. Travail soigné, ponctualité et transparence sur chaque intervention. Note Google 4.8/5 · 30 avis clients.",
+    "services": [
+      {
+        "title": "Remplacement baignoire/douche",
+        "desc": "Remplacement de baignoire par douche italienne ou bac : conseil personnalisé, pose soignée et résultat impeccable garanti.",
+        "icon": "droplets",
+        "featured": true,
+        "tag": "Rénovation salle de bain",
+        "image": "/images/stock/plombier/services/services-7.webp"
+      },
+      {
+        "title": "Plomberie générale",
+        "desc": "Toutes interventions de plomberie : installation, dépannage, remplacement de robinetterie, canalisations et équipements sanitaires.",
+        "icon": "wrench",
+        "featured": true,
+        "tag": "Dépannage & installation",
+        "image": "/images/stock/plombier/services/services-8.webp"
+      },
+      {
+        "title": "Conseil en rénovation sanitaire",
+        "desc": "Accompagnement personnalisé pour vos projets : choix des équipements, faisabilité et devis détaillé.",
+        "icon": "search",
+        "featured": false
+      },
+      {
+        "title": "Installation sanitaire",
+        "desc": "Pose et raccordement de WC, lavabos, douches et baignoires dans les règles de l'art.",
+        "icon": "zap",
+        "featured": false
+      },
+      {
+        "title": "Dépannage plomberie",
+        "desc": "Intervention rapide pour fuites, pannes ou urgences plomberie sur Bordeaux et environs.",
+        "icon": "flame",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Règles de l'art",
+        "desc": "Chaque intervention respecte les normes et standards du métier."
+      },
+      {
+        "title": "Méticuleux & ponctuel",
+        "desc": "Un artisan rigoureux qui soigne chaque détail du chantier."
+      },
+      {
+        "title": "Pédagogie & clarté",
+        "desc": "Explications claires à chaque étape pour des clients rassurés."
+      },
+      {
+        "title": "Rapport qualité/prix",
+        "desc": "Prestation haut de gamme à un tarif juste, salué par les clients."
+      }
+    ],
+    "why_us_badge": {
+      "value": "2h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Bordeaux, Pessac, Talence, Mérignac, Bègles, Villenave-d'Ornon, Gradignan, Le Bouscat",
+    "service_area_cities": [
+      "Bordeaux",
+      "Pessac",
+      "Talence",
+      "Mérignac",
+      "Bègles",
+      "Villenave-d'Ornon",
+      "Gradignan",
+      "Le Bouscat"
+    ],
+    "service_area_map_cities": [
+      "Bordeaux",
+      "Pessac",
+      "Mérignac",
+      "Talence",
+      "Bègles",
+      "Gradignan"
+    ],
+    "service_area_stats": [
+      {
+        "value": "8",
+        "label": "communes desservies"
+      },
+      {
+        "value": "4.8/5",
+        "label": "note Google"
+      },
+      {
+        "value": "30",
+        "label": "avis clients"
+      }
+    ],
+    "service_area_note": "Déplacement rapide sur Bordeaux et toute la métropole, devis gratuit sans engagement.",
+    "no_reviews_cta": {
+      "eyebrow": "",
+      "title": "",
+      "subtitle": "",
+      "button_text": ""
+    },
+    "reviews_note": "4.8 / 5 sur Google Maps · 30 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 6 18 22 76 86",
+      "email": "",
+      "hours": ""
+    },
+    "seo_title": "Plombier Bordeaux — EURL Megardon · 4.8/5",
+    "meta_description": "Plombier artisan à Bordeaux : remplacement baignoire/douche, plomberie générale. Travail soigné, ponctuel, transparent. Note 4.8/5 sur Google. Devis gratuit."
+  },
+  "reviews": [
+    {
+      "author": "Isabelle M.",
+      "location": "Pessac",
+      "rating": 5,
+      "text": "Mr Megardon est un plombier qui travaille dans les règles de l'art. Il est très compétent, sérieux, il vérifie tout, explique ce qu'il fait. Et très sympathique. Je le recommande vivement."
+    },
+    {
+      "author": "Laurent D.",
+      "location": "Talence",
+      "rating": 5,
+      "text": "Mr Megardon est intervenu pour le remplacement d'une baignoire par une douche. Il nous a très bien conseillé et nous sommes ravis du résultat. Excellent rapport qualité/prix. Il a accompli un travail remarquable. C'est un homme ponctuel, méticuleux, très compétent et très agréable. Surtout n'hésitez pas vous ne le regretterez pas."
+    }
+  ]
+}
