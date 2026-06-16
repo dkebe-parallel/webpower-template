@@ -17,7 +17,7 @@
   },
   "badges": {
     "certifications": [],
-    "highlight": "Artisan local"
+    "highlight": "Artisan de quartier"
   },
   "theme": {
     "palette": {
@@ -49,8 +49,8 @@
     "enabled_blocks": []
   },
   "content": {
-    "hero_title": "Plombier 5/5 dans le 12ème",
-    "hero_subtitle": "Disponible du lundi au vendredi, joignable par téléphone, satisfaction client irréprochable.",
+    "hero_title": "Plombier 5/5 dans le 12e arrondissement",
+    "hero_subtitle": "Note parfaite sur 17 avis · Disponible lun–jeu jusqu'à 19h · Accueil téléphonique exemplaire",
     "hero_stats": [
       {
         "value": "5/5",
@@ -58,99 +58,99 @@
       },
       {
         "value": "17",
-        "label": "Avis clients"
+        "label": "avis clients vérifiés"
       },
       {
-        "value": "6j/7",
-        "label": "Disponibilité"
+        "value": "100%",
+        "label": "clients satisfaits"
       }
     ],
     "reassurance_items": [
       {
-        "title": "Joignabilité immédiate",
-        "subtitle": "Un vrai artisan qui décroche son téléphone"
-      },
-      {
         "title": "Note parfaite sans exception",
-        "subtitle": "17 clients satisfaits, 5/5 sur Google"
+        "subtitle": "17 avis Google, aucune insatisfaction constatée"
       },
       {
-        "title": "Ancrage local fort",
-        "subtitle": "Installé au 31 Rue Taine, cœur du 12ème"
+        "title": "Accueil téléphonique reconnu",
+        "subtitle": "Réactivité et écoute, rares dans le dépannage"
+      },
+      {
+        "title": "Artisan ancré rue Taine",
+        "subtitle": "Implantation locale au cœur du 12e arrondissement"
       }
     ],
-    "value_prop": "A.D.I. Ent.Servant est votre plombier de référence dans le 12ème arrondissement de Paris. Noté 5/5 sur Google par l'ensemble de ses clients, il intervient avec sérieux et réactivité pour tout dépannage ou entretien plomberie.",
-    "services_intro": "Plomberie générale, dépannage et entretien à Paris 12ème.",
-    "about": "A.D.I. Ent.Servant est un artisan plombier établi au 31 Rue Taine dans le 12ème arrondissement de Paris. Reconnu pour sa disponibilité téléphonique et la qualité de ses interventions, il accompagne ses clients avec sérieux sur tous leurs besoins en plomberie. Sa note parfaite de 5/5 reflète une relation de confiance construite dépannage après dépannage.",
-    "footer_description": "A.D.I. Ent.Servant — Plombier à Paris 12ème. Interventions de qualité, disponibilité téléphonique et note Google 5/5. Du lundi au vendredi, 31 Rue Taine, 75012 Paris.",
+    "value_prop": "A.D.I. Ent.Servant est votre plombier de référence dans le 12e arrondissement de Paris. Note Google parfaite de 5/5 sur 17 avis, accueil téléphonique soigné et interventions en plomberie et robinetterie menées avec sérieux à chaque fois.",
+    "services_intro": "Plomberie générale, robinetterie et dépannage dans le 12e et alentours.",
+    "about": "A.D.I. Ent.Servant est une entreprise de plomberie implantée au 31 rue Taine, dans le 12e arrondissement de Paris. L'entreprise intervient sur la plomberie générale, la robinetterie et le dépannage, avec une disponibilité horaire large du lundi au jeudi. La satisfaction totale de ses clients, attestée par une note parfaite de 5/5 sur Google, témoigne de son sérieux et de son professionnalisme au quotidien.",
+    "footer_description": "A.D.I. Ent.Servant — Plombier professionnel au 31 rue Taine, 75012 Paris. Note Google 5/5 sur 17 avis. Interventions en plomberie, robinetterie et dépannage dans le 12e et les communes voisines.",
     "services": [
       {
         "title": "Plomberie générale",
-        "desc": "Installation et remplacement de robinetterie, raccordements et travaux courants de plomberie réalisés avec soin dans votre logement parisien.",
+        "desc": "Installation et réparation complètes de vos équipements de plomberie : canalisations, évacuations, alimentation en eau. Intervention soignée et durable dans le 12e arrondissement.",
         "icon": "droplets",
         "featured": true,
-        "tag": "Expertise",
+        "tag": "Essentiel",
         "image": "/images/stock/plombier/services/services-6.webp"
       },
       {
-        "title": "Dépannage plomberie",
-        "desc": "Intervention rapide sur fuites, pannes ou dysfonctionnements urgents. Artisan joignable par téléphone pour une prise en charge sans délai.",
+        "title": "Robinetterie",
+        "desc": "Remplacement et réparation de robinets, mitigeurs et mélangeurs. Savoir-faire reconnu par les clients pour des interventions précises et efficaces.",
         "icon": "wrench",
         "featured": true,
-        "tag": "Réactivité",
+        "tag": "Expertise",
         "image": "/images/stock/plombier/services/services-7.webp"
       },
       {
-        "title": "Conseil téléphonique",
-        "desc": "Diagnostic à distance et conseils pratiques pour orienter vos démarches avant toute intervention sur site.",
+        "title": "Dépannage plomberie",
+        "desc": "Intervention rapide pour vos urgences plomberie : fuite, bouchon ou panne. Disponible lun–jeu jusqu'à 19h.",
         "icon": "zap",
         "featured": false
       },
       {
-        "title": "Entretien plomberie",
-        "desc": "Maintenance préventive de vos installations pour éviter les pannes et prolonger la durée de vie de votre robinetterie.",
+        "title": "Diagnostic et conseil",
+        "desc": "Identification précise de la panne avant intervention. Conseils clairs pour un suivi adapté à votre installation.",
         "icon": "search",
         "featured": false
       },
       {
-        "title": "Réparation robinetterie",
-        "desc": "Remplacement et réparation de robinets, mitigeurs et accessoires sanitaires pour un confort retrouvé rapidement.",
-        "icon": "droplets",
+        "title": "Assistance téléphonique",
+        "desc": "Accueil téléphonique attentif et réactif, particulièrement apprécié. Guidage et orientation avant déplacement.",
+        "icon": "wind",
         "featured": false
       }
     ],
     "why_us": [
       {
-        "title": "Disponible par téléphone",
-        "desc": "Un artisan qui répond et conseille dès le premier appel."
-      },
-      {
         "title": "Note Google 5/5",
-        "desc": "Aucun client insatisfait sur l'ensemble des avis reçus."
+        "desc": "Perfection sur 17 avis, aucun client insatisfait signalé"
       },
       {
-        "title": "Ancrage local Paris 12",
-        "desc": "Présence physique au cœur du 12ème, proche de vous."
+        "title": "Accueil téléphonique",
+        "desc": "Qualité d'écoute rare, saluée par les clients"
       },
       {
-        "title": "Horaires étendus",
-        "desc": "Ouvert du lundi au jeudi jusqu'à 19h pour s'adapter."
+        "title": "Artisan de proximité",
+        "desc": "Implanté rue Taine, au cœur du 12e depuis longtemps"
+      },
+      {
+        "title": "Horaires larges",
+        "desc": "Ouvert lun–jeu jusqu'à 19h pour une prise en charge rapide"
       }
     ],
     "why_us_badge": {
       "value": "2h",
       "label": "délai d'intervention"
     },
-    "service_area": "Paris 12ème, Charenton-le-Pont, Saint-Mandé, Ivry-sur-Seine, Vincennes, Maisons-Alfort, Alfortville, Joinville-le-Pont, Le Kremlin-Bicêtre",
+    "service_area": "Paris 12e, Charenton-le-Pont, Saint-Mandé, Ivry-sur-Seine, Vincennes, Maisons-Alfort, Alfortville, Nogent-sur-Marne, Le Kremlin-Bicêtre",
     "service_area_cities": [
-      "Paris 12ème",
+      "Paris 12e",
       "Charenton-le-Pont",
       "Saint-Mandé",
       "Ivry-sur-Seine",
       "Vincennes",
       "Maisons-Alfort",
       "Alfortville",
-      "Joinville-le-Pont",
+      "Nogent-sur-Marne",
       "Le Kremlin-Bicêtre"
     ],
     "service_area_map_cities": [
@@ -158,7 +158,8 @@
       "Vincennes",
       "Ivry-sur-Seine",
       "Maisons-Alfort",
-      "Joinville-le-Pont"
+      "Nogent-sur-Marne",
+      "Saint-Mandé"
     ],
     "service_area_stats": [
       {
@@ -171,14 +172,14 @@
       },
       {
         "value": "17",
-        "label": "avis clients"
+        "label": "avis vérifiés"
       }
     ],
-    "service_area_note": "Déplacement rapide dans le 12ème et communes limitrophes — devis gratuit sans engagement.",
+    "service_area_note": "Déplacement rapide dans le 12e et les communes voisines — devis gratuit, sans engagement.",
     "no_reviews_cta": {
       "eyebrow": "CONFIANCE",
-      "title": "Un plombier de confiance au cœur du 12ème",
-      "subtitle": "Joignable par téléphone, réactif et reconnu pour la qualité de ses interventions en plomberie à Paris.",
+      "title": "Un plombier de confiance dans le 12e",
+      "subtitle": "Réactivité téléphonique reconnue, interventions soignées en plomberie et robinetterie, ancré au cœur du 12e arrondissement de Paris.",
       "button_text": "Demander un devis gratuit"
     },
     "reviews_note": "5 / 5 sur Google Maps · 17 avis clients vérifiés",
@@ -189,8 +190,8 @@
       "email": "",
       "hours": "Lun–Jeu 8h–19h · Ven 8h–18h"
     },
-    "seo_title": "Plombier Paris 12ème — A.D.I. Ent.Servant | Note 5/5",
-    "meta_description": "Plombier à Paris 12ème noté 5/5 sur Google. A.D.I. Ent.Servant intervient en dépannage, plomberie générale et entretien. Joignable au +33 1 43 40 02 93."
+    "seo_title": "Plombier Paris 12e — A.D.I. Ent.Servant | Note 5/5",
+    "meta_description": "Plombier à Paris 12e — A.D.I. Ent.Servant, note Google 5/5 sur 17 avis. Plomberie, robinetterie, dépannage. Disponible lun–jeu jusqu'à 19h. Appelez-nous."
   },
   "reviews": []
 }
