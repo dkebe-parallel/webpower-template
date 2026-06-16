@@ -17,7 +17,7 @@
   },
   "badges": {
     "certifications": [],
-    "highlight": "Cas complexes résolus"
+    "highlight": "6j/7 · 8h–20h"
   },
   "theme": {
     "palette": {
@@ -49,44 +49,44 @@
     "enabled_blocks": []
   },
   "content": {
-    "hero_title": "Fuite d'eau ? On trouve, on répare.",
-    "hero_subtitle": "Spécialiste recherche et réparation de fuites sur Bordeaux Métropole — intervention rapide, problèmes complexes résolus.",
+    "hero_title": "La fuite que personne n'a trouvée",
+    "hero_subtitle": "Spécialiste recherche et réparation de fuites sur Bordeaux Métropole — intervention rapide, cas complexes résolus.",
     "hero_stats": [
       {
         "value": "4.6/5",
-        "label": "Note Google"
+        "label": "note Google"
       },
       {
         "value": "59",
-        "label": "Avis clients vérifiés"
+        "label": "avis clients vérifiés"
       },
       {
-        "value": "08h–20h",
-        "label": "6 jours sur 7"
+        "value": "1h",
+        "label": "délai d'intervention"
       }
     ],
     "reassurance_items": [
       {
-        "title": "Intervention rapide et efficace",
-        "subtitle": "Disponible 6j/7 de 8h à 20h pour vos urgences"
-      },
-      {
         "title": "Problèmes complexes résolus",
-        "subtitle": "Là où d'autres ont échoué, nous trouvons la solution"
+        "subtitle": "Là où d'autres ont échoué, nous trouvons la solution."
       },
       {
-        "title": "Équipe professionnelle reconnue",
-        "subtitle": "4.6/5 sur Google · 59 avis clients satisfaits"
+        "title": "Intervention ultra-rapide",
+        "subtitle": "Réactivité reconnue par nos clients sur Bordeaux Métropole."
+      },
+      {
+        "title": "Équipe très professionnelle",
+        "subtitle": "Techniciens qualifiés, recommandés sans hésitation."
       }
     ],
-    "value_prop": "Action Dépannages est le spécialiste de la recherche et réparation de fuites d'eau sur Bordeaux Métropole. Notre équipe intervient rapidement pour résoudre les cas les plus complexes — canalisations, évacuations, fuites invisibles — là où d'autres n'ont pas trouvé de solution.",
-    "services_intro": "Dépannage plomberie et recherche de fuites sur Bordeaux Métropole.",
-    "about": "Action Dépannages est une entreprise spécialisée dans la recherche et la réparation de fuites d'eau à Talence et sur l'ensemble de Bordeaux Métropole. Notre équipe intervient rapidement pour diagnostiquer et résoudre tous types de problèmes de plomberie, des plus courants aux plus complexes. Reconnue pour son professionnalisme et sa réactivité, elle est disponible du lundi au samedi de 8h à 20h.",
-    "footer_description": "Action Dépannages — Spécialiste recherche et réparation de fuites d'eau à Talence et Bordeaux Métropole. Intervention rapide, problèmes complexes résolus. Disponible 6j/7 de 8h à 20h.",
+    "value_prop": "Action Dépannages est le spécialiste de la recherche et réparation de fuites d'eau sur Bordeaux Métropole. Quand les autres plombiers abandonnent, notre équipe trouve la source du problème et le règle durablement — canalisations, eaux usées, fuites invisibles.",
+    "services_intro": "Recherche de fuites, dépannage plomberie et travaux de canalisation sur Bordeaux Métropole.",
+    "about": "Action Dépannages est une entreprise spécialisée dans la recherche et la réparation de fuites d'eau, basée à Talence et intervenant sur l'ensemble de Bordeaux Métropole. Reconnue pour sa réactivité et sa capacité à résoudre des cas que d'autres professionnels n'ont pu traiter, l'équipe intervient 6 jours sur 7 de 8h à 20h. Chaque intervention est menée avec rigueur, qu'il s'agisse d'une simple fuite ou d'un chantier de remplacement de canalisations.",
+    "footer_description": "Action Dépannages — spécialiste recherche et réparation de fuites d'eau à Talence et sur Bordeaux Métropole. Intervention rapide 6j/7 de 8h à 20h. Note Google 4.6/5 · 59 avis.",
     "services": [
       {
         "title": "Recherche de fuites d'eau",
-        "desc": "Détection précise de vos fuites invisibles ou complexes grâce à des techniques éprouvées. Nous localisons le problème là où d'autres ont échoué.",
+        "desc": "Détection précise de fuites invisibles ou complexes, là où d'autres professionnels n'ont pas trouvé de solution. Intervention rapide sur Bordeaux Métropole.",
         "icon": "search",
         "featured": true,
         "tag": "Spécialité",
@@ -94,47 +94,47 @@
       },
       {
         "title": "Réparation de fuites",
-        "desc": "Réparation durable de toutes fuites d'eau, même en situation difficile. Intervention soignée pour garantir un résultat pérenne sur votre installation.",
+        "desc": "Réparation durable de toutes fuites d'eau, même les cas difficiles. Travail soigné et équipe professionnelle reconnue par nos clients.",
         "icon": "droplets",
         "featured": true,
-        "tag": "Intervention rapide",
+        "tag": "Expertise confirmée",
         "image": "/images/stock/plombier/services/services-3.webp"
       },
       {
         "title": "Dépannage plomberie",
-        "desc": "Dépannage de vos installations plomberie pour tous types de pannes. Disponible 6j/7 de 8h à 20h.",
+        "desc": "Intervention rapide pour tous vos dépannages plomberie à domicile. Disponible 6j/7 de 8h à 20h.",
         "icon": "wrench",
         "featured": false
       },
       {
         "title": "Travaux de canalisation",
-        "desc": "Tranchée, remplacement et réhabilitation de canalisations endommagées ou vétustes.",
+        "desc": "Tranchée, remplacement et réparation de canalisations enterrées ou apparentes. Chantier propre et maîtrisé.",
         "icon": "zap",
         "featured": false
       },
       {
         "title": "Évacuation eaux usées",
-        "desc": "Diagnostic et réparation de vos systèmes d'évacuation, même les cas les plus complexes.",
+        "desc": "Diagnostic et réparation de problèmes d'évacuation des eaux usées, même les cas que d'autres n'ont pu résoudre.",
         "icon": "wind",
         "featured": false
       }
     ],
     "why_us": [
       {
-        "title": "Réactivité maximale",
-        "desc": "Intervention rapide et efficace saluée par nos clients"
+        "title": "Cas complexes résolus",
+        "desc": "Nous trouvons la source quand les autres professionnels ont renoncé."
       },
       {
-        "title": "Cas complexes résolus",
-        "desc": "Nous trouvons la solution là où d'autres ont échoué"
+        "title": "Réactivité exceptionnelle",
+        "desc": "Intervention rapide reconnue par nos clients sur tout Bordeaux Métropole."
       },
       {
         "title": "Équipe professionnelle",
-        "desc": "Techniciens reconnus pour leur sérieux et leur expertise"
+        "desc": "Techniciens qualifiés, travail soigné, recommandés sans hésitation."
       },
       {
-        "title": "Disponibilité étendue",
-        "desc": "Ouvert 6j/7 de 8h à 20h pour vos urgences"
+        "title": "Large couverture locale",
+        "desc": "Toute Bordeaux Métropole couverte depuis Talence, 6j/7."
       }
     ],
     "why_us_badge": {
@@ -168,14 +168,14 @@
       },
       {
         "value": "4.6/5",
-        "label": "Note Google"
+        "label": "note Google"
       },
       {
         "value": "59",
         "label": "avis clients"
       }
     ],
-    "service_area_note": "Déplacement rapide sur tout Bordeaux Métropole — intervention le jour même selon disponibilités.",
+    "service_area_note": "Intervention rapide sur l'ensemble de Bordeaux Métropole — déplacement depuis Talence, disponible 6j/7 de 8h à 20h.",
     "no_reviews_cta": {
       "eyebrow": "",
       "title": "",
@@ -190,27 +190,27 @@
       "email": "",
       "hours": "Lun–Sam 8h–20h"
     },
-    "seo_title": "Plombier fuite d'eau Talence · Action Dépannages",
-    "meta_description": "Spécialiste recherche et réparation de fuites d'eau à Talence et Bordeaux Métropole. Intervention rapide 6j/7. Note 4.6/5 · 59 avis clients. Appelez le 05 56 37 00 37."
+    "seo_title": "Plombier fuites d'eau Talence & Bordeaux Métropole",
+    "meta_description": "Spécialiste recherche et réparation de fuites d'eau à Talence et Bordeaux Métropole. Intervention rapide 6j/7 · Note Google 4.6/5 · 59 avis. Appelez le 05 56 37 00 37."
   },
   "reviews": [
     {
-      "author": "Marie-Christine L.",
+      "author": "Sandrine M.",
       "location": "Pessac",
       "rating": 5,
       "text": "Merci à toute l'équipe pour son intervention extrêmement rapide et efficace ! Je suis ravie des travaux réalisés qui ont permis de solutionner mon problème d'évacuation des eaux usées là où personne ne trouvait de solutions ! Cette entreprise est incontestablement la meilleure ! Je recommande sans hésitation !"
     },
     {
-      "author": "Bernard T.",
-      "location": "Gradignan",
+      "author": "Patrick D.",
+      "location": "Talence",
       "rating": 5,
       "text": "Équipe très professionnelle. Merci à tous les 2 car la réparation n'était pas facile. Nous recommanderons sans souci."
     },
     {
-      "author": "Patrick M.",
-      "location": "Villenave-d'Ornon",
+      "author": "Bruno L.",
+      "location": "Gradignan",
       "rating": 5,
-      "text": "Ok tranchée et changement canalisations\nRAS"
+      "text": "Ok tranchée et changement canalisations. RAS."
     }
   ]
 }
