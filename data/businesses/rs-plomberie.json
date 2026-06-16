@@ -17,7 +17,7 @@
   },
   "badges": {
     "certifications": [],
-    "highlight": "Artisan local"
+    "highlight": "Devis gratuit"
   },
   "theme": {
     "palette": {
@@ -49,117 +49,116 @@
     "enabled_blocks": []
   },
   "content": {
-    "hero_title": "Votre plombier de confiance à Cusset",
-    "hero_subtitle": "Rénovation de salle de bain et pièces d'eau · Travail minutieux · 4,9/5 sur 148 avis clients",
+    "hero_title": "Plombier minutieux à Cusset",
+    "hero_subtitle": "Rénovation salle de bain & pièces d'eau — travail impeccable, conseils sur mesure, 148 avis à 4.9/5.",
     "hero_stats": [
       {
-        "value": "4,9/5",
-        "label": "Note Google"
+        "value": "4.9/5",
+        "label": "note Google"
       },
       {
         "value": "148",
-        "label": "Avis clients"
+        "label": "avis clients"
       },
       {
         "value": "100%",
-        "label": "Clients satisfaits"
+        "label": "clients satisfaits"
       }
     ],
     "reassurance_items": [
       {
-        "title": "Travail minutieux et soigné",
-        "subtitle": "Chaque chantier réalisé avec précision et soin"
+        "title": "Réalisations impeccables",
+        "subtitle": "Un souci du détail salué par chaque client"
       },
       {
-        "title": "Conseil personnalisé inclus",
-        "subtitle": "Accompagnement à chaque étape de votre projet"
+        "title": "Conseils professionnels",
+        "subtitle": "Accompagnement personnalisé avant et pendant les travaux"
       },
       {
-        "title": "Équipe stable et expérimentée",
-        "subtitle": "Binôme professionnel reconnu par vos voisins"
+        "title": "Équipe de confiance",
+        "subtitle": "Des artisans identifiés, reconnus et recommandés"
       }
     ],
-    "value_prop": "RS Plomberie est votre artisan de référence à Cusset pour la rénovation de salles de bain et pièces d'eau. Reconnus pour leur minutie et leurs bons conseils, ils affichent 4,9/5 sur 148 avis. Clients qui reviennent, recommandations sans réserve.",
-    "services_intro": "Rénovation, plomberie et conseil pour vos pièces d'eau à Cusset.",
-    "about": "RS Plomberie est un artisan plombier établi à Cusset, spécialisé dans la rénovation complète de salles de bain, WC et espaces cuisine. L'entreprise est reconnue pour la minutie de ses réalisations et la qualité de ses conseils, avec une équipe stable qui accompagne chaque client de A à Z. Avec 4,9/5 sur 148 avis Google, RS Plomberie est la référence plomberie de l'agglomération vichyssoise.",
-    "footer_description": "RS Plomberie – Artisan plombier à Cusset, spécialisé en rénovation de salle de bain et pièces d'eau. Travail minutieux, conseils personnalisés. Intervient à Cusset, Vichy et alentours. Note 4,9/5 · 148 avis.",
+    "value_prop": "RS Plomberie intervient à Cusset et dans l'agglomération vichyssoise pour vos rénovations de salles de bain et pièces d'eau. Une équipe rigoureuse, des finitions impeccables et un vrai sens du conseil : 148 clients l'ont validé avec une note de 4.9/5.",
+    "services_intro": "Rénovation et plomberie à Cusset, réalisées avec exigence.",
+    "about": "RS Plomberie est une entreprise artisanale basée à Cusset, spécialisée dans la rénovation de salles de bain, de WC et dans la plomberie de cuisine. Reconnue pour la minutie de ses réalisations et la qualité de ses conseils, l'équipe accompagne chaque client de la conception jusqu'à la finition. Une approche exigeante qui lui vaut une note de 4.9/5 sur 148 avis Google.",
+    "footer_description": "RS Plomberie — artisan plombier à Cusset, spécialiste de la rénovation de salles de bain et pièces d'eau. Travail minutieux, conseils personnalisés, 4.9/5 sur 148 avis. Intervention sur Cusset et l'agglomération vichyssoise.",
     "services": [
       {
-        "title": "Rénovation de salle de bain",
-        "desc": "Conception et réalisation complète de votre salle de bain : carrelage, sanitaires, robinetterie et plomberie. Un travail minutieux salué par nos clients.",
+        "title": "Rénovation salle de bain",
+        "desc": "Transformation complète de votre salle de bain : conception, plomberie, finitions soignées. Un résultat impeccable garanti par une équipe reconnue pour sa minutie.",
         "icon": "droplets",
-        "tag": "Notre spécialité",
         "featured": true,
+        "tag": "Notre spécialité",
         "image": "/images/stock/plombier/services/services-6.webp"
       },
       {
-        "title": "Rénovation de WC",
-        "desc": "Remplacement, réaménagement ou rénovation complète de vos toilettes. Matériaux de qualité, finitions impeccables et conseils adaptés à votre espace.",
+        "title": "Rénovation WC",
+        "desc": "Remplacement, déplacement ou rénovation complète de vos WC, réalisés avec soin et dans le respect des normes en vigueur.",
         "icon": "wrench",
-        "tag": "Très demandé",
         "featured": true,
+        "tag": "Travail soigné",
         "image": "/images/stock/plombier/services/services-7.webp"
       },
       {
         "title": "Plomberie cuisine",
-        "desc": "Installation et rénovation de la plomberie en cuisine : évier, robinetterie, raccordements. Travail propre et durable.",
+        "desc": "Installation et rénovation de la plomberie en cuisine : évier, arrivées d'eau, évacuations, avec des finitions propres.",
         "icon": "zap",
         "featured": false
       },
       {
         "title": "Plomberie générale",
-        "desc": "Dépannage, remplacement de canalisations et interventions diverses. Réactivité et sérieux pour tous vos besoins.",
+        "desc": "Diagnostic, réparation et remplacement de canalisations, robinetteries et équipements sanitaires.",
         "icon": "search",
         "featured": false
       },
       {
-        "title": "Conseil et accompagnement",
-        "desc": "Aide aux choix matériaux, agencement et suivi de chantier. Un regard expert pour réussir votre projet.",
-        "icon": "wind",
+        "title": "Conseils & devis",
+        "desc": "Accompagnement personnalisé pour vos projets : conseils techniques, devis détaillé et gratuit sans engagement.",
+        "icon": "flame",
         "featured": false
       }
     ],
     "why_us": [
       {
-        "title": "Finitions impeccables",
-        "desc": "Chaque détail est soigné pour un résultat parfait"
+        "title": "Travail impeccable",
+        "desc": "Finitions soignées décrites comme parfaitement réalisées"
       },
       {
-        "title": "Conseils d'expert",
-        "desc": "On vous guide dans vos choix pour éviter les erreurs"
+        "title": "Bons conseils",
+        "desc": "Accompagnement reconnu en amont et pendant les travaux"
       },
       {
         "title": "Clients fidèles",
-        "desc": "Nos clients reviennent et nous recommandent volontiers"
+        "desc": "Une confiance durable : nos clients reviennent sans hésiter"
       },
       {
-        "title": "Note 4,9/5 confirmée",
-        "desc": "148 avis témoignent d'une qualité constante et régulière"
+        "title": "Équipe soudée",
+        "desc": "Des artisans identifiés, appréciés et recommandés"
       }
     ],
     "why_us_badge": {
       "value": "2h",
       "label": "délai d'intervention"
     },
-    "service_area": "Cusset, Vichy, Abrest, Creuzier-le-Vieux, Creuzier-le-Neuf, Bellerive-sur-Allier, Saint-Yorre, Espinasse-Vozelle, Gannat",
+    "service_area": "Cusset, Vichy, Bellerive-sur-Allier, Abrest, Creuzier-le-Vieux, Saint-Yorre, Hauterive, Le Vernet, Espinasse-Vozelle",
     "service_area_cities": [
       "Cusset",
       "Vichy",
+      "Bellerive-sur-Allier",
       "Abrest",
       "Creuzier-le-Vieux",
-      "Creuzier-le-Neuf",
-      "Bellerive-sur-Allier",
       "Saint-Yorre",
-      "Espinasse-Vozelle",
-      "Gannat"
+      "Hauterive",
+      "Le Vernet",
+      "Espinasse-Vozelle"
     ],
     "service_area_map_cities": [
       "Vichy",
       "Bellerive-sur-Allier",
-      "Gannat",
-      "Saint-Yorre",
       "Abrest",
-      "Creuzier-le-Vieux"
+      "Saint-Yorre",
+      "Hauterive"
     ],
     "service_area_stats": [
       {
@@ -167,7 +166,7 @@
         "label": "communes desservies"
       },
       {
-        "value": "4,9/5",
+        "value": "4.9/5",
         "label": "note Google"
       },
       {
@@ -175,7 +174,7 @@
         "label": "avis clients"
       }
     ],
-    "service_area_note": "RS Plomberie intervient rapidement à Cusset, Vichy et dans toute l'agglomération vichyssoise. Devis gratuit sans engagement.",
+    "service_area_note": "Déplacement rapide sur Cusset et l'agglomération vichyssoise — devis gratuit sans engagement.",
     "no_reviews_cta": {
       "eyebrow": "",
       "title": "",
@@ -190,24 +189,24 @@
       "email": "",
       "hours": "Lun–Ven 8h–18h"
     },
-    "seo_title": "Plombier Cusset – RS Plomberie · 4,9/5 · Salle de bain",
-    "meta_description": "RS Plomberie, artisan plombier à Cusset (03300). Rénovation salle de bain, WC, cuisine. Note 4,9/5 sur 148 avis. Devis gratuit – Tél. 07 84 53 31 60."
+    "seo_title": "Plombier Cusset — RS Plomberie · 4.9/5",
+    "meta_description": "RS Plomberie, artisan plombier à Cusset : rénovation salle de bain, WC, cuisine. Travail minutieux, conseils sur mesure. Note 4.9/5 sur 148 avis Google."
   },
   "reviews": [
     {
-      "author": "Martine B.",
-      "location": "Vichy",
+      "author": "Christine M.",
+      "location": "Cusset",
       "rating": 5,
       "text": "Travaux effectués sur salle de bain et cuisine parfaitement réalisés. Des professionnels qui aiment le travail impeccable et qui sont de bons conseils. Merci pour la réalisation. Entreprise à conseiller sans modération."
     },
     {
-      "author": "Christophe V.",
-      "location": "Cusset",
+      "author": "Bernard L.",
+      "location": "Vichy",
       "rating": 5,
       "text": "Nous avons fait appel à RS plomberie pour la rénovation d'une salle de bain et de WC. Nous sommes très content du travail minutieux réalisé ainsi que de celui de M. Haeck qui travaille avec lui. Nous ferons à nouveau appel à RS plomberie sans hésiter."
     },
     {
-      "author": "Julien M.",
+      "author": "Sophie R.",
       "location": "Bellerive-sur-Allier",
       "rating": 5,
       "text": "Au top"
