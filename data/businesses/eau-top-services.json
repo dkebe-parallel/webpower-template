@@ -1,0 +1,216 @@
+{
+  "business": {
+    "name": "Eau-Top services",
+    "slug": "eau-top-services",
+    "city": "Illkirch-Graffenstaden",
+    "country": "France",
+    "phone": "+33 7 49 70 70 90",
+    "address": "11 Rue des Maçons, 67400 Illkirch-Graffenstaden",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Eau-Top%20services&query_place_id=ChIJtZPvR0DLlkcR1eqREFHCGL8",
+    "rating": 5,
+    "reviews_count": 21
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-4.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-6.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Devis gratuit"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Plombier 24h/24 à Illkirch",
+    "hero_subtitle": "Intervention rapide, équipe réactive et professionnelle, 5/5 sur Google.",
+    "hero_stats": [
+      {
+        "value": "5/5",
+        "label": "note Google"
+      },
+      {
+        "value": "21",
+        "label": "avis clients"
+      },
+      {
+        "value": "24h/24",
+        "label": "disponibilité"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Réactivité immédiate",
+        "subtitle": "Intervention rapide et efficace, 7j/7 et 24h/24"
+      },
+      {
+        "title": "Équipe professionnelle",
+        "subtitle": "À l'écoute, sérieuse et appréciée par nos clients"
+      },
+      {
+        "title": "Prix justes et transparents",
+        "subtitle": "Tarifs honnêtes, sans mauvaise surprise"
+      }
+    ],
+    "value_prop": "Eau-Top services intervient à Illkirch-Graffenstaden et dans l'agglomération strasbourgeoise 24h/24, 7j/7. Plombier réactif, professionnel et apprécié : 21 avis Google à 5/5, zéro avis négatif. Une équipe humaine, des prix honnêtes.",
+    "services_intro": "Dépannage et plomberie générale, disponibles à toute heure.",
+    "about": "Eau-Top services est votre plombier de confiance à Illkirch-Graffenstaden, disponible 24h/24 et 7j/7 pour tous vos besoins en plomberie. Réactifs et professionnels, nous intervenons rapidement pour dépanner, réparer et entretenir vos installations. Notre équipe est reconnue pour son sérieux et la qualité de son travail.",
+    "footer_description": "Eau-Top services — plombier disponible 24h/24 à Illkirch-Graffenstaden. Dépannage urgent, réparations et entretien dans toute l'agglomération strasbourgeoise. Note Google : 5/5.",
+    "services": [
+      {
+        "title": "Dépannage plomberie urgence",
+        "desc": "Intervention rapide 24h/24 et 7j/7 pour toute urgence plomberie : fuite, canalisation bouchée ou rupture. On répond présent à toute heure.",
+        "icon": "zap",
+        "featured": true,
+        "tag": "Urgence 24h/24",
+        "image": "/images/stock/plombier/services/services-3.webp"
+      },
+      {
+        "title": "Plomberie générale",
+        "desc": "Installation, remplacement et réparation de tous équipements sanitaires. Un service complet, soigné et réalisé par une équipe professionnelle et à l'écoute.",
+        "icon": "wrench",
+        "featured": true,
+        "tag": "Tous travaux",
+        "image": "/images/stock/plombier/services/services-4.webp"
+      },
+      {
+        "title": "Réparation de canalisations",
+        "desc": "Détection et réparation de fuites, débouchage et remise en état de vos canalisations. Travail efficace et durable.",
+        "icon": "droplets",
+        "featured": false
+      },
+      {
+        "title": "Entretien plomberie",
+        "desc": "Vérification et maintenance préventive de vos installations pour éviter les pannes et prolonger leur durée de vie.",
+        "icon": "search",
+        "featured": false
+      },
+      {
+        "title": "Dépannage sanitaire",
+        "desc": "Remplacement de robinetterie, réparation de WC, douche ou baignoire. Intervention propre et rapide.",
+        "icon": "wind",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Disponible 24h/24",
+        "desc": "Joignable à toute heure, même la nuit et le week-end."
+      },
+      {
+        "title": "Intervention rapide",
+        "desc": "Nos clients saluent notre réactivité et notre efficacité."
+      },
+      {
+        "title": "Équipe sérieuse",
+        "desc": "Des professionnels appréciés, jeunes et expérimentés."
+      },
+      {
+        "title": "Note parfaite 5/5",
+        "desc": "21 avis Google, tous positifs, zéro retour négatif."
+      }
+    ],
+    "why_us_badge": {
+      "value": "1h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Illkirch-Graffenstaden, Strasbourg, Ostwald, Geispolsheim, Lingolsheim, Eschau, Schiltigheim, Bischheim, Hoenheim",
+    "service_area_cities": [
+      "Illkirch-Graffenstaden",
+      "Strasbourg",
+      "Ostwald",
+      "Geispolsheim",
+      "Lingolsheim",
+      "Eschau",
+      "Schiltigheim",
+      "Bischheim",
+      "Hoenheim"
+    ],
+    "service_area_map_cities": [
+      "Strasbourg",
+      "Schiltigheim",
+      "Bischheim",
+      "Ostwald",
+      "Geispolsheim",
+      "Lingolsheim"
+    ],
+    "service_area_stats": [
+      {
+        "value": "9",
+        "label": "communes couvertes"
+      },
+      {
+        "value": "5/5",
+        "label": "note Google"
+      },
+      {
+        "value": "21",
+        "label": "avis clients"
+      }
+    ],
+    "service_area_note": "Déplacement rapide dans toute l'agglomération strasbourgeoise, devis gratuit sans engagement.",
+    "no_reviews_cta": {
+      "eyebrow": "",
+      "title": "",
+      "subtitle": "",
+      "button_text": ""
+    },
+    "reviews_note": "5 / 5 sur Google Maps · 21 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 7 49 70 70 90",
+      "email": "",
+      "hours": "Lun–Dim · Ouvert 24h/24"
+    },
+    "seo_title": "Plombier Illkirch-Graffenstaden — Eau-Top services",
+    "meta_description": "Plombier disponible 24h/24 à Illkirch-Graffenstaden. Dépannage urgent, réparations, entretien. Note Google 5/5 · 21 avis. Devis gratuit — appelez maintenant."
+  },
+  "reviews": [
+    {
+      "author": "Karim B.",
+      "location": "Illkirch-Graffenstaden",
+      "rating": 5,
+      "text": "Je recommande rien à dire surtout le jeune qui travail avec eux !"
+    },
+    {
+      "author": "Sophie M.",
+      "location": "Ostwald",
+      "rating": 5,
+      "text": "Entreprise réactive, à l'écoute, professionnelle dans les démarches je recommande fortement"
+    },
+    {
+      "author": "Thierry L.",
+      "location": "Lingolsheim",
+      "rating": 5,
+      "text": "Je recommande intervention rapide et efficace 👍🏼"
+    }
+  ]
+}
