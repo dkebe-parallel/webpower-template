@@ -1,0 +1,203 @@
+{
+  "business": {
+    "name": "Etcheverry Artisan - Dépannage et installation",
+    "slug": "etcheverry-artisan-depannage-et-installation",
+    "city": "Bordeaux",
+    "country": "France",
+    "phone": "+33 7 44 77 40 09",
+    "address": "Bordeaux, France",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Etcheverry%20Artisan%20-%20D%C3%A9pannage%20et%20installation&query_place_id=ChIJwxwXseoZVqcR3ViRp-MF8Yk",
+    "rating": 4.5,
+    "reviews_count": 62
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-2.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-5.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Devis gratuit"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Plombier réactif à Bordeaux",
+    "hero_subtitle": "Dépannage rapide, installation soignée et prix annoncés avant chaque intervention.",
+    "hero_stats": [
+      {
+        "value": "4.5/5",
+        "label": "note Google"
+      },
+      {
+        "value": "62",
+        "label": "avis clients"
+      },
+      {
+        "value": "1h",
+        "label": "délai d'intervention"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Réactivité garantie",
+        "subtitle": "Intervention rapide chez vous dès le premier appel"
+      },
+      {
+        "title": "Prix clairs et annoncés",
+        "subtitle": "Devis transparent avant chaque intervention"
+      },
+      {
+        "title": "Double expertise",
+        "subtitle": "Dépannage urgent et installation planifiée"
+      }
+    ],
+    "value_prop": "Etcheverry Artisan intervient rapidement à Bordeaux et ses environs pour tous vos besoins en plomberie : dépannage en urgence, remplacement de chauffe-eau, robinetterie. Prix communiqués avant chaque intervention, sans mauvaise surprise.",
+    "services_intro": "Dépannage et installation plomberie à Bordeaux et environs.",
+    "about": "Etcheverry Artisan est votre plombier de proximité à Bordeaux, reconnu pour sa réactivité et sa transparence tarifaire. Spécialisé dans le dépannage rapide et les installations à domicile, l'artisan intervient aussi bien pour les urgences que pour vos projets planifiés.",
+    "footer_description": "Etcheverry Artisan — Plombier dépannage et installation à Bordeaux. Intervention rapide, devis gratuit, prix annoncés à l'avance. Appelez le +33 7 44 77 40 09.",
+    "services": [
+      {
+        "title": "Dépannage plomberie",
+        "desc": "Intervention rapide pour toute urgence plomberie à domicile : fuite, canalisation, robinetterie défaillante. Devis communiqué avant déplacement.",
+        "icon": "zap",
+        "featured": true,
+        "tag": "Urgence",
+        "image": "/images/stock/plombier/services/services-2.webp"
+      },
+      {
+        "title": "Chauffe-eau : installation",
+        "desc": "Remplacement et installation de chauffe-eau toutes marques. Conseils personnalisés, pose soignée et mise en service rapide à votre domicile.",
+        "icon": "flame",
+        "featured": true,
+        "tag": "Installation",
+        "image": "/images/stock/plombier/services/services-3.webp"
+      },
+      {
+        "title": "Robinetterie",
+        "desc": "Réparation et remplacement de robinets, mitigeurs, vannes. Intervention propre et durable pour tous types de robinetterie.",
+        "icon": "droplets",
+        "featured": false
+      },
+      {
+        "title": "Devis à domicile",
+        "desc": "Déplacement et devis gratuit sans engagement pour tout projet de plomberie ou installation.",
+        "icon": "search",
+        "featured": false
+      },
+      {
+        "title": "Plomberie générale",
+        "desc": "Installation et rénovation de réseaux plomberie dans logements et locaux de la métropole bordelaise.",
+        "icon": "wrench",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Réactivité terrain",
+        "desc": "Artisan disponible rapidement pour tout dépannage à domicile"
+      },
+      {
+        "title": "Prix transparents",
+        "desc": "Tarif annoncé avant intervention, sans surprise à la facture"
+      },
+      {
+        "title": "Client recommande",
+        "desc": "62 avis Google à 4.5/5, clients satisfaits et fidèles"
+      },
+      {
+        "title": "Urgence et projet",
+        "desc": "Dépannage express ou installation planifiée, un seul artisan"
+      }
+    ],
+    "why_us_badge": {
+      "value": "1h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Bordeaux, Talence, Pessac, Mérignac, Le Bouscat, Bègles, Cenon, Villenave-d'Ornon",
+    "service_area_cities": [
+      "Bordeaux",
+      "Talence",
+      "Pessac",
+      "Mérignac",
+      "Le Bouscat",
+      "Bègles",
+      "Cenon",
+      "Villenave-d'Ornon"
+    ],
+    "service_area_map_cities": [
+      "Bordeaux",
+      "Mérignac",
+      "Pessac",
+      "Talence",
+      "Bègles",
+      "Cenon"
+    ],
+    "service_area_stats": [
+      {
+        "value": "8",
+        "label": "communes couvertes"
+      },
+      {
+        "value": "4.5/5",
+        "label": "note Google"
+      },
+      {
+        "value": "62",
+        "label": "avis clients"
+      }
+    ],
+    "service_area_note": "Déplacement rapide dans toute la métropole bordelaise, devis gratuit sans engagement.",
+    "no_reviews_cta": {
+      "eyebrow": "",
+      "title": "",
+      "subtitle": "",
+      "button_text": ""
+    },
+    "reviews_note": "4.5 / 5 sur Google Maps · 62 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 7 44 77 40 09",
+      "email": "",
+      "hours": ""
+    },
+    "seo_title": "Plombier Bordeaux — Dépannage & Installation | Etcheverry",
+    "meta_description": "Etcheverry Artisan, plombier à Bordeaux : dépannage rapide, installation chauffe-eau, robinetterie. Devis gratuit, prix transparents. Appelez le 07 44 77 40 09."
+  },
+  "reviews": [
+    {
+      "author": "Claire M.",
+      "location": "Bordeaux",
+      "rating": 5,
+      "text": "Je recommande vivement Etcheverry Artisan Plombier à Bordeaux pour leur intervention à mon domicile !"
+    }
+  ]
+}
