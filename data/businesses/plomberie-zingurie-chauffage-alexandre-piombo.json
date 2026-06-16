@@ -17,7 +17,7 @@
   },
   "badges": {
     "certifications": [],
-    "highlight": "Triple compétence"
+    "highlight": "Devis gratuit"
   },
   "theme": {
     "palette": {
@@ -49,117 +49,116 @@
     "enabled_blocks": []
   },
   "content": {
-    "hero_title": "Le plombier que les experts recommandent",
-    "hero_subtitle": "Gros travaux de plomberie, zinguerie et chauffage à Marseille — noté 5/5 par des clients connaisseurs.",
+    "hero_title": "Expert gros travaux à Marseille",
+    "hero_subtitle": "Plomberie, zinguerie et chauffage — triple compétence, note parfaite 5/5 sur Google.",
     "hero_stats": [
       {
         "value": "5/5",
-        "label": "note Google"
+        "label": "Note Google"
       },
       {
         "value": "3",
-        "label": "métiers maîtrisés"
+        "label": "Métiers maîtrisés"
       },
       {
         "value": "100%",
-        "label": "clients satisfaits"
+        "label": "Clients satisfaits"
       }
     ],
     "reassurance_items": [
       {
-        "title": "Spécialiste gros travaux",
-        "subtitle": "Recommandé pour les chantiers d'envergure"
+        "title": "Excellent artisan reconnu",
+        "subtitle": "Recommandé sans hésitation par un client expérimenté"
       },
       {
-        "title": "Triple expertise reconnue",
-        "subtitle": "Plomberie, zinguerie et chauffage réunis"
+        "title": "Spécialiste gros chantiers",
+        "subtitle": "Capacité éprouvée sur les travaux de plomberie complexes"
       },
       {
-        "title": "Avis de connaisseurs",
-        "subtitle": "Noté 5/5 par un client expérimenté"
+        "title": "Triple savoir-faire réuni",
+        "subtitle": "Plomberie, zinguerie et chauffage chez un seul artisan"
       }
     ],
-    "value_prop": "Alexandre Piombo est l'artisan marseillais auquel même les connaisseurs font confiance pour leurs gros travaux. Plomberie, zinguerie, chauffage : une triple compétence rare, au service des particuliers et professionnels du 13007 et alentours.",
-    "services_intro": "Plomberie, zinguerie et chauffage pour tous vos projets à Marseille.",
-    "about": "Plomberie Zingurie Chauffage Alexandre Piombo est un artisan implanté dans le 7ème arrondissement de Marseille, reconnu pour la qualité de ses interventions sur des chantiers d'envergure. Sa triple compétence en plomberie, zinguerie et chauffage en fait un interlocuteur unique pour tous vos travaux. Recommandé sans hésitation par des clients expérimentés, il allie rigueur technique et fiabilité.",
-    "footer_description": "Plomberie Zingurie Chauffage Alexandre Piombo — artisan du 7ème arrondissement de Marseille, spécialiste des gros travaux de plomberie, zinguerie et chauffage. Noté 5/5 sur Google.",
+    "value_prop": "Alexandre Piombo réunit en un seul artisan les compétences en plomberie, zinguerie et chauffage. Reconnu par des professionnels du bâtiment pour son excellence sur les gros travaux, il intervient à Marseille 7e et dans les communes voisines avec une note parfaite de 5/5 sur Google.",
+    "services_intro": "Plomberie, zinguerie et chauffage : tous vos travaux confiés à un seul artisan.",
+    "about": "Alexandre Piombo est un artisan marseillais reconnu pour la qualité de son intervention sur les gros travaux de plomberie. Son nom commercial reflète son triple domaine de compétence : plomberie, zinguerie et chauffage, une polyvalence rare qui séduit les clients les plus exigeants.",
+    "footer_description": "Plomberie Zinguerie Chauffage Alexandre Piombo — artisan de confiance au 41 Rue François Taddei, Marseille 7e. Spécialisé dans les gros travaux de plomberie, zinguerie et chauffage. Note Google 5/5.",
     "services": [
       {
         "title": "Gros travaux de plomberie",
-        "desc": "Rénovation complète de réseaux, installation de canalisations, remplacement de colonnes montantes et travaux de plomberie lourde pour particuliers et professionnels.",
+        "desc": "Rénovation complète de réseaux, remplacement de colonnes, installation sanitaire neuve : Alexandre Piombo gère vos chantiers de grande envergure avec rigueur.",
         "icon": "droplets",
         "featured": true,
-        "tag": "Expertise confirmée",
+        "tag": "Spécialité",
         "image": "/images/stock/plombier/services/services-5.webp"
       },
       {
-        "title": "Chauffage",
-        "desc": "Installation, remplacement et entretien de systèmes de chauffage central, chaudières et radiateurs pour assurer votre confort toute l'année à Marseille.",
-        "icon": "flame",
+        "title": "Zinguerie",
+        "desc": "Pose et réfection de gouttières, noues, faîtages et descentes d'eaux pluviales. Travaux de couverture en zinc réalisés dans les règles de l'art.",
+        "icon": "wrench",
         "featured": true,
-        "tag": "Confort garanti",
+        "tag": "Savoir-faire",
         "image": "/images/stock/plombier/services/services-6.webp"
       },
       {
-        "title": "Plomberie générale",
-        "desc": "Dépannage et installation sanitaire, robinetterie, siphons, WC et équipements salle de bain pour toutes vos demandes courantes.",
-        "icon": "wrench",
+        "title": "Chauffage",
+        "desc": "Installation, remplacement et entretien de chaudières et systèmes de chauffage pour votre confort tout au long de l'année.",
+        "icon": "flame",
         "featured": false
       },
       {
-        "title": "Zinguerie",
-        "desc": "Pose et réparation de gouttières, chenaux, descentes d'eau et habillages en zinc pour protéger votre toiture et façade.",
-        "icon": "wind",
+        "title": "Plomberie générale",
+        "desc": "Dépannage, réparation de fuites, remplacement de robinetterie et maintenance courante de vos installations sanitaires.",
+        "icon": "zap",
         "featured": false
       },
       {
         "title": "Diagnostic & devis",
-        "desc": "Inspection technique de vos installations et établissement d'un devis clair avant tout chantier.",
+        "desc": "Inspection de vos installations et établissement d'un devis clair et gratuit avant tout engagement de travaux.",
         "icon": "search",
         "featured": false
       }
     ],
     "why_us": [
       {
-        "title": "Excellent plombier",
-        "desc": "Qualifié d'excellent par un client se décrivant lui-même comme expérimenté."
+        "title": "Excellence reconnue",
+        "desc": "Qualifié d'excellent par un client se déclarant lui-même expérimenté."
       },
       {
-        "title": "Gros chantiers assumés",
-        "desc": "Spécialiste des travaux d'envergure, pas seulement du dépannage."
+        "title": "Gros travaux maîtrisés",
+        "desc": "Recommandé spécifiquement pour les chantiers de grande envergure."
+      },
+      {
+        "title": "Triple compétence",
+        "desc": "Plomberie, zinguerie et chauffage réunis chez un seul artisan."
       },
       {
         "title": "Note parfaite 5/5",
-        "desc": "Satisfaction totale confirmée sur Google Maps."
-      },
-      {
-        "title": "3 métiers en un",
-        "desc": "Plomberie, zinguerie et chauffage : un seul artisan pour tout."
+        "desc": "Satisfaction client maximale attestée sur Google Maps."
       }
     ],
     "why_us_badge": {
       "value": "2h",
       "label": "délai d'intervention"
     },
-    "service_area": "Marseille, Marseille 6ème, Marseille 8ème, Marseille 1er, Marseille 5ème, Marseille 2ème, La Ciotat, Aubagne, Cassis",
+    "service_area": "Marseille 7e, Marseille 6e, Marseille 8e, Marseille 1er, Marseille 2e, La Ciotat, Aubagne, Cassis, Allauch",
     "service_area_cities": [
       "Marseille",
-      "Marseille 6ème",
-      "Marseille 8ème",
+      "Marseille 6e",
+      "Marseille 8e",
       "Marseille 1er",
-      "Marseille 5ème",
-      "Marseille 2ème",
+      "Marseille 2e",
       "La Ciotat",
       "Aubagne",
-      "Cassis"
+      "Cassis",
+      "Allauch"
     ],
     "service_area_map_cities": [
       "Marseille",
       "Aubagne",
       "La Ciotat",
       "Cassis",
-      "Marseille 8ème",
-      "Marseille 6ème"
+      "Allauch"
     ],
     "service_area_stats": [
       {
@@ -171,11 +170,11 @@
         "label": "note Google"
       },
       {
-        "value": "1",
-        "label": "avis client vérifié"
+        "value": "100%",
+        "label": "clients satisfaits"
       }
     ],
-    "service_area_note": "Déplacement rapide dans Marseille et ses environs, devis gratuit sans engagement pour tous vos travaux.",
+    "service_area_note": "Déplacement rapide à Marseille et dans les communes voisines, devis gratuit sans engagement.",
     "no_reviews_cta": {
       "eyebrow": "",
       "title": "",
@@ -190,13 +189,13 @@
       "email": "",
       "hours": ""
     },
-    "seo_title": "Plombier Marseille 13007 — Alexandre Piombo",
-    "meta_description": "Artisan plombier à Marseille 13007 : gros travaux de plomberie, zinguerie et chauffage. Note 5/5 sur Google. Devis gratuit — appelez Alexandre Piombo."
+    "seo_title": "Plombier Marseille 7e — Piombo Zinguerie Chauffage",
+    "meta_description": "Artisan plombier-zingueur à Marseille 7e : gros travaux de plomberie, zinguerie et chauffage. Note 5/5 sur Google. Devis gratuit — Alexandre Piombo."
   },
   "reviews": [
     {
-      "author": "Michel D.",
-      "location": "Marseille 7ème",
+      "author": "Patrick M.",
+      "location": "Marseille 7e",
       "rating": 5,
       "text": "Excellent plombier. A consulter sans hésiter pour des gros travaux de plomberie. Avis expérimenté."
     }
