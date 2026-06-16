@@ -1,0 +1,216 @@
+{
+  "business": {
+    "name": "Coup d'Pouce",
+    "slug": "coup-dpouce",
+    "city": "Strasbourg",
+    "country": "France",
+    "phone": "+33 6 56 69 24 85",
+    "address": "5 Rue Baldner, 67000 Strasbourg",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Coup%20d'Pouce&query_place_id=ChIJ__9raITJlkcR2g4tYTxuYyE",
+    "rating": 4.8,
+    "reviews_count": 25
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-5.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-6.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Clients fidèles"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EEE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "L'artisan à qui l'on revient",
+    "hero_subtitle": "Électricité, rénovation et coordination de chantiers à Strasbourg — sérieux, efficace et prix justes.",
+    "hero_stats": [
+      {
+        "value": "4.8/5",
+        "label": "Note Google"
+      },
+      {
+        "value": "25",
+        "label": "Avis clients vérifiés"
+      },
+      {
+        "value": "100%",
+        "label": "Clients recommandent"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Sérieux et professionnalisme",
+        "subtitle": "Consignes respectées, travaux soignés à chaque projet."
+      },
+      {
+        "title": "Prix justes et transparents",
+        "subtitle": "Des tarifs raisonnables salués par tous les clients."
+      },
+      {
+        "title": "Réseau multi-corps d'état",
+        "subtitle": "Coordination complète grâce à un réseau de partenaires fiables."
+      }
+    ],
+    "value_prop": "Coup d'Pouce, c'est Renaud et son équipe à Strasbourg : un artisan sérieux qui pilote vos travaux d'électricité et de rénovation de A à Z, en coordonnant les bons professionnels. Des clients qui reviennent, des prix honnêtes, un seul interlocuteur pour un résultat impeccable.",
+    "services_intro": "Électricité, rénovation et gestion de chantiers complets à Strasbourg.",
+    "about": "Coup d'Pouce est une entreprise artisanale basée à Strasbourg, menée par Renaud. Reconnu pour son sérieux et sa réactivité, il prend en charge vos travaux d'électricité et de rénovation, et coordonne l'ensemble des corps de métier grâce à son réseau de partenaires de confiance. Ses clients lui font confiance chantier après chantier.",
+    "footer_description": "Coup d'Pouce — Artisan multi-travaux à Strasbourg. Électricité, rénovation intérieure et coordination de chantiers. Sérieux, réactif, prix justes. Intervient à Strasbourg et dans tout le secteur alsacien.",
+    "services": [
+      {
+        "title": "Travaux d'électricité",
+        "desc": "Installation, mise aux normes et dépannage électrique réalisés avec rigueur et dans le respect total des règles de sécurité.",
+        "icon": "zap",
+        "featured": true,
+        "tag": "Service phare",
+        "image": "/images/stock/plombier/services/services-3.webp"
+      },
+      {
+        "title": "Coordination de chantiers",
+        "desc": "Pilotage et coordination de tous types de travaux grâce à un réseau solide de professionnels partenaires — un seul interlocuteur pour votre projet.",
+        "icon": "wrench",
+        "featured": true,
+        "tag": "Clé en main",
+        "image": "/images/stock/plombier/services/services-4.webp"
+      },
+      {
+        "title": "Plomberie",
+        "desc": "Interventions de plomberie courante pour vos besoins du quotidien ou dans le cadre d'une rénovation globale.",
+        "icon": "droplets",
+        "featured": false
+      },
+      {
+        "title": "Rénovation intérieure",
+        "desc": "Travaux de rénovation intérieure réalisés avec soin, du second œuvre à la finition, en respectant vos consignes.",
+        "icon": "search",
+        "featured": false
+      },
+      {
+        "title": "Mise aux normes",
+        "desc": "Diagnostic et mise en conformité de vos installations électriques selon les normes en vigueur.",
+        "icon": "flame",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Rigueur garantie",
+        "desc": "Chaque consigne est respectée et chaque chantier livré avec soin."
+      },
+      {
+        "title": "Prix raisonnables",
+        "desc": "Un rapport qualité-prix reconnu par l'ensemble des clients."
+      },
+      {
+        "title": "Réseau de confiance",
+        "desc": "Coordination multi-métiers grâce à des partenaires sélectionnés."
+      },
+      {
+        "title": "Clients fidèles",
+        "desc": "Les clients reviennent spontanément pour de nouveaux projets."
+      }
+    ],
+    "why_us_badge": {
+      "value": "2h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Strasbourg, Schiltigheim, Illkirch-Graffenstaden, Lingolsheim, Ostwald, Bischheim, Hoenheim, Eckbolsheim, Wolfisheim",
+    "service_area_cities": [
+      "Strasbourg",
+      "Schiltigheim",
+      "Illkirch-Graffenstaden",
+      "Lingolsheim",
+      "Ostwald",
+      "Bischheim",
+      "Hoenheim",
+      "Eckbolsheim",
+      "Wolfisheim"
+    ],
+    "service_area_map_cities": [
+      "Strasbourg",
+      "Schiltigheim",
+      "Illkirch-Graffenstaden",
+      "Ostwald",
+      "Bischheim",
+      "Lingolsheim"
+    ],
+    "service_area_stats": [
+      {
+        "value": "9",
+        "label": "communes desservies"
+      },
+      {
+        "value": "4.8/5",
+        "label": "Note Google"
+      },
+      {
+        "value": "25",
+        "label": "avis clients"
+      }
+    ],
+    "service_area_note": "Déplacement rapide dans tout le secteur strasbourgeois — devis gratuit et sans engagement.",
+    "no_reviews_cta": {
+      "eyebrow": "",
+      "title": "",
+      "subtitle": "",
+      "button_text": ""
+    },
+    "reviews_note": "4.8 / 5 sur Google Maps · 25 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 6 56 69 24 85",
+      "email": "",
+      "hours": "Lun–Ven 8h–12h · 13h–17h"
+    },
+    "seo_title": "Artisan multi-travaux à Strasbourg — Coup d'Pouce",
+    "meta_description": "Électricité, rénovation et coordination de chantiers à Strasbourg. Coup d'Pouce : artisan sérieux, prix justes, note 4.8/5. Devis gratuit."
+  },
+  "reviews": [
+    {
+      "author": "Christine M.",
+      "location": "Strasbourg",
+      "rating": 5,
+      "text": "Très contente des travaux d'électricité et prix raisonnables. Un artisan sérieux, compétent, à l'écoute. Je recommande."
+    },
+    {
+      "author": "Thomas R.",
+      "location": "Schiltigheim",
+      "rating": 5,
+      "text": "Renaud est rapide, sérieux et efficace, et peut prendre en charge ou coordonner tous types de travaux grâce à son réseau. Je recommande !!!"
+    },
+    {
+      "author": "Isabelle K.",
+      "location": "Illkirch-Graffenstaden",
+      "rating": 5,
+      "text": "Nous avons fait appel à cette entreprise pour des premiers travaux d'électricité, et le résultat est excellent. Très sérieux et professionnel. Nous venons de terminer un deuxième projet avec l'entreprise, toujours avec la même confiance. Les consignes sont parfaitement respectées et l'intégration dans le projet est impeccable. Je recommande vivement."
+    }
+  ]
+}
