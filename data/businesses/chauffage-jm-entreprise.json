@@ -1,0 +1,197 @@
+{
+  "business": {
+    "name": "Chauffage JM Entreprise",
+    "slug": "chauffage-jm-entreprise",
+    "city": "Strasbourg",
+    "country": "France",
+    "phone": "+33 6 03 92 60 72",
+    "address": "32 Rue Mélanie, 67000 Strasbourg",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Chauffage%20JM%20Entreprise&query_place_id=ChIJ7dXx7JbIlkcRXckgjRcUUqY",
+    "rating": null,
+    "reviews_count": null
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-5.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-4.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Devis gratuit"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Votre chauffagiste à Strasbourg",
+    "hero_subtitle": "Spécialiste chauffage et plomberie, joignable directement, disponible du lundi au samedi.",
+    "hero_stats": [
+      {
+        "value": "5j/7",
+        "label": "disponibilité semaine"
+      },
+      {
+        "value": "Sam.",
+        "label": "ouvert le matin"
+      },
+      {
+        "value": "Direct",
+        "label": "ligne mobile sans intermédiaire"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Spécialiste chauffage à Strasbourg",
+        "subtitle": "Expertise ciblée pour vos installations et dépannages"
+      },
+      {
+        "title": "Ouvert le samedi matin",
+        "subtitle": "Des horaires adaptés aux particuliers et professionnels"
+      },
+      {
+        "title": "Contact direct, sans intermédiaire",
+        "subtitle": "Joignez l'artisan en direct sur son mobile"
+      }
+    ],
+    "value_prop": "Chauffage JM Entreprise intervient à Strasbourg et ses environs pour l'installation, l'entretien et le dépannage de vos systèmes de chauffage et de plomberie. Artisan de proximité, joignable directement et disponible six jours sur sept.",
+    "services_intro": "Installation, entretien et dépannage chauffage et plomberie à Strasbourg.",
+    "about": "Chauffage JM Entreprise est un artisan chauffagiste et plombier installé au cœur de Strasbourg, au 32 Rue Mélanie. L'entreprise intervient pour les particuliers et professionnels du secteur avec des horaires adaptés incluant le samedi matin. Un contact direct sur mobile garantit une prise en charge rapide de chaque demande.",
+    "footer_description": "Chauffage JM Entreprise — Artisan chauffagiste et plombier à Strasbourg. Installation, entretien, dépannage chaudière. Disponible lundi au samedi. 32 Rue Mélanie, 67000 Strasbourg.",
+    "services": [
+      {
+        "title": "Installation de chauffage",
+        "desc": "Mise en place de vos systèmes de chauffage central, chaudières et radiateurs pour un confort optimal et durable dans votre logement ou local professionnel.",
+        "icon": "flame",
+        "featured": true,
+        "tag": "Expertise chauffage",
+        "image": "/images/stock/plombier/services/services-7.webp"
+      },
+      {
+        "title": "Entretien de chaudières",
+        "desc": "Maintenance préventive et révision annuelle de vos chaudières pour assurer leur performance, leur sécurité et prolonger leur durée de vie.",
+        "icon": "wrench",
+        "featured": true,
+        "tag": "Contrat entretien",
+        "image": "/images/stock/plombier/services/services-8.webp"
+      },
+      {
+        "title": "Dépannage chauffage",
+        "desc": "Intervention rapide pour diagnostiquer et résoudre toute panne sur votre système de chauffage, du lundi au samedi.",
+        "icon": "zap",
+        "featured": false
+      },
+      {
+        "title": "Plomberie générale",
+        "desc": "Travaux de plomberie courante : robinetterie, canalisations, sanitaires et réparations pour particuliers et professionnels.",
+        "icon": "droplets",
+        "featured": false
+      },
+      {
+        "title": "Diagnostic et conseil",
+        "desc": "Analyse de votre installation existante et recommandations pour optimiser vos équipements de chauffage et plomberie.",
+        "icon": "search",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Spécialiste chauffage",
+        "desc": "Expertise technique ciblée pour tous vos besoins en chauffage"
+      },
+      {
+        "title": "Présence locale",
+        "desc": "Artisan implanté à Strasbourg, disponible dans tout le secteur"
+      },
+      {
+        "title": "Horaires flexibles",
+        "desc": "Ouvert du lundi au samedi matin pour s'adapter à vos disponibilités"
+      },
+      {
+        "title": "Contact sans intermédiaire",
+        "desc": "Ligne mobile directe pour une réponse rapide à chaque demande"
+      }
+    ],
+    "why_us_badge": {
+      "value": "2h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Strasbourg, Schiltigheim, Illkirch-Graffenstaden, Lingolsheim, Ostwald, Bischheim, Hoenheim, Eckbolsheim, Oberhausbergen",
+    "service_area_cities": [
+      "Strasbourg",
+      "Schiltigheim",
+      "Illkirch-Graffenstaden",
+      "Lingolsheim",
+      "Ostwald",
+      "Bischheim",
+      "Hoenheim",
+      "Eckbolsheim",
+      "Oberhausbergen"
+    ],
+    "service_area_map_cities": [
+      "Strasbourg",
+      "Schiltigheim",
+      "Illkirch-Graffenstaden",
+      "Ostwald",
+      "Bischheim",
+      "Hoenheim"
+    ],
+    "service_area_stats": [
+      {
+        "value": "9",
+        "label": "communes desservies"
+      },
+      {
+        "value": "6j/7",
+        "label": "jours d'intervention"
+      },
+      {
+        "value": "67000",
+        "label": "secteur Strasbourg"
+      }
+    ],
+    "service_area_note": "Déplacement rapide sur Strasbourg et les communes voisines — devis gratuit sans engagement.",
+    "no_reviews_cta": {
+      "eyebrow": "CONFIANCE",
+      "title": "Un chauffagiste fiable au cœur de Strasbourg",
+      "subtitle": "Présence locale établie, ligne directe et horaires adaptés du lundi au samedi pour tous vos besoins en chauffage et plomberie.",
+      "button_text": "Demander un devis gratuit"
+    },
+    "reviews_note": "",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 6 03 92 60 72",
+      "email": "",
+      "hours": "Lun–Ven 8h–12h · 13h–18h · Sam 8h–12h"
+    },
+    "seo_title": "Chauffagiste Strasbourg — Chauffage JM Entreprise",
+    "meta_description": "Artisan chauffagiste et plombier à Strasbourg. Installation, entretien et dépannage chaudière. Disponible lun–sam, devis gratuit. Appelez au +33 6 03 92 60 72."
+  },
+  "reviews": []
+}
