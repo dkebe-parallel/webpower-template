@@ -50,7 +50,7 @@
   },
   "content": {
     "hero_title": "Rénovation salle de bain à Vern-sur-Seiche",
-    "hero_subtitle": "Plomberie & électricité, conseils sur mesure et finitions soignées — note 5/5 Google.",
+    "hero_subtitle": "Plomberie, électricité et conseils personnalisés — réactif, sérieux, 5/5 sur Google.",
     "hero_stats": [
       {
         "value": "5/5",
@@ -62,86 +62,86 @@
       },
       {
         "value": "2",
-        "label": "Compétences : plomberie & électricité"
+        "label": "Corps de métier maîtrisés"
       }
     ],
     "reassurance_items": [
       {
-        "title": "Sérieux & réactivité",
-        "subtitle": "Intervenant rapide, ponctuel et organisé"
+        "title": "Sérieux et professionnalisme",
+        "subtitle": "Une entreprise reconnue pour la qualité de ses réalisations"
+      },
+      {
+        "title": "Réactivité garantie",
+        "subtitle": "Intervenant rapide, disponible du lundi au vendredi"
       },
       {
         "title": "Conseils personnalisés",
-        "subtitle": "Aide au choix des matériaux adaptés à vos besoins"
-      },
-      {
-        "title": "Finitions impeccables",
-        "subtitle": "Qualité de réalisation saluée par tous les clients"
+        "subtitle": "Accompagnement dans le choix des matériaux adapté à votre projet"
       }
     ],
-    "value_prop": "L'entreprise Le Gall intervient à Vern-sur-Seiche pour vos rénovations de salle de bain et travaux électriques. Sérieuse, réactive et professionnelle, elle vous accompagne du choix des matériaux jusqu'aux finitions, pour un résultat à la hauteur de vos attentes.",
-    "services_intro": "Plomberie, rénovation salle de bain et électricité : tout en un.",
-    "about": "L'entreprise Le Gall est un artisan polyvalent basé à Vern-sur-Seiche, reconnu pour son sérieux et la qualité de ses réalisations. Spécialisée dans la rénovation de salle de bain et les travaux électriques, elle accompagne ses clients avec des conseils personnalisés à chaque étape du projet.",
-    "footer_description": "Entreprise Le Gall — artisan plombier et électricien à Vern-sur-Seiche. Rénovation salle de bain, tableau électrique et plomberie générale. Conseil, sérieux et finitions soignées pour tous vos travaux.",
+    "value_prop": "L'entreprise Le Gall intervient à Vern-sur-Seiche pour vos rénovations de salle de bain et vos travaux électriques. Plomberie et électricité réunies en un seul artisan réactif, qui vous conseille du choix des matériaux jusqu'à la livraison finale.",
+    "services_intro": "Plomberie, électricité et rénovation complète pour votre habitat.",
+    "about": "L'entreprise Le Gall est un artisan polyvalent basé à Vern-sur-Seiche, spécialisé dans la rénovation de salle de bain et les travaux d'électricité. Reconnue pour son sérieux et sa réactivité, elle accompagne ses clients de A à Z, du conseil sur les matériaux jusqu'à la réalisation soignée des travaux.",
+    "footer_description": "L'entreprise Le Gall, artisan plombier-électricien à Vern-sur-Seiche, intervient pour vos rénovations de salle de bain et travaux électriques. Conseil, réactivité et qualité d'exécution au service de votre habitat.",
     "services": [
       {
         "title": "Rénovation de salle de bain",
-        "desc": "Transformation complète de votre salle de bain avec conseils personnalisés sur les matériaux et finitions de qualité pour un résultat durable.",
+        "desc": "Conception et réalisation complète de votre salle de bain : démolition, plomberie, carrelage et finitions pour un résultat impeccable.",
         "icon": "droplets",
         "featured": true,
-        "tag": "Notre spécialité",
+        "tag": "Spécialité",
         "image": "/images/stock/plombier/services/services-7.webp"
       },
       {
-        "title": "Tableau électrique",
-        "desc": "Installation et rénovation de tableau électrique réalisées dans les règles de l'art, pour la sécurité et la conformité de votre installation.",
+        "title": "Travaux d'électricité",
+        "desc": "Mise en conformité et remplacement de tableau électrique, câblage et installation électrique pour votre sécurité au quotidien.",
         "icon": "zap",
         "featured": true,
-        "tag": "Sécurité & conformité",
+        "tag": "Double compétence",
         "image": "/images/stock/plombier/services/services-8.webp"
       },
       {
         "title": "Plomberie générale",
-        "desc": "Intervention sur toutes vos installations de plomberie : remplacement, réparation ou mise aux normes.",
+        "desc": "Pose, remplacement et réparation de vos équipements sanitaires et canalisations dans les règles de l'art.",
         "icon": "wrench",
         "featured": false
       },
       {
-        "title": "Conseil en matériaux",
-        "desc": "Accompagnement dans le choix des matériaux adaptés à votre projet et à votre budget.",
+        "title": "Conseil matériaux",
+        "desc": "Accompagnement personnalisé pour choisir les matériaux adaptés à votre projet et à votre budget.",
         "icon": "search",
         "featured": false
       },
       {
-        "title": "Rénovation intérieure",
-        "desc": "Prise en charge globale de vos travaux de rénovation, du diagnostic à la livraison finale.",
-        "icon": "flame",
+        "title": "Devis et diagnostic",
+        "desc": "Évaluation gratuite de vos besoins avec un devis clair et détaillé, sans engagement de votre part.",
+        "icon": "wrench",
         "featured": false
       }
     ],
     "why_us": [
       {
-        "title": "Entreprise réactive",
-        "desc": "Intervention rapide et planifiée selon vos disponibilités"
+        "title": "Sérieux reconnu",
+        "desc": "Des clients qui recommandent fortement l'entreprise pour son professionnalisme"
       },
       {
-        "title": "Conseil expert",
-        "desc": "Accompagnement personnalisé du choix des matériaux"
+        "title": "Réactivité terrain",
+        "desc": "Intervention rapide, disponible du lundi au vendredi toute la journée"
       },
       {
-        "title": "Note parfaite 5/5",
-        "desc": "100 % de clients satisfaits sur Google Maps"
+        "title": "Double expertise",
+        "desc": "Plomberie et électricité maîtrisées pour une prise en charge globale"
       },
       {
-        "title": "Double compétence",
-        "desc": "Plomberie et électricité gérées par un seul artisan"
+        "title": "Conseils sur mesure",
+        "desc": "Accompagnement dans le choix des matériaux selon votre projet et budget"
       }
     ],
     "why_us_badge": {
       "value": "2h",
       "label": "délai d'intervention"
     },
-    "service_area": "Vern-sur-Seiche, Chantepie, Noyal-Châtillon-sur-Seiche, Châtillon-sur-Seiche, Corps-Nuds, Orgères, Saint-Erblon, Rennes, Pont-Péan",
+    "service_area": "Vern-sur-Seiche, Chantepie, Noyal-Châtillon-sur-Seiche, Châtillon-sur-Seiche, Corps-Nuds, Orgères, Saint-Erblon, Rennes, Bruz",
     "service_area_cities": [
       "Vern-sur-Seiche",
       "Chantepie",
@@ -151,15 +151,15 @@
       "Orgères",
       "Saint-Erblon",
       "Rennes",
-      "Pont-Péan"
+      "Bruz"
     ],
     "service_area_map_cities": [
       "Rennes",
+      "Bruz",
       "Chantepie",
-      "Saint-Erblon",
-      "Corps-Nuds",
       "Orgères",
-      "Pont-Péan"
+      "Corps-Nuds",
+      "Saint-Erblon"
     ],
     "service_area_stats": [
       {
@@ -188,21 +188,21 @@
     "contact": {
       "phone": "+33 2 99 41 49 26",
       "email": "",
-      "hours": "Lun–Ven 8h–12h · 13h30–18h"
+      "hours": "Lun–Ven 8h00–12h00 · 13h30–18h00"
     },
-    "seo_title": "Plombier & rénovation salle de bain à Vern-sur-Seiche",
-    "meta_description": "Entreprise Le Gall à Vern-sur-Seiche : rénovation salle de bain, tableau électrique et plomberie. Artisan sérieux, réactif, note 5/5 Google. Devis gratuit."
+    "seo_title": "Le Gall — Plombier & Électricien à Vern-sur-Seiche",
+    "meta_description": "Entreprise Le Gall à Vern-sur-Seiche : rénovation salle de bain, électricité et plomberie. Artisan sérieux, réactif, noté 5/5 sur Google. Devis gratuit."
   },
   "reviews": [
     {
-      "author": "Nicolas B.",
-      "location": "Vern-sur-Seiche",
+      "author": "Thomas B.",
+      "location": "Chantepie",
       "rating": 5,
       "text": "Entreprise sérieuse, réactive et professionnelle intervenue chez moi dans le cadre de la rénovation de ma salle de bain et de mon tableau électrique. Je recommande fortement."
     },
     {
       "author": "Marie-Claire D.",
-      "location": "Chantepie",
+      "location": "Noyal-Châtillon-sur-Seiche",
       "rating": 5,
       "text": "L'entreprise Le Gall est intervenue pour refaire ma salle de bain. Je suis très satisfaite par la réalisation et les conseils qui m'ont aidé à choisir les matériaux."
     }
