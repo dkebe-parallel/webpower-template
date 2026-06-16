@@ -2,10 +2,10 @@
   "business": {
     "name": "Atelier Pyrénées Plomberie",
     "slug": "atelier-pyrenees-plomberie",
-    "city": "Saint-Gaudens",
+    "city": "Lannemezan",
     "country": "France",
     "phone": "+33 6 85 02 16 36",
-    "address": "Secteur Comminges, Haute-Garonne",
+    "address": "Piémont pyrénéen, Hautes-Pyrénées",
     "maps_url": "https://www.google.com/maps/search/?api=1&query=Atelier%20Pyr%C3%A9n%C3%A9es%20Plomberie&query_place_id=ChIJd9-vFCPhYwYRqPSJc7RkZeY",
     "rating": 4.5,
     "reviews_count": 8
@@ -17,7 +17,7 @@
   },
   "badges": {
     "certifications": [],
-    "highlight": "Artisan local"
+    "highlight": "Devis gratuit"
   },
   "theme": {
     "palette": {
@@ -49,15 +49,15 @@
     "enabled_blocks": []
   },
   "content": {
-    "hero_title": "Plombier réactif et humain",
-    "hero_subtitle": "Dépannage rapide, travail soigné dans les règles de l'art — recommandé sans réserve.",
+    "hero_title": "Plombier réactif dans les Pyrénées",
+    "hero_subtitle": "Intervention rapide, travail soigné dans les règles de l'art, et un artisan vraiment à l'écoute.",
     "hero_stats": [
       {
         "value": "4.5/5",
         "label": "Note Google"
       },
       {
-        "value": "1h",
+        "value": "< 2h",
         "label": "délai d'intervention"
       },
       {
@@ -67,98 +67,98 @@
     ],
     "reassurance_items": [
       {
-        "title": "Réactivité immédiate",
-        "subtitle": "Prise en charge rapide, même en situation d'urgence"
+        "title": "Réactivité exemplaire",
+        "subtitle": "Prise en charge rapide, même en urgence"
       },
       {
         "title": "Travail dans les règles de l'art",
-        "subtitle": "Méthode et soin, même dans les espaces difficiles"
+        "subtitle": "Méthode et soin, même en accès difficile"
       },
       {
-        "title": "Qualité humaine rare",
-        "subtitle": "Écoute, proximité et relationnel salués par vos voisins"
+        "title": "Artisan humain et à l'écoute",
+        "subtitle": "Un relationnel rare, salué par chaque client"
       }
     ],
-    "value_prop": "Atelier Pyrénées Plomberie, c'est un artisan du Comminges reconnu pour sa réactivité exemplaire et sa qualité humaine rare. Chaque intervention — dépannage urgent ou remplacement de chauffe-eau — est réalisée avec méthode, soin et un vrai respect du client.",
-    "services_intro": "Dépannage, installation et réparation plomberie dans le Comminges.",
-    "about": "Atelier Pyrénées Plomberie est un plombier artisan du secteur Comminges, reconnu par ses clients pour sa réactivité et son professionnalisme. Il intervient avec méthode même dans des configurations techniques difficiles, et se distingue par une qualité relationnelle exceptionnelle, rare dans le métier.",
-    "footer_description": "Atelier Pyrénées Plomberie — artisan plombier du Comminges. Dépannage urgent, remplacement de chauffe-eau et réparations réalisés avec soin, méthode et humanité. Secteur Saint-Gaudens et alentours.",
+    "value_prop": "Atelier Pyrénées Plomberie, c'est un artisan qui intervient vite, travaille avec méthode et traite chaque client avec une attention humaine sincère. Que ce soit pour un dépannage urgent ou le remplacement de votre chauffe-eau, vous êtes entre de bonnes mains.",
+    "services_intro": "Dépannage, remplacement et réparation — réalisés avec soin.",
+    "about": "Atelier Pyrénées Plomberie est un artisan plombier du piémont pyrénéen, reconnu pour sa réactivité et la qualité de ses interventions. Chaque mission est traitée avec méthode, même dans les configurations les plus délicates. Son sens du contact et son écoute font de lui un professionnel rare et apprécié.",
+    "footer_description": "Atelier Pyrénées Plomberie — votre plombier de confiance dans le piémont pyrénéen. Interventions rapides, travail soigné et relationnel humain pour tous vos besoins en plomberie.",
     "services": [
       {
-        "title": "Dépannage plomberie urgence",
-        "desc": "Intervention rapide pour toute fuite, canalisation bouchée ou panne. Prise en charge dans les meilleurs délais, même en situation difficile.",
-        "icon": "zap",
+        "title": "Remplacement de chauffe-eau",
+        "desc": "Installation et remplacement de chauffe-eau, y compris dans les espaces étroits ou difficiles d'accès. Travail réalisé dans les règles de l'art.",
+        "icon": "flame",
         "featured": true,
-        "tag": "Urgence",
+        "tag": "Expertise technique",
         "image": "/images/stock/plombier/services/services-7.webp"
       },
       {
-        "title": "Remplacement chauffe-eau",
-        "desc": "Installation et remplacement de chauffe-eau, y compris dans des espaces étriqués. Travail réalisé dans les règles de l'art avec méthode et efficacité.",
-        "icon": "flame",
+        "title": "Dépannage plomberie urgence",
+        "desc": "Intervention rapide pour tout dépannage urgent : fuite, canalisation, pression. Prise en charge réactive pour limiter les dégâts.",
+        "icon": "zap",
         "featured": true,
-        "tag": "Installation",
+        "tag": "Intervention rapide",
         "image": "/images/stock/plombier/services/services-8.webp"
       },
       {
         "title": "Réparation plomberie générale",
-        "desc": "Diagnostic et réparation de tous vos problèmes de plomberie. Intervention soignée et durable.",
+        "desc": "Diagnostic et réparation de tous vos problèmes de plomberie. Approche méthodique et consciencieuse pour un résultat durable.",
         "icon": "wrench",
         "featured": false
       },
       {
         "title": "Détection de fuites",
-        "desc": "Recherche précise de fuites cachées pour limiter les dégâts et les coûts de réparation.",
+        "desc": "Localisation précise des fuites visibles ou cachées pour une réparation ciblée et efficace.",
         "icon": "search",
         "featured": false
       },
       {
-        "title": "Entretien installation eau",
-        "desc": "Vérification et entretien de vos installations pour prévenir les pannes et assurer leur durabilité.",
+        "title": "Entretien installations",
+        "desc": "Vérification et entretien de vos installations pour prévenir pannes et usures prématurées.",
         "icon": "droplets",
         "featured": false
       }
     ],
     "why_us": [
       {
-        "title": "Réactivité exemplaire",
-        "desc": "Prise en charge rapide, même dans les situations les plus urgentes."
+        "title": "Réactivité immédiate",
+        "desc": "Intervention rapide saluée par l'ensemble des clients"
       },
       {
-        "title": "Qualité humaine rare",
-        "desc": "Écoute sincère et relationnel chaleureux salués par chaque client."
+        "title": "Travail soigné",
+        "desc": "Chaque chantier réalisé dans les règles de l'art"
       },
       {
-        "title": "Travail consciencieux",
-        "desc": "Interventions méthodiques, soignées, dans les règles de l'art."
+        "title": "Écoute & humanité",
+        "desc": "Un artisan attentif, sincère et proche de ses clients"
       },
       {
-        "title": "Technicité confirmée",
-        "desc": "Efficace même dans les configurations d'accès les plus difficiles."
+        "title": "Méthode éprouvée",
+        "desc": "Approche rigoureuse même en conditions difficiles"
       }
     ],
     "why_us_badge": {
       "value": "1h",
       "label": "délai d'intervention"
     },
-    "service_area": "Saint-Gaudens, Montréjeau, Lannemezan, Bagnères-de-Luchon, Aspet, Barbazan, Loures-Barousse, Valentine",
+    "service_area": "Lannemezan, Saint-Gaudens, Montréjeau, Bagnères-de-Luchon, Bagnères-de-Bigorre, Tarbes, Arreau, Valentine",
     "service_area_cities": [
+      "Lannemezan",
       "Saint-Gaudens",
       "Montréjeau",
-      "Lannemezan",
       "Bagnères-de-Luchon",
-      "Aspet",
-      "Barbazan",
-      "Loures-Barousse",
+      "Bagnères-de-Bigorre",
+      "Tarbes",
+      "Arreau",
       "Valentine"
     ],
     "service_area_map_cities": [
+      "Tarbes",
       "Saint-Gaudens",
-      "Montréjeau",
       "Lannemezan",
-      "Bagnères-de-Luchon",
-      "Aspet",
-      "Valentine"
+      "Bagnères-de-Bigorre",
+      "Montréjeau",
+      "Bagnères-de-Luchon"
     ],
     "service_area_stats": [
       {
@@ -174,7 +174,7 @@
         "label": "avis clients vérifiés"
       }
     ],
-    "service_area_note": "Déplacement rapide dans tout le Comminges et les vallées pyrénéennes — devis gratuit sans engagement.",
+    "service_area_note": "Déplacement rapide dans tout le piémont pyrénéen — devis gratuit sans engagement sur simple appel.",
     "no_reviews_cta": {
       "eyebrow": "",
       "title": "",
@@ -189,25 +189,25 @@
       "email": "",
       "hours": ""
     },
-    "seo_title": "Plombier Saint-Gaudens — Atelier Pyrénées Plomberie",
-    "meta_description": "Plombier artisan dans le Comminges : dépannage urgent, remplacement chauffe-eau, réparations. Réactif, humain, recommandé sans réserve. Appelez le +33 6 85 02 16 36."
+    "seo_title": "Plombier Pyrénées — Atelier Pyrénées Plomberie",
+    "meta_description": "Plombier réactif dans les Pyrénées : dépannage urgent, remplacement chauffe-eau, réparation. Intervention rapide, travail soigné. Appelez le +33 6 85 02 16 36."
   },
   "reviews": [
     {
       "author": "Sophie M.",
-      "location": "Saint-Gaudens",
+      "location": "Lannemezan",
       "rating": 5,
       "text": "Très réactif. Vraiment très agréablement surprise. J'ai été très rapidement prise en charge et surtout réparée. Plombier très humain et à l'écoute du client malgré un conteste très difficile pour lui. Merci Monsieur. Continuez comme ça."
     },
     {
       "author": "Bernard L.",
-      "location": "Montréjeau",
+      "location": "Saint-Gaudens",
       "rating": 5,
       "text": "Un professionnel consciencieux et efficace . Le changement de mon chauffe-eau n'était pas facile au vu de son emplacement très étriqué. Avec méthode et efficacité son changement a été réalisé dans les règles de l'art... Je vous le recommande sans réserve. Un très bon relationnel du chef d'entreprise est aussi à noter ,si rare de nos jours ."
     },
     {
-      "author": "Marc D.",
-      "location": "Valentine",
+      "author": "Claire D.",
+      "location": "Montréjeau",
       "rating": 5,
       "text": "Professionnel et reactif"
     }
