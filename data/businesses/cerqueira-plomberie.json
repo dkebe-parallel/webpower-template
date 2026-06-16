@@ -1,0 +1,215 @@
+{
+  "business": {
+    "name": "Cerqueira Plomberie",
+    "slug": "cerqueira-plomberie",
+    "city": "Bordeaux",
+    "country": "France",
+    "phone": "+33 6 52 57 26 94",
+    "address": "Bordeaux, France",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Cerqueira%20Plomberie&query_place_id=ChIJDVVHErAC1qMRjRLi1B4ocB8",
+    "rating": 5,
+    "reviews_count": 35
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-3.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-1.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "1 seule intervention"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Plombier réactif à Bordeaux",
+    "hero_subtitle": "Appelé le matin, intervenu dans la journée — résultat impeccable en une seule visite.",
+    "hero_stats": [
+      {
+        "value": "5/5",
+        "label": "Note Google"
+      },
+      {
+        "value": "35",
+        "label": "Avis clients vérifiés"
+      },
+      {
+        "value": "1 visite",
+        "label": "Pour régler votre problème"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Intervention le jour même",
+        "subtitle": "Vous appelez le matin, Dylan intervient dans la journée."
+      },
+      {
+        "title": "Travail soigné & propre",
+        "subtitle": "Résultat impeccable, en une seule intervention."
+      },
+      {
+        "title": "Artisan fiable et honnête",
+        "subtitle": "5/5 sur 35 avis — zéro insatisfaction."
+      }
+    ],
+    "value_prop": "Cerqueira Plomberie, c'est Dylan : un plombier bordelais reconnu pour sa réactivité immédiate et son sérieux à toute épreuve. Urgence ou travaux planifiés, il intervient le jour même, résout le problème en une seule visite et repart en laissant un chantier propre. Note parfaite de 5/5 sur 35 avis clients.",
+    "services_intro": "Dépannage et travaux de plomberie à Bordeaux et alentours.",
+    "about": "Cerqueira Plomberie est une entreprise artisanale basée dans l'agglomération bordelaise, portée par Dylan, plombier sérieux et réactif. Reconnu par ses clients pour sa disponibilité immédiate et la qualité irréprochable de ses interventions, il est l'artisan que l'on recommande spontanément à son entourage.",
+    "footer_description": "Cerqueira Plomberie — Dylan, plombier à Bordeaux et dans l'agglomération. Réactivité le jour même, travail soigné, note 5/5 sur 35 avis Google. Appelez le matin, problème résolu dans la journée.",
+    "services": [
+      {
+        "title": "Réparation de fuites d'eau",
+        "desc": "Fuite au compteur d'arrivée, canalisation ou robinetterie : Dylan intervient le jour même et règle le problème en une seule visite, sans mauvaise surprise.",
+        "icon": "droplets",
+        "featured": true,
+        "tag": "Urgence",
+        "image": "/images/stock/plombier/services/services-4.webp"
+      },
+      {
+        "title": "Dépannage plomberie urgence",
+        "desc": "Disponible rapidement pour toute urgence plomberie à Bordeaux et dans l'agglomération. Intervention réactive, diagnostic fiable et réparation durable dès le premier passage.",
+        "icon": "zap",
+        "featured": true,
+        "tag": "Intervention rapide",
+        "image": "/images/stock/plombier/services/services-5.webp"
+      },
+      {
+        "title": "Travaux de plomberie générale",
+        "desc": "Pose, remplacement ou rénovation de vos installations. Travail propre, soigné et délais respectés.",
+        "icon": "wrench",
+        "featured": false
+      },
+      {
+        "title": "Compteurs d'eau",
+        "desc": "Installation, remplacement et entretien de compteurs d'arrivée d'eau en toute conformité.",
+        "icon": "search",
+        "featured": false
+      },
+      {
+        "title": "Entretien plomberie",
+        "desc": "Vérification et entretien préventif de vos installations pour éviter les mauvaises surprises.",
+        "icon": "wrench",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Réactivité immédiate",
+        "desc": "Appel le matin → intervention dans la journée, systématiquement."
+      },
+      {
+        "title": "Résolution en 1 visite",
+        "desc": "Problème diagnostiqué et résolu dès le premier passage."
+      },
+      {
+        "title": "Travail impeccable",
+        "desc": "Chantier propre, soigné, résultat durable à chaque fois."
+      },
+      {
+        "title": "Artisan de confiance",
+        "desc": "Fiable, honnête : les clients gardent ses coordonnées et le recommandent."
+      }
+    ],
+    "why_us_badge": {
+      "value": "1h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Bordeaux, Talence, Bègles, Villenave-d'Ornon, Pessac, Mérignac, Le Bouscat, Cenon",
+    "service_area_cities": [
+      "Bordeaux",
+      "Talence",
+      "Bègles",
+      "Villenave-d'Ornon",
+      "Pessac",
+      "Mérignac",
+      "Le Bouscat",
+      "Cenon"
+    ],
+    "service_area_map_cities": [
+      "Bordeaux",
+      "Pessac",
+      "Mérignac",
+      "Talence",
+      "Bègles",
+      "Cenon"
+    ],
+    "service_area_stats": [
+      {
+        "value": "8+",
+        "label": "Communes desservies"
+      },
+      {
+        "value": "5/5",
+        "label": "Note Google"
+      },
+      {
+        "value": "35",
+        "label": "Avis clients vérifiés"
+      }
+    ],
+    "service_area_note": "Déplacement rapide dans toute l'agglomération bordelaise, intervention le jour même pour toute urgence.",
+    "no_reviews_cta": {
+      "eyebrow": "",
+      "title": "",
+      "subtitle": "",
+      "button_text": ""
+    },
+    "reviews_note": "5 / 5 sur Google Maps · 35 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 6 52 57 26 94",
+      "email": "",
+      "hours": ""
+    },
+    "seo_title": "Plombier Bordeaux — Cerqueira Plomberie",
+    "meta_description": "Cerqueira Plomberie à Bordeaux : plombier réactif, intervention le jour même. Fuite, urgence, travaux. Note 5/5 sur 35 avis Google. Appelez Dylan au 06 52 57 26 94."
+  },
+  "reviews": [
+    {
+      "author": "Michel T.",
+      "location": "Bordeaux",
+      "rating": 5,
+      "text": "Plombier très sérieux et très consciencieux. Appelé le matin, intervenu dans la journée pour une fuite à mon compteur d'arrivée d'eau. Réparation faite en 1 seule intervention. Je recommande vivement ce professionnel. Je conserve ses coordonnées et n'hésiterais pas à parler de lui autour de moi."
+    },
+    {
+      "author": "Isabelle R.",
+      "location": "Talence",
+      "rating": 5,
+      "text": "Excellent travail réalisé suite à une fuite au compteur d'arrivée d'eau. Il fallait intervenir rapidement ce qui a été fait par Dylan. Merci à lui pour sa grande réactivité. Je garde ses coordonnées et vous recommande ce plombier."
+    },
+    {
+      "author": "Laurent M.",
+      "location": "Bègles",
+      "rating": 5,
+      "text": "Je recommande vivement cette entreprise de plomberie ! Travail sérieux, propre et soigné. Très réactif et professionnel du début à la fin. Les délais ont été respectés et le résultat est impeccable. C'est agréable de tomber sur des artisans fiables et honnêtes. Merci encore pour votre travail !"
+    }
+  ]
+}
