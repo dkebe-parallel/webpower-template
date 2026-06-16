@@ -1,0 +1,216 @@
+{
+  "business": {
+    "name": "Val Elec",
+    "slug": "val-elec",
+    "city": "Rennes",
+    "country": "France",
+    "phone": "+33 6 03 68 06 55",
+    "address": "6 Rue Renée Prévert, 35000 Rennes",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Val%20Elec&query_place_id=ChIJI2BYGVXhDkgRwfngmizM6D8",
+    "rating": 5,
+    "reviews_count": 42
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-2.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-3.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Devis gratuit"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Électricien réactif à Rennes",
+    "hero_subtitle": "Mise aux normes, rénovation électrique et détection de défauts — devis clairs et respectés.",
+    "hero_stats": [
+      {
+        "value": "5/5",
+        "label": "Note Google"
+      },
+      {
+        "value": "42",
+        "label": "avis clients"
+      },
+      {
+        "value": "8h–20h",
+        "label": "disponible en semaine"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Réactivité imbattable",
+        "subtitle": "Contact facile, intervention rapide à Rennes"
+      },
+      {
+        "title": "Devis clairs et respectés",
+        "subtitle": "Transparence totale, sans mauvaise surprise"
+      },
+      {
+        "title": "Maîtrise technique avancée",
+        "subtitle": "Détecte les défauts que les diagnostics ratent"
+      }
+    ],
+    "value_prop": "Val Elec, c'est Valentin Le Vot, électricien à Rennes reconnu pour sa réactivité et sa rigueur. Spécialisé dans la mise aux normes et la rénovation électrique résidentielle, il détecte les défauts que les diagnostics officiels ne voient pas et vous remet un devis clair, détaillé et toujours respecté.",
+    "services_intro": "Interventions électriques résidentielles à Rennes et ses alentours.",
+    "about": "Val Elec est l'activité de Valentin Le Vot, électricien artisan basé à Rennes. Reconnu par ses clients pour sa réactivité et sa parfaite maîtrise technique, il intervient aussi bien pour des mises aux normes que pour des rénovations complètes. Chaque devis est clair, détaillé et scrupuleusement respecté.",
+    "footer_description": "Val Elec — Électricien artisan à Rennes. Mise aux normes, tableau électrique, rénovation électrique résidentielle. Note Google 5/5 sur 42 avis. Disponible du lundi au vendredi 8h–20h, samedi 8h–12h.",
+    "services": [
+      {
+        "title": "Mise aux normes électriques",
+        "desc": "Prises de terre, tableau électrique, circuits spécialisés : remise en conformité complète de votre installation selon les normes en vigueur.",
+        "icon": "zap",
+        "featured": true,
+        "tag": "Expertise",
+        "image": "/images/stock/plombier/services/services-2.webp"
+      },
+      {
+        "title": "Diagnostic & détection défauts",
+        "desc": "Identification précise des anomalies non détectées par les diagnostics réglementaires, avec conseils clairs sur les corrections à apporter.",
+        "icon": "search",
+        "featured": true,
+        "tag": "Précision",
+        "image": "/images/stock/plombier/services/services-3.webp"
+      },
+      {
+        "title": "Rénovation électrique",
+        "desc": "Installation et refonte complète du réseau électrique pour logements anciens ou en rénovation.",
+        "icon": "wrench",
+        "featured": false
+      },
+      {
+        "title": "Circuits spécialisés cuisine",
+        "desc": "Création de nouveaux circuits dédiés aux équipements électroménagers selon les normes NF C 15-100.",
+        "icon": "zap",
+        "featured": false
+      },
+      {
+        "title": "Conseil technique électrique",
+        "desc": "Accompagnement personnalisé pour optimiser et sécuriser votre installation électrique.",
+        "icon": "search",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Réactivité imbattable",
+        "desc": "Un contact direct avec Valentin, intervention rapide et sans délai inutile."
+      },
+      {
+        "title": "Devis transparents",
+        "desc": "Devis détaillés, clairs et toujours scrupuleusement respectés."
+      },
+      {
+        "title": "Expertise reconnue",
+        "desc": "Détecte les défauts que même les diagnostics officiels ne voient pas."
+      },
+      {
+        "title": "Note parfaite 5/5",
+        "desc": "42 clients satisfaits qui recommandent sans hésiter sur Google."
+      }
+    ],
+    "why_us_badge": {
+      "value": "1h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Rennes, Saint-Grégoire, Cesson-Sévigné, Chantepie, Bruz, Saint-Jacques-de-la-Lande, Vezin-le-Coquet, Pacé, Betton",
+    "service_area_cities": [
+      "Rennes",
+      "Saint-Grégoire",
+      "Cesson-Sévigné",
+      "Chantepie",
+      "Bruz",
+      "Saint-Jacques-de-la-Lande",
+      "Vezin-le-Coquet",
+      "Pacé",
+      "Betton"
+    ],
+    "service_area_map_cities": [
+      "Saint-Grégoire",
+      "Cesson-Sévigné",
+      "Chantepie",
+      "Bruz",
+      "Pacé",
+      "Betton"
+    ],
+    "service_area_stats": [
+      {
+        "value": "9",
+        "label": "communes desservies"
+      },
+      {
+        "value": "5/5",
+        "label": "note Google"
+      },
+      {
+        "value": "42",
+        "label": "avis vérifiés"
+      }
+    ],
+    "service_area_note": "Déplacement rapide sur Rennes et les communes voisines, devis gratuit sans engagement.",
+    "no_reviews_cta": {
+      "eyebrow": "",
+      "title": "",
+      "subtitle": "",
+      "button_text": ""
+    },
+    "reviews_note": "5 / 5 sur Google Maps · 42 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 6 03 68 06 55",
+      "email": "",
+      "hours": "Lun–Ven 8h–20h · Sam 8h–12h"
+    },
+    "seo_title": "Électricien Rennes — Val Elec | Mise aux normes",
+    "meta_description": "Val Elec, électricien à Rennes (35000). Mise aux normes, tableau électrique, rénovation. Note 5/5 sur 42 avis Google. Devis gratuit, disponible 8h–20h."
+  },
+  "reviews": [
+    {
+      "author": "Sophie M.",
+      "location": "Cesson-Sévigné",
+      "rating": 5,
+      "text": "Service impeccable, réactivité imbattable, parfaite maitrise de son sujet, nous recommandons"
+    },
+    {
+      "author": "Thomas B.",
+      "location": "Saint-Grégoire",
+      "rating": 5,
+      "text": "Super travail de la part de Valentin! Contact très facile, un vrai professionnel. Je recommande👍"
+    },
+    {
+      "author": "Claire D.",
+      "location": "Chantepie",
+      "rating": 5,
+      "text": "Nous avons fait appel a ce professionnel pour divers travaux de mise aux normes de notre habitation (prises de terre, tableau électrique, nouveaux circuits spécialisés de la cuisine). Il a ete de tres bon conseil pour nous indiquer des défauts non détectés par le diagnostic électrique, et sur comment les corriger. Mr Le Vot a ete d'une efficacité remarquable malgré les complications posées par l'installation existante. Les devis sont clairs, détaillés et respectés, merci beaucoup, nous recommandons sans hésiter."
+    }
+  ]
+}
