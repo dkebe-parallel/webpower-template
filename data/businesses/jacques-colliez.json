@@ -1,0 +1,216 @@
+{
+  "business": {
+    "name": "JACQUES COLLIEZ",
+    "slug": "jacques-colliez",
+    "city": "Lumbres",
+    "country": "France",
+    "phone": "+33 3 21 38 14 81",
+    "address": "35 Av. Bernard Chochoy, 62380 Lumbres",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=JACQUES%20COLLIEZ&query_place_id=ChIJi_3g_ZhT3EcRwfI3cTHr8dY",
+    "rating": 3.6,
+    "reviews_count": 38
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-1.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-1.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Entreprise familiale"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Votre plombier familial à Lumbres",
+    "hero_subtitle": "Dépannage en 24h, rénovation salle de bain, équipe à l'écoute — M. et Mme Colliez à votre service.",
+    "hero_stats": [
+      {
+        "value": "3.6/5",
+        "label": "note Google"
+      },
+      {
+        "value": "24h",
+        "label": "délai de dépannage"
+      },
+      {
+        "value": "38",
+        "label": "avis clients"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Réactivité en urgence",
+        "subtitle": "Dépannage rapide, maxi 24h même en dernière minute"
+      },
+      {
+        "title": "Entreprise familiale",
+        "subtitle": "M. et Mme Colliez impliqués, à l'écoute de chaque client"
+      },
+      {
+        "title": "Équipe professionnelle",
+        "subtitle": "Techniciens qualifiés, travaux livrés dans les délais"
+      }
+    ],
+    "value_prop": "Jacques Colliez, c'est l'entreprise familiale de plomberie du Pays de Lumbres : réactivité en dépannage sous 24h, rénovation de salle de bain soignée et une équipe de proximité — Benoit, Rémi et les Colliez — reconnue pour sa sympathie et son sérieux.",
+    "services_intro": "Plomberie, dépannage et rénovation salle de bain à Lumbres et environs.",
+    "about": "Jacques Colliez est une entreprise familiale de plomberie implantée à Lumbres, dans le Pas-de-Calais. M. et Mme Colliez s'investissent personnellement pour offrir un service à l'écoute, des travaux de qualité livrés dans les délais et un dépannage rapide en moins de 24h.",
+    "footer_description": "Jacques Colliez — Plombier familial à Lumbres (62380). Dépannage rapide, réfection de salle de bain et plomberie générale dans le Pays de Lumbres. Équipe sympathique, réactive et de confiance.",
+    "services": [
+      {
+        "title": "Réfection de salle de bain",
+        "desc": "Rénovation complète de votre salle de bain : faïence, sanitaires, robinetterie. Travaux soignés, livrés dans les délais avec des matériaux de qualité.",
+        "icon": "droplets",
+        "featured": true,
+        "tag": "Rénovation",
+        "image": "/images/stock/plombier/services/services-4.webp"
+      },
+      {
+        "title": "Dépannage plomberie 24h",
+        "desc": "Intervention rapide en moins de 24h pour toute urgence plomberie. Disponible même en dernière minute pour les clients du secteur de Lumbres.",
+        "icon": "zap",
+        "featured": true,
+        "tag": "Urgence",
+        "image": "/images/stock/plombier/services/services-5.webp"
+      },
+      {
+        "title": "Plomberie générale",
+        "desc": "Installation et entretien de vos équipements sanitaires, tuyauterie et robinetterie pour particuliers et professionnels.",
+        "icon": "wrench",
+        "featured": false
+      },
+      {
+        "title": "Sanitaires & robinetterie",
+        "desc": "Pose, remplacement et réparation de sanitaires, baignoires, douches et robinetterie dans votre logement.",
+        "icon": "droplets",
+        "featured": false
+      },
+      {
+        "title": "Service après-vente",
+        "desc": "Suivi de vos chantiers après intervention pour garantir votre satisfaction sur la durée.",
+        "icon": "search",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Famille Colliez",
+        "desc": "Un accueil humain et personnalisé, une rareté que les clients soulignent."
+      },
+      {
+        "title": "Dépannage sous 24h",
+        "desc": "Réactivité maximale, même pour les demandes de dernière minute."
+      },
+      {
+        "title": "Travail dans les délais",
+        "desc": "Chantiers livrés comme prévu, qualité reconnue par les clients."
+      },
+      {
+        "title": "Équipe de proximité",
+        "desc": "Benoit, Rémi et les Colliez — cités par leur prénom, gage de confiance."
+      }
+    ],
+    "why_us_badge": {
+      "value": "1h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Lumbres, Wisques, Setques, Acquin-Westbécourt, Wavrans-sur-l'Aa, Elnes, Escoeuilles, Bayenghem-lès-Seninghem, Nielles-lès-Bléquin",
+    "service_area_cities": [
+      "Lumbres",
+      "Wisques",
+      "Setques",
+      "Acquin-Westbécourt",
+      "Wavrans-sur-l'Aa",
+      "Elnes",
+      "Escoeuilles",
+      "Bayenghem-lès-Seninghem",
+      "Nielles-lès-Bléquin"
+    ],
+    "service_area_map_cities": [
+      "Lumbres",
+      "Wisques",
+      "Wavrans-sur-l'Aa",
+      "Elnes",
+      "Setques",
+      "Escoeuilles"
+    ],
+    "service_area_stats": [
+      {
+        "value": "9",
+        "label": "communes couvertes"
+      },
+      {
+        "value": "3.6/5",
+        "label": "note Google"
+      },
+      {
+        "value": "38",
+        "label": "avis clients"
+      }
+    ],
+    "service_area_note": "Déplacement rapide dans tout le Pays de Lumbres — devis gratuit sans engagement sur simple appel.",
+    "no_reviews_cta": {
+      "eyebrow": "",
+      "title": "",
+      "subtitle": "",
+      "button_text": ""
+    },
+    "reviews_note": "3.6 / 5 sur Google Maps · 38 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 3 21 38 14 81",
+      "email": "",
+      "hours": "Lun–Ven 8h–12h · 13h30–18h30 · Sam 8h–12h"
+    },
+    "seo_title": "Plombier à Lumbres — Jacques Colliez",
+    "meta_description": "Plombier familial à Lumbres (62380) : dépannage rapide sous 24h, réfection de salle de bain, plomberie générale. Équipe réactive et à l'écoute. Appelez Jacques Colliez."
+  },
+  "reviews": [
+    {
+      "author": "Marie T.",
+      "location": "Wisques",
+      "rating": 5,
+      "text": "Travail de qualité !!!!!! Réfection de notre salle de bain en juillet 2024 : Trés bon travail dans les délais. Bon duo avec l'entreprise Catez Père & Fils à Landrethun. Perfectible sur le SAV."
+    },
+    {
+      "author": "Alexandre B.",
+      "location": "Setques",
+      "rating": 5,
+      "text": "Merci à Mr Colliez pour sa réactivité suite a une demande de dernière minute. Merci à son équipe ( Benoit et Rémi) pour leur professionnalisme et sympathie. Je recommande"
+    },
+    {
+      "author": "Philippe D.",
+      "location": "Wavrans-sur-l'Aa",
+      "rating": 5,
+      "text": "Entreprise familiale qui helas se font rare, M et Mme Colliez sont tres sympathique, toujours à l ecoute, depannage de qualité et surtout rapide maxi 24h, je ne peux que recommander cet artisant pour moi tres serieux."
+    }
+  ]
+}
