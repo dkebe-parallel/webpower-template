@@ -17,7 +17,7 @@
   },
   "badges": {
     "certifications": [],
-    "highlight": "Artisan local"
+    "highlight": "20 ans de fidélité"
   },
   "theme": {
     "palette": {
@@ -49,8 +49,8 @@
     "enabled_blocks": []
   },
   "content": {
-    "hero_title": "Plombier chauffagiste de confiance",
-    "hero_subtitle": "Rénovation salle de bain, plomberie et chauffage à Nantes — un savoir-faire reconnu depuis plus de 20 ans.",
+    "hero_title": "Plombier-chauffagiste de confiance",
+    "hero_subtitle": "Rénovation salle de bain, chauffage et plomberie à Nantes — personnel qualifié, clients fidèles depuis plus de 20 ans.",
     "hero_stats": [
       {
         "value": "4.5/5",
@@ -58,43 +58,43 @@
       },
       {
         "value": "31",
-        "label": "avis clients"
+        "label": "Avis clients"
       },
       {
-        "value": "+20 ans",
-        "label": "de fidélité client"
+        "value": "20 ans",
+        "label": "De fidélité client"
       }
     ],
     "reassurance_items": [
       {
-        "title": "Rénovations soignées",
-        "subtitle": "Salle de bain et installations aux finitions impeccables"
+        "title": "Savoir-faire reconnu",
+        "subtitle": "Rénovations soignées, recommandées par nos clients"
       },
       {
         "title": "Double compétence",
-        "subtitle": "Plomberie et chauffage réunis sous une même enseigne"
+        "subtitle": "Plomberie et chauffage, prise en charge complète"
       },
       {
-        "title": "Clientèle fidèle 20 ans",
-        "subtitle": "Un savoir-faire qui fidélise sur le long terme"
+        "title": "Relation de confiance",
+        "subtitle": "Des clients fidèles depuis plus de 20 ans à Nantes"
       }
     ],
-    "value_prop": "Addor Maxime est un artisan plombier-chauffagiste nantais reconnu pour la qualité de ses rénovations et la fidélité exceptionnelle de sa clientèle. Plomberie générale, salle de bain et chauffage : une double compétence au service des particuliers du secteur de Nantes.",
-    "services_intro": "Plomberie, chauffage et rénovation salle de bain à Nantes.",
-    "about": "Artisan plombier-chauffagiste établi à Nantes, Addor Maxime intervient sur la rénovation de salles de bain, l'installation de chaudières et la plomberie générale. Sa clientèle fidèle depuis plus de 20 ans témoigne de la qualité et du sérieux de ses interventions.",
-    "footer_description": "Addor Maxime, artisan plombier-chauffagiste à Nantes (44000). Rénovation salle de bain, chauffage, plomberie générale. Intervention sur Nantes et communes voisines : Rezé, Saint-Herblain, Orvault et alentours.",
+    "value_prop": "Artisan plombier-chauffagiste établi à Nantes, Addor Maxime intervient en rénovation de salle de bain, installation et entretien de chaudières, et plomberie générale. Une expertise reconnue et une clientèle fidèle depuis plus de vingt ans témoignent d'un savoir-faire solide.",
+    "services_intro": "Plomberie et chauffage à Nantes, du dépannage à la rénovation complète.",
+    "about": "Artisan plombier-chauffagiste implanté au 6 Rue Mirabeau à Nantes, Addor Maxime propose des prestations de plomberie générale et de chauffage pour les particuliers. La qualité de ses réalisations et la fidélité de sa clientèle sur plus de vingt ans témoignent d'un savoir-faire artisanal éprouvé.",
+    "footer_description": "Addor Maxime, artisan plombier-chauffagiste à Nantes (44000). Rénovation salle de bain, installation chaudière, plomberie générale. 6 Rue Mirabeau, Nantes. Note Google 4.5/5.",
     "services": [
       {
         "title": "Rénovation salle de bain",
-        "desc": "Transformation complète de votre salle de bain : carrelage, sanitaires, robinetterie et plomberie — un résultat soigné, reconnu par nos clients.",
+        "desc": "Conception et réalisation complète de votre salle de bain : pose de sanitaires, carrelage, robinetterie et finitions soignées pour un résultat durable.",
         "icon": "droplets",
         "featured": true,
         "tag": "Spécialité",
         "image": "/images/stock/plombier/services/services-7.webp"
       },
       {
-        "title": "Chauffage & chaudières",
-        "desc": "Installation, remplacement et entretien de chaudières pour assurer votre confort thermique tout au long de l'année à Nantes.",
+        "title": "Chaudières & chauffage",
+        "desc": "Installation, remplacement et entretien de chaudières gaz ou fioul. Votre confort thermique assuré par un professionnel qualifié à Nantes.",
         "icon": "flame",
         "featured": true,
         "tag": "Expertise",
@@ -102,19 +102,19 @@
       },
       {
         "title": "Plomberie générale",
-        "desc": "Dépannage, remplacement et installation de tous vos équipements de plomberie dans les règles de l'art.",
+        "desc": "Dépannage, remplacement de canalisations et installation sanitaire pour particuliers à Nantes et environs.",
         "icon": "wrench",
         "featured": false
       },
       {
-        "title": "Installation sanitaires",
-        "desc": "Pose et raccordement de sanitaires neufs : baignoire, douche, lavabo, WC — travail propre et durable.",
+        "title": "Entretien chauffage",
+        "desc": "Révision et maintenance annuelle de vos équipements de chauffage pour optimiser leur durée de vie.",
         "icon": "zap",
         "featured": false
       },
       {
-        "title": "Diagnostic & entretien",
-        "desc": "Contrôle et entretien de vos installations pour prévenir les pannes et garantir leur longévité.",
+        "title": "Diagnostic plomberie",
+        "desc": "Détection de fuites et diagnostic complet de votre installation pour intervenir vite et efficacement.",
         "icon": "search",
         "featured": false
       }
@@ -122,60 +122,60 @@
     "why_us": [
       {
         "title": "Qualité reconnue",
-        "desc": "Des rénovations saluées par les clients pour leur soin et leur finition."
+        "desc": "Rénovations recommandées par les clients dès la première visite."
       },
       {
         "title": "Personnel compétent",
-        "desc": "Un artisan qualifié, plébiscité depuis plus de deux décennies."
+        "desc": "Artisan qualifié, apprécié depuis plus de 20 ans à Nantes."
       },
       {
-        "title": "Plomberie & chauffage",
-        "desc": "Les deux métiers réunis chez un seul artisan de confiance."
+        "title": "Double expertise",
+        "desc": "Plomberie et chauffage traités par un seul professionnel."
       },
       {
-        "title": "Ancrage nantais fort",
-        "desc": "Basé rue Mirabeau, au cœur du tissu local de Nantes."
+        "title": "Ancrage local",
+        "desc": "Basé au cœur de Nantes, disponible pour tout le secteur."
       }
     ],
     "why_us_badge": {
       "value": "2h",
       "label": "délai d'intervention"
     },
-    "service_area": "Nantes, Rezé, Saint-Herblain, Orvault, Bouguenais, Vertou, Couëron, Carquefou, Sainte-Luce-sur-Loire",
+    "service_area": "Nantes, Rezé, Saint-Herblain, Orvault, Vertou, Bouguenais, Couëron, Sainte-Luce-sur-Loire, La Chapelle-sur-Erdre",
     "service_area_cities": [
       "Nantes",
       "Rezé",
       "Saint-Herblain",
       "Orvault",
-      "Bouguenais",
       "Vertou",
+      "Bouguenais",
       "Couëron",
-      "Carquefou",
-      "Sainte-Luce-sur-Loire"
+      "Sainte-Luce-sur-Loire",
+      "La Chapelle-sur-Erdre"
     ],
     "service_area_map_cities": [
-      "Nantes",
-      "Saint-Herblain",
       "Rezé",
+      "Saint-Herblain",
       "Orvault",
       "Vertou",
+      "Bouguenais",
       "Couëron"
     ],
     "service_area_stats": [
       {
         "value": "9",
-        "label": "communes couvertes"
+        "label": "Communes desservies"
       },
       {
         "value": "4.5/5",
-        "label": "note Google"
+        "label": "Note Google"
       },
       {
         "value": "31",
-        "label": "avis clients"
+        "label": "Avis clients"
       }
     ],
-    "service_area_note": "Déplacement rapide sur Nantes et toutes les communes voisines — devis gratuit sans engagement.",
+    "service_area_note": "Déplacement rapide à Nantes et dans toute l'agglomération, devis gratuit sans engagement.",
     "no_reviews_cta": {
       "eyebrow": "",
       "title": "",
@@ -188,10 +188,10 @@
     "contact": {
       "phone": "+33 2 40 30 08 78",
       "email": "",
-      "hours": "Lun–Jeu 09h–13h · 14h–17h · Ven 09h–13h"
+      "hours": "Lun–Jeu 9h–13h · 14h–17h · Ven 9h–13h"
     },
     "seo_title": "Plombier Chauffagiste Nantes — Addor Maxime",
-    "meta_description": "Artisan plombier-chauffagiste à Nantes : rénovation salle de bain, installation chaudière, plomberie générale. Devis gratuit. Note Google 4.5/5."
+    "meta_description": "Artisan plombier-chauffagiste à Nantes (44000) : rénovation salle de bain, chaudières, plomberie générale. Note 4.5/5. Appelez le +33 2 40 30 08 78."
   },
   "reviews": [
     {
@@ -204,7 +204,7 @@
       "author": "Bernard L.",
       "location": "Saint-Herblain",
       "rating": 5,
-      "text": "C'est une très belle entreprise dotée d'un personnel très compétent,( je suis client depuis plus de 20 ans!)  je n'ai hélas aucune nouvelle depuis le 1er septembre , date à laquelle l'entreprise a en principe redémarré suite à la période de congés. Si quelqu'un a des infos , je suis preneur."
+      "text": "C'est une très belle entreprise dotée d'un personnel très compétent,( je suis client depuis plus de 20 ans!)"
     }
   ]
 }
