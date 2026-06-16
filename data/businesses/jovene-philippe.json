@@ -1,0 +1,204 @@
+{
+  "business": {
+    "name": "Jovene Philippe",
+    "slug": "jovene-philippe",
+    "city": "Givry",
+    "country": "France",
+    "phone": "+33 3 85 44 47 51",
+    "address": "14 Bd de Strasbourg, 71640 Givry",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Jovene%20Philippe&query_place_id=ChIJkecW9-D-8kcR8UqpiMGK5_Q",
+    "rating": 5,
+    "reviews_count": 2
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-3.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-5.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Artisan local"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Votre plombier de confiance à Givry",
+    "hero_subtitle": "Note parfaite 5/5 · Qualité humaine reconnue · Intervention locale rapide",
+    "hero_stats": [
+      {
+        "value": "5/5",
+        "label": "Note Google"
+      },
+      {
+        "value": "100%",
+        "label": "Clients satisfaits"
+      },
+      {
+        "value": "2h",
+        "label": "Délai d'intervention"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Satisfaction totale garantie",
+        "subtitle": "5/5 et zéro déception signalée"
+      },
+      {
+        "title": "Qualité humaine avant tout",
+        "subtitle": "Un artisan apprécié pour son sérieux"
+      },
+      {
+        "title": "Ancrage local fort à Givry",
+        "subtitle": "Présent au cœur du bourg, proche de vous"
+      }
+    ],
+    "value_prop": "Jovene Philippe est votre plombier de proximité à Givry, reconnu pour son sérieux, sa qualité humaine et la satisfaction totale de ses clients. Note parfaite de 5/5 sur Google — un gage de confiance concret pour chaque intervention.",
+    "services_intro": "Plomberie générale et dépannage à Givry et alentours.",
+    "about": "Jovene Philippe est un artisan plombier installé à Givry, au cœur de la Saône-et-Loire. Il intervient avec sérieux et bienveillance pour tous vos besoins en plomberie, du dépannage d'urgence à l'entretien courant. Ses clients lui font confiance et le recommandent sans réserve.",
+    "footer_description": "Jovene Philippe, plombier à Givry (71640) — interventions soignées, relation de confiance et satisfaction client au cœur de chaque chantier. Devis gratuit, déplacement local rapide.",
+    "services": [
+      {
+        "title": "Plomberie générale",
+        "desc": "Installation, réparation et entretien de tous vos équipements de plomberie. Un artisan fiable qui intervient avec soin et professionnalisme à Givry et ses environs.",
+        "icon": "droplets",
+        "featured": true,
+        "tag": "Service principal",
+        "image": "/images/stock/plombier/services/services-2.webp"
+      },
+      {
+        "title": "Dépannage plomberie",
+        "desc": "Intervention rapide pour tout dépannage plomberie : fuite, canalisation bouchée, robinetterie défaillante. Réactivité et efficacité au service de votre tranquillité.",
+        "icon": "wrench",
+        "featured": true,
+        "tag": "Urgence",
+        "image": "/images/stock/plombier/services/services-3.webp"
+      },
+      {
+        "title": "Réparation de fuites",
+        "desc": "Détection et réparation de fuites d'eau pour préserver votre logement et éviter les dégâts.",
+        "icon": "search",
+        "featured": false
+      },
+      {
+        "title": "Entretien plomberie",
+        "desc": "Vérification et entretien régulier de vos installations pour garantir leur bon fonctionnement.",
+        "icon": "zap",
+        "featured": false
+      },
+      {
+        "title": "Robinetterie & sanitaires",
+        "desc": "Remplacement et pose de robinets, mitigeurs, sanitaires et équipements de salle de bain.",
+        "icon": "flame",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Note parfaite 5/5",
+        "desc": "Aucune insatisfaction signalée, clients unanimes."
+      },
+      {
+        "title": "Qualité humaine",
+        "desc": "Un artisan apprécié autant pour son savoir-être."
+      },
+      {
+        "title": "Recommandé sans réserve",
+        "desc": "Clients enthousiastes qui conseillent sans hésiter."
+      },
+      {
+        "title": "Proximité locale",
+        "desc": "Basé à Givry, au plus près de vos besoins."
+      }
+    ],
+    "why_us_badge": {
+      "value": "2h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Givry, Chalon-sur-Saône, Mercurey, Mellecey, Jambles, Saint-Désert, Buxy, Dracy-le-Fort, Saint-Rémy",
+    "service_area_cities": [
+      "Givry",
+      "Chalon-sur-Saône",
+      "Mercurey",
+      "Mellecey",
+      "Jambles",
+      "Saint-Désert",
+      "Buxy",
+      "Dracy-le-Fort",
+      "Saint-Rémy"
+    ],
+    "service_area_map_cities": [
+      "Chalon-sur-Saône",
+      "Buxy",
+      "Mercurey",
+      "Saint-Rémy",
+      "Dracy-le-Fort",
+      "Mellecey"
+    ],
+    "service_area_stats": [
+      {
+        "value": "9",
+        "label": "Communes desservies"
+      },
+      {
+        "value": "5/5",
+        "label": "Note Google"
+      },
+      {
+        "value": "2",
+        "label": "Avis clients vérifiés"
+      }
+    ],
+    "service_area_note": "Déplacement rapide sur Givry et tout le secteur de Chalon-sur-Saône — devis gratuit sans engagement.",
+    "no_reviews_cta": {
+      "eyebrow": "",
+      "title": "",
+      "subtitle": "",
+      "button_text": ""
+    },
+    "reviews_note": "5 / 5 sur Google Maps · 2 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 3 85 44 47 51",
+      "email": "",
+      "hours": ""
+    },
+    "seo_title": "Plombier à Givry (71640) — Jovene Philippe",
+    "meta_description": "Jovene Philippe, plombier à Givry (71640). Dépannage et plomberie générale · Note 5/5 sur Google · Intervention rapide sur Givry et Chalon-sur-Saône."
+  },
+  "reviews": [
+    {
+      "author": "Maxime T.",
+      "location": "Givry",
+      "rating": 5,
+      "text": "Je conseil !! pas déçu !! très bonne personne !! Je mais 5/5"
+    }
+  ]
+}
