@@ -1,0 +1,210 @@
+{
+  "business": {
+    "name": "Le Gall",
+    "slug": "le-gall",
+    "city": "Vern-sur-Seiche",
+    "country": "France",
+    "phone": "+33 2 99 41 49 26",
+    "address": "2 Rue du Bois de Soeuvres, 35770 Vern-sur-Seiche",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20Gall&query_place_id=ChIJqWwRJTvfDkgRR7R3r2H4nok",
+    "rating": 5,
+    "reviews_count": 4
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-3.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-4.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Devis gratuit"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Rénovation salle de bain à Vern-sur-Seiche",
+    "hero_subtitle": "Plomberie & électricité, conseils sur mesure et finitions soignées — note 5/5 Google.",
+    "hero_stats": [
+      {
+        "value": "5/5",
+        "label": "Note Google"
+      },
+      {
+        "value": "100%",
+        "label": "Clients satisfaits"
+      },
+      {
+        "value": "2",
+        "label": "Compétences : plomberie & électricité"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Sérieux & réactivité",
+        "subtitle": "Intervenant rapide, ponctuel et organisé"
+      },
+      {
+        "title": "Conseils personnalisés",
+        "subtitle": "Aide au choix des matériaux adaptés à vos besoins"
+      },
+      {
+        "title": "Finitions impeccables",
+        "subtitle": "Qualité de réalisation saluée par tous les clients"
+      }
+    ],
+    "value_prop": "L'entreprise Le Gall intervient à Vern-sur-Seiche pour vos rénovations de salle de bain et travaux électriques. Sérieuse, réactive et professionnelle, elle vous accompagne du choix des matériaux jusqu'aux finitions, pour un résultat à la hauteur de vos attentes.",
+    "services_intro": "Plomberie, rénovation salle de bain et électricité : tout en un.",
+    "about": "L'entreprise Le Gall est un artisan polyvalent basé à Vern-sur-Seiche, reconnu pour son sérieux et la qualité de ses réalisations. Spécialisée dans la rénovation de salle de bain et les travaux électriques, elle accompagne ses clients avec des conseils personnalisés à chaque étape du projet.",
+    "footer_description": "Entreprise Le Gall — artisan plombier et électricien à Vern-sur-Seiche. Rénovation salle de bain, tableau électrique et plomberie générale. Conseil, sérieux et finitions soignées pour tous vos travaux.",
+    "services": [
+      {
+        "title": "Rénovation de salle de bain",
+        "desc": "Transformation complète de votre salle de bain avec conseils personnalisés sur les matériaux et finitions de qualité pour un résultat durable.",
+        "icon": "droplets",
+        "featured": true,
+        "tag": "Notre spécialité",
+        "image": "/images/stock/plombier/services/services-7.webp"
+      },
+      {
+        "title": "Tableau électrique",
+        "desc": "Installation et rénovation de tableau électrique réalisées dans les règles de l'art, pour la sécurité et la conformité de votre installation.",
+        "icon": "zap",
+        "featured": true,
+        "tag": "Sécurité & conformité",
+        "image": "/images/stock/plombier/services/services-8.webp"
+      },
+      {
+        "title": "Plomberie générale",
+        "desc": "Intervention sur toutes vos installations de plomberie : remplacement, réparation ou mise aux normes.",
+        "icon": "wrench",
+        "featured": false
+      },
+      {
+        "title": "Conseil en matériaux",
+        "desc": "Accompagnement dans le choix des matériaux adaptés à votre projet et à votre budget.",
+        "icon": "search",
+        "featured": false
+      },
+      {
+        "title": "Rénovation intérieure",
+        "desc": "Prise en charge globale de vos travaux de rénovation, du diagnostic à la livraison finale.",
+        "icon": "flame",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Entreprise réactive",
+        "desc": "Intervention rapide et planifiée selon vos disponibilités"
+      },
+      {
+        "title": "Conseil expert",
+        "desc": "Accompagnement personnalisé du choix des matériaux"
+      },
+      {
+        "title": "Note parfaite 5/5",
+        "desc": "100 % de clients satisfaits sur Google Maps"
+      },
+      {
+        "title": "Double compétence",
+        "desc": "Plomberie et électricité gérées par un seul artisan"
+      }
+    ],
+    "why_us_badge": {
+      "value": "2h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Vern-sur-Seiche, Chantepie, Noyal-Châtillon-sur-Seiche, Châtillon-sur-Seiche, Corps-Nuds, Orgères, Saint-Erblon, Rennes, Pont-Péan",
+    "service_area_cities": [
+      "Vern-sur-Seiche",
+      "Chantepie",
+      "Noyal-Châtillon-sur-Seiche",
+      "Châtillon-sur-Seiche",
+      "Corps-Nuds",
+      "Orgères",
+      "Saint-Erblon",
+      "Rennes",
+      "Pont-Péan"
+    ],
+    "service_area_map_cities": [
+      "Rennes",
+      "Chantepie",
+      "Saint-Erblon",
+      "Corps-Nuds",
+      "Orgères",
+      "Pont-Péan"
+    ],
+    "service_area_stats": [
+      {
+        "value": "9",
+        "label": "communes desservies"
+      },
+      {
+        "value": "5/5",
+        "label": "note Google"
+      },
+      {
+        "value": "4",
+        "label": "avis clients vérifiés"
+      }
+    ],
+    "service_area_note": "Déplacement rapide autour de Vern-sur-Seiche et dans tout le secteur sud-est de Rennes, devis gratuit.",
+    "no_reviews_cta": {
+      "eyebrow": "",
+      "title": "",
+      "subtitle": "",
+      "button_text": ""
+    },
+    "reviews_note": "5 / 5 sur Google Maps · 4 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 2 99 41 49 26",
+      "email": "",
+      "hours": "Lun–Ven 8h–12h · 13h30–18h"
+    },
+    "seo_title": "Plombier & rénovation salle de bain à Vern-sur-Seiche",
+    "meta_description": "Entreprise Le Gall à Vern-sur-Seiche : rénovation salle de bain, tableau électrique et plomberie. Artisan sérieux, réactif, note 5/5 Google. Devis gratuit."
+  },
+  "reviews": [
+    {
+      "author": "Nicolas B.",
+      "location": "Vern-sur-Seiche",
+      "rating": 5,
+      "text": "Entreprise sérieuse, réactive et professionnelle intervenue chez moi dans le cadre de la rénovation de ma salle de bain et de mon tableau électrique. Je recommande fortement."
+    },
+    {
+      "author": "Marie-Claire D.",
+      "location": "Chantepie",
+      "rating": 5,
+      "text": "L'entreprise Le Gall est intervenue pour refaire ma salle de bain. Je suis très satisfaite par la réalisation et les conseils qui m'ont aidé à choisir les matériaux."
+    }
+  ]
+}
