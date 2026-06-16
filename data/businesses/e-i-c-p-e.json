@@ -1,0 +1,197 @@
+{
+  "business": {
+    "name": "E . I . C . P . E .",
+    "slug": "e-i-c-p-e",
+    "city": "Tarbes",
+    "country": "France",
+    "phone": "+33 6 58 12 08 49",
+    "address": "28 Rue Claude Bernard, 65000 Tarbes",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=E%20.%20I%20.%20C%20.%20P%20.%20E%20.&query_place_id=ChIJfU0PlBXVqRIRuIT22ffgYLs",
+    "rating": 5,
+    "reviews_count": 2
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-3.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-2.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Devis gratuit"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Votre plombier 5 étoiles à Tarbes",
+    "hero_subtitle": "Plomberie et dépannage sanitaire · Noté 5/5 · Disponible 6 jours sur 7 de 9h à 19h",
+    "hero_stats": [
+      {
+        "value": "5/5",
+        "label": "Note Google"
+      },
+      {
+        "value": "6j/7",
+        "label": "Disponibilité"
+      },
+      {
+        "value": "9h–19h",
+        "label": "Horaires d'ouverture"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Satisfaction client irréprochable",
+        "subtitle": "Note parfaite de 5/5, chaque intervention réussie"
+      },
+      {
+        "title": "Disponible 6 jours sur 7",
+        "subtitle": "De 9h à 19h, du lundi au samedi"
+      },
+      {
+        "title": "Artisan de proximité à Tarbes",
+        "subtitle": "Basé en centre-ville, intervention rapide"
+      }
+    ],
+    "value_prop": "E.I.C.P.E. est votre artisan plombier de confiance à Tarbes. Noté 5/5 sur Google, l'entreprise intervient pour tous vos travaux de plomberie, dépannage et installation sanitaire, 6 jours sur 7 de 9h à 19h, avec réactivité et sérieux.",
+    "services_intro": "Plomberie générale, dépannage et installation sanitaire à Tarbes.",
+    "about": "E.I.C.P.E. est une entreprise de plomberie implantée au cœur de Tarbes, au 28 Rue Claude Bernard. Reconnue pour la qualité de ses interventions et sa disponibilité étendue, elle assure plomberie générale, dépannage et travaux sanitaires. Son engagement de sérieux et de proximité lui vaut une note parfaite de 5/5 sur Google.",
+    "footer_description": "E.I.C.P.E. — Plombier à Tarbes (65000). Plomberie générale, dépannage et installation sanitaire. Disponible 6j/7 de 9h à 19h. Artisan local noté 5/5 sur Google. 28 Rue Claude Bernard, Tarbes.",
+    "services": [
+      {
+        "title": "Plomberie générale",
+        "desc": "Réalisation de tous vos travaux de plomberie : pose, remplacement et entretien des canalisations et équipements de votre logement.",
+        "icon": "droplets",
+        "featured": true,
+        "tag": "Service principal",
+        "image": "/images/stock/plombier/services/services-3.webp"
+      },
+      {
+        "title": "Dépannage plomberie",
+        "desc": "Intervention rapide pour tout dépannage : fuite, canalisation bouchée, pression d'eau ou problème urgent dans votre habitation.",
+        "icon": "wrench",
+        "featured": true,
+        "tag": "Intervention rapide",
+        "image": "/images/stock/plombier/services/services-4.webp"
+      },
+      {
+        "title": "Installation sanitaire",
+        "desc": "Pose et raccordement de vos équipements sanitaires : lavabo, baignoire, douche, WC et robinetterie.",
+        "icon": "zap",
+        "featured": false
+      },
+      {
+        "title": "Réparation sanitaire",
+        "desc": "Diagnostic et réparation de vos équipements sanitaires défaillants, avec des pièces de qualité.",
+        "icon": "search",
+        "featured": false
+      },
+      {
+        "title": "Entretien plomberie",
+        "desc": "Vérification et entretien préventif de vos installations pour éviter pannes et dégâts des eaux.",
+        "icon": "flame",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Note Google 5/5",
+        "desc": "Satisfaction client totale attestée par chaque avis Google reçu."
+      },
+      {
+        "title": "Ouvert 6 jours sur 7",
+        "desc": "Disponible du lundi au samedi, de 9h à 19h sans interruption."
+      },
+      {
+        "title": "Artisan local Tarbes",
+        "desc": "Basé en centre-ville, proximité garantie pour une intervention rapide."
+      },
+      {
+        "title": "Devis gratuit",
+        "desc": "Estimation claire et sans engagement avant chaque intervention."
+      }
+    ],
+    "why_us_badge": {
+      "value": "2h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Tarbes, Lourdes, Aureilhan, Séméac, Bordères-sur-l'Échez, Ibos, Soues, Odos, Barbazan-Debat",
+    "service_area_cities": [
+      "Tarbes",
+      "Lourdes",
+      "Aureilhan",
+      "Séméac",
+      "Bordères-sur-l'Échez",
+      "Ibos",
+      "Soues",
+      "Odos",
+      "Barbazan-Debat"
+    ],
+    "service_area_map_cities": [
+      "Tarbes",
+      "Lourdes",
+      "Aureilhan",
+      "Séméac",
+      "Ibos",
+      "Soues"
+    ],
+    "service_area_stats": [
+      {
+        "value": "9",
+        "label": "communes desservies"
+      },
+      {
+        "value": "5/5",
+        "label": "note Google"
+      },
+      {
+        "value": "2",
+        "label": "avis clients vérifiés"
+      }
+    ],
+    "service_area_note": "Déplacement rapide sur Tarbes et ses environs, devis gratuit sans engagement pour toute intervention.",
+    "no_reviews_cta": {
+      "eyebrow": "CONFIANCE",
+      "title": "Un artisan fiable au cœur de Tarbes",
+      "subtitle": "Noté 5/5 sur Google, disponible 6 jours sur 7 de 9h à 19h pour tous vos besoins en plomberie et dépannage sanitaire.",
+      "button_text": "Demander un devis gratuit"
+    },
+    "reviews_note": "5 / 5 sur Google Maps · 2 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 6 58 12 08 49",
+      "email": "",
+      "hours": "Lun–Sam 9h–19h"
+    },
+    "seo_title": "Plombier Tarbes 65000 — E.I.C.P.E. · Noté 5/5",
+    "meta_description": "E.I.C.P.E., plombier à Tarbes (65000). Plomberie générale, dépannage et installation sanitaire. Disponible 6j/7 de 9h à 19h. Noté 5/5 sur Google."
+  },
+  "reviews": []
+}
