@@ -1,0 +1,215 @@
+{
+  "business": {
+    "name": "Antonin martin sas",
+    "slug": "antonin-martin-sas",
+    "city": "Ussel",
+    "country": "France",
+    "phone": "+33 9 50 11 65 52",
+    "address": "48 Av. Carnot, 19200 Ussel",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Antonin%20martin%20sas&query_place_id=ChIJSbX2WVkz-EcRJGMJNCdzuCM",
+    "rating": 4.6,
+    "reviews_count": 25
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-3.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-3.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Matériel de qualité"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Chauffage & poêles à bois à Ussel",
+    "hero_subtitle": "Installation soignée, chantier propre et accompagnement administratif complet en Haute-Corrèze.",
+    "hero_stats": [
+      {
+        "value": "4.6/5",
+        "label": "Note Google"
+      },
+      {
+        "value": "25",
+        "label": "Avis clients"
+      },
+      {
+        "value": "100%",
+        "label": "Chantiers propres"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Installations soignées",
+        "subtitle": "Propreté irréprochable sur chaque chantier"
+      },
+      {
+        "title": "Projets complexes réalisés",
+        "subtitle": "Nous concrétisons les projets les plus exigeants"
+      },
+      {
+        "title": "Suivi administratif dédié",
+        "subtitle": "Une référente pour vos dossiers et aides"
+      }
+    ],
+    "value_prop": "Artisan plombier-chauffagiste à Ussel, Antonin Martin SAS installe vos poêles à bois et systèmes de chauffage avec soin et ponctualité. Notre équipe vous accompagne de A à Z, y compris dans toutes vos démarches administratives.",
+    "services_intro": "Installation, dépose et accompagnement pour tous vos projets chauffage.",
+    "about": "Antonin Martin SAS est un artisan plombier-chauffagiste établi au 48 avenue Carnot à Ussel, en Haute-Corrèze. Reconnu pour la qualité de ses installations et la propreté de ses chantiers, il accompagne ses clients de la conception du projet jusqu'aux démarches administratives.",
+    "footer_description": "Antonin Martin SAS — Plombier-chauffagiste à Ussel (19200). Installation de poêles à bois, chauffage et plomberie en Haute-Corrèze. Chantiers soignés, accompagnement administratif, matériel de qualité.",
+    "services": [
+      {
+        "title": "Poêles à bois & bouilleurs",
+        "desc": "Installation complète de poêles à bois, y compris les modèles techniques à bouilleur pour chauffer eau et radiateurs. Matériel de qualité, pose soignée.",
+        "icon": "flame",
+        "featured": true,
+        "tag": "Spécialité",
+        "image": "/images/stock/plombier/services/services-6.webp"
+      },
+      {
+        "title": "Plomberie & chauffage",
+        "desc": "Travaux de plomberie et de chauffage pour votre habitat. Interventions propres et ponctuelles, avec un accompagnement personnalisé tout au long du chantier.",
+        "icon": "droplets",
+        "featured": true,
+        "tag": "Expertise locale",
+        "image": "/images/stock/plombier/services/services-7.webp"
+      },
+      {
+        "title": "Dépose anciens équipements",
+        "desc": "Enlèvement et dépose de vos anciennes cuisinières ou appareils de chauffage dans le respect des règles de sécurité.",
+        "icon": "wrench",
+        "featured": false
+      },
+      {
+        "title": "Accompagnement administratif",
+        "desc": "Aide à la constitution de vos dossiers d'aides et démarches liées à vos travaux de chauffage.",
+        "icon": "search",
+        "featured": false
+      },
+      {
+        "title": "Conseil & étude de projet",
+        "desc": "Écoute de vos besoins et proposition de solutions adaptées, même pour les projets les plus complexes.",
+        "icon": "zap",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Chantiers toujours propres",
+        "desc": "Propreté irréprochable à chaque intervention, saluée par nos clients"
+      },
+      {
+        "title": "Ponctualité garantie",
+        "desc": "Respect des horaires et des engagements pris envers vous"
+      },
+      {
+        "title": "Projets complexes bienvenus",
+        "desc": "Nous donnons vie à vos projets même les plus ambitieux"
+      },
+      {
+        "title": "Accompagnement dédié",
+        "desc": "Une référente administrative pour vos dossiers et aides"
+      }
+    ],
+    "why_us_badge": {
+      "value": "2h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Ussel, Meymac, Égletons, Bort-les-Orgues, Neuvic, Bugeat, Mauriac, Felletin, Lapleau",
+    "service_area_cities": [
+      "Ussel",
+      "Meymac",
+      "Égletons",
+      "Bort-les-Orgues",
+      "Neuvic",
+      "Bugeat",
+      "Mauriac",
+      "Felletin",
+      "Lapleau"
+    ],
+    "service_area_map_cities": [
+      "Meymac",
+      "Égletons",
+      "Bort-les-Orgues",
+      "Neuvic",
+      "Mauriac"
+    ],
+    "service_area_stats": [
+      {
+        "value": "9",
+        "label": "communes desservies"
+      },
+      {
+        "value": "4.6/5",
+        "label": "Note Google"
+      },
+      {
+        "value": "25",
+        "label": "avis clients"
+      }
+    ],
+    "service_area_note": "Déplacement rapide sur Ussel et toute la Haute-Corrèze, devis gratuit sans engagement.",
+    "no_reviews_cta": {
+      "eyebrow": "",
+      "title": "",
+      "subtitle": "",
+      "button_text": ""
+    },
+    "reviews_note": "4.6 / 5 sur Google Maps · 25 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 9 50 11 65 52",
+      "email": "",
+      "hours": "Lun–Ven 9h–12h · 14h–18h"
+    },
+    "seo_title": "Plombier chauffagiste à Ussel — Antonin Martin SAS",
+    "meta_description": "Antonin Martin SAS, plombier-chauffagiste à Ussel (19200). Installation poêles à bois, chauffage, accompagnement administratif. Note 4.6/5 sur Google."
+  },
+  "reviews": [
+    {
+      "author": "Sophie L.",
+      "location": "Meymac",
+      "rating": 5,
+      "text": "Super artisan, à l'écoute et très pro ! Mention spéciale pour Fanny aussi qui a été d'une aide incroyable pour tout l'administratif !!"
+    },
+    {
+      "author": "Bernard C.",
+      "location": "Égletons",
+      "rating": 5,
+      "text": "Installation d'un poêle à bois avec bouilleur il y a un an : ponctualité, enlèvement de l'ancienne cuisinière, propreté de tout le chantier... et ça marche parfaitement. Merci"
+    },
+    {
+      "author": "Marie-Hélène D.",
+      "location": "Neuvic",
+      "rating": 5,
+      "text": "Un très bon artisan. Nous a permis de donner vie à notre projet ce qui n'était pas gagné d'avance. Installation soignée et propre. Le matériel est également de qualité. Nous en sommes très satisfait. Nous recommandons vivement."
+    }
+  ]
+}
