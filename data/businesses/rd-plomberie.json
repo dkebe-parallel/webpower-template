@@ -1,0 +1,209 @@
+{
+  "business": {
+    "name": "RD PLOMBERIE",
+    "slug": "rd-plomberie",
+    "city": "Rennes",
+    "country": "France",
+    "phone": "+33 6 82 13 08 77",
+    "address": "Secteur Rennes, Ille-et-Vilaine",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=RD%20PLOMBERIE&query_place_id=ChIJuYmSkbnnDkgRcyvFNNZRuKg",
+    "rating": 5,
+    "reviews_count": 24
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-1.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-2.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Travail soigné"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Plombier de confiance à Rennes",
+    "hero_subtitle": "Travail soigné, intervention rapide — 5/5 sur 24 avis clients en Ille-et-Vilaine.",
+    "hero_stats": [
+      {
+        "value": "5/5",
+        "label": "Note Google"
+      },
+      {
+        "value": "24",
+        "label": "Avis clients"
+      },
+      {
+        "value": "100%",
+        "label": "Satisfaction"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Travail soigné et irréprochable",
+        "subtitle": "Chaque intervention réalisée avec soin et précision"
+      },
+      {
+        "title": "Réactivité prouvée",
+        "subtitle": "Professionnel réactif, disponible pour intervenir vite"
+      },
+      {
+        "title": "Clients fidèles et satisfaits",
+        "subtitle": "Entière satisfaction à chaque intervention répétée"
+      }
+    ],
+    "value_prop": "RD Plomberie intervient en Ille-et-Vilaine avec rigueur et réactivité. Plomberie générale, rénovation, VMC ou dégâts des eaux : chaque chantier est traité avec soin, que ce soit pour une urgence ou des travaux planifiés. Une note parfaite de 5/5 qui parle d'elle-même.",
+    "services_intro": "Plomberie, rénovation, VMC et dégâts des eaux en Ille-et-Vilaine.",
+    "about": "RD Plomberie est un artisan plombier reconnu en Ille-et-Vilaine, apprécié pour la qualité soignée de ses interventions et sa réactivité. Qu'il s'agisse d'une réparation urgente ou d'un chantier de rénovation, RD Plomberie intervient en binôme pour garantir rapidité et efficacité. Une entreprise de proximité qui fidélise ses clients grâce à un travail toujours parfait.",
+    "footer_description": "RD Plomberie — artisan plombier en Ille-et-Vilaine. Interventions soignées en plomberie générale, rénovation, VMC et dégâts des eaux. Note Google 5/5 sur 24 avis. Appelez le +33 6 82 13 08 77.",
+    "services": [
+      {
+        "title": "Plomberie générale",
+        "desc": "Réparations, fuites, remplacement de robinetterie, canalisations : chaque intervention est réalisée avec soin pour un résultat durable et irréprochable.",
+        "icon": "droplets",
+        "featured": true,
+        "tag": "Service principal",
+        "image": "/images/stock/plombier/services/services-7.webp"
+      },
+      {
+        "title": "Rénovation plomberie",
+        "desc": "Mise aux normes, remplacement de tuyauteries, rénovation complète de salle de bain ou cuisine. Un travail soigné et adapté à chaque projet.",
+        "icon": "wrench",
+        "featured": true,
+        "tag": "Travaux",
+        "image": "/images/stock/plombier/services/services-8.webp"
+      },
+      {
+        "title": "Installation et entretien VMC",
+        "desc": "Pose, remplacement et entretien de VMC pour une ventilation saine et conforme aux normes en vigueur.",
+        "icon": "wind",
+        "featured": false
+      },
+      {
+        "title": "Gestion dégâts des eaux",
+        "desc": "Intervention rapide pour stopper les dégâts, diagnostiquer l'origine et remettre en état vos installations.",
+        "icon": "zap",
+        "featured": false
+      },
+      {
+        "title": "Travaux de chantier",
+        "desc": "Accompagnement plomberie sur chantiers neufs ou rénovation, en binôme pour plus d'efficacité.",
+        "icon": "search",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Travail soigné",
+        "desc": "Un résultat parfait et durable à chaque intervention sans exception."
+      },
+      {
+        "title": "Réactivité garantie",
+        "desc": "Intervention rapide pour limiter les délais et les désagréments."
+      },
+      {
+        "title": "Note parfaite 5/5",
+        "desc": "24 avis clients unanimes, gage d'une qualité constante et fiable."
+      },
+      {
+        "title": "Clients fidélisés",
+        "desc": "Des clients qui font appel à RD Plomberie encore et encore."
+      }
+    ],
+    "why_us_badge": {
+      "value": "2h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Rennes, Cesson-Sévigné, Saint-Jacques-de-la-Lande, Chantepie, Bruz, Vezin-le-Coquet, Pacé, Saint-Grégoire",
+    "service_area_cities": [
+      "Rennes",
+      "Cesson-Sévigné",
+      "Saint-Jacques-de-la-Lande",
+      "Chantepie",
+      "Bruz",
+      "Vezin-le-Coquet",
+      "Pacé",
+      "Saint-Grégoire"
+    ],
+    "service_area_map_cities": [
+      "Rennes",
+      "Cesson-Sévigné",
+      "Bruz",
+      "Pacé",
+      "Saint-Grégoire",
+      "Chantepie"
+    ],
+    "service_area_stats": [
+      {
+        "value": "8+",
+        "label": "communes desservies"
+      },
+      {
+        "value": "5/5",
+        "label": "note Google"
+      },
+      {
+        "value": "24",
+        "label": "avis vérifiés"
+      }
+    ],
+    "service_area_note": "Déplacement rapide sur Rennes et toute l'Ille-et-Vilaine, devis gratuit sans engagement.",
+    "no_reviews_cta": {
+      "eyebrow": "",
+      "title": "",
+      "subtitle": "",
+      "button_text": ""
+    },
+    "reviews_note": "5 / 5 sur Google Maps · 24 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 6 82 13 08 77",
+      "email": "",
+      "hours": ""
+    },
+    "seo_title": "Plombier Rennes — RD Plomberie, note 5/5",
+    "meta_description": "RD Plomberie, votre plombier artisan à Rennes et en Ille-et-Vilaine. Travail soigné, réactivité, note Google 5/5 sur 24 avis. Appelez le +33 6 82 13 08 77."
+  },
+  "reviews": [
+    {
+      "author": "Michel D.",
+      "location": "Cesson-Sévigné",
+      "rating": 5,
+      "text": "Plombier et son collegue font un travail soigne et parfait en tous sens plusieurs interventions à la maison . Chaque fois entiere satisfaction.  A recommander ++++"
+    },
+    {
+      "author": "Sandra P.",
+      "location": "Saint-Grégoire",
+      "rating": 5,
+      "text": "Professionnel et réactif je recommande RD plomberie pour tout vos travaux"
+    }
+  ]
+}
