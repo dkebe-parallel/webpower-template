@@ -50,71 +50,71 @@
   },
   "content": {
     "hero_title": "Chauffagiste honnête à Mérignac",
-    "hero_subtitle": "Devis jusqu'à 5× moins cher que la concurrence · Intervention le jour même · Note 4.9/5",
+    "hero_subtitle": "Dépannage rapide, devis transparent — un artisan qui ne compte pas ses heures pour vous.",
     "hero_stats": [
       {
         "value": "4.9/5",
-        "label": "Note Google vérifiée"
+        "label": "Note Google"
       },
       {
-        "value": "5×",
-        "label": "Moins cher que la concurrence"
+        "value": "÷5",
+        "label": "sur les devis vs concurrents"
       },
       {
-        "value": "J+0",
-        "label": "Intervention le jour même"
+        "value": "1j",
+        "label": "intervention complète"
       }
     ],
     "reassurance_items": [
       {
-        "title": "Transparence totale sur les prix",
-        "subtitle": "Devis honnête, sans surprise ni gonflement"
+        "title": "Tarification juste et honnête",
+        "subtitle": "Des devis transparents, sans surprise ni gonflement."
       },
       {
-        "title": "Réactivité immédiate",
-        "subtitle": "Panne diagnostiquée et réparée dans l'après-midi"
+        "title": "Intervention le jour même",
+        "subtitle": "Diagnostic, pièce et réparation en une seule visite."
       },
       {
-        "title": "Artisan impliqué et fiable",
-        "subtitle": "Franck Gonzalez ne compte pas ses heures"
+        "title": "Artisan de confiance reconnu",
+        "subtitle": "Note 4.9/5 et clients fidèles sur Mérignac."
       }
     ],
-    "value_prop": "Chez ECOTHERM'A, Franck Gonzalez intervient à Mérignac et ses alentours pour réparer, entretenir et installer vos systèmes de chauffage. Honnêteté sur les devis et réactivité sans faille : un artisan de confiance, reconnu 4.9/5 par ses clients.",
-    "services_intro": "Dépannage, entretien et installation de chauffage à Mérignac.",
-    "about": "ECOTHERM'A, c'est Franck Gonzalez, chauffagiste-plombier basé à Mérignac, reconnu pour son honnêteté exemplaire et sa réactivité à toute épreuve. Il intervient le jour même pour diagnostiquer et réparer vos pannes, avec un devis transparent et sans mauvaises surprises.",
-    "footer_description": "ECOTHERM'A — Chauffagiste et plombier à Mérignac (33700). Dépannage, entretien et installation de chaudières. Intervention rapide, devis honnête. Franck Gonzalez à votre service.",
+    "value_prop": "Chez ECOTHERM'A, Franck Gonzalez intervient rapidement pour vos pannes de chauffage avec une honnêteté rare : devis juste, prix transparent et travail soigné. Un chauffagiste à qui l'on peut faire confiance les yeux fermés, près de Bordeaux.",
+    "services_intro": "Chauffage, chaudières et plomberie à Mérignac et alentours.",
+    "about": "ECOTHERM'A, c'est Franck Gonzalez, chauffagiste-plombier artisan basé à Mérignac. Reconnu pour son honnêteté tarifaire et sa réactivité, il intervient rapidement pour diagnostiquer et réparer vos installations. Passionné par son métier, il prend le temps d'expliquer chaque intervention à ses clients.",
+    "footer_description": "ECOTHERM'A — Franck Gonzalez, chauffagiste-plombier à Mérignac. Dépannage rapide, entretien et installation de chaudières. Devis gratuit, tarifs honnêtes. Intervention sur Mérignac, Bordeaux et le secteur.",
     "services": [
       {
-        "title": "Dépannage de chaudières",
-        "desc": "Intervention le jour même pour diagnostiquer et réparer votre chaudière en panne. Franck se déplace avec les pièces nécessaires pour une réparation en une seule visite.",
+        "title": "Dépannage chaudière",
+        "desc": "Intervention rapide pour toutes pannes de chaudière. Diagnostic précis, recherche de pièce et réparation effectués dans la même demi-journée.",
         "icon": "flame",
         "featured": true,
-        "tag": "Urgence & réactivité",
+        "tag": "Urgence",
         "image": "/images/stock/plombier/services/services-7.webp"
       },
       {
-        "title": "Entretien & diagnostic chauffage",
-        "desc": "Révision complète de votre système de chauffage, détection des anomalies et conseils personnalisés pour optimiser vos installations et prévenir les pannes.",
+        "title": "Entretien & diagnostic",
+        "desc": "Entretien préventif et diagnostic complet de vos systèmes de chauffage pour garantir performance, sécurité et économies d'énergie durables.",
         "icon": "search",
         "featured": true,
-        "tag": "Prévention & sécurité",
+        "tag": "Prévention",
         "image": "/images/stock/plombier/services/services-8.webp"
       },
       {
-        "title": "Installation de pièces chauffage",
-        "desc": "Remplacement et installation de pièces défectueuses, avec fourniture du matériel adapté à votre système.",
+        "title": "Installation chaudière",
+        "desc": "Remplacement et installation de chaudières neuves, conseils personnalisés pour choisir la solution adaptée à votre logement.",
         "icon": "wrench",
         "featured": false
       },
       {
         "title": "Plomberie générale",
-        "desc": "Interventions de plomberie courante : robinetterie, canalisations, raccordements et réparations diverses.",
+        "desc": "Interventions de plomberie courantes : fuites, robinetterie, canalisations. Travail soigné et tarif transparent.",
         "icon": "droplets",
         "featured": false
       },
       {
-        "title": "Conseil & devis gratuit",
-        "desc": "Audit de votre installation, devis détaillé et transparent, sans engagement ni frais cachés.",
+        "title": "Conseil & devis chauffage",
+        "desc": "Audit de votre installation, conseils techniques clairs et devis gratuit sans engagement pour vos projets.",
         "icon": "zap",
         "featured": false
       }
@@ -122,26 +122,26 @@
     "why_us": [
       {
         "title": "Honnêteté sur les prix",
-        "desc": "Devis jusqu'à 5× moins cher qu'un concurrent, attesté par les clients"
+        "desc": "Des devis justes, vérifiables — jusqu'à 5× moins chers que la concurrence."
       },
       {
-        "title": "Intervention le jour même",
-        "desc": "Panne résolue dans l'après-midi, pièce incluse"
-      },
-      {
-        "title": "Engagement total",
-        "desc": "Franck ne compte pas ses heures pour satisfaire chaque client"
+        "title": "Réactivité immédiate",
+        "desc": "Prise en charge rapide et intervention complète en une seule demi-journée."
       },
       {
         "title": "Expertise reconnue",
-        "desc": "Note 4.9/5 · Artisan nommé et recommandé personnellement"
+        "desc": "Artisan passionné, à qui les clients font confiance les yeux fermés."
+      },
+      {
+        "title": "Service tout-en-un",
+        "desc": "Diagnostic, pièce et réparation en un seul déplacement, sans retour."
       }
     ],
     "why_us_badge": {
       "value": "1h",
       "label": "délai d'intervention"
     },
-    "service_area": "Mérignac, Bordeaux, Pessac, Le Haillan, Eysines, Le Bouscat, Saint-Médard-en-Jalles, Talence, Blanquefort",
+    "service_area": "Mérignac, Bordeaux, Pessac, Le Haillan, Eysines, Le Bouscat, Talence, Saint-Médard-en-Jalles, Gradignan",
     "service_area_cities": [
       "Mérignac",
       "Bordeaux",
@@ -149,33 +149,33 @@
       "Le Haillan",
       "Eysines",
       "Le Bouscat",
-      "Saint-Médard-en-Jalles",
       "Talence",
-      "Blanquefort"
+      "Saint-Médard-en-Jalles",
+      "Gradignan"
     ],
     "service_area_map_cities": [
       "Bordeaux",
       "Pessac",
       "Eysines",
-      "Le Bouscat",
       "Talence",
-      "Blanquefort"
+      "Saint-Médard-en-Jalles",
+      "Gradignan"
     ],
     "service_area_stats": [
       {
         "value": "9",
-        "label": "communes desservies"
+        "label": "communes couvertes"
       },
       {
         "value": "4.9/5",
-        "label": "Note Google"
+        "label": "note Google"
       },
       {
         "value": "15",
         "label": "avis clients vérifiés"
       }
     ],
-    "service_area_note": "Déplacement rapide à Mérignac et dans tout le secteur bordelais, devis gratuit sans engagement.",
+    "service_area_note": "Déplacement rapide sur Mérignac, Bordeaux et tout le secteur girondins — devis gratuit sans engagement.",
     "no_reviews_cta": {
       "eyebrow": "",
       "title": "",
@@ -188,27 +188,27 @@
     "contact": {
       "phone": "+33 6 38 14 15 58",
       "email": "",
-      "hours": "Lun–Mar · Jeu 8h–18h · Ven 8h–17h"
+      "hours": "Lun–Mar 8h–18h · Jeu 8h–18h · Ven 8h–17h"
     },
-    "seo_title": "Chauffagiste Mérignac — ECOTHERM'A · Dépannage & Entretien",
-    "meta_description": "ECOTHERM'A, chauffagiste à Mérignac (33700). Dépannage chaudière le jour même, devis honnête. Note 4.9/5. Franck Gonzalez — appelez le +33 6 38 14 15 58."
+    "seo_title": "Chauffagiste Mérignac — ECOTHERM'A | Dépannage rapide",
+    "meta_description": "ECOTHERM'A, chauffagiste-plombier à Mérignac. Dépannage chaudière rapide, devis honnête et transparent. Note 4.9/5 sur Google. Intervention sur Bordeaux et alentours."
   },
   "reviews": [
     {
       "author": "Sébastien M.",
-      "location": "Bordeaux",
+      "location": "Pessac",
       "rating": 5,
       "text": "Mr Gonzalez est de loin l'un des meilleurs artisans auquel j'ai dû faire appel dans ma vie jusqu'à présent et je tiens à le remercier encore une fois pour son professionnalisme et son honnêteté. Souhaitant avoir l'avis d'un second chauffagiste pour ma chaudière j'ai été rapidement pris en charge par Mr Gonzalez qui a su diviser par 5 le premier devis qui m'a été fait par un premier chauffagiste. Les personnes honnêtes et fiables se font rares de nos jours mais vous pouvez compter sur l'efficacité sans faille de Mr Gonzalez. Il ne compte pas ses heures ni l'énergie qu'il met à disposition de ses clients pour lesquels il se plie en quatre pour résoudre le problème et les satisfaire. Vous pouvez lui faire confiance les yeux fermés, il connaît son métier et a plaisir à en parler. Une fois encore, merci Franck !"
     },
     {
-      "author": "Thomas R.",
-      "location": "Pessac",
+      "author": "Nathalie R.",
+      "location": "Mérignac",
       "rating": 5,
       "text": "Mr Gonzalez est intervenu très rapidement, rien à dire parfait travail !"
     },
     {
-      "author": "Christine L.",
-      "location": "Le Bouscat",
+      "author": "Patrick D.",
+      "location": "Le Haillan",
       "rating": 5,
       "text": "En panne de chauffage, Mr Gonzalez est intervenu rapidement. Il a trouvé la panne, il est parti chercher la pièce et revenu chez moi la changer. Ceci dans la même après midi. Merci et bravo pour son efficacité et sa sympathie. Au top"
     }
