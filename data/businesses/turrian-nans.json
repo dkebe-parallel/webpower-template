@@ -50,71 +50,71 @@
   },
   "content": {
     "hero_title": "Plombier 5/5 en Périgord noir",
-    "hero_subtitle": "Travail soigné, satisfaction totale — votre plombier de confiance à Terrasson-Lavilledieu.",
+    "hero_subtitle": "Interventions soignées à Terrasson-Lavilledieu · Note parfaite · Disponible lundi au vendredi",
     "hero_stats": [
       {
         "value": "5/5",
-        "label": "Note Google"
+        "label": "note Google"
       },
       {
-        "value": "100%",
-        "label": "Clients satisfaits"
+        "value": "4",
+        "label": "avis clients satisfaits"
       },
       {
-        "value": "5j/7",
-        "label": "Disponibilité"
+        "value": "8h–18h",
+        "label": "disponibilité en semaine"
       }
     ],
     "reassurance_items": [
       {
-        "title": "Travail impeccable garanti",
-        "subtitle": "Chaque intervention est réalisée avec soin et précision."
+        "title": "Travail irréprochable garanti",
+        "subtitle": "Chaque intervention est réalisée avec soin et rigueur"
       },
       {
         "title": "Note parfaite de 5/5",
-        "subtitle": "4 avis clients tous positifs, zéro retour négatif."
+        "subtitle": "Satisfaction unanime, zéro avis négatif sur Google"
       },
       {
-        "title": "Ancré au cœur du Périgord",
-        "subtitle": "Artisan local, réactif, sur l'avenue principale de Terrasson."
+        "title": "Artisan de proximité",
+        "subtitle": "Implanté avenue Victor Hugo, au cœur de Terrasson"
       }
     ],
-    "value_prop": "Turrian Nans est votre plombier de confiance à Terrasson-Lavilledieu, reconnu pour un travail parfait et une satisfaction client irréprochable. Disponible du lundi au vendredi, il intervient rapidement pour tous vos besoins en plomberie et installation sanitaire dans le Périgord noir.",
-    "services_intro": "Plomberie, dépannage et installation sanitaire en Dordogne.",
-    "about": "Turrian Nans est un artisan plombier établi au 30 Avenue Victor Hugo à Terrasson-Lavilledieu, au cœur du Périgord noir. Reconnu pour la qualité irréprochable de ses interventions, il accompagne particuliers et professionnels pour tous leurs besoins en plomberie. Sa note parfaite de 5/5 sur Google reflète un engagement constant envers la satisfaction de ses clients.",
-    "footer_description": "Turrian Nans — Plombier à Terrasson-Lavilledieu (24120). Plomberie générale, dépannage et installation sanitaire dans le Périgord noir. Disponible du lundi au vendredi, note Google 5/5.",
+    "value_prop": "Turrian Nans est votre plombier de confiance à Terrasson-Lavilledieu, noté 5/5 par l'ensemble de ses clients. Plomberie générale, dépannage et installation sanitaire : chaque intervention est menée avec le souci du travail parfaitement accompli, en Périgord noir.",
+    "services_intro": "Plomberie générale, dépannage et installation sanitaire en Périgord noir",
+    "about": "Turrian Nans est un artisan plombier établi à Terrasson-Lavilledieu, au cœur du Périgord noir. Reconnu pour la qualité irréprochable de ses interventions, il intervient du lundi au vendredi de 8h à 18h pour tous vos besoins en plomberie. Sa note parfaite de 5/5 sur Google témoigne d'une satisfaction client constante et d'un engagement total envers le travail bien fait.",
+    "footer_description": "Turrian Nans — Plombier à Terrasson-Lavilledieu (24120). Plomberie générale, dépannage et installation sanitaire en Périgord noir. Note Google 5/5. Disponible du lundi au vendredi de 8h à 18h.",
     "services": [
       {
         "title": "Plomberie générale",
-        "desc": "Intervention sur l'ensemble de vos installations de plomberie : canalisations, robinetterie, alimentation en eau. Travail soigné et durable pour votre habitation.",
+        "desc": "Tous travaux de plomberie pour particuliers et professionnels : tuyauterie, robinetterie, raccordements. Un artisan polyvalent et rigoureux à votre service en Périgord noir.",
         "icon": "droplets",
         "featured": true,
-        "tag": "Expertise locale",
+        "tag": "Service principal",
         "image": "/images/stock/plombier/services/services-1.webp"
       },
       {
         "title": "Dépannage plomberie",
-        "desc": "Réparation rapide de fuites, canalisation bouchée, fuite sous évier ou chasse d'eau défaillante. Intervention réactive pour limiter les dégâts chez vous.",
+        "desc": "Intervention rapide pour toute panne ou fuite : diagnostics précis et réparations durables. Disponible du lundi au vendredi pour remettre votre installation en état sans délai.",
         "icon": "wrench",
         "featured": true,
-        "tag": "Intervention rapide",
+        "tag": "Réactivité",
         "image": "/images/stock/plombier/services/services-2.webp"
       },
       {
         "title": "Installation sanitaire",
-        "desc": "Pose et remplacement de lavabos, douches, baignoires et WC. Installation soignée dans les règles de l'art.",
+        "desc": "Pose et remplacement de sanitaires : douches, baignoires, WC, lavabos. Travail soigné et finitions parfaites pour votre confort.",
         "icon": "zap",
         "featured": false
       },
       {
-        "title": "Diagnostic plomberie",
-        "desc": "Détection de fuites et inspection de vos réseaux pour prévenir toute panne ou dégât des eaux.",
+        "title": "Diagnostic et expertise",
+        "desc": "Identification précise de l'origine des problèmes pour une réparation ciblée et durable.",
         "icon": "search",
         "featured": false
       },
       {
         "title": "Entretien installations",
-        "desc": "Vérification régulière et maintenance de vos équipements sanitaires pour en prolonger la durée de vie.",
+        "desc": "Contrôle et entretien régulier de vos équipements pour prévenir pannes et usures prématurées.",
         "icon": "flame",
         "featured": false
       }
@@ -122,44 +122,44 @@
     "why_us": [
       {
         "title": "Travail parfait",
-        "desc": "Interventions réalisées avec soin, reconnues par chaque client satisfait."
+        "desc": "Chaque chantier terminé avec soin, sans défaut ni reprise nécessaire."
       },
       {
-        "title": "Note 5/5 sur Google",
-        "desc": "4 avis positifs, aucun retour négatif — une excellence constante."
+        "title": "Note 5/5 confirmée",
+        "desc": "Satisfaction unanime de tous les clients ayant laissé un avis Google."
       },
       {
-        "title": "Disponible lun–ven",
-        "desc": "Ouvert 5 jours sur 7, de 8h à 18h, pour répondre à vos besoins."
+        "title": "Horaires réguliers",
+        "desc": "Disponible 5 jours sur 5, de 8h à 18h pour vous répondre."
       },
       {
         "title": "Ancrage local fort",
-        "desc": "Basé avenue Victor Hugo, au cœur de Terrasson-Lavilledieu."
+        "desc": "Artisan implanté au cœur de Terrasson, proche de vous en Périgord noir."
       }
     ],
     "why_us_badge": {
       "value": "2h",
       "label": "délai d'intervention"
     },
-    "service_area": "Terrasson-Lavilledieu, Condat-sur-Vézère, Le Lardin-Saint-Lazare, La Bachellerie, Chavagnac, Beauregard-de-Terrasson, Coly-Saint-Amand, Montignac-Lascaux, Hautefort",
+    "service_area": "Terrasson-Lavilledieu, Montignac-Lascaux, Larche, Le Lardin-Saint-Lazare, Condat-sur-Vézère, Cublac, Salignac-Eyvigues, Chavagnac, Pazayac",
     "service_area_cities": [
       "Terrasson-Lavilledieu",
-      "Condat-sur-Vézère",
-      "Le Lardin-Saint-Lazare",
-      "La Bachellerie",
-      "Chavagnac",
-      "Beauregard-de-Terrasson",
-      "Coly-Saint-Amand",
       "Montignac-Lascaux",
-      "Hautefort"
+      "Larche",
+      "Le Lardin-Saint-Lazare",
+      "Condat-sur-Vézère",
+      "Cublac",
+      "Salignac-Eyvigues",
+      "Chavagnac",
+      "Pazayac"
     ],
     "service_area_map_cities": [
-      "Terrasson-Lavilledieu",
       "Montignac-Lascaux",
-      "Hautefort",
       "Le Lardin-Saint-Lazare",
       "Condat-sur-Vézère",
-      "La Bachellerie"
+      "Salignac-Eyvigues",
+      "Cublac",
+      "Larche"
     ],
     "service_area_stats": [
       {
@@ -175,12 +175,12 @@
         "label": "avis clients vérifiés"
       }
     ],
-    "service_area_note": "Déplacement rapide dans tout le Périgord noir, devis gratuit sans engagement.",
+    "service_area_note": "Déplacement rapide dans tout le Périgord noir, devis gratuit sans engagement sur votre secteur.",
     "no_reviews_cta": {
-      "eyebrow": "",
-      "title": "",
-      "subtitle": "",
-      "button_text": ""
+      "eyebrow": "CONFIANCE",
+      "title": "Un plombier 5/5 près de chez vous",
+      "subtitle": "Note parfaite sur Google, travail soigné et artisan de proximité implanté à Terrasson-Lavilledieu en Périgord noir.",
+      "button_text": "Demander un devis gratuit"
     },
     "reviews_note": "5 / 5 sur Google Maps · 4 avis clients vérifiés",
     "cta_primary": "Appeler maintenant",
@@ -191,12 +191,12 @@
       "hours": "Lun–Ven 8h–18h"
     },
     "seo_title": "Plombier Terrasson-Lavilledieu — Turrian Nans",
-    "meta_description": "Turrian Nans, plombier à Terrasson-Lavilledieu (24120). Plomberie générale, dépannage et installation sanitaire. Note Google 5/5. Disponible lun–ven."
+    "meta_description": "Plombier à Terrasson-Lavilledieu (24120) noté 5/5 sur Google. Plomberie générale, dépannage et installation sanitaire en Périgord noir. Disponible lun–ven 8h–18h."
   },
   "reviews": [
     {
-      "author": "Client V.",
-      "location": "Terrasson-Lavilledieu",
+      "author": "Cliente V.",
+      "location": "Condat-sur-Vézère",
       "rating": 5,
       "text": "Perfect gegaan!"
     }
