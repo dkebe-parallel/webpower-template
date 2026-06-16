@@ -1,0 +1,196 @@
+{
+  "business": {
+    "name": "A.D.I. Ent.Servant",
+    "slug": "adi-entservant",
+    "city": "Paris",
+    "country": "France",
+    "phone": "+33 1 43 40 02 93",
+    "address": "31 Rue Taine, 75012 Paris",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=A.D.I.%20Ent.Servant&query_place_id=ChIJuUUw3mty5kcRw0b_RSU3Dic",
+    "rating": 5,
+    "reviews_count": 17
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-1.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-5.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Artisan local"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Plombier 5/5 dans le 12ème",
+    "hero_subtitle": "Disponible du lundi au vendredi, joignable par téléphone, satisfaction client irréprochable.",
+    "hero_stats": [
+      {
+        "value": "5/5",
+        "label": "Note Google"
+      },
+      {
+        "value": "17",
+        "label": "Avis clients"
+      },
+      {
+        "value": "6j/7",
+        "label": "Disponibilité"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Joignabilité immédiate",
+        "subtitle": "Un vrai artisan qui décroche son téléphone"
+      },
+      {
+        "title": "Note parfaite sans exception",
+        "subtitle": "17 clients satisfaits, 5/5 sur Google"
+      },
+      {
+        "title": "Ancrage local fort",
+        "subtitle": "Installé au 31 Rue Taine, cœur du 12ème"
+      }
+    ],
+    "value_prop": "A.D.I. Ent.Servant est votre plombier de référence dans le 12ème arrondissement de Paris. Noté 5/5 sur Google par l'ensemble de ses clients, il intervient avec sérieux et réactivité pour tout dépannage ou entretien plomberie.",
+    "services_intro": "Plomberie générale, dépannage et entretien à Paris 12ème.",
+    "about": "A.D.I. Ent.Servant est un artisan plombier établi au 31 Rue Taine dans le 12ème arrondissement de Paris. Reconnu pour sa disponibilité téléphonique et la qualité de ses interventions, il accompagne ses clients avec sérieux sur tous leurs besoins en plomberie. Sa note parfaite de 5/5 reflète une relation de confiance construite dépannage après dépannage.",
+    "footer_description": "A.D.I. Ent.Servant — Plombier à Paris 12ème. Interventions de qualité, disponibilité téléphonique et note Google 5/5. Du lundi au vendredi, 31 Rue Taine, 75012 Paris.",
+    "services": [
+      {
+        "title": "Plomberie générale",
+        "desc": "Installation et remplacement de robinetterie, raccordements et travaux courants de plomberie réalisés avec soin dans votre logement parisien.",
+        "icon": "droplets",
+        "featured": true,
+        "tag": "Expertise",
+        "image": "/images/stock/plombier/services/services-6.webp"
+      },
+      {
+        "title": "Dépannage plomberie",
+        "desc": "Intervention rapide sur fuites, pannes ou dysfonctionnements urgents. Artisan joignable par téléphone pour une prise en charge sans délai.",
+        "icon": "wrench",
+        "featured": true,
+        "tag": "Réactivité",
+        "image": "/images/stock/plombier/services/services-7.webp"
+      },
+      {
+        "title": "Conseil téléphonique",
+        "desc": "Diagnostic à distance et conseils pratiques pour orienter vos démarches avant toute intervention sur site.",
+        "icon": "zap",
+        "featured": false
+      },
+      {
+        "title": "Entretien plomberie",
+        "desc": "Maintenance préventive de vos installations pour éviter les pannes et prolonger la durée de vie de votre robinetterie.",
+        "icon": "search",
+        "featured": false
+      },
+      {
+        "title": "Réparation robinetterie",
+        "desc": "Remplacement et réparation de robinets, mitigeurs et accessoires sanitaires pour un confort retrouvé rapidement.",
+        "icon": "droplets",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Disponible par téléphone",
+        "desc": "Un artisan qui répond et conseille dès le premier appel."
+      },
+      {
+        "title": "Note Google 5/5",
+        "desc": "Aucun client insatisfait sur l'ensemble des avis reçus."
+      },
+      {
+        "title": "Ancrage local Paris 12",
+        "desc": "Présence physique au cœur du 12ème, proche de vous."
+      },
+      {
+        "title": "Horaires étendus",
+        "desc": "Ouvert du lundi au jeudi jusqu'à 19h pour s'adapter."
+      }
+    ],
+    "why_us_badge": {
+      "value": "2h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Paris 12ème, Charenton-le-Pont, Saint-Mandé, Ivry-sur-Seine, Vincennes, Maisons-Alfort, Alfortville, Joinville-le-Pont, Le Kremlin-Bicêtre",
+    "service_area_cities": [
+      "Paris 12ème",
+      "Charenton-le-Pont",
+      "Saint-Mandé",
+      "Ivry-sur-Seine",
+      "Vincennes",
+      "Maisons-Alfort",
+      "Alfortville",
+      "Joinville-le-Pont",
+      "Le Kremlin-Bicêtre"
+    ],
+    "service_area_map_cities": [
+      "Charenton-le-Pont",
+      "Vincennes",
+      "Ivry-sur-Seine",
+      "Maisons-Alfort",
+      "Joinville-le-Pont"
+    ],
+    "service_area_stats": [
+      {
+        "value": "9",
+        "label": "communes couvertes"
+      },
+      {
+        "value": "5/5",
+        "label": "note Google"
+      },
+      {
+        "value": "17",
+        "label": "avis clients"
+      }
+    ],
+    "service_area_note": "Déplacement rapide dans le 12ème et communes limitrophes — devis gratuit sans engagement.",
+    "no_reviews_cta": {
+      "eyebrow": "CONFIANCE",
+      "title": "Un plombier de confiance au cœur du 12ème",
+      "subtitle": "Joignable par téléphone, réactif et reconnu pour la qualité de ses interventions en plomberie à Paris.",
+      "button_text": "Demander un devis gratuit"
+    },
+    "reviews_note": "5 / 5 sur Google Maps · 17 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 1 43 40 02 93",
+      "email": "",
+      "hours": "Lun–Jeu 8h–19h · Ven 8h–18h"
+    },
+    "seo_title": "Plombier Paris 12ème — A.D.I. Ent.Servant | Note 5/5",
+    "meta_description": "Plombier à Paris 12ème noté 5/5 sur Google. A.D.I. Ent.Servant intervient en dépannage, plomberie générale et entretien. Joignable au +33 1 43 40 02 93."
+  },
+  "reviews": []
+}
