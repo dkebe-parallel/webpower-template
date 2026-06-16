@@ -17,7 +17,7 @@
   },
   "badges": {
     "certifications": [],
-    "highlight": "Entreprise familiale"
+    "highlight": "Famille de plombiers"
   },
   "theme": {
     "palette": {
@@ -49,117 +49,117 @@
     "enabled_blocks": []
   },
   "content": {
-    "hero_title": "Plombier de confiance à Rennes",
-    "hero_subtitle": "Philippe & Valentin : réactivité, honnêteté et travail soigné pour tous vos travaux de plomberie.",
+    "hero_title": "Plombiers de confiance à Rennes",
+    "hero_subtitle": "Père et fils à votre service : réactivité, travail soigné et honnêteté à chaque intervention.",
     "hero_stats": [
       {
         "value": "4.9/5",
-        "label": "Note Google"
+        "label": "note Google"
       },
       {
         "value": "94",
-        "label": "avis vérifiés"
+        "label": "avis clients"
       },
       {
         "value": "2",
-        "label": "générations d'artisans"
+        "label": "générations de savoir-faire"
       }
     ],
     "reassurance_items": [
       {
-        "title": "Intervention rapide",
-        "subtitle": "Délais respectés, réactivité reconnue par les clients"
+        "title": "Intervention rapide et ponctuelle",
+        "subtitle": "Réactivité saluée par nos clients à Rennes"
       },
       {
-        "title": "Travail propre et expliqué",
-        "subtitle": "Chaque intervention soignée et détaillée au client"
+        "title": "Travail propre et bien expliqué",
+        "subtitle": "On prend le temps de vous informer étape par étape"
       },
       {
-        "title": "Fiables et honnêtes",
-        "subtitle": "Un artisan sur lequel vous pouvez compter dans la durée"
+        "title": "Artisans honnêtes et fiables",
+        "subtitle": "Confiance, transparence et respect de votre logement"
       }
     ],
-    "value_prop": "Philippe et Valentin Grange, père et fils, mettent leur savoir-faire de plombiers au service des Rennais. Réactivité, honnêteté et travail soigné : une entreprise familiale reconnue avec 4.9/5 sur 94 avis Google.",
-    "services_intro": "Dépannage, chauffe-eau, chaudière : toute la plomberie pour votre domicile.",
-    "about": "Grange et Fils est une entreprise familiale rennaise fondée par Philippe et son fils Valentin, plombiers de confiance pour les particuliers du secteur. Reconnus pour leur réactivité et leur sérieux, ils interviennent aussi bien en dépannage d'urgence que pour des travaux planifiés. Leur approche : un travail propre, transparent et réalisé dans le respect de votre domicile.",
-    "footer_description": "Grange et Fils – Philippe & Valentin, plombiers à Rennes. Entreprise familiale spécialisée en dépannage, remplacement de ballon d'eau chaude et travaux de plomberie générale. Note 4.9/5 sur Google.",
+    "value_prop": "Chez Grange et Fils, Philippe et Valentin mettent leur savoir-faire familial au service de votre plomberie à Rennes. Réactivité, honnêteté et travail soigné sont au cœur de chaque intervention — de la fuite urgente au remplacement complet de votre chauffe-eau.",
+    "services_intro": "Dépannage, installation et entretien : toute la plomberie par le duo père-fils.",
+    "about": "Grange et Fils est une entreprise familiale rennaise portée par Philippe et son fils Valentin. Ensemble, ils interviennent pour tous vos besoins en plomberie avec réactivité, soin du travail bien fait et une relation de confiance durable avec leurs clients.",
+    "footer_description": "Grange et Fils — Philippe & Valentin, plombiers à Rennes. Entreprise familiale reconnue pour sa réactivité, son sérieux et son honnêteté. Note Google 4.9/5 sur 94 avis. Tél. : +33 6 72 37 64 28.",
     "services": [
       {
         "title": "Réparation de fuites",
-        "desc": "Intervention rapide sur toutes vos fuites d'eau : robinetterie, canalisations, joints. Diagnostic précis et réparation soignée pour éviter les dégâts des eaux.",
+        "desc": "Intervention rapide pour localiser et réparer toutes vos fuites, qu'elles soient visibles ou cachées, afin d'éviter tout dégât des eaux.",
         "icon": "droplets",
         "featured": true,
-        "tag": "Dépannage rapide",
+        "tag": "Urgence & dépannage",
         "image": "/images/stock/plombier/services/services-2.webp"
       },
       {
         "title": "Remplacement chauffe-eau",
-        "desc": "Changement de votre ballon d'eau chaude ou chauffe-eau par des professionnels qualifiés. Intervention propre et eau chaude rétablie le jour même.",
+        "desc": "Remplacement de votre ballon d'eau chaude ou chauffe-eau avec pose soignée, mise en service et explications complètes. Eau chaude garantie en quelques heures.",
         "icon": "flame",
         "featured": true,
-        "tag": "Résultat garanti",
+        "tag": "Installation",
         "image": "/images/stock/plombier/services/services-3.webp"
       },
       {
         "title": "Entretien chaudière",
-        "desc": "Entretien annuel et remplacement de chaudière pour garantir votre confort et votre sécurité tout au long de l'année.",
-        "icon": "zap",
-        "featured": false
-      },
-      {
-        "title": "Plomberie générale",
-        "desc": "Tous vos travaux de plomberie : installation sanitaire, rénovation salle de bain, mise aux normes et raccordements.",
+        "desc": "Entretien annuel et dépannage de chaudière pour assurer performance et sécurité de votre installation.",
         "icon": "wrench",
         "featured": false
       },
       {
+        "title": "Plomberie générale",
+        "desc": "Pose de robinetterie, remplacement de tuyauterie, installation sanitaire et tous travaux de plomberie courante.",
+        "icon": "zap",
+        "featured": false
+      },
+      {
         "title": "Diagnostic plomberie",
-        "desc": "Détection de pannes et recherche de fuites cachées pour un diagnostic fiable avant toute intervention.",
+        "desc": "Inspection complète de votre installation pour anticiper les pannes et vous conseiller sur les travaux à prévoir.",
         "icon": "search",
         "featured": false
       }
     ],
     "why_us": [
       {
-        "title": "Réactivité prouvée",
-        "desc": "Délais d'intervention courts, confirmés par nos clients dans leurs avis"
+        "title": "Réactivité immédiate",
+        "desc": "Intervention rapide dès votre appel, délais tenus et ponctualité reconnue."
       },
       {
-        "title": "Travail soigné",
-        "desc": "Interventions propres, expliquées et réalisées avec soin chez vous"
+        "title": "Travail propre et soigné",
+        "desc": "Interventions nettes, respectueuses de votre logement, finitions impeccables."
       },
       {
-        "title": "Fiables et honnêtes",
-        "desc": "Une relation de confiance durable avec chaque client rennais"
+        "title": "Transparence totale",
+        "desc": "On explique chaque étape, devis clair et tarifs honnêtes, sans surprise."
       },
       {
-        "title": "Duo père et fils",
-        "desc": "Deux générations d'artisans pour un savoir-faire solide et transmis"
+        "title": "Duo père-fils fiable",
+        "desc": "Deux générations de savoir-faire pour une relation de confiance durable."
       }
     ],
     "why_us_badge": {
       "value": "2h",
       "label": "délai d'intervention"
     },
-    "service_area": "Rennes, Saint-Grégoire, Cesson-Sévigné, Chantepie, Bruz, Saint-Jacques-de-la-Lande, Pacé, Vezin-le-Coquet, Betton",
+    "service_area": "Rennes, Saint-Grégoire, Cesson-Sévigné, Chantepie, Saint-Jacques-de-la-Lande, Bruz, Pacé, Betton, Vezin-le-Coquet",
     "service_area_cities": [
       "Rennes",
       "Saint-Grégoire",
       "Cesson-Sévigné",
       "Chantepie",
-      "Bruz",
       "Saint-Jacques-de-la-Lande",
+      "Bruz",
       "Pacé",
-      "Vezin-le-Coquet",
-      "Betton"
+      "Betton",
+      "Vezin-le-Coquet"
     ],
     "service_area_map_cities": [
       "Saint-Grégoire",
       "Cesson-Sévigné",
       "Bruz",
       "Pacé",
-      "Betton",
-      "Chantepie"
+      "Chantepie",
+      "Betton"
     ],
     "service_area_stats": [
       {
@@ -172,10 +172,10 @@
       },
       {
         "value": "94",
-        "label": "avis clients"
+        "label": "avis clients vérifiés"
       }
     ],
-    "service_area_note": "Déplacement rapide à Rennes et dans tout le bassin rennais, devis gratuit sans engagement.",
+    "service_area_note": "Déplacement rapide sur Rennes et ses environs, devis gratuit sans engagement.",
     "no_reviews_cta": {
       "eyebrow": "",
       "title": "",
@@ -190,8 +190,8 @@
       "email": "",
       "hours": "Lun–Ven 8h–18h"
     },
-    "seo_title": "Plombier Rennes – Grange et Fils Philippe & Valentin",
-    "meta_description": "Plombier à Rennes : Grange et Fils intervient pour vos fuites, chauffe-eau et travaux de plomberie. Entreprise familiale, note 4.9/5 sur 94 avis Google."
+    "seo_title": "Plombier Rennes — Grange et Fils, Philippe & Valentin",
+    "meta_description": "Plombier à Rennes : fuites, chauffe-eau, chaudière. Entreprise familiale Philippe & Valentin Grange, note 4.9/5 sur 94 avis. Intervention rapide. Devis gratuit."
   },
   "reviews": [
     {
@@ -201,13 +201,13 @@
       "text": "Valentin est un super plombier. Nous avons fait appel à lui suite à plusieurs fuites chez nous, il a été très réactif et très professionnel. Je le recommande vivement."
     },
     {
-      "author": "Thomas L.",
+      "author": "Marc T.",
       "location": "Saint-Grégoire",
       "rating": 5,
       "text": "Délai d'intervention très correct. Artisan ponctuel. A réalisé le changement du ballon d'eau chaude dans mon appartement (ballon datant de 2009). Fait preuve de sérieux tout au long de l'intervention. Sympathique, il explique son travail et réalise la prestation très proprement et avec professionnalisme. 4 heures plus tard... j'avais de l'eau chaude comme promis. Très satisfait. Je recommande vivement cet artisan."
     },
     {
-      "author": "Nathalie R.",
+      "author": "Isabelle R.",
       "location": "Chantepie",
       "rating": 5,
       "text": "Un grand merci à Valentin pour sa réactivité, disponibilité et gentillesse. Nous sommes ravis d'avoir fait appel à lui et de pouvoir compter sur lui pour nos travaux de plomberie. Il est fiable et honnête, nous le recommandons à 100%."
