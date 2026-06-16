@@ -1,0 +1,204 @@
+{
+  "business": {
+    "name": "Vilisques Bernard",
+    "slug": "vilisques-bernard",
+    "city": "Château-l'Évêque",
+    "country": "France",
+    "phone": "+33 5 53 54 32 55",
+    "address": "undefined, undefined Château-l'Évêque",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Vilisques%20Bernard&query_place_id=ChIJayP5Y-l0_0cREnzyQVFy-js",
+    "rating": 4.3,
+    "reviews_count": 4
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-4.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-2.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Tarifs honnêtes"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Plombier honnête à Château-l'Évêque",
+    "hero_subtitle": "Interventions efficaces, tarifs transparents et solutions adaptées à chaque client en Dordogne.",
+    "hero_stats": [
+      {
+        "value": "4.3/5",
+        "label": "Note Google"
+      },
+      {
+        "value": "100%",
+        "label": "Solutions sur mesure"
+      },
+      {
+        "value": "2h",
+        "label": "Délai d'intervention"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Efficacité reconnue",
+        "subtitle": "Un plombier qualifié de « super efficace » par ses clients"
+      },
+      {
+        "title": "Tarifs transparents",
+        "subtitle": "Des prix honnêtes, salués directement par la clientèle"
+      },
+      {
+        "title": "Intérêt du client d'abord",
+        "subtitle": "Toujours la meilleure solution, pas la plus coûteuse"
+      }
+    ],
+    "value_prop": "Bernard Vilisques est un plombier artisanal basé à Château-l'Évêque, reconnu pour son efficacité, ses tarifs honnêtes et sa recherche systématique de la meilleure solution pour chaque situation. Un artisan de confiance, ancré dans son territoire en Dordogne.",
+    "services_intro": "Plomberie générale, dépannage et installation autour de Château-l'Évêque.",
+    "about": "Bernard Vilisques est un plombier artisan établi à Château-l'Évêque, en Dordogne. Il intervient pour tous travaux de plomberie en privilégiant toujours la solution la plus adaptée et la plus économique pour ses clients. Sa clientèle locale lui reconnaît une efficacité et une honnêteté tarifaire qui font sa réputation dans le secteur de Périgueux.",
+    "footer_description": "Vilisques Bernard — Plombier artisan à Château-l'Évêque. Dépannage, installation et conseil en plomberie dans le secteur de Périgueux. Tarifs honnêtes, intervention rapide, solution adaptée à chaque client.",
+    "services": [
+      {
+        "title": "Plomberie générale",
+        "desc": "Installation et dépannage de tous vos équipements de plomberie : robinetterie, canalisations, sanitaires et plus encore.",
+        "icon": "droplets",
+        "featured": true,
+        "tag": "Expertise",
+        "image": "/images/stock/plombier/services/services-5.webp"
+      },
+      {
+        "title": "Solutions sur mesure",
+        "desc": "Analyse de chaque situation pour proposer la meilleure option technique, au juste prix, sans superflu ni compromis inutile.",
+        "icon": "search",
+        "featured": true,
+        "tag": "Conseil",
+        "image": "/images/stock/plombier/services/services-6.webp"
+      },
+      {
+        "title": "Dépannage urgent",
+        "desc": "Intervention rapide pour fuites, pannes ou urgences plomberie dans le secteur de Château-l'Évêque.",
+        "icon": "zap",
+        "featured": false
+      },
+      {
+        "title": "Pose & remplacement",
+        "desc": "Remplacement de robinets, mitigeurs, chauffe-eau et équipements sanitaires avec des tarifs maîtrisés.",
+        "icon": "wrench",
+        "featured": false
+      },
+      {
+        "title": "Entretien plomberie",
+        "desc": "Vérification et entretien régulier de vos installations pour prévenir pannes et dépenses imprévues.",
+        "icon": "flame",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Super efficace",
+        "desc": "Une exécution rapide et soignée, reconnue par les clients"
+      },
+      {
+        "title": "Tarifs honnêtes",
+        "desc": "Des prix justes et transparents, sans mauvaise surprise"
+      },
+      {
+        "title": "Client au centre",
+        "desc": "Toujours la meilleure solution pour vous, pas la plus chère"
+      },
+      {
+        "title": "Artisan local",
+        "desc": "Ancré à Château-l'Évêque, proche et disponible rapidement"
+      }
+    ],
+    "why_us_badge": {
+      "value": "2h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Château-l'Évêque, Périgueux, Agonac, Chancelade, Marsac-sur-l'Isle, Boulazac Isle Manoire, Antonne-et-Trigonant, Coursac, Trélissac",
+    "service_area_cities": [
+      "Château-l'Évêque",
+      "Périgueux",
+      "Agonac",
+      "Chancelade",
+      "Marsac-sur-l'Isle",
+      "Boulazac Isle Manoire",
+      "Antonne-et-Trigonant",
+      "Coursac",
+      "Trélissac"
+    ],
+    "service_area_map_cities": [
+      "Périgueux",
+      "Chancelade",
+      "Marsac-sur-l'Isle",
+      "Boulazac Isle Manoire",
+      "Trélissac",
+      "Agonac"
+    ],
+    "service_area_stats": [
+      {
+        "value": "9",
+        "label": "communes desservies"
+      },
+      {
+        "value": "4.3/5",
+        "label": "note Google"
+      },
+      {
+        "value": "4",
+        "label": "avis clients vérifiés"
+      }
+    ],
+    "service_area_note": "Déplacement rapide dans tout le secteur de Périgueux et alentours, devis gratuit sans engagement.",
+    "no_reviews_cta": {
+      "eyebrow": "",
+      "title": "",
+      "subtitle": "",
+      "button_text": ""
+    },
+    "reviews_note": "4.3 / 5 sur Google Maps · 4 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 5 53 54 32 55",
+      "email": "",
+      "hours": ""
+    },
+    "seo_title": "Plombier Château-l'Évêque · Vilisques Bernard",
+    "meta_description": "Plombier artisan à Château-l'Évêque (Dordogne). Dépannage, installation et conseil en plomberie. Tarifs honnêtes, intervention rapide. Appelez Bernard Vilisques."
+  },
+  "reviews": [
+    {
+      "author": "Marie-Claire D.",
+      "location": "Périgueux",
+      "rating": 5,
+      "text": "Plombier super efficace, recherche toujours la meilleure solution pour le client, pratique des tarifs honnêtes."
+    }
+  ]
+}
