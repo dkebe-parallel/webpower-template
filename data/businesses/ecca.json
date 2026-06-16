@@ -49,117 +49,117 @@
     "enabled_blocks": []
   },
   "content": {
-    "hero_title": "Votre plombier 5 étoiles près de Strasbourg",
-    "hero_subtitle": "Plomberie générale, dépannage et installation sanitaire à Oberschaeffolsheim et alentours.",
+    "hero_title": "Votre plombier 5/5 à Oberschaeffolsheim",
+    "hero_subtitle": "Plomberie, dépannage et installation sanitaire — artisan local, note parfaite, disponible par téléphone.",
     "hero_stats": [
       {
         "value": "5/5",
-        "label": "Note Google"
+        "label": "note Google"
       },
       {
         "value": "100%",
-        "label": "Clients satisfaits"
+        "label": "clients satisfaits"
       },
       {
         "value": "2h",
-        "label": "Délai d'intervention"
+        "label": "délai d'intervention"
       }
     ],
     "reassurance_items": [
       {
-        "title": "Note parfaite 5/5 sur Google",
-        "subtitle": "Chaque client repart satisfait, sans exception."
+        "title": "Note parfaite de 5/5 sur Google",
+        "subtitle": "Zéro client insatisfait, résultats prouvés"
       },
       {
-        "title": "Artisan local à taille humaine",
-        "subtitle": "Relation directe, écoute et réactivité garanties."
+        "title": "Artisan ancré dans l'ouest strasbourgeois",
+        "subtitle": "Connaissance du tissu résidentiel alsacien"
       },
       {
-        "title": "Ancrage fort en Alsace",
-        "subtitle": "Présence locale à Oberschaeffolsheim, proche de vous."
+        "title": "Contact direct, relation de proximité",
+        "subtitle": "Numéro fixe local, artisan accessible"
       }
     ],
-    "value_prop": "Ecca est votre plombier de proximité à Oberschaeffolsheim, aux portes de Strasbourg. Noté 5/5 par ses clients, cet artisan indépendant intervient rapidement pour tout dépannage, installation sanitaire ou travaux de plomberie générale, avec sérieux et transparence.",
-    "services_intro": "Plomberie, dépannage et installation sanitaire près de Strasbourg.",
-    "about": "Ecca est un artisan plombier implanté au 42 Rue du Général de Gaulle à Oberschaeffolsheim, dans l'ouest strasbourgeois. À taille humaine, l'entreprise privilégie la relation directe avec ses clients et intervient avec rapidité et professionnalisme. Reconnue pour la qualité de son travail, elle affiche une note parfaite de 5/5 sur Google.",
-    "footer_description": "Ecca — Artisan plombier à Oberschaeffolsheim (67203). Plomberie générale, dépannage et installation sanitaire aux portes de Strasbourg. Contactez-nous au +33 3 88 78 05 56.",
+    "value_prop": "Ecca est votre plombier de confiance à Oberschaeffolsheim : une note Google parfaite de 5/5, une implantation locale solide dans l'ouest strasbourgeois, et un service direct et humain pour tous vos travaux de plomberie et d'installation sanitaire.",
+    "services_intro": "Plomberie générale, dépannage et installation sanitaire en Alsace.",
+    "about": "Ecca est un artisan plombier établi à Oberschaeffolsheim, au cœur de la périphérie ouest de Strasbourg. L'entreprise intervient pour tous vos besoins en plomberie, de l'installation sanitaire au dépannage d'urgence. Sa note Google parfaite de 5/5 témoigne d'un engagement sans compromis envers chaque client.",
+    "footer_description": "Ecca — Plombier artisanal à Oberschaeffolsheim. Plomberie générale, dépannage et installation sanitaire dans l'ouest strasbourgeois. Note Google 5/5. Contactez-nous au 03 88 78 05 56.",
     "services": [
       {
         "title": "Plomberie générale",
-        "desc": "Prise en charge complète de vos travaux de plomberie : canalisations, robinetterie, raccordements et réparations courantes pour particuliers et professionnels.",
-        "icon": "wrench",
+        "desc": "Interventions complètes sur vos réseaux d'eau, robinetterie, canalisations et raccordements. Un artisan local pour tous vos travaux de plomberie à Oberschaeffolsheim et alentours.",
+        "icon": "droplets",
         "featured": true,
-        "tag": "Expertise locale",
+        "tag": "Service principal",
         "image": "/images/stock/plombier/services/services-5.webp"
       },
       {
         "title": "Dépannage plomberie",
-        "desc": "Intervention rapide en cas de fuite, canalisation bouchée ou panne urgente. Votre artisan de proximité se déplace vite pour limiter les dégâts.",
-        "icon": "zap",
+        "desc": "Fuite, fuite d'eau, canalisation bouchée ou robinet défaillant : intervention rapide chez vous pour remettre en ordre votre installation dans les meilleurs délais.",
+        "icon": "wrench",
         "featured": true,
         "tag": "Réactivité",
         "image": "/images/stock/plombier/services/services-6.webp"
       },
       {
         "title": "Installation sanitaire",
-        "desc": "Pose et remplacement de vos équipements sanitaires : douche, baignoire, WC, lavabo, dans les règles de l'art.",
-        "icon": "droplets",
+        "desc": "Pose et remplacement de sanitaires : WC, lavabos, douches, baignoires. Travail soigné et conforme aux normes en vigueur.",
+        "icon": "zap",
         "featured": false
       },
       {
-        "title": "Diagnostic et recherche de fuite",
-        "desc": "Localisation précise des fuites cachées pour une intervention ciblée et sans dégâts inutiles.",
+        "title": "Diagnostic plomberie",
+        "desc": "Détection de fuites et contrôle de vos installations pour anticiper les pannes et préserver votre logement.",
         "icon": "search",
         "featured": false
       },
       {
         "title": "Entretien & maintenance",
-        "desc": "Vérification et entretien régulier de vos installations pour éviter les pannes et prolonger leur durée de vie.",
-        "icon": "wind",
+        "desc": "Vérification régulière de vos équipements sanitaires pour garantir leur durabilité et votre tranquillité.",
+        "icon": "flame",
         "featured": false
       }
     ],
     "why_us": [
       {
-        "title": "Note 5/5 sur Google",
-        "desc": "Satisfaction client totale, confirmée par chaque avis laissé en ligne."
+        "title": "Note Google 5/5",
+        "desc": "Tous nos clients repartent satisfaits, sans exception."
       },
       {
-        "title": "Artisan de proximité",
-        "desc": "Basé à Oberschaeffolsheim, nous intervenons vite autour de chez vous."
+        "title": "Artisan local alsacien",
+        "desc": "Basé à Oberschaeffolsheim, proche de vous."
       },
       {
-        "title": "Relation client directe",
-        "desc": "Pas d'intermédiaire : vous parlez directement à l'artisan qui intervient."
+        "title": "Relation directe client",
+        "desc": "Vous parlez à l'artisan, pas à un standard."
       },
       {
-        "title": "Devis transparent",
-        "desc": "Un devis clair et gratuit avant toute intervention, sans mauvaise surprise."
+        "title": "Adresse fixe vérifiable",
+        "desc": "Un professionnel stable et enraciné localement."
       }
     ],
     "why_us_badge": {
       "value": "2h",
       "label": "délai d'intervention"
     },
-    "service_area": "Oberschaeffolsheim, Strasbourg, Wolfisheim, Holtzheim, Entzheim, Lingolsheim, Eckbolsheim, Hangenbieten, Ostwald",
+    "service_area": "Oberschaeffolsheim, Wolfisheim, Holtzheim, Entzheim, Lingolsheim, Hangenbieten, Ostwald, Eckbolsheim, Strasbourg",
     "service_area_cities": [
       "Oberschaeffolsheim",
-      "Strasbourg",
       "Wolfisheim",
       "Holtzheim",
       "Entzheim",
       "Lingolsheim",
-      "Eckbolsheim",
       "Hangenbieten",
-      "Ostwald"
+      "Ostwald",
+      "Eckbolsheim",
+      "Strasbourg"
     ],
     "service_area_map_cities": [
       "Strasbourg",
       "Lingolsheim",
-      "Wolfisheim",
-      "Holtzheim",
       "Ostwald",
-      "Entzheim"
+      "Holtzheim",
+      "Entzheim",
+      "Wolfisheim"
     ],
     "service_area_stats": [
       {
@@ -178,8 +178,8 @@
     "service_area_note": "Déplacement rapide dans tout l'ouest strasbourgeois, devis gratuit sans engagement.",
     "no_reviews_cta": {
       "eyebrow": "CONFIANCE",
-      "title": "Un plombier fiable aux portes de Strasbourg",
-      "subtitle": "Artisan local implanté à Oberschaeffolsheim, Ecca intervient rapidement pour tous vos besoins en plomberie avec sérieux et transparence.",
+      "title": "Un plombier de confiance près de chez vous",
+      "subtitle": "Artisan local à Oberschaeffolsheim, note Google parfaite de 5/5, intervention rapide pour tous vos travaux de plomberie.",
       "button_text": "Demander un devis gratuit"
     },
     "reviews_note": "5 / 5 sur Google Maps · 2 avis clients vérifiés",
@@ -190,8 +190,8 @@
       "email": "",
       "hours": ""
     },
-    "seo_title": "Plombier Oberschaeffolsheim — Ecca, noté 5/5",
-    "meta_description": "Artisan plombier à Oberschaeffolsheim (67203) : plomberie générale, dépannage rapide et installation sanitaire. Noté 5/5 sur Google. Devis gratuit."
+    "seo_title": "Plombier Oberschaeffolsheim — Ecca, note 5/5",
+    "meta_description": "Ecca, plombier artisanal à Oberschaeffolsheim (67203). Plomberie générale, dépannage et installation sanitaire. Note Google 5/5. Appelez le 03 88 78 05 56."
   },
   "reviews": []
 }
