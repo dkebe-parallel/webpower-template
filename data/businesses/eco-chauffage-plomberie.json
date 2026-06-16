@@ -49,8 +49,8 @@
     "enabled_blocks": []
   },
   "content": {
-    "hero_title": "Plombier-chauffagiste à Bordeaux",
-    "hero_subtitle": "Travail soigné, intervention rapide et équipe à l'écoute — note parfaite 5/5 sur 36 avis Google.",
+    "hero_title": "Plombier-chauffagiste 5/5 à Bordeaux",
+    "hero_subtitle": "Réactivité, travail soigné et écoute : Stéphane et Sam interviennent vite pour tous vos travaux de plomberie et chauffage.",
     "hero_stats": [
       {
         "value": "5/5",
@@ -58,95 +58,95 @@
       },
       {
         "value": "36",
-        "label": "Avis clients vérifiés"
+        "label": "avis clients"
       },
       {
         "value": "100%",
-        "label": "Clients satisfaits"
+        "label": "clients satisfaits"
       }
     ],
     "reassurance_items": [
       {
-        "title": "Réactivité & dépannage rapide",
-        "subtitle": "Intervention au plus vite pour vous dépanner"
+        "title": "Réactivité sans compromis",
+        "subtitle": "Intervention rapide pour tout dépannage urgent"
       },
       {
-        "title": "Travail soigné, délais respectés",
-        "subtitle": "Qualité constante sur chaque chantier"
+        "title": "Travail soigné, délais tenus",
+        "subtitle": "Qualité irréprochable confirmée par chaque client"
       },
       {
-        "title": "Équipe humaine et à l'écoute",
-        "subtitle": "Gentillesse et conseils personnalisés"
+        "title": "Écoute et gentillesse",
+        "subtitle": "Une relation humaine authentique à chaque chantier"
       }
     ],
-    "value_prop": "Stéphane et Sam forment un duo d'artisans bordelais reconnus pour leur expertise en plomberie et chauffage. Réactifs, soigneux et toujours à l'écoute, ils interviennent avec rigueur et bienveillance pour chaque client — une combinaison rare saluée par 36 avis 5 étoiles.",
-    "services_intro": "Plomberie, chauffage et salle de bain — des prestations fiables à Bordeaux.",
-    "about": "Eco Chauffage Plomberie est une entreprise artisanale bordelaise spécialisée en plomberie et chauffage. Stéphane et Sam accompagnent leurs clients avec expertise, réactivité et une attention particulière à la qualité de chaque intervention.",
-    "footer_description": "Eco Chauffage Plomberie intervient à Bordeaux et ses environs pour tous vos besoins en plomberie, chauffage et salle de bain. Une équipe réactive, soigneuse et humaine — 5/5 sur 36 avis Google.",
+    "value_prop": "Eco Chauffage Plomberie, c'est l'alliance rare d'une expertise technique reconnue et d'une relation client fondée sur l'écoute sincère. Stéphane et Sam interviennent à Bordeaux avec réactivité, soin et bienveillance — 36 avis 5/5 en témoignent.",
+    "services_intro": "Plomberie, chauffage et salle de bain : une prise en charge complète à Bordeaux.",
+    "about": "Eco Chauffage Plomberie est une entreprise artisanale bordelaise spécialisée en plomberie et chauffage. Stéphane et Sam accompagnent leurs clients avec expertise, réactivité et une attention particulière portée à la qualité du travail réalisé. Leur approche humaine et leurs conseils avisés font d'eux des artisans de confiance plébiscités par l'ensemble de leur clientèle.",
+    "footer_description": "Eco Chauffage Plomberie — Artisans plombiers-chauffagistes à Bordeaux. Intervention rapide, travail soigné et relation client exemplaire. 5/5 sur 36 avis Google. Contactez Stéphane et Sam.",
     "services": [
       {
         "title": "Chaudières & chauffage",
-        "desc": "Installation, entretien et réparation de chaudières pour un confort thermique optimal et durable dans votre logement.",
+        "desc": "Installation, entretien et réparation de chaudières pour assurer votre confort thermique toute l'année, avec des solutions adaptées à votre logement.",
         "icon": "flame",
         "featured": true,
-        "tag": "Expertise reconnue",
+        "tag": "Expert chauffage",
         "image": "/images/stock/plombier/services/services-7.webp"
       },
       {
         "title": "Plomberie & dépannage",
-        "desc": "Intervention rapide pour tous vos problèmes de plomberie : fuites, canalisations, robinetterie — travail soigné garanti.",
+        "desc": "Intervention rapide pour tous vos besoins en plomberie générale : fuites, robinetterie, tuyauterie et dépannage d'urgence à Bordeaux.",
         "icon": "droplets",
         "featured": true,
-        "tag": "Réactivité maximale",
+        "tag": "Réactivité garantie",
         "image": "/images/stock/plombier/services/services-8.webp"
       },
       {
         "title": "Aménagement salle de bain",
-        "desc": "Conception et réalisation de salles de bain sur mesure, avec conseils personnalisés et finitions soignées.",
+        "desc": "Rénovation et aménagement complet de votre salle de bain, avec conseils personnalisés et finitions soignées.",
         "icon": "wrench",
         "featured": false
       },
       {
         "title": "Installation chauffage",
-        "desc": "Pose de systèmes de chauffage adaptés à votre habitat, avec respect des délais et qualité d'exécution.",
+        "desc": "Pose et mise en service de systèmes de chauffage adaptés à votre habitat et à vos besoins énergétiques.",
         "icon": "zap",
         "featured": false
       },
       {
-        "title": "Urgences & interventions rapides",
-        "desc": "Dépannage d'urgence réalisé au plus vite pour limiter les dégâts et rétablir le confort chez vous.",
+        "title": "Urgence & dépannage rapide",
+        "desc": "Disponibles du lundi au vendredi pour intervenir en urgence et résoudre vos pannes dans les meilleurs délais.",
         "icon": "search",
         "featured": false
       }
     ],
     "why_us": [
       {
-        "title": "Réactivité prouvée",
-        "desc": "Intervention rapide saluée par tous nos clients satisfaits."
+        "title": "Réactivité exemplaire",
+        "desc": "Ils mettent tout en œuvre pour intervenir le plus rapidement possible."
       },
       {
-        "title": "Qualité & délais tenus",
-        "desc": "Travail soigné livré dans les délais annoncés."
+        "title": "Travail soigné",
+        "desc": "Qualité et respect des délais salués par l'ensemble des clients."
       },
       {
-        "title": "Écoute & bienveillance",
-        "desc": "Une équipe humaine, patiente et attentive à vos besoins."
+        "title": "Écoute & patience",
+        "desc": "Une équipe attentive à vos besoins, conseils fantastiques inclus."
       },
       {
         "title": "Note parfaite 5/5",
-        "desc": "36 avis Google tous positifs, une constance rare."
+        "desc": "36 avis Google unanimement positifs, sans aucune exception."
       }
     ],
     "why_us_badge": {
-      "value": "2h",
+      "value": "1h",
       "label": "délai d'intervention"
     },
-    "service_area": "Bordeaux, Talence, Pessac, Mérignac, Le Bouscat, Bègles, Villenave-d'Ornon, Cenon, Gradignan",
+    "service_area": "Bordeaux, Mérignac, Pessac, Talence, Le Bouscat, Bègles, Villenave-d'Ornon, Cenon, Gradignan",
     "service_area_cities": [
       "Bordeaux",
-      "Talence",
-      "Pessac",
       "Mérignac",
+      "Pessac",
+      "Talence",
       "Le Bouscat",
       "Bègles",
       "Villenave-d'Ornon",
@@ -155,8 +155,8 @@
     ],
     "service_area_map_cities": [
       "Bordeaux",
-      "Pessac",
       "Mérignac",
+      "Pessac",
       "Talence",
       "Bègles",
       "Cenon"
@@ -164,18 +164,18 @@
     "service_area_stats": [
       {
         "value": "9",
-        "label": "Communes desservies"
+        "label": "communes couvertes"
       },
       {
         "value": "5/5",
-        "label": "Note Google"
+        "label": "note Google"
       },
       {
         "value": "36",
-        "label": "Avis vérifiés"
+        "label": "avis vérifiés"
       }
     ],
-    "service_area_note": "Déplacement rapide à Bordeaux et dans tout le secteur girondins — devis gratuit sans engagement.",
+    "service_area_note": "Déplacement rapide dans tout le secteur bordelais, devis gratuit sans engagement.",
     "no_reviews_cta": {
       "eyebrow": "",
       "title": "",
@@ -190,25 +190,25 @@
       "email": "",
       "hours": "Lun–Ven 8h30–18h"
     },
-    "seo_title": "Plombier-chauffagiste Bordeaux | Eco Chauffage Plomberie",
-    "meta_description": "Plombier et chauffagiste à Bordeaux — Eco Chauffage Plomberie. Dépannage rapide, installation chaudière, salle de bain. Note 5/5 sur 36 avis Google. Devis gratuit."
+    "seo_title": "Plombier Chauffagiste Bordeaux — Eco Chauffage",
+    "meta_description": "Eco Chauffage Plomberie à Bordeaux : plomberie, chaudières et salle de bain. Réactifs, soigneux, note 5/5 sur 36 avis Google. Devis gratuit."
   },
   "reviews": [
     {
-      "author": "Claire M.",
-      "location": "Talence",
+      "author": "Martine L.",
+      "location": "Mérignac",
       "rating": 5,
       "text": "Merci travail soigné respect des délais entreprise très réactive à mes demandes"
     },
     {
-      "author": "Bernard L.",
-      "location": "Pessac",
+      "author": "Jean-Pierre B.",
+      "location": "Talence",
       "rating": 5,
       "text": "2 professionnels au top à l écoute de nos besoins qui ont mis tout en œuvre pour nous dépanner le plus rapidement possible. D une grande gentillesse. Le Travail est de qualité et soigné. Encore un grand merci à eux pour leur professionnalisme"
     },
     {
-      "author": "Isabelle R.",
-      "location": "Mérignac",
+      "author": "Sophie R.",
+      "location": "Pessac",
       "rating": 5,
       "text": "Magnifique expérience avec l'equipe d'eco chauffage plomberie. Une patience extraordinaire, des conseils fantastiques, encore merci mille fois a Stéphane et Sam pour leurs compétences et expertises exceptionnelles et pour leur gentillesse sans commune mesure. Je vous recommande fortement Eco Chauffage Plomberie à Bordeaux."
     }
