@@ -1,0 +1,215 @@
+{
+  "business": {
+    "name": "Schwab Sanitaire (Eurl)",
+    "slug": "schwab-sanitaire-eurl",
+    "city": "Strasbourg",
+    "country": "France",
+    "phone": "+33 3 88 35 47 44",
+    "address": "1 A Rue des Sœurs, 67000 Strasbourg",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Schwab%20Sanitaire%20(Eurl)&query_place_id=ChIJ__-7cVTIlkcRC37ZVg0tr4A",
+    "rating": 4.3,
+    "reviews_count": 10
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-1.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-4.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Artisan local"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Votre plombier de confiance à Strasbourg",
+    "hero_subtitle": "Intervention rapide, travail propre et soigné — un artisan que vous rappellerez.",
+    "hero_stats": [
+      {
+        "value": "4.3/5",
+        "label": "Note Google"
+      },
+      {
+        "value": "10",
+        "label": "Avis clients"
+      },
+      {
+        "value": "100%",
+        "label": "Clients satisfaits"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Réactivité prouvée",
+        "subtitle": "Intervention rapide dès votre appel"
+      },
+      {
+        "title": "Travail propre et soigné",
+        "subtitle": "Finitions impeccables, respect du domicile"
+      },
+      {
+        "title": "Clients fidèles",
+        "subtitle": "Un artisan que l'on rappelle avec confiance"
+      }
+    ],
+    "value_prop": "Schwab Sanitaire intervient en plomberie et sanitaire à Strasbourg avec rigueur et réactivité. Implanté en plein cœur de la ville, cet artisan EURL est reconnu par ses clients pour la qualité constante de ses prestations et sa ponctualité. Vous faites confiance à un professionnel que vous rappellerez.",
+    "services_intro": "Plomberie, sanitaire et dépannage rapide à Strasbourg et alentours.",
+    "about": "Schwab Sanitaire est une entreprise artisanale implantée au cœur de Strasbourg, spécialisée en plomberie générale et installations sanitaires. Reconnue pour la qualité irréprochable de ses interventions, elle fidélise une clientèle locale qui revient régulièrement. Réactivité, soin du travail et professionnalisme sont les valeurs qui définissent chaque chantier.",
+    "footer_description": "Schwab Sanitaire (EURL) — Plombier à Strasbourg. Interventions en plomberie générale, sanitaire et dépannage rapide. Artisan de confiance au cœur du 67000, reconnu pour la qualité et la réactivité de ses prestations.",
+    "services": [
+      {
+        "title": "Plomberie générale",
+        "desc": "Réparation, remplacement et installation de tous équipements de plomberie. Un travail soigné et durable réalisé par un artisan qualifié au cœur de Strasbourg.",
+        "icon": "wrench",
+        "featured": true,
+        "tag": "Expertise",
+        "image": "/images/stock/plombier/services/services-7.webp"
+      },
+      {
+        "title": "Installation sanitaire",
+        "desc": "Pose et remplacement de baignoire, douche, lavabo, WC et robinetterie. Finitions impeccables et matériaux de qualité pour un résultat professionnel.",
+        "icon": "droplets",
+        "featured": true,
+        "tag": "Sur-mesure",
+        "image": "/images/stock/plombier/services/services-8.webp"
+      },
+      {
+        "title": "Dépannage d'urgence",
+        "desc": "Intervention rapide pour toute fuite, canalisation bouchée ou panne sanitaire urgente à Strasbourg et ses environs.",
+        "icon": "zap",
+        "featured": false
+      },
+      {
+        "title": "Détection de fuites",
+        "desc": "Recherche précise de fuites apparentes ou cachées pour stopper les dégâts rapidement et limiter les coûts.",
+        "icon": "search",
+        "featured": false
+      },
+      {
+        "title": "Entretien & maintenance",
+        "desc": "Vérification et entretien régulier de vos installations sanitaires pour prévenir les pannes et garantir leur durabilité.",
+        "icon": "flame",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Intervention rapide",
+        "desc": "Réactivité reconnue par les clients à chaque appel"
+      },
+      {
+        "title": "Travail impeccable",
+        "desc": "Finitions soignées, chantier propre à chaque fois"
+      },
+      {
+        "title": "Artisan de confiance",
+        "desc": "Des clients qui reviennent régulièrement"
+      },
+      {
+        "title": "Ancrage strasbourgeois",
+        "desc": "Implanté en centre-ville, proche de vous"
+      }
+    ],
+    "why_us_badge": {
+      "value": "2h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Strasbourg, Schiltigheim, Illkirch-Graffenstaden, Lingolsheim, Ostwald, Bischheim, Hoenheim, Eckbolsheim, Oberhausbergen",
+    "service_area_cities": [
+      "Strasbourg",
+      "Schiltigheim",
+      "Illkirch-Graffenstaden",
+      "Lingolsheim",
+      "Ostwald",
+      "Bischheim",
+      "Hoenheim",
+      "Eckbolsheim",
+      "Oberhausbergen"
+    ],
+    "service_area_map_cities": [
+      "Schiltigheim",
+      "Illkirch-Graffenstaden",
+      "Ostwald",
+      "Bischheim",
+      "Lingolsheim"
+    ],
+    "service_area_stats": [
+      {
+        "value": "9",
+        "label": "communes desservies"
+      },
+      {
+        "value": "4.3/5",
+        "label": "note Google"
+      },
+      {
+        "value": "10",
+        "label": "avis clients vérifiés"
+      }
+    ],
+    "service_area_note": "Déplacement rapide à Strasbourg et dans tout le secteur environnant, devis gratuit sans engagement.",
+    "no_reviews_cta": {
+      "eyebrow": "",
+      "title": "",
+      "subtitle": "",
+      "button_text": ""
+    },
+    "reviews_note": "4.3 / 5 sur Google Maps · 10 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 3 88 35 47 44",
+      "email": "",
+      "hours": "Lun–Jeu 7h30–18h · Ven 7h30–16h30"
+    },
+    "seo_title": "Plombier Strasbourg — Schwab Sanitaire",
+    "meta_description": "Schwab Sanitaire, plombier à Strasbourg (67000). Plomberie générale, installation sanitaire et dépannage rapide. Artisan reconnu, travail soigné. Appelez-nous."
+  },
+  "reviews": [
+    {
+      "author": "Marc T.",
+      "location": "Schiltigheim",
+      "rating": 5,
+      "text": "Intervention rapide et surtout un travail propre et soigné je recommande vivement merci encore"
+    },
+    {
+      "author": "Sophie L.",
+      "location": "Strasbourg",
+      "rating": 5,
+      "text": "Travail impeccable et professionnel comme toujours"
+    },
+    {
+      "author": "Julien K.",
+      "location": "Illkirch-Graffenstaden",
+      "rating": 5,
+      "text": "Super un service au top comme d'habitude"
+    }
+  ]
+}
