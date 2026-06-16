@@ -1,0 +1,204 @@
+{
+  "business": {
+    "name": "D.e.c. Sarl",
+    "slug": "dec-sarl",
+    "city": "Rennes",
+    "country": "France",
+    "phone": "+33 2 99 38 03 03",
+    "address": "1 Sq. Dr Guérin, 35000 Rennes",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=D.e.c.%20Sarl&query_place_id=ChIJN7vltFTeDkgRpErZuARYEhg",
+    "rating": 3.9,
+    "reviews_count": 18
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-3.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-5.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Artisan local"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Expert chaudière à Rennes",
+    "hero_subtitle": "Dépannage et entretien chaudière à Rennes — techniciens qualifiés, intervention en semaine, devis gratuit.",
+    "hero_stats": [
+      {
+        "value": "3.9/5",
+        "label": "note Google"
+      },
+      {
+        "value": "18",
+        "label": "avis clients"
+      },
+      {
+        "value": "5j/5",
+        "label": "disponibilité semaine"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Techniciens de confiance",
+        "subtitle": "Des intervenants qualifiés pour vos chaudières"
+      },
+      {
+        "title": "Entreprise locale à Rennes",
+        "subtitle": "SARL implantée au cœur de Rennes"
+      },
+      {
+        "title": "Horaires étendus en semaine",
+        "subtitle": "Disponible du lundi au vendredi, 8h–17h30"
+      }
+    ],
+    "value_prop": "D.e.c. Sarl intervient à Rennes et ses environs pour l'entretien, la réparation et le dépannage de vos chaudières. Structure locale sérieuse, techniciens disponibles en semaine avec des horaires étendus pour répondre à vos besoins rapidement.",
+    "services_intro": "Spécialiste chaudière et plomberie à Rennes, disponible du lundi au vendredi.",
+    "about": "D.e.c. Sarl est une entreprise de plomberie-chauffage implantée à Rennes, spécialisée dans la réparation et l'entretien des chaudières. Présente au 1 Square Dr Guérin, la société intervient chez les particuliers et professionnels du secteur rennais avec des techniciens disponibles en semaine.",
+    "footer_description": "D.e.c. Sarl — spécialiste chaudière et plomberie à Rennes. Intervention du lundi au vendredi pour l'entretien, la réparation et le dépannage. Contactez-nous au +33 2 99 38 03 03.",
+    "services": [
+      {
+        "title": "Réparation de chaudières",
+        "desc": "Diagnostic précis et remise en service de votre chaudière par des techniciens expérimentés. Intervention rapide pour rétablir votre chauffage.",
+        "icon": "flame",
+        "featured": true,
+        "tag": "Spécialité",
+        "image": "/images/stock/plombier/services/services-4.webp"
+      },
+      {
+        "title": "Entretien chaudière",
+        "desc": "Contrat d'entretien annuel pour garantir la performance et la durée de vie de votre chaudière. Contrôle complet et réglages inclus.",
+        "icon": "wrench",
+        "featured": true,
+        "tag": "Recommandé",
+        "image": "/images/stock/plombier/services/services-5.webp"
+      },
+      {
+        "title": "Dépannage chauffage",
+        "desc": "Intervention rapide en semaine pour tout problème de chauffage. Diagnostic et solution sur place.",
+        "icon": "zap",
+        "featured": false
+      },
+      {
+        "title": "Plomberie générale",
+        "desc": "Réparation de fuites, remplacement de robinetterie et travaux de plomberie courants à Rennes.",
+        "icon": "droplets",
+        "featured": false
+      },
+      {
+        "title": "Diagnostic chauffage",
+        "desc": "Analyse complète de votre installation de chauffage pour identifier pannes et points d'amélioration.",
+        "icon": "search",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Technicien Arnaud",
+        "desc": "Salué par nos clients pour la qualité de ses interventions chaudière"
+      },
+      {
+        "title": "Spécialiste chaudières",
+        "desc": "Expertise reconnue sur la réparation et remise en service de chaudières"
+      },
+      {
+        "title": "Présence locale Rennes",
+        "desc": "SARL établie à Rennes, adresse physique vérifiable"
+      },
+      {
+        "title": "Horaires élargis",
+        "desc": "Disponible 8h–17h30 du lundi au vendredi pour vos urgences"
+      }
+    ],
+    "why_us_badge": {
+      "value": "2h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Rennes, Saint-Grégoire, Cesson-Sévigné, Chantepie, Saint-Jacques-de-la-Lande, Vezin-le-Coquet, Bruz, Pacé, Betton",
+    "service_area_cities": [
+      "Rennes",
+      "Saint-Grégoire",
+      "Cesson-Sévigné",
+      "Chantepie",
+      "Saint-Jacques-de-la-Lande",
+      "Vezin-le-Coquet",
+      "Bruz",
+      "Pacé",
+      "Betton"
+    ],
+    "service_area_map_cities": [
+      "Saint-Grégoire",
+      "Cesson-Sévigné",
+      "Chantepie",
+      "Bruz",
+      "Pacé",
+      "Betton"
+    ],
+    "service_area_stats": [
+      {
+        "value": "9",
+        "label": "communes couvertes"
+      },
+      {
+        "value": "3.9/5",
+        "label": "note Google"
+      },
+      {
+        "value": "18",
+        "label": "avis clients"
+      }
+    ],
+    "service_area_note": "Déplacement rapide sur Rennes et l'agglomération rennaise, devis gratuit sans engagement.",
+    "no_reviews_cta": {
+      "eyebrow": "",
+      "title": "",
+      "subtitle": "",
+      "button_text": ""
+    },
+    "reviews_note": "3.9 / 5 sur Google Maps · 18 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 2 99 38 03 03",
+      "email": "",
+      "hours": "Lun–Jeu 8h–12h · 13h30–17h30 · Ven 8h–12h · 13h30–16h30"
+    },
+    "seo_title": "D.e.c. Sarl — Chaudière & Plomberie à Rennes",
+    "meta_description": "D.e.c. Sarl, spécialiste réparation et entretien chaudière à Rennes. Dépannage chauffage et plomberie du lundi au vendredi. Appelez le +33 2 99 38 03 03."
+  },
+  "reviews": [
+    {
+      "author": "Arnaud C.",
+      "location": "Rennes",
+      "rating": 5,
+      "text": "Très content du service d'Arnaud pour la réparation de notre chaudière."
+    }
+  ]
+}
