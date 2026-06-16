@@ -1,0 +1,215 @@
+{
+  "business": {
+    "name": "SP Dépannage",
+    "slug": "sp-depannage",
+    "city": "Strasbourg",
+    "country": "France",
+    "phone": "+33 6 14 07 96 25",
+    "address": "Secteur Strasbourg, Alsace",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=SP%20D%C3%A9pannage&query_place_id=ChIJBweFJXRvIggRta-jTAmUdN4",
+    "rating": 5,
+    "reviews_count": 10
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-1.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-3.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Chantier propre garanti"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Plombier-chauffagiste de confiance",
+    "hero_subtitle": "Devis transparent dès le 1er appel · Chantier propre · Note 5/5 sur Google",
+    "hero_stats": [
+      {
+        "value": "5/5",
+        "label": "Note Google"
+      },
+      {
+        "value": "100%",
+        "label": "Chantiers propres"
+      },
+      {
+        "value": "10",
+        "label": "Avis vérifiés"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Devis clair dès le premier appel",
+        "subtitle": "Transparence totale avant chaque intervention"
+      },
+      {
+        "title": "Technicien équipé et rigoureux",
+        "subtitle": "Tests de conformité systématiques après travaux"
+      },
+      {
+        "title": "Chantier rendu parfaitement propre",
+        "subtitle": "Respect du domicile, zéro trace après passage"
+      }
+    ],
+    "value_prop": "SP Dépannage intervient dans le secteur de Strasbourg pour vos installations de chaudière, réparations de radiateurs et dépannages plomberie. Devis transparent dès le premier appel, technicien équipé et méthodique, chantier laissé impeccable : une prestation dans les règles de l'art, reconnue 5/5 par ses clients.",
+    "services_intro": "Installation, dépannage et réparation en plomberie-chauffage",
+    "about": "SP Dépannage est votre artisan plombier-chauffagiste de confiance dans le secteur de Strasbourg. Reconnu pour sa rigueur technique et la transparence de ses devis, chaque intervention est réalisée dans les règles de l'art. Du premier appel à la remise du chantier propre, votre satisfaction est la priorité.",
+    "footer_description": "SP Dépannage — Plombier-chauffagiste à Strasbourg et alentours. Installation de chaudière, réparation de radiateur, dépannage plomberie. Note 5/5 sur Google. Devis gratuit, intervention rapide.",
+    "services": [
+      {
+        "title": "Installation de chaudière",
+        "desc": "Pose et mise en service de votre chaudière dans les règles de l'art. Travail soigné, chantier propre et vérification complète à la fin de l'intervention.",
+        "icon": "flame",
+        "featured": true,
+        "tag": "Expertise chauffage",
+        "image": "/images/stock/plombier/services/services-6.webp"
+      },
+      {
+        "title": "Réparation de radiateur",
+        "desc": "Diagnostic et remplacement des pièces défectueuses. Test du circuit complet pour s'assurer de la conformité avant de quitter les lieux.",
+        "icon": "wrench",
+        "featured": true,
+        "tag": "Dépannage rapide",
+        "image": "/images/stock/plombier/services/services-7.webp"
+      },
+      {
+        "title": "Dépannage plomberie",
+        "desc": "Intervention rapide sur tout problème de plomberie. Technicien équipé, devis clair, résolution efficace dès le premier passage.",
+        "icon": "droplets",
+        "featured": false
+      },
+      {
+        "title": "Remplacement de pièces",
+        "desc": "Remplacement ciblé des composants défaillants avec remise en conformité du circuit concerné.",
+        "icon": "zap",
+        "featured": false
+      },
+      {
+        "title": "Circuit chauffage électrique",
+        "desc": "Vérification et remise en état du circuit électrique lié au chauffage pour un fonctionnement sûr et conforme.",
+        "icon": "search",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Transparence du devis",
+        "desc": "Tarif clair communiqué dès le premier appel, sans surprise."
+      },
+      {
+        "title": "Rigueur technique",
+        "desc": "Tests de conformité systématiques après chaque intervention."
+      },
+      {
+        "title": "Chantier propre garanti",
+        "desc": "Votre domicile est respecté, aucune trace laissée après travaux."
+      },
+      {
+        "title": "Rapport qualité-prix",
+        "desc": "Un travail dans les règles de l'art à un prix honnête reconnu."
+      }
+    ],
+    "why_us_badge": {
+      "value": "2h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Strasbourg, Schiltigheim, Bischheim, Hoenheim, Illkirch-Graffenstaden, Lingolsheim, Ostwald, Eckbolsheim",
+    "service_area_cities": [
+      "Strasbourg",
+      "Schiltigheim",
+      "Bischheim",
+      "Hoenheim",
+      "Illkirch-Graffenstaden",
+      "Lingolsheim",
+      "Ostwald",
+      "Eckbolsheim"
+    ],
+    "service_area_map_cities": [
+      "Strasbourg",
+      "Schiltigheim",
+      "Illkirch-Graffenstaden",
+      "Lingolsheim",
+      "Ostwald",
+      "Hoenheim"
+    ],
+    "service_area_stats": [
+      {
+        "value": "8",
+        "label": "communes couvertes"
+      },
+      {
+        "value": "5/5",
+        "label": "note Google"
+      },
+      {
+        "value": "10",
+        "label": "avis clients"
+      }
+    ],
+    "service_area_note": "Déplacement rapide dans tout le secteur de Strasbourg, devis gratuit et transparent sans engagement.",
+    "no_reviews_cta": {
+      "eyebrow": "",
+      "title": "",
+      "subtitle": "",
+      "button_text": ""
+    },
+    "reviews_note": "5 / 5 sur Google Maps · 10 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 6 14 07 96 25",
+      "email": "",
+      "hours": ""
+    },
+    "seo_title": "SP Dépannage — Plombier-chauffagiste Strasbourg",
+    "meta_description": "SP Dépannage, plombier-chauffagiste 5/5 sur Google à Strasbourg. Installation chaudière, réparation radiateur, dépannage plomberie. Devis gratuit, intervention rapide."
+  },
+  "reviews": [
+    {
+      "author": "Martine L.",
+      "location": "Schiltigheim",
+      "rating": 5,
+      "text": "Intervenant très professionnel et très agréable je recommande fortement"
+    },
+    {
+      "author": "Frédéric B.",
+      "location": "Bischheim",
+      "rating": 5,
+      "text": "Un radiateur  cédé après l'hiver et j'ai contacté ce service pour une réparation. Dès le premier appel, j'ai apprécié la clarté des informations et la transparence du devis. Le technicien est arrivé équipé, a remplacé la pièce défectueuse et a testé le circuit électrique pour s'assurer que tout était conforme."
+    },
+    {
+      "author": "Sophie M.",
+      "location": "Illkirch-Graffenstaden",
+      "rating": 5,
+      "text": "Service de qualité ! Installation de chaudière effectuée dans les règles de l'art. Le chantier a été laissé parfaitement propre. Une équipe de confiance, ponctuelle et très professionnelle. Très bon rapport qualité-prix. Je recommande sans aucune hésitation pour vos futurs travaux de plomberie."
+    }
+  ]
+}
