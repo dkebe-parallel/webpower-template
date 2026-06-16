@@ -140,7 +140,7 @@ JSON ATTENDU:
     max_tokens: 2000,
     system: "Tu es un consultant expert en marketing local et en analyse d'entreprises artisanales françaises. Tu analyses en profondeur les données d'une entreprise pour en extraire l'essence commerciale. Tu produis uniquement du JSON valide.",
     messages: [{ role: 'user', content: userPrompt }],
-  })
+  }, { timeout: 90_000 })
 
   return JSON.parse(extractJSON(message.content[0].text))
 }
@@ -356,7 +356,7 @@ STRUCTURE JSON COMPLÈTE ATTENDUE:
     max_tokens: 4000,
     system: "Tu es un directeur artistique et copywriter expert en sites web pour artisans français. Tu génères des sites sur mesure, crédibles, qui respectent un cahier des charges strict. Tu produis UNIQUEMENT du JSON valide conforme au schéma fourni, sans texte avant ou après, sans backticks.",
     messages: [{ role: 'user', content: userPrompt }],
-  })
+  }, { timeout: 90_000 })
 
   return JSON.parse(extractJSON(message.content[0].text))
 }
