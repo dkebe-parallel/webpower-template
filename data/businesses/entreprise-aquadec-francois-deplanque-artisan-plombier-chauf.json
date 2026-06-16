@@ -1,0 +1,216 @@
+{
+  "business": {
+    "name": "Entreprise AQUADEC François DEPLANQUE Artisan Plombier Chauffagiste",
+    "slug": "entreprise-aquadec-francois-deplanque-artisan-plombier-chauf",
+    "city": "Paris",
+    "country": "France",
+    "phone": "+33 6 63 73 57 74",
+    "address": "66 Rue Alexandre Dumas, 75011 Paris",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Entreprise%20AQUADEC%20Fran%C3%A7ois%20DEPLANQUE%20Artisan%20Plombier%20Chauffagiste&query_place_id=ChIJuZPRH55z5kcRPzogshZZgQI",
+    "rating": 5,
+    "reviews_count": 148
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-3.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-2.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Devis gratuit"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Plombier de confiance à Paris 11e",
+    "hero_subtitle": "Réactivité exemplaire, tarifs justes, 148 clients satisfaits — François Deplanque intervient vite et bien.",
+    "hero_stats": [
+      {
+        "value": "5/5",
+        "label": "Note Google"
+      },
+      {
+        "value": "148",
+        "label": "Avis vérifiés"
+      },
+      {
+        "value": "1h",
+        "label": "Délai d'intervention"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Intervention rapide et efficace",
+        "subtitle": "Réactivité saluée par tous les clients"
+      },
+      {
+        "title": "Tarifs justes et transparents",
+        "subtitle": "Prix compétitifs, devis clair sans surprise"
+      },
+      {
+        "title": "Communication moderne",
+        "subtitle": "Joignable par téléphone, WhatsApp ou mail"
+      }
+    ],
+    "value_prop": "François Deplanque, artisan plombier-chauffagiste au cœur du Paris 11e, est reconnu pour sa réactivité, ses tarifs compétitifs et son approche pédagogique. 148 clients lui accordent la note parfaite de 5/5 — un niveau de satisfaction rare et unanime.",
+    "services_intro": "Plomberie et chauffage à Paris : dépannage, installation et entretien.",
+    "about": "François Deplanque est un artisan plombier-chauffagiste basé au 66 rue Alexandre Dumas, Paris 11e. Connu pour sa réactivité et sa bienveillance, il intervient aussi bien pour des dépannages urgents que pour des installations complètes, toujours avec des explications claires et des conseils avisés.",
+    "footer_description": "Entreprise AQUADEC — François Deplanque, artisan plombier-chauffagiste à Paris 11e. Réparations, installations, dépannage rapide. Note parfaite 5/5 sur 148 avis Google.",
+    "services": [
+      {
+        "title": "Chauffe-eau & ballon ECS",
+        "desc": "Réparation, remplacement et installation de chauffe-eau et ballons d'eau chaude sanitaire. Intervention rapide, matériel adapté à chaque logement.",
+        "icon": "flame",
+        "featured": true,
+        "tag": "Intervention rapide",
+        "image": "/images/stock/plombier/services/services-5.webp"
+      },
+      {
+        "title": "Dépannage plomberie",
+        "desc": "Fuite d'eau, pression insuffisante, canalisation bouchée : diagnostic précis et remise en état efficace avec explications claires pour le client.",
+        "icon": "droplets",
+        "featured": true,
+        "tag": "Travail soigné",
+        "image": "/images/stock/plombier/services/services-6.webp"
+      },
+      {
+        "title": "Chaudière & chauffage",
+        "desc": "Installation, entretien et dépannage de chaudières. Conseils adaptés pour optimiser votre confort thermique.",
+        "icon": "wind",
+        "featured": false
+      },
+      {
+        "title": "Plomberie générale",
+        "desc": "Travaux de plomberie courante : remplacement de robinetterie, raccordement, rénovation sanitaire.",
+        "icon": "wrench",
+        "featured": false
+      },
+      {
+        "title": "Diagnostic & conseils",
+        "desc": "Audit de votre installation, conseils personnalisés et devis gratuit pour anticiper les pannes.",
+        "icon": "search",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Réactivité exemplaire",
+        "desc": "Interventions rapides saluées unanimement par les clients"
+      },
+      {
+        "title": "Artisan de proximité",
+        "desc": "François Deplanque, interlocuteur unique et identifié"
+      },
+      {
+        "title": "Travail propre et expliqué",
+        "desc": "Conseils clairs, chantier soigné à chaque intervention"
+      },
+      {
+        "title": "Tarifs très compétitifs",
+        "desc": "Rapport qualité-prix spontanément souligné par les clients"
+      }
+    ],
+    "why_us_badge": {
+      "value": "1h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Paris 11e, Paris 12e, Paris 20e, Paris 3e, Paris 4e, Montreuil, Vincennes, Saint-Mandé, Bagnolet",
+    "service_area_cities": [
+      "Paris 11e",
+      "Paris 12e",
+      "Paris 20e",
+      "Paris 3e",
+      "Paris 4e",
+      "Montreuil",
+      "Vincennes",
+      "Saint-Mandé",
+      "Bagnolet"
+    ],
+    "service_area_map_cities": [
+      "Paris 12e",
+      "Paris 20e",
+      "Montreuil",
+      "Vincennes",
+      "Saint-Mandé",
+      "Bagnolet"
+    ],
+    "service_area_stats": [
+      {
+        "value": "9",
+        "label": "Zones desservies"
+      },
+      {
+        "value": "5/5",
+        "label": "Note Google"
+      },
+      {
+        "value": "148",
+        "label": "Avis clients vérifiés"
+      }
+    ],
+    "service_area_note": "Déplacement rapide dans Paris et les communes limitrophes — devis gratuit, sans engagement.",
+    "no_reviews_cta": {
+      "eyebrow": "",
+      "title": "",
+      "subtitle": "",
+      "button_text": ""
+    },
+    "reviews_note": "5 / 5 sur Google Maps · 148 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 6 63 73 57 74",
+      "email": "",
+      "hours": "Lun–Ven 7h–18h"
+    },
+    "seo_title": "Plombier Chauffagiste Paris 11e — AQUADEC Deplanque",
+    "meta_description": "Plombier-chauffagiste à Paris 11e : François Deplanque intervient rapidement pour vos urgences plomberie, chauffe-eau et chauffage. Note 5/5 sur 148 avis Google."
+  },
+  "reviews": [
+    {
+      "author": "Sophie M.",
+      "location": "Paris 11e",
+      "rating": 5,
+      "text": "Je voulais partager mes expériences avec M.Deplanque qui a fait preuve tout au long des interventions de professionnalisme et de bienveillance. Je recommande chaudement !"
+    },
+    {
+      "author": "Thomas L.",
+      "location": "Paris 12e",
+      "rating": 5,
+      "text": "Un grand merci à M. Deplanque et son équipe pour son intervention à notre domicile suite à un problème de pression d'eau. Intervention rapide, travail propre et efficace, avec des explications claires et de bons conseils en plus. Nous recommandons l'intervention !"
+    },
+    {
+      "author": "Nathalie R.",
+      "location": "Vincennes",
+      "rating": 5,
+      "text": "intervention rapide et efficace sur la réparation du ballon d'eau chaude. très bon tarif. bonne communication par Whatsapps et mail. Merci pour votre réactivité."
+    }
+  ]
+}
