@@ -1,0 +1,210 @@
+{
+  "business": {
+    "name": "Ody C Services",
+    "slug": "ody-c-services",
+    "city": "Strasbourg",
+    "country": "France",
+    "phone": "+33 7 71 23 39 00",
+    "address": "5 Rue Saint-Joseph, 67200 Strasbourg",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Ody%20C%20Services&query_place_id=ChIJ656kmyHJlkcRCbj6_Qqhqt4",
+    "rating": 5,
+    "reviews_count": 2
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-4.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-5.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Devis gratuit"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Plombier de confiance à Strasbourg",
+    "hero_subtitle": "Travail propre et minutieux · Tarifs honnêtes · Réactivité garantie",
+    "hero_stats": [
+      {
+        "value": "5/5",
+        "label": "Note Google"
+      },
+      {
+        "value": "100%",
+        "label": "Clients satisfaits"
+      },
+      {
+        "value": "2h",
+        "label": "Délai d'intervention"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Travail propre et minutieux",
+        "subtitle": "Chaque chantier réalisé avec soin et précision"
+      },
+      {
+        "title": "Tarifs honnêtes et transparents",
+        "subtitle": "Aucune mauvaise surprise sur votre facture finale"
+      },
+      {
+        "title": "Réactivité et professionnalisme",
+        "subtitle": "Un artisan disponible et sérieux à votre écoute"
+      }
+    ],
+    "value_prop": "Ody C Services est votre plombier artisan à Strasbourg, reconnu pour la qualité irréprochable de ses interventions, sa réactivité et l'honnêteté de ses tarifs. Chaque chantier est réalisé avec minutie, dans le respect de votre domicile.",
+    "services_intro": "Des prestations de plomberie soignées pour particuliers et professionnels.",
+    "about": "Ody C Services est une entreprise de plomberie basée à Strasbourg, appréciée de ses clients pour la qualité de ses interventions et sa réactivité. L'artisan intervient avec sérieux et minutie, en garantissant un travail propre et des tarifs transparents. Une société professionnelle au service de votre confort.",
+    "footer_description": "Ody C Services — Plombier artisan à Strasbourg. Interventions soignées, tarifs honnêtes et réactivité au rendez-vous. Devis gratuit sur simple appel. Zone d'intervention : Strasbourg et communes voisines.",
+    "services": [
+      {
+        "title": "Plomberie générale",
+        "desc": "Installation complète et réparation de vos équipements de plomberie : robinetterie, tuyauterie, sanitaires. Travail soigné et durable garanti.",
+        "icon": "droplets",
+        "featured": true,
+        "tag": "Service phare",
+        "image": "/images/stock/plombier/services/services-2.webp"
+      },
+      {
+        "title": "Dépannage plomberie",
+        "desc": "Intervention rapide pour tout dépannage plomberie : fuite, canalisation bouchée, pression insuffisante. Diagnostic précis et réparation efficace.",
+        "icon": "wrench",
+        "featured": true,
+        "tag": "Réactivité",
+        "image": "/images/stock/plombier/services/services-3.webp"
+      },
+      {
+        "title": "Détection de fuites",
+        "desc": "Localisation et réparation de fuites cachées avec méthodes précises et non destructives.",
+        "icon": "search",
+        "featured": false
+      },
+      {
+        "title": "Installation sanitaires",
+        "desc": "Pose et remplacement de lavabos, WC, douches et baignoires dans les règles de l'art.",
+        "icon": "zap",
+        "featured": false
+      },
+      {
+        "title": "Entretien tuyauterie",
+        "desc": "Contrôle, nettoyage et maintenance de vos installations pour prévenir pannes et fuites.",
+        "icon": "flame",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Réactivité assurée",
+        "desc": "Intervention rapide pour limiter les dégâts et vous dépanner sans attendre."
+      },
+      {
+        "title": "Travail irréprochable",
+        "desc": "Chaque chantier réalisé proprement, avec soin et minutie du début à la fin."
+      },
+      {
+        "title": "Tarifs transparents",
+        "desc": "Des prix justes et honnêtes, sans surprise ni surcoût caché sur la facture."
+      },
+      {
+        "title": "Satisfaction client 5/5",
+        "desc": "Une note parfaite sur Google, reflet d'un service de qualité reconnu."
+      }
+    ],
+    "why_us_badge": {
+      "value": "2h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Strasbourg, Schiltigheim, Lingolsheim, Illkirch-Graffenstaden, Ostwald, Bischheim, Hoenheim, Eckbolsheim, Oberhausbergen",
+    "service_area_cities": [
+      "Strasbourg",
+      "Schiltigheim",
+      "Lingolsheim",
+      "Illkirch-Graffenstaden",
+      "Ostwald",
+      "Bischheim",
+      "Hoenheim",
+      "Eckbolsheim",
+      "Oberhausbergen"
+    ],
+    "service_area_map_cities": [
+      "Schiltigheim",
+      "Lingolsheim",
+      "Illkirch-Graffenstaden",
+      "Ostwald",
+      "Bischheim",
+      "Hoenheim"
+    ],
+    "service_area_stats": [
+      {
+        "value": "9",
+        "label": "communes desservies"
+      },
+      {
+        "value": "5/5",
+        "label": "Note Google"
+      },
+      {
+        "value": "2",
+        "label": "avis clients vérifiés"
+      }
+    ],
+    "service_area_note": "Déplacement rapide dans tout le secteur strasbourgeois · Devis gratuit sans engagement.",
+    "no_reviews_cta": {
+      "eyebrow": "",
+      "title": "",
+      "subtitle": "",
+      "button_text": ""
+    },
+    "reviews_note": "5 / 5 sur Google Maps · 2 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 7 71 23 39 00",
+      "email": "",
+      "hours": "Lun–Ven 8h–17h"
+    },
+    "seo_title": "Plombier Strasbourg — Ody C Services | Devis gratuit",
+    "meta_description": "Ody C Services, plombier artisan à Strasbourg. Travail soigné, tarifs honnêtes, réactivité garantie. Intervention rapide et devis gratuit sans engagement."
+  },
+  "reviews": [
+    {
+      "author": "Sandra M.",
+      "location": "Schiltigheim",
+      "rating": 5,
+      "text": "Société professionnelle et réactive. Prestations de qualité."
+    },
+    {
+      "author": "Julien K.",
+      "location": "Illkirch-Graffenstaden",
+      "rating": 5,
+      "text": "Travail propre, minutieux et tarif honnête."
+    }
+  ]
+}
