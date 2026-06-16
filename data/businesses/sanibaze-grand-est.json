@@ -2,10 +2,10 @@
   "business": {
     "name": "Sanibaze grand-est",
     "slug": "sanibaze-grand-est",
-    "city": "Strasbourg",
+    "city": "Grand Est",
     "country": "France",
     "phone": "+33 6 84 91 50 53",
-    "address": "Grand Est, France",
+    "address": "Région Grand Est, France",
     "maps_url": "https://www.google.com/maps/search/?api=1&query=Sanibaze%20grand-est&query_place_id=ChIJ4QxHDr-PSIMRgsqicBz_rM8",
     "rating": 5,
     "reviews_count": 4
@@ -49,8 +49,8 @@
     "enabled_blocks": []
   },
   "content": {
-    "hero_title": "Le plombier réactif du Grand Est",
-    "hero_subtitle": "Intervention rapide, suivi complet du chantier · Note 5/5 · 100% de clients satisfaits",
+    "hero_title": "Plombier réactif dans le Grand Est",
+    "hero_subtitle": "Intervention rapide, suivi complet, 5/5 sur Google — votre plombier de confiance.",
     "hero_stats": [
       {
         "value": "5/5",
@@ -67,74 +67,74 @@
     ],
     "reassurance_items": [
       {
-        "title": "Réactivité immédiate",
-        "subtitle": "Un plombier disponible et rapide quand vous en avez besoin"
+        "title": "Réactivité garantie",
+        "subtitle": "Intervention rapide dès le premier appel"
       },
       {
-        "title": "Suivi de bout en bout",
-        "subtitle": "Accompagnement complet du début à la fin de chaque chantier"
+        "title": "Suivi du début à la fin",
+        "subtitle": "Prise en charge complète sans faille"
       },
       {
-        "title": "Sérieux & professionnalisme",
-        "subtitle": "Travail consciencieux reconnu par chaque client satisfait"
+        "title": "Professionnel reconnu",
+        "subtitle": "Sérieux et consciencieux, 100% recommandé"
       }
     ],
-    "value_prop": "Sanibaze Grand Est intervient sur tout le Grand Est avec une réactivité saluée par 100 % de ses clients. Plomberie, dépannage, installation sanitaire : chaque mission est menée avec sérieux, du premier contact jusqu'à la fin des travaux.",
-    "services_intro": "Plomberie, dépannage et installation sanitaire dans le Grand Est",
-    "about": "Sanibaze Grand Est est un plombier mobile opérant dans l'ensemble de la région Grand Est, avec un ancrage particulier autour de Strasbourg. Reconnu pour sa réactivité et son professionnalisme, il accompagne ses clients du diagnostic jusqu'à la réception des travaux. Chaque intervention est réalisée avec soin et un souci constant de la satisfaction client.",
-    "footer_description": "Sanibaze Grand Est — Plombier réactif et professionnel intervenant dans tout le Grand Est. Dépannage, installation sanitaire et plomberie générale. Note 5/5 · 100% de clients qui recommandent.",
+    "value_prop": "Sanibaze Grand Est, c'est un plombier réactif et consciencieux qui intervient sur l'ensemble de la région. Note parfaite de 5/5, 100 % de recommandations clients : chaque chantier est suivi du premier contact jusqu'à la fin, sans compromis sur la qualité.",
+    "services_intro": "Plomberie, dépannage et installation sanitaire dans le Grand Est.",
+    "about": "Sanibaze Grand Est est un plombier professionnel intervenant sur toute la région Grand Est. Reconnu pour sa réactivité et son sérieux, il accompagne ses clients du premier contact jusqu'à la fin de chaque intervention. Sa note parfaite de 5/5 sur Google témoigne d'un engagement sans faille envers la satisfaction client.",
+    "footer_description": "Sanibaze Grand Est — plombier réactif et consciencieux sur Strasbourg et toute la région. Dépannage, installation sanitaire et plomberie générale. Note 5/5 Google.",
     "services": [
       {
         "title": "Plomberie générale",
-        "desc": "Prise en charge complète de vos travaux de plomberie : remplacement de canalisations, robinetterie, réparations et mise aux normes pour particuliers et professionnels.",
+        "desc": "Tous travaux de plomberie : réparations, remplacement de tuyauteries, interventions ponctuelles ou complètes réalisées avec soin et professionnalisme.",
         "icon": "wrench",
         "featured": true,
-        "tag": "Essentiel",
+        "tag": "Expertise",
         "image": "/images/stock/plombier/services/services-4.webp"
       },
       {
         "title": "Dépannage plomberie",
-        "desc": "Intervention rapide en cas de fuite, canalisation bouchée ou panne urgente. Réactivité immédiate pour limiter les dégâts et rétablir le confort rapidement.",
+        "desc": "Intervention rapide pour toute urgence plomberie : fuite, canalisation bouchée, pression insuffisante. Réactivité maximale pour limiter les dégâts.",
         "icon": "zap",
         "featured": true,
-        "tag": "Urgence",
+        "tag": "Réactivité",
         "image": "/images/stock/plombier/services/services-5.webp"
       },
       {
         "title": "Installation sanitaire",
-        "desc": "Pose et raccordement de sanitaires : lavabo, WC, douche, baignoire. Installation soignée et conforme aux normes en vigueur.",
+        "desc": "Pose et remplacement de sanitaires : WC, lavabo, douche, baignoire. Travail soigné et finitions impeccables.",
         "icon": "droplets",
         "featured": false
       },
       {
-        "title": "Détection de fuites",
-        "desc": "Localisation précise des fuites apparentes ou cachées pour une réparation ciblée et sans travaux inutiles.",
+        "title": "Diagnostic & recherche de fuites",
+        "desc": "Détection précise des fuites et diagnostics complets pour anticiper les problèmes avant qu'ils s'aggravent.",
         "icon": "search",
         "featured": false
       },
       {
         "title": "Entretien & maintenance",
-        "desc": "Vérification régulière de vos installations pour prévenir les pannes et prolonger la durée de vie de vos équipements.",
+        "desc": "Entretien préventif de vos installations pour garantir leur durabilité et éviter les pannes imprévues.",
         "icon": "wind",
         "featured": false
       }
     ],
     "why_us": [
       {
-        "title": "Réactivité exemplaire",
-        "desc": "Cité dans chaque avis : un plombier disponible et rapide."
+        "title": "Réactivité immédiate",
+        "desc": "Disponible rapidement, il intervient vite pour réduire les dommages."
       },
       {
-        "title": "Professionnel & sérieux",
-        "desc": "Travail consciencieux reconnu par l'ensemble des clients."
+        "title": "Note parfaite 5/5",
+        "desc": "100 % de clients satisfaits, recommandé dans chaque avis Google."
       },
       {
         "title": "Suivi complet",
-        "desc": "Accompagnement du début à la fin, sans laisser-aller."
+        "desc": "Prise en charge totale du début à la fin de chaque intervention."
       },
       {
-        "title": "100% recommandé",
-        "desc": "Chaque client repart satisfait et recommande sans hésiter."
+        "title": "Sérieux & consciencieux",
+        "desc": "Professionnel rigoureux, qualificatifs unanimes des clients."
       }
     ],
     "why_us_badge": {
@@ -156,14 +156,14 @@
       "Strasbourg",
       "Schiltigheim",
       "Illkirch-Graffenstaden",
-      "Lingolsheim",
       "Ostwald",
-      "Bischheim"
+      "Bischheim",
+      "Hoenheim"
     ],
     "service_area_stats": [
       {
         "value": "8+",
-        "label": "Communes desservies"
+        "label": "Communes couvertes"
       },
       {
         "value": "5/5",
@@ -174,7 +174,7 @@
         "label": "Avis clients vérifiés"
       }
     ],
-    "service_area_note": "Déplacement rapide dans tout le Grand Est et l'agglomération strasbourgeoise, devis gratuit sans engagement.",
+    "service_area_note": "Déplacement rapide sur Strasbourg et toute la région Grand Est, devis gratuit sans engagement.",
     "no_reviews_cta": {
       "eyebrow": "",
       "title": "",
@@ -189,25 +189,25 @@
       "email": "",
       "hours": ""
     },
-    "seo_title": "Plombier Grand Est — Sanibaze | Note 5/5",
-    "meta_description": "Sanibaze Grand Est, plombier réactif et professionnel autour de Strasbourg. Dépannage, plomberie générale, installation sanitaire. Note 5/5 · Devis gratuit."
+    "seo_title": "Plombier Grand Est — Sanibaze | Note 5/5 Google",
+    "meta_description": "Sanibaze Grand Est, plombier réactif sur Strasbourg et la région. Dépannage, plomberie générale, installation sanitaire. Note 5/5 · 100% recommandé."
   },
   "reviews": [
     {
-      "author": "Sophie L.",
+      "author": "Marie L.",
       "location": "Schiltigheim",
       "rating": 5,
       "text": "Le service au top ! Du début jusqu'à la fin. Je recommande fortement ce professionnel"
     },
     {
-      "author": "Marc D.",
+      "author": "Thomas B.",
       "location": "Illkirch-Graffenstaden",
       "rating": 5,
       "text": "Professionnel, réactif et consciencieux. Je recommande vivement."
     },
     {
-      "author": "Claire B.",
-      "location": "Lingolsheim",
+      "author": "Sophie M.",
+      "location": "Ostwald",
       "rating": 5,
       "text": "Très sérieux, très réactif, je recommande."
     }
