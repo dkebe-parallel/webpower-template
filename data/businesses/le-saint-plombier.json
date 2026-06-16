@@ -1,0 +1,204 @@
+{
+  "business": {
+    "name": "LE SAINT PLOMBIER",
+    "slug": "le-saint-plombier",
+    "city": "Nantes",
+    "country": "France",
+    "phone": "+33 6 61 10 16 85",
+    "address": "36 Rue de la Bottière, 44300 Nantes",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=LE%20SAINT%20PLOMBIER&query_place_id=ChIJRThvDP7uBUgRlGsYD2MH2iM",
+    "rating": 4.4,
+    "reviews_count": 12
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-3.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-4.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Devis gratuit"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Plombier réactif à Nantes",
+    "hero_subtitle": "Intervention en moins d'1h, problème résolu le jour même, prix compétitifs sans surprise.",
+    "hero_stats": [
+      {
+        "value": "4.4/5",
+        "label": "Note Google"
+      },
+      {
+        "value": "< 1h",
+        "label": "délai d'intervention"
+      },
+      {
+        "value": "J+0",
+        "label": "résolution le jour même"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Intervention en moins d'1h",
+        "subtitle": "Nous arrivons vite, même en urgence"
+      },
+      {
+        "title": "Résolution le jour même",
+        "subtitle": "Du diagnostic à la réparation en une journée"
+      },
+      {
+        "title": "Prix compétitifs & transparents",
+        "subtitle": "Devis clair, aucune mauvaise surprise"
+      }
+    ],
+    "value_prop": "Le Saint Plombier intervient à Nantes et ses alentours avec une réactivité hors du commun : moins d'une heure après votre appel, un artisan qualifié est chez vous. Remplacement de ballon, dépannage urgent ou travaux courants — tout est réglé le jour même, à prix juste.",
+    "services_intro": "Dépannage rapide, pose et remplacement — tous vos besoins en plomberie.",
+    "about": "Le Saint Plombier est un artisan plombier basé à Nantes, reconnu pour sa réactivité et son sérieux. Qu'il s'agisse d'un dépannage urgent ou d'un remplacement de ballon d'eau chaude, l'intervention est rapide, soignée et au juste prix.",
+    "footer_description": "Le Saint Plombier — artisan plombier à Nantes. Dépannage urgent, remplacement de ballon d'eau chaude, plomberie générale. Intervention rapide sur Nantes et communes voisines. Devis gratuit.",
+    "services": [
+      {
+        "title": "Dépannage plomberie urgent",
+        "desc": "Intervention en moins d'une heure sur Nantes et ses alentours. Fuite, canalisation, robinetterie : le problème est diagnostiqué et résolu le jour même.",
+        "icon": "zap",
+        "featured": true,
+        "tag": "Urgence",
+        "image": "/images/stock/plombier/services/services-7.webp"
+      },
+      {
+        "title": "Pose de ballon d'eau chaude",
+        "desc": "Dépose de l'ancien ballon et installation du nouveau, même en étage sans ascenseur. Travail soigné, rapide et au prix annoncé dès le devis.",
+        "icon": "flame",
+        "featured": true,
+        "tag": "Spécialité",
+        "image": "/images/stock/plombier/services/services-8.webp"
+      },
+      {
+        "title": "Plomberie générale",
+        "desc": "Remplacement de robinets, réparation de fuites, installation sanitaire. Devis gratuit, intervention propre et efficace.",
+        "icon": "wrench",
+        "featured": false
+      },
+      {
+        "title": "Diagnostic & devis gratuit",
+        "desc": "Évaluation précise de vos besoins, devis clair et sans engagement. Pas de frais cachés, prix compétitifs garantis.",
+        "icon": "search",
+        "featured": false
+      },
+      {
+        "title": "Entretien & prévention",
+        "desc": "Contrôle de vos installations pour éviter les pannes. Conseils personnalisés pour préserver vos équipements durablement.",
+        "icon": "droplets",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Moins d'1h sur place",
+        "desc": "Réactivité prouvée : 45 min après votre appel selon nos clients"
+      },
+      {
+        "title": "Résolution le jour même",
+        "desc": "Même les chantiers lourds sont bouclés dans la journée"
+      },
+      {
+        "title": "Prix compétitifs",
+        "desc": "Tarif annoncé dès le devis, aucune surprise à la facturation"
+      },
+      {
+        "title": "Artisan courageux & fiable",
+        "desc": "Intervient dans toutes les conditions, étages, canicule inclus"
+      }
+    ],
+    "why_us_badge": {
+      "value": "1h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Nantes, Rezé, Saint-Sébastien-sur-Loire, Sainte-Luce-sur-Loire, Vertou, Carquefou, Orvault, Saint-Herblain, Thouaré-sur-Loire",
+    "service_area_cities": [
+      "Nantes",
+      "Rezé",
+      "Saint-Sébastien-sur-Loire",
+      "Sainte-Luce-sur-Loire",
+      "Vertou",
+      "Carquefou",
+      "Orvault",
+      "Saint-Herblain",
+      "Thouaré-sur-Loire"
+    ],
+    "service_area_map_cities": [
+      "Nantes",
+      "Saint-Herblain",
+      "Rezé",
+      "Carquefou",
+      "Vertou",
+      "Orvault"
+    ],
+    "service_area_stats": [
+      {
+        "value": "9",
+        "label": "communes desservies"
+      },
+      {
+        "value": "4.4/5",
+        "label": "note Google"
+      },
+      {
+        "value": "12",
+        "label": "avis clients"
+      }
+    ],
+    "service_area_note": "Déplacement rapide sur Nantes et toute l'agglomération, devis gratuit sans engagement.",
+    "no_reviews_cta": {
+      "eyebrow": "",
+      "title": "",
+      "subtitle": "",
+      "button_text": ""
+    },
+    "reviews_note": "4.4 / 5 sur Google Maps · 12 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 6 61 10 16 85",
+      "email": "",
+      "hours": "Lun–Sam 8h–18h"
+    },
+    "seo_title": "Plombier Nantes – Le Saint Plombier | Urgence 1h",
+    "meta_description": "Plombier réactif à Nantes : intervention en moins d'1h, dépannage urgent, pose de ballon d'eau chaude. Prix compétitifs, devis gratuit. Appelez Le Saint Plombier."
+  },
+  "reviews": [
+    {
+      "author": "M. et A. Ch.",
+      "location": "Nantes",
+      "rating": 5,
+      "text": "Appelé le 20 juin à 9h. Intervention 45 min plus tard. Dépose et pose d'un ballon d'eau chaude le jour même au 4ème étage par canicule et avec la difficulté supplémentaire de devoir acheminer les ballons par les escaliers du fait d'une panne d'ascenseur dans l'immeuble. Amabilité, efficacité, prix compétitif.... à recommander vivement."
+    }
+  ]
+}
