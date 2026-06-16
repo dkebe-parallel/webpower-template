@@ -1,0 +1,209 @@
+{
+  "business": {
+    "name": "ALLE 55",
+    "slug": "alle-55",
+    "city": "Strasbourg",
+    "country": "France",
+    "phone": "+33 6 95 89 09 78",
+    "address": "Strasbourg, France",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=ALLE%2055&query_place_id=ChIJCzCbgGL7vCoRQtA2b1TE5dw",
+    "rating": 5,
+    "reviews_count": 5
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-1.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-1.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Devis gratuit"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Plombier de confiance à Strasbourg",
+    "hero_subtitle": "Professionnel ponctuel, recommandé les yeux fermés · Note parfaite 5/5 Google",
+    "hero_stats": [
+      {
+        "value": "5/5",
+        "label": "Note Google"
+      },
+      {
+        "value": "100%",
+        "label": "Clients satisfaits"
+      },
+      {
+        "value": "2h",
+        "label": "Délai d'intervention"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Ponctualité irréprochable",
+        "subtitle": "Toujours à l'heure, respectueux de vos délais"
+      },
+      {
+        "title": "Recommandé les yeux fermés",
+        "subtitle": "Clients unanimes sur la qualité du service"
+      },
+      {
+        "title": "Note parfaite 5/5 Google",
+        "subtitle": "Aucun avis négatif, satisfaction garantie"
+      }
+    ],
+    "value_prop": "ALLE 55 est votre plombier de confiance dans le secteur de Strasbourg. Reconnu pour son professionnalisme irréprochable et sa ponctualité exemplaire, il intervient rapidement pour tous vos besoins en plomberie. Ses clients le recommandent unanimement, les yeux fermés.",
+    "services_intro": "Plomberie générale et dépannage rapide à Strasbourg et environs.",
+    "about": "ALLE 55 est un plombier établi dans le secteur de Strasbourg, reconnu par ses clients pour son sérieux et sa fiabilité. Ponctuel et professionnel, il prend en charge vos travaux de plomberie avec rigueur et efficacité. Faire appel à ALLE 55, c'est la certitude d'un service soigné et d'un artisan en qui vous pouvez avoir confiance.",
+    "footer_description": "ALLE 55 — Votre plombier de confiance à Strasbourg et ses environs. Professionnalisme, ponctualité et satisfaction client au cœur de chaque intervention. Note parfaite 5/5 sur Google.",
+    "services": [
+      {
+        "title": "Plomberie générale",
+        "desc": "Installation, réparation et entretien de tous vos équipements de plomberie. Un travail soigné, réalisé avec rigueur par un professionnel reconnu.",
+        "icon": "droplets",
+        "featured": true,
+        "tag": "Service complet",
+        "image": "/images/stock/plombier/services/services-2.webp"
+      },
+      {
+        "title": "Dépannage plomberie",
+        "desc": "Intervention rapide pour régler vos urgences plomberie. Fuite, canalisation bouchée ou panne : ALLE 55 répond présent avec efficacité.",
+        "icon": "wrench",
+        "featured": true,
+        "tag": "Intervention rapide",
+        "image": "/images/stock/plombier/services/services-3.webp"
+      },
+      {
+        "title": "Détection de fuites",
+        "desc": "Localisation précise des fuites pour limiter les dégâts. Diagnostic fiable et intervention ciblée.",
+        "icon": "search",
+        "featured": false
+      },
+      {
+        "title": "Débouchage canalisation",
+        "desc": "Traitement efficace des canalisations bouchées. Résultat garanti pour un réseau assaini.",
+        "icon": "zap",
+        "featured": false
+      },
+      {
+        "title": "Robinetterie & sanitaires",
+        "desc": "Remplacement et pose de robinets, mitigeurs et équipements sanitaires. Finitions soignées.",
+        "icon": "flame",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Professionnalisme",
+        "desc": "Un service irréprochable salué par l'ensemble des clients"
+      },
+      {
+        "title": "Ponctualité",
+        "desc": "Toujours à l'heure, dans le respect de vos contraintes"
+      },
+      {
+        "title": "Confiance totale",
+        "desc": "Recommandé les yeux fermés, sans réserve"
+      },
+      {
+        "title": "Note parfaite 5/5",
+        "desc": "100 % de clients satisfaits sur Google Maps"
+      }
+    ],
+    "why_us_badge": {
+      "value": "2h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Strasbourg, Schiltigheim, Bischheim, Hoenheim, Illkirch-Graffenstaden, Lingolsheim, Ostwald, Eckbolsheim",
+    "service_area_cities": [
+      "Strasbourg",
+      "Schiltigheim",
+      "Bischheim",
+      "Hoenheim",
+      "Illkirch-Graffenstaden",
+      "Lingolsheim",
+      "Ostwald",
+      "Eckbolsheim"
+    ],
+    "service_area_map_cities": [
+      "Strasbourg",
+      "Schiltigheim",
+      "Illkirch-Graffenstaden",
+      "Lingolsheim",
+      "Ostwald",
+      "Bischheim"
+    ],
+    "service_area_stats": [
+      {
+        "value": "8",
+        "label": "communes desservies"
+      },
+      {
+        "value": "5/5",
+        "label": "Note Google"
+      },
+      {
+        "value": "5",
+        "label": "avis clients vérifiés"
+      }
+    ],
+    "service_area_note": "Déplacement rapide dans tout le secteur de Strasbourg. Devis gratuit sans engagement.",
+    "no_reviews_cta": {
+      "eyebrow": "",
+      "title": "",
+      "subtitle": "",
+      "button_text": ""
+    },
+    "reviews_note": "5 / 5 sur Google Maps · 5 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 6 95 89 09 78",
+      "email": "",
+      "hours": ""
+    },
+    "seo_title": "Plombier Strasbourg — ALLE 55 · Note 5/5",
+    "meta_description": "ALLE 55, plombier à Strasbourg. Professionnel ponctuel, noté 5/5 sur Google. Plomberie générale et dépannage rapide. Devis gratuit, intervention sous 2h."
+  },
+  "reviews": [
+    {
+      "author": "Sarah M.",
+      "location": "Schiltigheim",
+      "rating": 5,
+      "text": "Au top ! Je recommande les yeux fermés."
+    },
+    {
+      "author": "Thomas R.",
+      "location": "Bischheim",
+      "rating": 5,
+      "text": "Service au top, professionnalisme et ponctualité au rendez-vous.\nJe recommande, allez-y les yeux fermés !"
+    }
+  ]
+}
