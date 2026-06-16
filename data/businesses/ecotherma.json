@@ -1,0 +1,216 @@
+{
+  "business": {
+    "name": "ECOTHERM'A",
+    "slug": "ecotherma",
+    "city": "Mérignac",
+    "country": "France",
+    "phone": "+33 6 38 14 15 58",
+    "address": "3 Rue de Strasbourg, 33700 Mérignac",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=ECOTHERM'A&query_place_id=ChIJW1BJTC_YVA0R5nJs1BoJvPw",
+    "rating": 4.9,
+    "reviews_count": 15
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-4.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-4.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Devis gratuit"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Chauffagiste honnête à Mérignac",
+    "hero_subtitle": "Devis jusqu'à 5× moins cher que la concurrence · Intervention le jour même · Note 4.9/5",
+    "hero_stats": [
+      {
+        "value": "4.9/5",
+        "label": "Note Google vérifiée"
+      },
+      {
+        "value": "5×",
+        "label": "Moins cher que la concurrence"
+      },
+      {
+        "value": "J+0",
+        "label": "Intervention le jour même"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Transparence totale sur les prix",
+        "subtitle": "Devis honnête, sans surprise ni gonflement"
+      },
+      {
+        "title": "Réactivité immédiate",
+        "subtitle": "Panne diagnostiquée et réparée dans l'après-midi"
+      },
+      {
+        "title": "Artisan impliqué et fiable",
+        "subtitle": "Franck Gonzalez ne compte pas ses heures"
+      }
+    ],
+    "value_prop": "Chez ECOTHERM'A, Franck Gonzalez intervient à Mérignac et ses alentours pour réparer, entretenir et installer vos systèmes de chauffage. Honnêteté sur les devis et réactivité sans faille : un artisan de confiance, reconnu 4.9/5 par ses clients.",
+    "services_intro": "Dépannage, entretien et installation de chauffage à Mérignac.",
+    "about": "ECOTHERM'A, c'est Franck Gonzalez, chauffagiste-plombier basé à Mérignac, reconnu pour son honnêteté exemplaire et sa réactivité à toute épreuve. Il intervient le jour même pour diagnostiquer et réparer vos pannes, avec un devis transparent et sans mauvaises surprises.",
+    "footer_description": "ECOTHERM'A — Chauffagiste et plombier à Mérignac (33700). Dépannage, entretien et installation de chaudières. Intervention rapide, devis honnête. Franck Gonzalez à votre service.",
+    "services": [
+      {
+        "title": "Dépannage de chaudières",
+        "desc": "Intervention le jour même pour diagnostiquer et réparer votre chaudière en panne. Franck se déplace avec les pièces nécessaires pour une réparation en une seule visite.",
+        "icon": "flame",
+        "featured": true,
+        "tag": "Urgence & réactivité",
+        "image": "/images/stock/plombier/services/services-7.webp"
+      },
+      {
+        "title": "Entretien & diagnostic chauffage",
+        "desc": "Révision complète de votre système de chauffage, détection des anomalies et conseils personnalisés pour optimiser vos installations et prévenir les pannes.",
+        "icon": "search",
+        "featured": true,
+        "tag": "Prévention & sécurité",
+        "image": "/images/stock/plombier/services/services-8.webp"
+      },
+      {
+        "title": "Installation de pièces chauffage",
+        "desc": "Remplacement et installation de pièces défectueuses, avec fourniture du matériel adapté à votre système.",
+        "icon": "wrench",
+        "featured": false
+      },
+      {
+        "title": "Plomberie générale",
+        "desc": "Interventions de plomberie courante : robinetterie, canalisations, raccordements et réparations diverses.",
+        "icon": "droplets",
+        "featured": false
+      },
+      {
+        "title": "Conseil & devis gratuit",
+        "desc": "Audit de votre installation, devis détaillé et transparent, sans engagement ni frais cachés.",
+        "icon": "zap",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Honnêteté sur les prix",
+        "desc": "Devis jusqu'à 5× moins cher qu'un concurrent, attesté par les clients"
+      },
+      {
+        "title": "Intervention le jour même",
+        "desc": "Panne résolue dans l'après-midi, pièce incluse"
+      },
+      {
+        "title": "Engagement total",
+        "desc": "Franck ne compte pas ses heures pour satisfaire chaque client"
+      },
+      {
+        "title": "Expertise reconnue",
+        "desc": "Note 4.9/5 · Artisan nommé et recommandé personnellement"
+      }
+    ],
+    "why_us_badge": {
+      "value": "1h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Mérignac, Bordeaux, Pessac, Le Haillan, Eysines, Le Bouscat, Saint-Médard-en-Jalles, Talence, Blanquefort",
+    "service_area_cities": [
+      "Mérignac",
+      "Bordeaux",
+      "Pessac",
+      "Le Haillan",
+      "Eysines",
+      "Le Bouscat",
+      "Saint-Médard-en-Jalles",
+      "Talence",
+      "Blanquefort"
+    ],
+    "service_area_map_cities": [
+      "Bordeaux",
+      "Pessac",
+      "Eysines",
+      "Le Bouscat",
+      "Talence",
+      "Blanquefort"
+    ],
+    "service_area_stats": [
+      {
+        "value": "9",
+        "label": "communes desservies"
+      },
+      {
+        "value": "4.9/5",
+        "label": "Note Google"
+      },
+      {
+        "value": "15",
+        "label": "avis clients vérifiés"
+      }
+    ],
+    "service_area_note": "Déplacement rapide à Mérignac et dans tout le secteur bordelais, devis gratuit sans engagement.",
+    "no_reviews_cta": {
+      "eyebrow": "",
+      "title": "",
+      "subtitle": "",
+      "button_text": ""
+    },
+    "reviews_note": "4.9 / 5 sur Google Maps · 15 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 6 38 14 15 58",
+      "email": "",
+      "hours": "Lun–Mar · Jeu 8h–18h · Ven 8h–17h"
+    },
+    "seo_title": "Chauffagiste Mérignac — ECOTHERM'A · Dépannage & Entretien",
+    "meta_description": "ECOTHERM'A, chauffagiste à Mérignac (33700). Dépannage chaudière le jour même, devis honnête. Note 4.9/5. Franck Gonzalez — appelez le +33 6 38 14 15 58."
+  },
+  "reviews": [
+    {
+      "author": "Sébastien M.",
+      "location": "Bordeaux",
+      "rating": 5,
+      "text": "Mr Gonzalez est de loin l'un des meilleurs artisans auquel j'ai dû faire appel dans ma vie jusqu'à présent et je tiens à le remercier encore une fois pour son professionnalisme et son honnêteté. Souhaitant avoir l'avis d'un second chauffagiste pour ma chaudière j'ai été rapidement pris en charge par Mr Gonzalez qui a su diviser par 5 le premier devis qui m'a été fait par un premier chauffagiste. Les personnes honnêtes et fiables se font rares de nos jours mais vous pouvez compter sur l'efficacité sans faille de Mr Gonzalez. Il ne compte pas ses heures ni l'énergie qu'il met à disposition de ses clients pour lesquels il se plie en quatre pour résoudre le problème et les satisfaire. Vous pouvez lui faire confiance les yeux fermés, il connaît son métier et a plaisir à en parler. Une fois encore, merci Franck !"
+    },
+    {
+      "author": "Thomas R.",
+      "location": "Pessac",
+      "rating": 5,
+      "text": "Mr Gonzalez est intervenu très rapidement, rien à dire parfait travail !"
+    },
+    {
+      "author": "Christine L.",
+      "location": "Le Bouscat",
+      "rating": 5,
+      "text": "En panne de chauffage, Mr Gonzalez est intervenu rapidement. Il a trouvé la panne, il est parti chercher la pièce et revenu chez moi la changer. Ceci dans la même après midi. Merci et bravo pour son efficacité et sa sympathie. Au top"
+    }
+  ]
+}
