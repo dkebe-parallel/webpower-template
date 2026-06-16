@@ -5,7 +5,7 @@
     "city": "Lens",
     "country": "France",
     "phone": "+33 7 79 79 72 37",
-    "address": "Secteur Lens / Liévin, Pas-de-Calais",
+    "address": "Secteur Lens – Pas-de-Calais",
     "maps_url": "https://www.google.com/maps/search/?api=1&query=D%C3%A9pann%C3%A9o&query_place_id=ChIJmTCLQKvvpkQRysgjBaen2JM",
     "rating": 4.7,
     "reviews_count": 215
@@ -49,72 +49,72 @@
     "enabled_blocks": []
   },
   "content": {
-    "hero_title": "Dépannage plomberie rapide",
-    "hero_subtitle": "Intervention rapide, tarifs transparents — 4.7/5 sur 215 avis clients vérifiés.",
+    "hero_title": "Plombier urgence, on arrive vite",
+    "hero_subtitle": "Dépannage rapide, travail soigné · 4.7/5 sur 215 avis · Devis gratuit",
     "hero_stats": [
       {
         "value": "4.7/5",
-        "label": "note Google"
+        "label": "Note Google"
       },
       {
         "value": "215",
-        "label": "avis clients"
+        "label": "Avis clients vérifiés"
       },
       {
-        "value": "2h",
-        "label": "délai d'intervention"
+        "value": "1h",
+        "label": "Délai d'intervention"
       }
     ],
     "reassurance_items": [
       {
-        "title": "Réactivité prouvée",
-        "subtitle": "Intervention rapide, résultats concrets dès le premier passage."
+        "title": "Intervention rapide",
+        "subtitle": "Technicien chez vous en moins d'une heure"
       },
       {
-        "title": "Tarifs transparents",
-        "subtitle": "Devis clair avant toute intervention, sans mauvaise surprise."
+        "title": "215 avis, 4.7/5",
+        "subtitle": "Une constance de qualité reconnue par vos voisins"
       },
       {
-        "title": "215 clients satisfaits",
-        "subtitle": "Note de 4.7/5 sur Google, gage d'activité régulière et sérieuse."
+        "title": "Problème résolu du 1er coup",
+        "subtitle": "Efficacité technique saluée par nos clients"
       }
     ],
-    "value_prop": "Dépannéo intervient rapidement sur vos urgences plomberie dans le secteur Lens–Liévin. Fuites, pannes, diagnostics : chaque mission est conduite avec sérieux et transparence tarifaire, pour une résolution efficace dès le premier passage.",
-    "services_intro": "Solutions complètes de dépannage plomberie, de l'urgence au diagnostic.",
-    "about": "Dépannéo est un service de dépannage plomberie réactif basé dans le secteur de Lens et Liévin, dans le Pas-de-Calais. Avec 215 avis clients et une note de 4.7/5 sur Google, l'entreprise s'est imposée comme un acteur de confiance pour toutes les urgences plomberie. La priorité : intervenir vite, travailler bien, et expliquer clairement les tarifs.",
-    "footer_description": "Dépannéo — dépannage plomberie rapide dans le secteur Lens, Liévin et alentours. Note 4.7/5 · 215 avis Google. Contactez-nous au +33 7 79 79 72 37.",
+    "value_prop": "Dépannéo intervient rapidement pour tous vos problèmes de plomberie dans le secteur de Lens et ses environs. Avec 215 avis et une note de 4.7/5, notre équipe résout fuites, pannes et urgences du premier coup, avec transparence sur les tarifs.",
+    "services_intro": "Dépannage plomberie rapide et fiable dans le Pas-de-Calais.",
+    "about": "Dépannéo est votre spécialiste du dépannage plomberie dans le secteur de Lens et le Pas-de-Calais. Notre équipe intervient rapidement pour résoudre toutes vos urgences, des fuites d'eau aux pannes complexes. Avec 215 avis clients et une note de 4.7/5, nous mettons la réactivité et la transparence au cœur de chaque intervention.",
+    "footer_description": "Dépannéo — Votre plombier urgence dans le Pas-de-Calais. Interventions rapides sur Lens, Liévin, Hénin-Beaumont, Béthune et environs. Note Google 4.7/5 · 215 avis clients.",
     "services": [
       {
-        "title": "Dépannage urgence plomberie",
-        "desc": "Intervention rapide pour toute panne plomberie : coupure d'eau, fuite soudaine ou dysfonctionnement. Résolution efficace dès le premier passage.",
+        "title": "Dépannage plomberie urgence",
+        "desc": "Intervention rapide chez vous pour stopper toute urgence plomberie. Technicien disponible, problème résolu du premier passage.",
         "icon": "zap",
         "featured": true,
-        "tag": "Urgence 2h",
+        "tag": "Urgence 1h",
         "image": "/images/stock/plombier/services/services-5.webp"
       },
       {
         "title": "Réparation de fuites d'eau",
-        "desc": "Détection et réparation de fuites visibles ou cachées, sous évier, canalisation ou joint défaillant. Travail soigné, résultat garanti.",
+        "desc": "Détection et réparation de toutes fuites : robinetterie, canalisations, joints. Travail soigné, résultat durable garanti.",
         "icon": "droplets",
         "featured": true,
-        "tag": "Fuite stoppée",
+        "tag": "Expertise reconnue",
         "image": "/images/stock/plombier/services/services-6.webp"
       },
       {
-        "title": "Intervention plomberie générale",
-        "desc": "Remplacement de robinetterie, réparation de chasse d'eau, pose de mitigeur et travaux courants de plomberie.",
+        "title": "Plomberie générale",
+        "desc": "Installation, remplacement ou réparation de vos équipements sanitaires. Qualité et sérieux à chaque intervention.",
         "icon": "wrench",
         "featured": false
       },
       {
         "title": "Diagnostic plomberie",
-        "desc": "Inspection complète de votre installation pour identifier l'origine d'un problème avant toute intervention.",
+        "desc": "Identification précise de la panne avant intervention. Transparence totale sur le problème et la solution proposée.",
         "icon": "search",
         "featured": false
       },
       {
-        "title": "Devis gratuit sans engagement",
-        "desc": "Estimation claire et détaillée avant chaque intervention, tarifs transparents et sans frais cachés.",
+        "title": "Devis plomberie gratuit",
+        "desc": "Devis clair et sans engagement avant tout travail. Tarifs transparents pour une totale sérénité.",
         "icon": "wrench",
         "featured": false
       }
@@ -122,26 +122,26 @@
     "why_us": [
       {
         "title": "Rapidité d'intervention",
-        "desc": "Dépannage réalisé rapidement, résultats concrets dès la première visite."
+        "desc": "Technicien chez vous en moins d'une heure pour stopper l'urgence."
       },
       {
         "title": "4.7/5 sur 215 avis",
-        "desc": "Volume et note élevés, reflet d'une activité régulière et sérieuse."
+        "desc": "Un volume d'avis exceptionnel, reflet d'une qualité constante."
       },
       {
-        "title": "Tarifs clairs et honnêtes",
-        "desc": "Devis détaillé avant intervention, aucune surprise sur la facture finale."
+        "title": "Efficacité dès le 1er passage",
+        "desc": "Problème diagnostiqué et résolu sans retour inutile."
       },
       {
-        "title": "Expertise technique reconnue",
-        "desc": "Travail fonctionnel salué par les clients, efficacité prouvée sur le terrain."
+        "title": "Tarifs transparents",
+        "desc": "Devis clair avant intervention, aucune mauvaise surprise."
       }
     ],
     "why_us_badge": {
-      "value": "2h",
+      "value": "1h",
       "label": "délai d'intervention"
     },
-    "service_area": "Lens, Liévin, Hénin-Beaumont, Béthune, Arras, Douai, Carvin, Lille",
+    "service_area": "Lens, Liévin, Hénin-Beaumont, Béthune, Arras, Douai, Carvin, Billy-Montigny",
     "service_area_cities": [
       "Lens",
       "Liévin",
@@ -150,31 +150,31 @@
       "Arras",
       "Douai",
       "Carvin",
-      "Lille"
+      "Billy-Montigny"
     ],
     "service_area_map_cities": [
       "Lens",
-      "Liévin",
       "Béthune",
       "Arras",
       "Douai",
-      "Lille"
+      "Liévin",
+      "Hénin-Beaumont"
     ],
     "service_area_stats": [
       {
         "value": "8+",
-        "label": "communes couvertes"
+        "label": "Communes desservies"
       },
       {
         "value": "4.7/5",
-        "label": "note Google"
+        "label": "Note Google"
       },
       {
         "value": "215",
-        "label": "avis clients"
+        "label": "Avis clients"
       }
     ],
-    "service_area_note": "Déplacement rapide dans tout le secteur Lens–Liévin et alentours, devis gratuit sans engagement.",
+    "service_area_note": "Déplacement rapide dans tout le Pas-de-Calais, devis gratuit sans engagement dès le premier appel.",
     "no_reviews_cta": {
       "eyebrow": "",
       "title": "",
@@ -189,12 +189,12 @@
       "email": "",
       "hours": ""
     },
-    "seo_title": "Dépannage plomberie rapide — Lens & Liévin | Dépannéo",
-    "meta_description": "Dépannéo : dépannage plomberie urgent à Lens, Liévin et alentours. Intervention rapide, tarifs transparents. 4.7/5 sur 215 avis Google. Appelez le +33 7 79 79 72 37."
+    "seo_title": "Plombier urgence Lens – Dépannéo | 4.7/5",
+    "meta_description": "Dépannéo, votre plombier urgence à Lens et dans le Pas-de-Calais. Intervention rapide, 215 avis 4.7/5. Devis gratuit, tarifs transparents. Appelez maintenant."
   },
   "reviews": [
     {
-      "author": "Marc T.",
+      "author": "Marc L.",
       "location": "Liévin",
       "rating": 5,
       "text": "Le dépannage a été réalisé rapidement et tout fonctionne parfaitement. Merci Dépannéo !"
