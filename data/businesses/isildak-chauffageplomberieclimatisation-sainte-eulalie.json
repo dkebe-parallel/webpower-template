@@ -49,8 +49,8 @@
     "enabled_blocks": []
   },
   "content": {
-    "hero_title": "5/5 sur 77 avis — Isildak",
-    "hero_subtitle": "Chauffage, plomberie et climatisation à Sainte-Eulalie · Travail soigné, prix justes, intervention rapide.",
+    "hero_title": "Chauffage, plomberie & clim à 5/5",
+    "hero_subtitle": "Artisan réactif sur la rive droite bordelaise — travail propre, précis et transparent.",
     "hero_stats": [
       {
         "value": "5/5",
@@ -58,110 +58,111 @@
       },
       {
         "value": "77",
-        "label": "avis clients vérifiés"
+        "label": "avis clients"
       },
       {
         "value": "100%",
-        "label": "de clients satisfaits"
+        "label": "clients satisfaits"
       }
     ],
     "reassurance_items": [
       {
-        "title": "Travail propre et soigné",
-        "subtitle": "Chaque intervention est réalisée avec soin"
+        "title": "Travail soigné et rigoureux",
+        "subtitle": "Équipé pour intervenir dans toutes les situations"
       },
       {
-        "title": "Pédagogie et transparence",
-        "subtitle": "Le travail vous est expliqué clairement"
+        "title": "Pédagogie & transparence",
+        "subtitle": "Il explique chaque étape avec précision et clarté"
       },
       {
-        "title": "Polyvalence toutes situations",
-        "subtitle": "Équipé et formé pour intervenir partout"
+        "title": "Note parfaite 5/5 sur Google",
+        "subtitle": "77 avis unanimes, tous positifs et vérifiés"
       }
     ],
-    "value_prop": "Isildak est votre artisan de confiance à Sainte-Eulalie et sur la rive droite bordelaise. Note parfaite de 5/5 sur 77 avis, triple compétence chauffage-plomberie-climatisation, tarifs justes et transparents : une prise en charge globale par un professionnel qui explique chaque étape de son intervention.",
-    "services_intro": "Chauffage, plomberie et climatisation : une seule adresse pour tout.",
-    "about": "Isildak est un artisan spécialisé en chauffage, plomberie et climatisation, basé à Sainte-Eulalie en Gironde. Reconnu pour la propreté de ses interventions, sa réactivité et sa pédagogie, il intervient dans toutes les situations avec le matériel adapté. Sa note parfaite de 5/5 sur 77 avis Google témoigne d'un service qui ne déçoit jamais.",
-    "footer_description": "Isildak — Chauffage, plomberie et climatisation à Sainte-Eulalie et sur la rive droite bordelaise. Artisan 5/5 Google, reconnu pour sa réactivité, la propreté de ses interventions et ses tarifs transparents.",
+    "value_prop": "Isildak intervient sur Sainte-Eulalie et la rive droite bordelaise pour tous vos travaux de chauffage, plomberie et climatisation. Un seul artisan, trois compétences : réactif, équipé et pédagogue. Note parfaite de 5/5 sur 77 avis Google.",
+    "services_intro": "Chauffage, plomberie et climatisation : un artisan pour tout gérer.",
+    "about": "Isildak est un artisan multi-compétent basé à Sainte-Eulalie, intervenant sur la rive droite de Bordeaux. Reconnu pour sa réactivité, la propreté de ses chantiers et sa transparence tarifaire, il prend le temps d'expliquer chaque intervention. Une note de 5/5 sur 77 avis témoigne de la confiance de ses clients.",
+    "footer_description": "Isildak Chauffage/Plomberie/Climatisation — artisan réactif à Sainte-Eulalie. Chauffage, plomberie et climatisation sur la rive droite bordelaise. Note Google 5/5 sur 77 avis.",
     "services": [
       {
-        "title": "Chauffage et chaudière",
-        "desc": "Installation, entretien et dépannage de votre chaudière. Interventions soignées et expliquées, pour un chauffage fiable tout au long de l'année.",
+        "title": "Chauffage & chaudière",
+        "desc": "Installation, entretien et dépannage de chaudières. Interventions rapides pour que vous retrouviez chaleur et confort sans délai.",
         "icon": "flame",
         "featured": true,
-        "tag": "Expertise chauffage",
+        "tag": "Service phare",
         "image": "/images/stock/plombier/services/services-4.webp"
       },
       {
         "title": "Plomberie générale",
-        "desc": "Fuites, installations sanitaires, remplacement de robinetterie : Isildak intervient rapidement avec un matériel adapté à toutes les configurations.",
+        "desc": "Fuite, installation sanitaire, remplacement de robinetterie : interventions propres et soignées, avec un artisan qui explique son travail.",
         "icon": "droplets",
         "featured": true,
-        "tag": "Intervention rapide",
+        "tag": "Expertise locale",
         "image": "/images/stock/plombier/services/services-5.webp"
       },
       {
         "title": "Climatisation",
-        "desc": "Pose et entretien de climatiseurs pour un confort optimal été comme hiver.",
+        "desc": "Pose et entretien de systèmes de climatisation pour un confort optimal été comme hiver.",
         "icon": "wind",
         "featured": false
       },
       {
         "title": "Dépannage urgent",
-        "desc": "Réactif et équipé, Isildak prend en charge vos urgences plomberie et chauffage.",
+        "desc": "Intervention rapide en cas d'urgence plomberie ou chauffage. Équipé pour toutes les situations.",
         "icon": "zap",
         "featured": false
       },
       {
-        "title": "Devis et diagnostic",
-        "desc": "Un diagnostic précis et un devis clair avant chaque intervention, sans surprise.",
+        "title": "Diagnostic & devis",
+        "desc": "Diagnostic précis de vos installations avec devis clair et tarifs transparents, sans mauvaises surprises.",
         "icon": "search",
         "featured": false
       }
     ],
     "why_us": [
       {
-        "title": "Note 5/5 sur 77 avis",
-        "desc": "Un résultat exceptionnel qui prouve une qualité constante"
+        "title": "Réactivité prouvée",
+        "desc": "Interventions rapides saluées unanimement par les clients"
       },
       {
-        "title": "Travail propre garanti",
-        "desc": "Chantiers laissés nets, interventions sans mauvaise surprise"
+        "title": "Travail propre & précis",
+        "desc": "Chantiers soignés, artisan équipé pour toutes situations"
       },
       {
-        "title": "Pédagogie reconnue",
-        "desc": "Explications claires à chaque étape, clients toujours informés"
+        "title": "Pédagogie & clarté",
+        "desc": "Explications claires à chaque étape de l'intervention"
       },
       {
-        "title": "Triple compétence",
-        "desc": "Chauffage, plomberie, climatisation : tout chez un seul artisan"
+        "title": "Tarifs justes & honnêtes",
+        "desc": "Transparence tarifaire appréciée par tous les clients"
       }
     ],
     "why_us_badge": {
-      "value": "1h",
+      "value": "2h",
       "label": "délai d'intervention"
     },
-    "service_area": "Sainte-Eulalie, Carbon-Blanc, Ambarès-et-Lagrave, Saint-Loubès, Izon, Lormont, Bassens, Yvrac",
+    "service_area": "Sainte-Eulalie, Carbon-Blanc, Ambarès-et-Lagrave, Lormont, Saint-Loubès, Izon, Bassens, Cenon",
     "service_area_cities": [
       "Sainte-Eulalie",
       "Carbon-Blanc",
       "Ambarès-et-Lagrave",
+      "Lormont",
       "Saint-Loubès",
       "Izon",
-      "Lormont",
       "Bassens",
-      "Yvrac"
+      "Cenon"
     ],
     "service_area_map_cities": [
       "Carbon-Blanc",
-      "Ambarès-et-Lagrave",
       "Lormont",
-      "Saint-Loubès",
-      "Bassens"
+      "Ambarès-et-Lagrave",
+      "Cenon",
+      "Bassens",
+      "Saint-Loubès"
     ],
     "service_area_stats": [
       {
-        "value": "8",
+        "value": "8+",
         "label": "communes desservies"
       },
       {
@@ -170,10 +171,10 @@
       },
       {
         "value": "77",
-        "label": "avis clients"
+        "label": "avis vérifiés"
       }
     ],
-    "service_area_note": "Déplacement rapide à Sainte-Eulalie et sur toute la rive droite bordelaise, devis gratuit sans engagement.",
+    "service_area_note": "Déplacement rapide sur toute la rive droite bordelaise — devis gratuit sans engagement.",
     "no_reviews_cta": {
       "eyebrow": "",
       "title": "",
@@ -188,25 +189,25 @@
       "email": "",
       "hours": ""
     },
-    "seo_title": "Chauffagiste Plombier Sainte-Eulalie | Isildak 5/5",
-    "meta_description": "Isildak, artisan chauffagiste-plombier-climaticien à Sainte-Eulalie. Note 5/5 sur 77 avis Google. Intervention rapide, travail soigné, devis gratuit."
+    "seo_title": "Plombier Chauffagiste Sainte-Eulalie — Isildak 5/5",
+    "meta_description": "Artisan chauffagiste-plombier-climatisation à Sainte-Eulalie. Réactif, rigoureux, transparent. Note Google 5/5 sur 77 avis. Devis gratuit."
   },
   "reviews": [
     {
-      "author": "Sophie M.",
+      "author": "Karim B.",
       "location": "Carbon-Blanc",
       "rating": 5,
       "text": "Je recommande cette société ! 👍🏻"
     },
     {
-      "author": "Laurent B.",
+      "author": "Nathalie R.",
       "location": "Ambarès-et-Lagrave",
       "rating": 5,
       "text": "Travail propre, professionnel équipé à travailler dans toutes les situations. Je recommande à 100%"
     },
     {
-      "author": "Nathalie C.",
-      "location": "Yvrac",
+      "author": "Thierry M.",
+      "location": "Lormont",
       "rating": 5,
       "text": "Très pro,très précis,explique parfaitement son travail,je recommande fortement"
     }
