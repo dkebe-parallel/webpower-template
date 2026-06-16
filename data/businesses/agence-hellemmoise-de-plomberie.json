@@ -1,0 +1,210 @@
+{
+  "business": {
+    "name": "Agence hellemmoise de plomberie",
+    "slug": "agence-hellemmoise-de-plomberie",
+    "city": "Lille",
+    "country": "France",
+    "phone": "+33 7 49 16 50 20",
+    "address": "17 Rue Louis Blanc, 59260 Lille",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Agence%20hellemmoise%20de%20plomberie&query_place_id=ChIJ8eWY2CjVwkcRhJ_Ej-eUOkU",
+    "rating": 5,
+    "reviews_count": 38
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-3.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-2.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Devis gratuit"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Plombier 5/5 à Lille",
+    "hero_subtitle": "Intervention rapide, diagnostic clair et tarifs transparents — M. Houte à votre service.",
+    "hero_stats": [
+      {
+        "value": "5/5",
+        "label": "Note Google"
+      },
+      {
+        "value": "38",
+        "label": "avis vérifiés"
+      },
+      {
+        "value": "1h",
+        "label": "délai d'intervention"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Réactivité exemplaire",
+        "subtitle": "Intervention rapide, dès le premier appel"
+      },
+      {
+        "title": "Travail propre et sérieux",
+        "subtitle": "Diagnostic clair, solution efficace dès le 1er passage"
+      },
+      {
+        "title": "Tarifs justes et transparents",
+        "subtitle": "Devis clair, sans mauvaise surprise sur la facture"
+      }
+    ],
+    "value_prop": "L'Agence hellemmoise de plomberie intervient rapidement à Lille et ses environs pour tous vos travaux de plomberie. Ponctualité, professionnalisme et tarifs corrects : une note parfaite de 5/5 sur 38 avis Google en atteste.",
+    "services_intro": "Plomberie, dépannage et installation à Lille et alentours.",
+    "about": "L'Agence hellemmoise de plomberie, dirigée par M. Houte, intervient à Lille et dans les communes voisines pour tout type de travaux de plomberie. Reconnue pour sa réactivité et la qualité de ses interventions, elle affiche une note parfaite de 5/5 sur Google grâce à la confiance de ses clients.",
+    "footer_description": "Agence hellemmoise de plomberie — 17 Rue Louis Blanc, 59260 Lille. Plombier réactif et sérieux, noté 5/5 par 38 clients. Dépannage, réparation de fuites, installation sanitaire à Lille et environs.",
+    "services": [
+      {
+        "title": "Réparation de fuites d'eau",
+        "desc": "Détection et réparation rapide de toute fuite, qu'elle soit visible ou cachée. Diagnostic précis dès le premier passage pour stopper les dégâts sans délai.",
+        "icon": "droplets",
+        "featured": true,
+        "tag": "Urgence",
+        "image": "/images/stock/plombier/services/services-3.webp"
+      },
+      {
+        "title": "Chaudières & chauffage",
+        "desc": "Installation, entretien et dépannage de chaudières. Intervention soignée pour garantir confort thermique et sécurité dans votre logement toute l'année.",
+        "icon": "flame",
+        "featured": true,
+        "tag": "Entretien",
+        "image": "/images/stock/plombier/services/services-4.webp"
+      },
+      {
+        "title": "Salle de bain & douche",
+        "desc": "Travaux de plomberie en salle de bain : pose, remplacement ou réparation de douche, baignoire et équipements sanitaires.",
+        "icon": "wind",
+        "featured": false
+      },
+      {
+        "title": "Dépannage rapide",
+        "desc": "Intervention express pour tout problème de plomberie urgent. Réactivité et efficacité pour limiter les dommages chez vous.",
+        "icon": "zap",
+        "featured": false
+      },
+      {
+        "title": "Devis & diagnostic",
+        "desc": "Devis gratuit et diagnostic clair avant toute intervention. Transparence totale sur les travaux à réaliser et leur coût.",
+        "icon": "search",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Réactivité immédiate",
+        "desc": "Intervention rapide dès votre appel, sans délai inutile."
+      },
+      {
+        "title": "Artisan de confiance",
+        "desc": "M. Houte, nommé par ses clients, gage de transparence."
+      },
+      {
+        "title": "Travail propre & soigné",
+        "desc": "Chaque chantier est réalisé avec soin et professionnalisme."
+      },
+      {
+        "title": "Prix justes et clairs",
+        "desc": "Tarifs corrects, devis transparent, zéro mauvaise surprise."
+      }
+    ],
+    "why_us_badge": {
+      "value": "1h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Lille, Hellemmes, Villeneuve-d'Ascq, Mons-en-Barœul, Roubaix, Loos, Lambersart, Marcq-en-Barœul, Faches-Thumesnil",
+    "service_area_cities": [
+      "Lille",
+      "Hellemmes",
+      "Villeneuve-d'Ascq",
+      "Mons-en-Barœul",
+      "Roubaix",
+      "Loos",
+      "Lambersart",
+      "Marcq-en-Barœul",
+      "Faches-Thumesnil"
+    ],
+    "service_area_map_cities": [
+      "Lille",
+      "Roubaix",
+      "Villeneuve-d'Ascq",
+      "Lambersart",
+      "Marcq-en-Barœul",
+      "Loos"
+    ],
+    "service_area_stats": [
+      {
+        "value": "9",
+        "label": "communes desservies"
+      },
+      {
+        "value": "5/5",
+        "label": "note Google"
+      },
+      {
+        "value": "38",
+        "label": "avis clients"
+      }
+    ],
+    "service_area_note": "Déplacement rapide à Lille et dans tout le secteur hellemmois, devis gratuit sans engagement.",
+    "no_reviews_cta": {
+      "eyebrow": "",
+      "title": "",
+      "subtitle": "",
+      "button_text": ""
+    },
+    "reviews_note": "5 / 5 sur Google Maps · 38 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 7 49 16 50 20",
+      "email": "",
+      "hours": "Lun–Ven 8h–18h"
+    },
+    "seo_title": "Plombier Lille — Agence hellemmoise de plomberie",
+    "meta_description": "Plombier à Lille noté 5/5 sur Google. Réparation de fuites, chaudières, dépannage rapide. M. Houte intervient vite avec des tarifs transparents. Devis gratuit."
+  },
+  "reviews": [
+    {
+      "author": "Sophie M.",
+      "location": "Hellemmes",
+      "rating": 5,
+      "text": "Super société de plomberie : ponctuel, agréable, professionnel et avec des tarifs tout à fait corrects. Je vous recommande vivement cette société."
+    },
+    {
+      "author": "Thomas H.",
+      "location": "Villeneuve-d'Ascq",
+      "rating": 5,
+      "text": "M.Houte est professionnel et réactif. Intervention rapide pour une fuite d'eau dans la douche, diagnostic clair et solution efficace. Travail propre et sérieux. Merci pour la qualité de l'intervention. Je recommande vivement !"
+    }
+  ]
+}
