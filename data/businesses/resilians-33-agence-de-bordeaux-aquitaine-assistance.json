@@ -1,0 +1,197 @@
+{
+  "business": {
+    "name": "Résilians 33 - Agence de Bordeaux - Aquitaine Assistance",
+    "slug": "resilians-33-agence-de-bordeaux-aquitaine-assistance",
+    "city": "Bordeaux",
+    "country": "France",
+    "phone": "+33 5 56 69 12 41",
+    "address": "6 Rue Edmond Besse, 33300 Bordeaux",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=R%C3%A9silians%2033%20-%20Agence%20de%20Bordeaux%20-%20Aquitaine%20Assistance&query_place_id=ChIJSbBJgCApVQ0Rmrqe5jG-5vQ",
+    "rating": 4.8,
+    "reviews_count": 509
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-4.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-3.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Réseau agréé assureurs"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Votre sinistre géré de A à Z",
+    "hero_subtitle": "Dégâts des eaux, plomberie et remise en état : un seul interlocuteur, coordination assurance incluse.",
+    "hero_stats": [
+      {
+        "value": "4.8/5",
+        "label": "note Google"
+      },
+      {
+        "value": "509",
+        "label": "avis clients vérifiés"
+      },
+      {
+        "value": "100%",
+        "label": "prise en charge sinistre"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Interlocuteur unique",
+        "subtitle": "Plomberie, peinture et assurance gérés ensemble"
+      },
+      {
+        "title": "Techniciens qualifiés",
+        "subtitle": "Équipes expertes, résultats salués par 509 clients"
+      },
+      {
+        "title": "Suivi de chantier rigoureux",
+        "subtitle": "Multi-corps de métier coordonnés sur chaque dossier"
+      }
+    ],
+    "value_prop": "Résilians 33 prend en charge vos sinistres de bout en bout : de l'intervention plomberie à la remise en peinture, en passant par la coordination avec votre assurance. Une structure rodée, une note de 4.8/5 sur 509 avis, au service des particuliers bordelais.",
+    "services_intro": "Gestion complète des sinistres et dégâts des eaux à Bordeaux.",
+    "about": "Résilians 33 est l'agence bordelaise spécialisée dans la gestion globale des sinistres, notamment les dégâts des eaux. Adossée au réseau Aquitaine Assistance, l'agence coordonne tous les corps de métier — plomberie, peinture, remise en état — pour une prise en charge clé en main. Avec plus de 509 avis Google à 4.8/5, elle s'impose comme un référent de confiance sur Bordeaux et sa métropole.",
+    "footer_description": "Résilians 33 – Agence de Bordeaux accompagne particuliers et assurés dans la gestion complète de leurs sinistres : dégâts des eaux, plomberie, remise en état. Un seul contact pour tout régler, à Bordeaux et ses environs.",
+    "services": [
+      {
+        "title": "Gestion dégâts des eaux",
+        "desc": "Prise en charge complète des dégâts des eaux : diagnostic, travaux de plomberie et coordination avec votre compagnie d'assurance pour un règlement rapide.",
+        "icon": "droplets",
+        "featured": true,
+        "tag": "Service phare",
+        "image": "/images/stock/plombier/services/services-6.webp"
+      },
+      {
+        "title": "Remise en état après sinistre",
+        "desc": "Peinture, revêtements et finitions assurées après sinistre. Tous corps de métier coordonnés pour retrouver votre logement en parfait état.",
+        "icon": "wrench",
+        "featured": true,
+        "tag": "Clé en main",
+        "image": "/images/stock/plombier/services/services-7.webp"
+      },
+      {
+        "title": "Plomberie tous corps d'état",
+        "desc": "Interventions de plomberie résidentielle : fuites, réparations, installations. Techniciens qualifiés, travail soigné.",
+        "icon": "zap",
+        "featured": false
+      },
+      {
+        "title": "Coordination avec assurances",
+        "desc": "Suivi et gestion des dossiers sinistres auprès des assureurs. Vous n'avez qu'un seul interlocuteur.",
+        "icon": "search",
+        "featured": false
+      },
+      {
+        "title": "Dépannage plomberie urgence",
+        "desc": "Intervention rapide pour dépannage plomberie résidentielle à Bordeaux et communes voisines.",
+        "icon": "flame",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Un seul interlocuteur",
+        "desc": "Plomberie, peinture, assurance : tout géré en interne"
+      },
+      {
+        "title": "Note 4.8/5 Google",
+        "desc": "509 avis, satisfaction constante et activité soutenue"
+      },
+      {
+        "title": "Expertise sinistres",
+        "desc": "Réactivité et coordination décisives sur chaque dossier"
+      },
+      {
+        "title": "Réseau structuré",
+        "desc": "Process rodés grâce à l'enseigne Aquitaine Assistance"
+      }
+    ],
+    "why_us_badge": {
+      "value": "2h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Bordeaux, Le Bouscat, Mérignac, Eysines, Bruges, Blanquefort, Pessac, Talence, Bègles",
+    "service_area_cities": [
+      "Bordeaux",
+      "Le Bouscat",
+      "Mérignac",
+      "Eysines",
+      "Bruges",
+      "Blanquefort",
+      "Pessac",
+      "Talence",
+      "Bègles"
+    ],
+    "service_area_map_cities": [
+      "Mérignac",
+      "Pessac",
+      "Le Bouscat",
+      "Talence",
+      "Bègles",
+      "Eysines"
+    ],
+    "service_area_stats": [
+      {
+        "value": "9",
+        "label": "communes desservies"
+      },
+      {
+        "value": "4.8/5",
+        "label": "note Google"
+      },
+      {
+        "value": "509",
+        "label": "avis clients"
+      }
+    ],
+    "service_area_note": "Déplacement rapide sur Bordeaux et toute la métropole girondine, devis gratuit sans engagement.",
+    "no_reviews_cta": {
+      "eyebrow": "CONFIANCE",
+      "title": "Un expert sinistres reconnu à Bordeaux",
+      "subtitle": "509 clients satisfaits, techniciens qualifiés et prise en charge complète de vos dégâts des eaux avec coordination assurance incluse.",
+      "button_text": "Demander un devis gratuit"
+    },
+    "reviews_note": "4.8 / 5 sur Google Maps · 509 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 5 56 69 12 41",
+      "email": "",
+      "hours": "Lun–Ven 8h30–17h30"
+    },
+    "seo_title": "Résilians 33 Bordeaux – Gestion sinistres & dégâts des eaux",
+    "meta_description": "Résilians 33 à Bordeaux : gestion complète de vos sinistres, dégâts des eaux, plomberie et remise en état. Coordination assurance incluse. Note 4.8/5 · 509 avis."
+  },
+  "reviews": []
+}
