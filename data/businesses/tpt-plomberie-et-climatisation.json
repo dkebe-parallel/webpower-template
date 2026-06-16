@@ -1,0 +1,216 @@
+{
+  "business": {
+    "name": "TPT Plomberie et climatisation",
+    "slug": "tpt-plomberie-et-climatisation",
+    "city": "Talence",
+    "country": "France",
+    "phone": "+33 7 87 57 34 24",
+    "address": "undefined, 33400 Talence",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=TPT%20Plomberie%20et%20climatisation&query_place_id=ChIJU0MW_UsnVQ0RoytC09pMk7Y",
+    "rating": 5,
+    "reviews_count": 82
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-3.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-4.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Clients fidèles"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Plombier-chauffagiste à Talence",
+    "hero_subtitle": "Disponible 24h/24 · Urgences en quelques heures · Note parfaite 5/5 sur 82 avis",
+    "hero_stats": [
+      {
+        "value": "5/5",
+        "label": "Note Google"
+      },
+      {
+        "value": "82",
+        "label": "Avis vérifiés"
+      },
+      {
+        "value": "24h/24",
+        "label": "Disponibilité"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Urgences traitées rapidement",
+        "subtitle": "Intervention en quelques heures, 7j/7"
+      },
+      {
+        "title": "Travail minutieux et soigné",
+        "subtitle": "Chaque chantier traité avec soin et rigueur"
+      },
+      {
+        "title": "Artisan de confiance",
+        "subtitle": "Clients fidèles, 5/5 sans exception sur 82 avis"
+      }
+    ],
+    "value_prop": "TPT Plomberie et climatisation intervient à Talence et dans l'agglomération bordelaise pour tous vos besoins en plomberie, chauffage et climatisation. Disponible 24h/24 même les dimanches et jours fériés, noté 5/5 par 82 clients, l'artisan allie réactivité, minutie et vrai sens du service.",
+    "services_intro": "Plomberie, chauffage et climatisation à Talence, disponible 24h/24",
+    "about": "TPT Plomberie et climatisation est un artisan plombier-chauffagiste basé à Talence, reconnu pour la qualité minutieuse de ses interventions et sa disponibilité exceptionnelle. Qu'il s'agisse d'une urgence un dimanche ou d'une installation technique complexe, il s'implique pour trouver la meilleure solution. Ses clients lui font confiance à plusieurs reprises et le recommandent sans réserve.",
+    "footer_description": "TPT Plomberie et climatisation — plombier-chauffagiste à Talence, disponible 24h/24. Installation de chaudière, pompe à chaleur, dépannage urgent. Note 5/5 sur 82 avis Google.",
+    "services": [
+      {
+        "title": "Chaudière & chauffage",
+        "desc": "Installation, remplacement et déplacement de chaudière. Un travail remarquable même pour les configurations complexes, avec soin et implication totale.",
+        "icon": "flame",
+        "featured": true,
+        "tag": "Expertise chauffage",
+        "image": "/images/stock/plombier/services/services-7.webp"
+      },
+      {
+        "title": "Pompe à chaleur & clim",
+        "desc": "Installation et mise en service de pompes à chaleur et climatiseurs. Travail soigné, méticuleux, apprécié par des clients qui reviennent.",
+        "icon": "wind",
+        "featured": true,
+        "tag": "Confort thermique",
+        "image": "/images/stock/plombier/services/services-8.webp"
+      },
+      {
+        "title": "Dépannage urgence 24h/24",
+        "desc": "Intervention rapide même les dimanches et jours fériés. Réponse en quelques heures pour toute urgence plomberie.",
+        "icon": "zap",
+        "featured": false
+      },
+      {
+        "title": "Chauffe-eau",
+        "desc": "Remplacement et réparation de chauffe-eau. Pose soignée et conseils adaptés à votre installation.",
+        "icon": "droplets",
+        "featured": false
+      },
+      {
+        "title": "Plomberie générale",
+        "desc": "Réparation de fuites, chasse d'eau, robinetterie et tous travaux de plomberie courante.",
+        "icon": "wrench",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Urgences 24h/24",
+        "desc": "Disponible dimanches et fériés, intervention en quelques heures"
+      },
+      {
+        "title": "Travail méticuleux",
+        "desc": "Chaque chantier réalisé avec soin, même les plus complexes"
+      },
+      {
+        "title": "5/5 sur 82 avis",
+        "desc": "Zéro client insatisfait, recommandé sans réserve"
+      },
+      {
+        "title": "Artisan de proximité",
+        "desc": "Clients fidèles qui font appel à ses services à plusieurs reprises"
+      }
+    ],
+    "why_us_badge": {
+      "value": "2h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Talence, Bordeaux, Pessac, Bègles, Villenave-d'Ornon, Gradignan, Mérignac, Cenon, Le Bouscat",
+    "service_area_cities": [
+      "Talence",
+      "Bordeaux",
+      "Pessac",
+      "Bègles",
+      "Villenave-d'Ornon",
+      "Gradignan",
+      "Mérignac",
+      "Cenon",
+      "Le Bouscat"
+    ],
+    "service_area_map_cities": [
+      "Bordeaux",
+      "Pessac",
+      "Mérignac",
+      "Bègles",
+      "Gradignan",
+      "Villenave-d'Ornon"
+    ],
+    "service_area_stats": [
+      {
+        "value": "9",
+        "label": "communes couvertes"
+      },
+      {
+        "value": "5/5",
+        "label": "Note Google"
+      },
+      {
+        "value": "82",
+        "label": "avis clients"
+      }
+    ],
+    "service_area_note": "Déplacement rapide dans toute l'agglomération bordelaise, disponible 24h/24 pour vos urgences.",
+    "no_reviews_cta": {
+      "eyebrow": "",
+      "title": "",
+      "subtitle": "",
+      "button_text": ""
+    },
+    "reviews_note": "5 / 5 sur Google Maps · 82 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 7 87 57 34 24",
+      "email": "",
+      "hours": "Lun–Dim · 24h/24"
+    },
+    "seo_title": "Plombier-chauffagiste Talence · TPT Plomberie",
+    "meta_description": "TPT Plomberie et climatisation à Talence — urgences 24h/24, installation chaudière et pompe à chaleur. Note 5/5 sur 82 avis Google. Bordeaux et environs."
+  },
+  "reviews": [
+    {
+      "author": "Sophie L.",
+      "location": "Talence",
+      "rating": 5,
+      "text": "Urgence dimanche de Pentecôte, chasse d'eau cassée. Intervention quelques heures plus tard, rapide, efficace, aimable : vraiment appréciable."
+    },
+    {
+      "author": "Isabelle M.",
+      "location": "Bordeaux",
+      "rating": 5,
+      "text": "Je recommande à 1000% TPT Plomberie : ma propriétaire a fait appel à elle pour le changement d'une chaudière, la nouvelle a été déplacée donc pas simple comme intervention. Il a fait travail remarquable! Très minutieux, impliqué pour trouver la meilleure solution! Je lui souhaite un avenir radieux avec des clients aussi sérieux et bienveillants que lui! Allez s'y les yeux fermés ! Merci encore!"
+    },
+    {
+      "author": "Marc D.",
+      "location": "Pessac",
+      "rating": 5,
+      "text": "Artisan très professionnel et très sympathique. J'ai fait appel à plusieurs reprises à ses services et tout récemment pour l'installation d'une pompe à chaleur. Travail très soigné et méticuleux. Une adresse à garder."
+    }
+  ]
+}
