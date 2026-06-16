@@ -1,0 +1,216 @@
+{
+  "business": {
+    "name": "Dépannage 2000– Réparation électroménager & plomberie Rennes 26 ans activité",
+    "slug": "depannage-2000-reparation-electromenager-plomberie-rennes-26",
+    "city": "Saint-Grégoire",
+    "country": "France",
+    "phone": "+33 6 76 77 98 26",
+    "address": "1 Rue Charles Nicolle, 35760 Saint-Grégoire",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=D%C3%A9pannage%202000%E2%80%93%20R%C3%A9paration%20%C3%A9lectrom%C3%A9nager%20%26%20plomberie%20Rennes%2026%20ans%20activit%C3%A9&query_place_id=ChIJiYALMt3dDkgRNBHsoBPp40M",
+    "rating": 4.8,
+    "reviews_count": 79
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-1.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-1.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "26 ans d'expérience"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Dépannage le jour même à Rennes",
+    "hero_subtitle": "Électroménager & plomberie — 26 ans d'expérience, intervention rapide, tarif honnête.",
+    "hero_stats": [
+      {
+        "value": "4.8/5",
+        "label": "note Google · 79 avis"
+      },
+      {
+        "value": "26 ans",
+        "label": "d'activité locale"
+      },
+      {
+        "value": "J+0",
+        "label": "intervention le jour même"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Intervention le jour même",
+        "subtitle": "Dépannage rapide dès votre appel, souvent en quelques heures"
+      },
+      {
+        "title": "Double compétence",
+        "subtitle": "Électroménager et plomberie traités en une seule visite"
+      },
+      {
+        "title": "Tarif juste et transparent",
+        "subtitle": "Prix raisonnables salués par les clients, sans surprise"
+      }
+    ],
+    "value_prop": "Depuis 26 ans, Dépannage 2000 intervient le jour même chez les particuliers de Saint-Grégoire et Rennes pour réparer électroménager et plomberie. Un artisan seul, joignable directement, reconnu pour sa rapidité, sa compétence et son honnêteté.",
+    "services_intro": "Réparation électroménager et plomberie à Saint-Grégoire et Rennes.",
+    "about": "Dépannage 2000 est un artisan indépendant installé à Saint-Grégoire depuis 26 ans, spécialisé dans la réparation d'électroménager et les petits travaux de plomberie. Reconnu pour sa réactivité et son sérieux, il intervient rapidement chez les particuliers de Rennes et ses environs.",
+    "footer_description": "Dépannage 2000 — Artisan réparateur électroménager & plomberie à Saint-Grégoire depuis 26 ans. Intervention le jour même, contact direct, 4.8/5 sur 79 avis Google.",
+    "services": [
+      {
+        "title": "Réparation lave-linge",
+        "desc": "Diagnostic rapide et remplacement de pièces sur toutes marques. Votre machine réparée le jour même de l'appel, sans délai d'attente inutile.",
+        "icon": "wrench",
+        "featured": true,
+        "tag": "Intervention rapide",
+        "image": "/images/stock/plombier/services/services-4.webp"
+      },
+      {
+        "title": "Réparation lave-vaisselle",
+        "desc": "Panne de lave-vaisselle ? Diagnostic posé rapidement, réparation efficace sur place. Artisan à l'écoute avec 26 ans d'expérience sur toutes marques.",
+        "icon": "droplets",
+        "featured": true,
+        "tag": "Toutes marques",
+        "image": "/images/stock/plombier/services/services-5.webp"
+      },
+      {
+        "title": "Dépannage électroménager",
+        "desc": "Réparation de tout appareil électroménager en panne. Diagnostic fiable, pièces remplacées sur place pour un résultat durable.",
+        "icon": "zap",
+        "featured": false
+      },
+      {
+        "title": "Petits travaux de plomberie",
+        "desc": "Fuite, robinetterie, raccordement : interventions de plomberie soignées au meilleur rapport qualité-prix.",
+        "icon": "flame",
+        "featured": false
+      },
+      {
+        "title": "Diagnostic & pièces détachées",
+        "desc": "Identification précise de la panne et remplacement des pièces défectueuses avec conseils d'entretien personnalisés.",
+        "icon": "search",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Réactivité le jour même",
+        "desc": "Appel le matin, intervention l'après-midi — les clients en témoignent."
+      },
+      {
+        "title": "Diagnostic immédiat",
+        "desc": "Panne identifiée rapidement, réparation réalisée dès la première visite."
+      },
+      {
+        "title": "Artisan chaleureux",
+        "desc": "Contact direct, conseils offerts, à l'écoute de chaque client."
+      },
+      {
+        "title": "Prix raisonnables",
+        "desc": "Tarification honnête et transparente, régulièrement saluée par les clients."
+      }
+    ],
+    "why_us_badge": {
+      "value": "1h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Saint-Grégoire, Rennes, Cesson-Sévigné, Betton, Pacé, Montgermont, La Chapelle-des-Fougeretz, Thorigné-Fouillard, Acigné",
+    "service_area_cities": [
+      "Saint-Grégoire",
+      "Rennes",
+      "Cesson-Sévigné",
+      "Betton",
+      "Pacé",
+      "Montgermont",
+      "La Chapelle-des-Fougeretz",
+      "Thorigné-Fouillard",
+      "Acigné"
+    ],
+    "service_area_map_cities": [
+      "Rennes",
+      "Cesson-Sévigné",
+      "Betton",
+      "Pacé",
+      "Thorigné-Fouillard",
+      "Acigné"
+    ],
+    "service_area_stats": [
+      {
+        "value": "9",
+        "label": "communes desservies"
+      },
+      {
+        "value": "4.8/5",
+        "label": "note Google"
+      },
+      {
+        "value": "79",
+        "label": "avis clients vérifiés"
+      }
+    ],
+    "service_area_note": "Déplacement rapide à Saint-Grégoire, Rennes et tout le bassin rennais — intervention le jour même de votre appel.",
+    "no_reviews_cta": {
+      "eyebrow": "",
+      "title": "",
+      "subtitle": "",
+      "button_text": ""
+    },
+    "reviews_note": "4.8 / 5 sur Google Maps · 79 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 6 76 77 98 26",
+      "email": "",
+      "hours": "Lun–Ven 8h–18h · Sam 8h–12h"
+    },
+    "seo_title": "Dépannage électroménager & plomberie Rennes",
+    "meta_description": "Réparation lave-linge, lave-vaisselle et plomberie à Saint-Grégoire et Rennes. Intervention le jour même. 26 ans d'expérience. 4.8/5 sur 79 avis Google."
+  },
+  "reviews": [
+    {
+      "author": "Marie-Claire L.",
+      "location": "Cesson-Sévigné",
+      "rating": 5,
+      "text": "Je tiens à remercier ce professionnel pour son intervention sur mon lave vaisselle. Personne très gentille, à l'écoute et manifestement très compétente dans son métier. Le diagnostic a été posé rapidement et la réparation effectuée avec une grande efficacité. La rapidité d'intervention a été exemplaire, ce qui est très appréciable. Je recommande vivement ce dépanneur pour son sérieux et son professionnalisme."
+    },
+    {
+      "author": "Thomas B.",
+      "location": "Betton",
+      "rating": 5,
+      "text": "Machine à laver en panne le matin, j'ai appeler directement et le monsieur est passer en début d'après midi le jour même ! Il a pu remplacer la pièce et m'a donné des conseils ! Je recommande vivement, très efficace et très gentil !"
+    },
+    {
+      "author": "Sophie R.",
+      "location": "Pacé",
+      "rating": 5,
+      "text": "Après avoir contacté Dépannage 2000 l'intervention a été efficace, professionnelle à un prix raisonnable pour la réparation de notre lave-linge et quelques petits travaux de plomberie. A recontacter et à recommander si besoin."
+    }
+  ]
+}
