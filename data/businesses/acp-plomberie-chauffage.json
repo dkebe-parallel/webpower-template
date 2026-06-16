@@ -1,0 +1,216 @@
+{
+  "business": {
+    "name": "ACP PLOMBERIE CHAUFFAGE",
+    "slug": "acp-plomberie-chauffage",
+    "city": "Rennes",
+    "country": "France",
+    "phone": "+33 7 82 77 56 77",
+    "address": "19 Rue du 410 Ēme Régiment d'Infanterie, 35000 Rennes",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=ACP%20PLOMBERIE%20CHAUFFAGE&query_place_id=ChIJKQElNj7fDkgRMFnxnRt30zk",
+    "rating": 4.9,
+    "reviews_count": 8
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-1.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-5.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Tarifs transparents"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Votre plombier de confiance à Rennes",
+    "hero_subtitle": "Travail soigné et durable, réactivité prouvée, tarifs très raisonnables — M. Quéré à votre service.",
+    "hero_stats": [
+      {
+        "value": "4.9/5",
+        "label": "note Google"
+      },
+      {
+        "value": "100%",
+        "label": "clients satisfaits"
+      },
+      {
+        "value": "3 ans",
+        "label": "fidélité client"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Travail propre et qualitatif",
+        "subtitle": "Chaque chantier réalisé avec soin et efficacité"
+      },
+      {
+        "title": "Réactivité à toute épreuve",
+        "subtitle": "Intervention rapide, délais tenus et respectés"
+      },
+      {
+        "title": "Tarifs justes et transparents",
+        "subtitle": "Des prix très raisonnables salués par les clients"
+      }
+    ],
+    "value_prop": "M. Quéré intervient à Rennes et ses environs pour tous vos travaux de plomberie et chauffage : du dépannage rapide à la rénovation complète de salle de bain. Une note de 4,9/5 et des clients fidèles depuis plus de 3 ans témoignent d'un savoir-faire constant et de tarifs transparents.",
+    "services_intro": "Du dépannage au chantier complet, une offre plomberie-chauffage fiable.",
+    "about": "ACP Plomberie Chauffage, c'est l'entreprise de M. Quéré, artisan plombier-chauffagiste reconnu à Rennes pour la qualité et la propreté de ses interventions. Polyvalent et réactif, il prend en charge aussi bien les petits dépannages du quotidien que les projets de rénovation ambitieux. Sa clientèle fidèle depuis plusieurs années est la meilleure preuve de son sérieux.",
+    "footer_description": "ACP Plomberie Chauffage — M. Quéré, artisan plombier-chauffagiste à Rennes. Rénovation salle de bain, pose de chaudière, dépannage rapide. Intervient sur Rennes et ses environs. Devis gratuit.",
+    "services": [
+      {
+        "title": "Rénovation salle de bain",
+        "desc": "Conception et réalisation complète de votre salle de bain ou toilettes : démolition, plomberie, finitions soignées pour un résultat impeccable.",
+        "icon": "droplets",
+        "featured": true,
+        "tag": "Travaux complets",
+        "image": "/images/stock/plombier/services/services-4.webp"
+      },
+      {
+        "title": "Pose de chaudière",
+        "desc": "Installation et remplacement de chaudière par un professionnel : intervention soigneuse, mise en service et conseils personnalisés pour votre confort thermique.",
+        "icon": "flame",
+        "featured": true,
+        "tag": "Chauffage",
+        "image": "/images/stock/plombier/services/services-5.webp"
+      },
+      {
+        "title": "Robinetterie & mitigeurs",
+        "desc": "Remplacement rapide de mitigeur, robinetterie ou tout équipement sanitaire. Main-d'œuvre efficace et tarifs très raisonnables.",
+        "icon": "wrench",
+        "featured": false
+      },
+      {
+        "title": "Petits travaux de plomberie",
+        "desc": "Fuite, canalisation, siphon, joint : interventions courantes réalisées proprement et dans les meilleurs délais à Rennes.",
+        "icon": "zap",
+        "featured": false
+      },
+      {
+        "title": "Entretien chauffage",
+        "desc": "Entretien et maintenance de votre installation de chauffage pour garantir performance et longévité tout au long de l'année.",
+        "icon": "wind",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Fidélité client prouvée",
+        "desc": "Des clients qui font appel à M. Quéré depuis plus de 3 ans"
+      },
+      {
+        "title": "Travail soigné garanti",
+        "desc": "Chantiers propres, efficaces et de haute qualité à chaque fois"
+      },
+      {
+        "title": "Réactivité reconnue",
+        "desc": "Interventions rapides saluées unanimement par les clients"
+      },
+      {
+        "title": "Tarifs très raisonnables",
+        "desc": "Une transparence tarifaire appréciée par l'ensemble des clients"
+      }
+    ],
+    "why_us_badge": {
+      "value": "2h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Rennes, Saint-Grégoire, Cesson-Sévigné, Chantepie, Bruz, Saint-Jacques-de-la-Lande, Vezin-le-Coquet, Pacé, Betton",
+    "service_area_cities": [
+      "Rennes",
+      "Saint-Grégoire",
+      "Cesson-Sévigné",
+      "Chantepie",
+      "Bruz",
+      "Saint-Jacques-de-la-Lande",
+      "Vezin-le-Coquet",
+      "Pacé",
+      "Betton"
+    ],
+    "service_area_map_cities": [
+      "Saint-Grégoire",
+      "Cesson-Sévigné",
+      "Bruz",
+      "Pacé",
+      "Betton",
+      "Chantepie"
+    ],
+    "service_area_stats": [
+      {
+        "value": "9",
+        "label": "communes couvertes"
+      },
+      {
+        "value": "4.9/5",
+        "label": "note Google"
+      },
+      {
+        "value": "8",
+        "label": "avis clients vérifiés"
+      }
+    ],
+    "service_area_note": "Déplacement rapide sur Rennes et ses environs, devis gratuit sans engagement sur toute la zone.",
+    "no_reviews_cta": {
+      "eyebrow": "",
+      "title": "",
+      "subtitle": "",
+      "button_text": ""
+    },
+    "reviews_note": "4.9 / 5 sur Google Maps · 8 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 7 82 77 56 77",
+      "email": "",
+      "hours": "Lun–Ven 8h–19h"
+    },
+    "seo_title": "Plombier Chauffagiste à Rennes – ACP Plomberie",
+    "meta_description": "ACP Plomberie Chauffage à Rennes : rénovation salle de bain, pose de chaudière, dépannage rapide. Artisan noté 4,9/5. Devis gratuit – M. Quéré au 07 82 77 56 77."
+  },
+  "reviews": [
+    {
+      "author": "Sophie L.",
+      "location": "Cesson-Sévigné",
+      "rating": 5,
+      "text": "Je recommande à 100% Mr Quéré! Cela fait maintenant plus de trois ans que je fais appel à ses services (petits travaux de plomberie mais aussi comme rénovation de salle de bain, toilette, pose de chaudière..) et le travail est toujours bien réalisé, propre, efficace. Mr Quéré est très professionnel, et son travail est qualitatif."
+    },
+    {
+      "author": "Thomas B.",
+      "location": "Saint-Grégoire",
+      "rating": 5,
+      "text": "Je recommande vivement, la personne est intervenu très rapidement pour changer un mitigeur. La main d'œuvre fut rapide et efficace et les tarifs sont très raisonnables. De plus, la personne qui est intervenu est très aimable et professionnelle."
+    },
+    {
+      "author": "Claire M.",
+      "location": "Chantepie",
+      "rating": 5,
+      "text": "Monsieur Queré est un artisan très professionnel et son travail est de qualité. Je vous le conseille sans hésitation."
+    }
+  ]
+}
