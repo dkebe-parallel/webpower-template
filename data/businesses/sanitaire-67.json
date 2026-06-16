@@ -49,8 +49,8 @@
     "enabled_blocks": []
   },
   "content": {
-    "hero_title": "Votre plombier 24h/24 à Illkirch",
-    "hero_subtitle": "Intervention rapide, travail soigné et conseils honnêtes — 343 clients satisfaits près de Strasbourg.",
+    "hero_title": "Plombier urgence 24h/24 à Illkirch",
+    "hero_subtitle": "Intervention rapide, travail soigné, 4.9/5 sur 343 avis — disponible 7j/7 dans l'agglo strasbourgeoise.",
     "hero_stats": [
       {
         "value": "4.9/5",
@@ -58,7 +58,7 @@
       },
       {
         "value": "343",
-        "label": "Avis vérifiés"
+        "label": "Avis clients"
       },
       {
         "value": "24h/24",
@@ -68,103 +68,103 @@
     "reassurance_items": [
       {
         "title": "Réactivité immédiate",
-        "subtitle": "Intervention rapide, même en urgence"
+        "subtitle": "Intervention rapide, urgences traitées sans délai"
       },
       {
-        "title": "Travail soigné garanti",
-        "subtitle": "Résultat comme neuf, qualité irréprochable"
+        "title": "Travail soigné et durable",
+        "subtitle": "Qualité reconnue : « marche comme neuf » par vos voisins"
       },
       {
-        "title": "Conseils et transparence",
-        "subtitle": "Diagnostic honnête et tarifs justes"
+        "title": "Ancrage local Strasbourg",
+        "subtitle": "Basé à Illkirch, présent dans tout le secteur sud"
       }
     ],
-    "value_prop": "Sanitaire 67 intervient 24h/24 et 7j/7 à Illkirch-Graffenstaden et dans l'agglomération strasbourgeoise. Réactivité, soin du travail et conseils clairs : 343 clients lui font confiance avec une note de 4.9/5.",
-    "services_intro": "Dépannage, réparation et installation sanitaire, 24h/24 et 7j/7.",
-    "about": "Sanitaire 67 est votre plombier de proximité à Illkirch-Graffenstaden, disponible à toute heure pour vos urgences et interventions sanitaires. Reconnu pour sa réactivité et la qualité de ses finitions, il intervient rapidement dans tout le secteur sud de Strasbourg avec des conseils clairs et des tarifs transparents.",
-    "footer_description": "Sanitaire 67 — Plombier disponible 24h/24 et 7j/7 à Illkirch-Graffenstaden. Dépannage, réparation et installation sanitaire dans l'agglomération strasbourgeoise. Note 4.9/5 · 343 avis Google.",
+    "value_prop": "Sanitaire 67, c'est votre plombier de proximité à Illkirch-Graffenstaden, disponible 24h/24 et 7j/7 pour toutes vos urgences sanitaires. Réactivité, professionnalisme et qualité d'exécution saluée par plus de 340 clients à 4.9/5.",
+    "services_intro": "Dépannage, réparation et installation sanitaire — 24h/24, 7j/7.",
+    "about": "Sanitaire 67 est votre plombier de confiance dans l'agglomération de Strasbourg, basé à Illkirch-Graffenstaden. Disponible à toute heure pour répondre à vos urgences comme à vos projets d'installation, l'entreprise intervient avec réactivité et professionnalisme. La satisfaction client est au cœur de chaque intervention, comme en témoignent les 343 avis à 4.9/5 sur Google.",
+    "footer_description": "Sanitaire 67 — Plombier disponible 24h/24 et 7j/7 à Illkirch-Graffenstaden et dans l'agglomération strasbourgeoise. Dépannage urgent, réparation et installation sanitaire avec 4.9/5 sur 343 avis.",
     "services": [
       {
-        "title": "Dépannage plomberie urgente",
-        "desc": "Intervention disponible 24h/24 et 7j/7 pour toute urgence : fuite, canalisation bouchée ou équipement hors service. Délai de déplacement minimal.",
+        "title": "Dépannage plomberie urgent",
+        "desc": "Fuite, canalisation bouchée, dégât des eaux : Sanitaire 67 intervient 24h/24 et 7j/7 pour stopper l'urgence rapidement et efficacement.",
         "icon": "zap",
         "featured": true,
         "tag": "Urgence 24h/24",
         "image": "/images/stock/plombier/services/services-1.webp"
       },
       {
-        "title": "Réparation sanitaire",
-        "desc": "Remise en état complète de vos installations sanitaires. Un travail soigné et durable, résultat garanti comme neuf selon les retours clients.",
+        "title": "Réparation équipements sanitaires",
+        "desc": "Remplacement de robinetterie, chasse d'eau, siphon ou tout équipement défaillant — remis en état comme neuf, durablement.",
         "icon": "wrench",
         "featured": true,
-        "tag": "Qualité garantie",
+        "tag": "Remis à neuf",
         "image": "/images/stock/plombier/services/services-2.webp"
       },
       {
-        "title": "Intervention canalisations",
-        "desc": "Diagnostic et traitement de vos canalisations : débouchage, fuite, remplacement de tronçon défectueux.",
+        "title": "Installation plomberie",
+        "desc": "Pose et raccordement de sanitaires, lavabo, douche ou baignoire dans les règles de l'art.",
         "icon": "droplets",
         "featured": false
       },
       {
-        "title": "Conseil et diagnostic",
-        "desc": "Analyse de votre installation et recommandations claires pour prévenir les pannes et optimiser votre réseau.",
+        "title": "Entretien & maintenance",
+        "desc": "Contrôle préventif de vos installations pour éviter pannes et fuites coûteuses.",
         "icon": "search",
         "featured": false
       },
       {
-        "title": "Installation & maintenance",
-        "desc": "Pose et entretien de vos équipements sanitaires pour des performances durables au quotidien.",
-        "icon": "flame",
+        "title": "Diagnostic & conseils",
+        "desc": "Expertise terrain et recommandations personnalisées pour vos projets sanitaires.",
+        "icon": "search",
         "featured": false
       }
     ],
     "why_us": [
       {
         "title": "Réactivité prouvée",
-        "desc": "Rapidité d'intervention saluée par chaque client dans ses avis"
+        "desc": "Délais d'intervention salués par tous les clients dans leurs avis."
       },
       {
         "title": "Qualité irréprochable",
-        "desc": "Finitions soignées, résultat « comme neuf » systématiquement"
+        "desc": "Résultats « comme neufs », reconnus dans chaque témoignage."
       },
       {
-        "title": "Conseils honnêtes",
-        "desc": "Technicien à l'écoute, recommandations claires et adaptées"
+        "title": "Disponible 24h/24, 7j/7",
+        "desc": "Aucune urgence laissée sans réponse, y compris la nuit."
       },
       {
-        "title": "Tarifs transparents",
-        "desc": "Prix justes reconnus, sans surprise à la facturation"
+        "title": "4.9/5 sur 343 avis",
+        "desc": "Excellence constante, confirmée par plus de 340 clients locaux."
       }
     ],
     "why_us_badge": {
       "value": "1h",
       "label": "délai d'intervention"
     },
-    "service_area": "Illkirch-Graffenstaden, Strasbourg, Ostwald, Geispolsheim, Lingolsheim, Eschau, Schiltigheim, Bischheim, Hœnheim",
+    "service_area": "Illkirch-Graffenstaden, Strasbourg, Ostwald, Geispolsheim, Lingolsheim, Schiltigheim, Hoenheim, Bischheim, Entzheim",
     "service_area_cities": [
       "Illkirch-Graffenstaden",
       "Strasbourg",
       "Ostwald",
       "Geispolsheim",
       "Lingolsheim",
-      "Eschau",
       "Schiltigheim",
+      "Hoenheim",
       "Bischheim",
-      "Hœnheim"
+      "Entzheim"
     ],
     "service_area_map_cities": [
       "Strasbourg",
-      "Ostwald",
-      "Geispolsheim",
-      "Lingolsheim",
       "Schiltigheim",
-      "Bischheim"
+      "Bischheim",
+      "Lingolsheim",
+      "Ostwald",
+      "Geispolsheim"
     ],
     "service_area_stats": [
       {
         "value": "9",
-        "label": "Communes desservies"
+        "label": "Communes couvertes"
       },
       {
         "value": "4.9/5",
@@ -172,10 +172,10 @@
       },
       {
         "value": "343",
-        "label": "Avis clients"
+        "label": "Avis clients vérifiés"
       }
     ],
-    "service_area_note": "Déplacement rapide dans tout le secteur de l'agglomération strasbourgeoise, devis gratuit sans engagement.",
+    "service_area_note": "Déplacement rapide dans tout le sud de l'agglomération strasbourgeoise — devis gratuit, sans engagement.",
     "no_reviews_cta": {
       "eyebrow": "",
       "title": "",
@@ -190,24 +190,24 @@
       "email": "",
       "hours": "Lun–Dim · Ouvert 24h/24"
     },
-    "seo_title": "Plombier Illkirch-Graffenstaden 24h/24 — Sanitaire 67",
-    "meta_description": "Sanitaire 67 : plombier disponible 24h/24 à Illkirch-Graffenstaden. Dépannage urgence, réparation sanitaire, intervention rapide. Note 4.9/5 sur 343 avis Google."
+    "seo_title": "Plombier Illkirch-Graffenstaden — Urgence 24h/24 | Sanitaire 67",
+    "meta_description": "Sanitaire 67, plombier disponible 24h/24 à Illkirch-Graffenstaden. Dépannage urgent, réparation et installation sanitaire. 4.9/5 sur 343 avis Google."
   },
   "reviews": [
     {
-      "author": "Marc L.",
+      "author": "Marc D.",
       "location": "Ostwald",
       "rating": 5,
       "text": "Réactif et de bons conseils, un travail efficace qui marche comme neuf !"
     },
     {
-      "author": "Sylvie K.",
-      "location": "Illkirch-Graffenstaden",
+      "author": "Sophie L.",
+      "location": "Lingolsheim",
       "rating": 5,
       "text": "Je suis contente rapid et efficace merci je recommande"
     },
     {
-      "author": "Thomas B.",
+      "author": "Thomas R.",
       "location": "Geispolsheim",
       "rating": 5,
       "text": "Excellent travail et rapide"
