@@ -5,7 +5,7 @@
     "city": "Bordeaux",
     "country": "France",
     "phone": "+33 6 58 97 55 28",
-    "address": "Secteur Bordeaux et agglomération",
+    "address": "Secteur Bordeaux et périphérie",
     "maps_url": "https://www.google.com/maps/search/?api=1&query=BARRET%E2%80%99EAU&query_place_id=ChIJZascbjJ2oigRTFp6FN5Z0cQ",
     "rating": 4.9,
     "reviews_count": 157
@@ -17,13 +17,13 @@
   },
   "badges": {
     "certifications": [],
-    "highlight": "Devis gratuit"
+    "highlight": "Devis sur place"
   },
   "theme": {
     "palette": {
       "primary": "#1C2B4A",
       "secondary": "#C87941",
-      "accent": "#F5F3EE",
+      "accent": "#F5F3EEE",
       "bg": "#FFFFFF",
       "text": "#1A1A1A",
       "muted": "#6B7280"
@@ -49,8 +49,8 @@
     "enabled_blocks": []
   },
   "content": {
-    "hero_title": "Plombier urgent à Bordeaux",
-    "hero_subtitle": "Intervention le jour même, prix transparents, travail soigné — disponible dès votre appel.",
+    "hero_title": "Plombier urgence sur Bordeaux",
+    "hero_subtitle": "Intervention le jour même, devis sur place, tarifs honnêtes — note 4.9/5 sur 157 avis Google.",
     "hero_stats": [
       {
         "value": "4.9/5",
@@ -58,63 +58,63 @@
       },
       {
         "value": "157",
-        "label": "Avis clients"
+        "label": "Avis vérifiés"
       },
       {
-        "value": "1h",
+        "value": "< 2h",
         "label": "Délai d'intervention"
       }
     ],
     "reassurance_items": [
       {
-        "title": "Réactivité immédiate",
-        "subtitle": "Prise en charge et passage possible le jour même"
+        "title": "Intervention dans la journée",
+        "subtitle": "Appel le matin, plombier chez vous l'après-midi"
       },
       {
-        "title": "Transparence totale",
-        "subtitle": "Prix corrects, aucun travail inutile imposé"
+        "title": "Tarifs justes, sans surplus",
+        "subtitle": "On ne fait que le nécessaire, rien de plus"
       },
       {
-        "title": "Travail soigné et pédagogique",
-        "subtitle": "Explique chaque intervention pour vous rassurer"
+        "title": "Travail soigné et expliqué",
+        "subtitle": "Tiago rassure et détaille chaque intervention"
       }
     ],
-    "value_prop": "BARRET'EAU intervient en urgence dans l'agglomération bordelaise avec une réactivité rare : appel traité immédiatement, passage le jour même. Tiago explique chaque intervention, ne facture que le nécessaire et garantit un travail soigné. 4.9/5 sur 157 avis.",
-    "services_intro": "Dépannage, fuites, chauffe-eau et plomberie générale en urgence.",
-    "about": "BARRET'EAU est un artisan plombier réactif intervenant dans l'agglomération bordelaise. Reconnu pour sa rapidité d'intervention et son honnêteté, Tiago répond immédiatement aux urgences et ne propose que les travaux strictement nécessaires. Une note de 4.9/5 sur 157 avis témoigne de la constance de son sérieux.",
-    "footer_description": "BARRET'EAU — Plombier d'urgence dans l'agglomération bordelaise. Intervention rapide sur fuites, chauffe-eau et plomberie générale. Prix honnêtes, travail soigné. Note 4.9/5 sur 157 avis Google.",
+    "value_prop": "BARRET'EAU intervient sur Bordeaux et sa périphérie pour tous vos problèmes de plomberie en urgence. Fuite, panne de chauffe-eau, dépannage rapide : l'équipe répond immédiatement et se déplace dans les heures qui suivent. Devis sur place, réparation dans la foulée, prix honnêtes.",
+    "services_intro": "Dépannage plomberie et chauffage sur Bordeaux et environs.",
+    "about": "BARRET'EAU est une entreprise de plomberie réactive basée dans le secteur bordelais, portée par Tiago, artisan reconnu pour son sérieux et sa transparence. Chaque intervention est réalisée avec soin, en ne traitant que ce qui est vraiment nécessaire. Une approche honnête qui lui vaut une note de 4.9/5 sur 157 avis Google.",
+    "footer_description": "BARRET'EAU — Plombier d'urgence sur Bordeaux et sa périphérie. Réactivité, honnêteté et travail soigné : des valeurs au cœur de chaque intervention. Disponible rapidement, devis sur place.",
     "services": [
       {
-        "title": "Réparation chauffe-eau",
-        "desc": "Diagnostic et réparation rapide de votre chauffe-eau en panne, intervention possible le jour même de votre appel.",
+        "title": "Dépannage chauffe-eau",
+        "desc": "Panne, fuite ou dysfonctionnement : Tiago diagnostique et répare votre chauffe-eau le jour même, devis sur place avant toute intervention.",
         "icon": "flame",
         "featured": true,
         "tag": "Urgence",
         "image": "/images/stock/plombier/services/services-4.webp"
       },
       {
-        "title": "Détection de fuites",
-        "desc": "Localisation précise et réparation des fuites détectées, avec vérification complète de l'installation pour éviter toute récidive.",
+        "title": "Détection & réparation de fuites",
+        "desc": "Fuite détectée par votre opérateur ou visible chez vous ? Intervention rapide pour localiser et stopper la fuite sans travaux inutiles.",
         "icon": "droplets",
         "featured": true,
-        "tag": "Expertise",
+        "tag": "Réactivité",
         "image": "/images/stock/plombier/services/services-5.webp"
       },
       {
-        "title": "Plomberie d'urgence",
-        "desc": "Intervention rapide pour tout problème de plomberie urgent. Disponibilité immédiate, devis sur place.",
-        "icon": "zap",
-        "featured": false
-      },
-      {
-        "title": "Installation chaudière",
-        "desc": "Installation et entretien de chaudière par un professionnel réactif et transparent sur les tarifs.",
+        "title": "Plomberie générale urgence",
+        "desc": "Tout problème de plomberie traité en urgence : tuyauterie, robinetterie, évacuation. Réponse immédiate, intervention rapide.",
         "icon": "wrench",
         "featured": false
       },
       {
+        "title": "Entretien chaudière",
+        "desc": "Vérification et entretien de votre chaudière pour prévenir les pannes et assurer votre confort au quotidien.",
+        "icon": "zap",
+        "featured": false
+      },
+      {
         "title": "Diagnostic plomberie",
-        "desc": "Contrôle complet de votre installation pour prévenir les pannes et sécuriser votre réseau.",
+        "desc": "Inspection complète de votre installation pour détecter d'éventuelles anomalies avant qu'elles ne deviennent urgentes.",
         "icon": "search",
         "featured": false
       }
@@ -122,32 +122,32 @@
     "why_us": [
       {
         "title": "Réponse immédiate",
-        "desc": "Votre appel est pris en charge immédiatement, sans attente."
+        "desc": "Appel décroché, passage dans les heures qui suivent, sans attendre."
       },
       {
-        "title": "Honnêteté tarifaire",
-        "desc": "Devis clair, jamais de travaux superflus imposés."
+        "title": "Honnêteté totale",
+        "desc": "Aucun gonflement de devis : on fait le nécessaire, rien de plus."
       },
       {
-        "title": "Intervention le jour même",
-        "desc": "Passage assuré dans l'après-midi en cas d'urgence."
+        "title": "Tarifs abordables",
+        "desc": "Prix corrects salués par les clients, devis transparent sur place."
       },
       {
-        "title": "Note 4.9/5 Google",
-        "desc": "157 clients satisfaits témoignent d'un service constant."
+        "title": "Artisan de confiance",
+        "desc": "4.9/5 sur 157 avis : une qualité constante reconnue par nos clients."
       }
     ],
     "why_us_badge": {
       "value": "1h",
       "label": "délai d'intervention"
     },
-    "service_area": "Bordeaux, Pessac, Talence, Villenave-d'Ornon, Bègles, Gradignan, Mérignac, Le Bouscat",
+    "service_area": "Bordeaux, Pessac, Talence, Bègles, Villenave-d'Ornon, Gradignan, Mérignac, Le Bouscat",
     "service_area_cities": [
       "Bordeaux",
       "Pessac",
       "Talence",
-      "Villenave-d'Ornon",
       "Bègles",
+      "Villenave-d'Ornon",
       "Gradignan",
       "Mérignac",
       "Le Bouscat"
@@ -163,18 +163,18 @@
     "service_area_stats": [
       {
         "value": "8+",
-        "label": "communes couvertes"
+        "label": "Communes couvertes"
       },
       {
         "value": "4.9/5",
-        "label": "note Google"
+        "label": "Note Google"
       },
       {
         "value": "157",
-        "label": "avis clients"
+        "label": "Avis clients"
       }
     ],
-    "service_area_note": "Déplacement rapide dans toute l'agglomération bordelaise, devis gratuit sur place sans engagement.",
+    "service_area_note": "Déplacement rapide sur Bordeaux et toute la périphérie, devis gratuit sur place sans engagement.",
     "no_reviews_cta": {
       "eyebrow": "",
       "title": "",
@@ -190,24 +190,24 @@
       "hours": ""
     },
     "seo_title": "Plombier urgence Bordeaux — BARRET'EAU",
-    "meta_description": "Plombier d'urgence à Bordeaux et agglomération. Intervention le jour même, fuites, chauffe-eau. Note 4.9/5 sur 157 avis. Appelez BARRET'EAU."
+    "meta_description": "BARRET'EAU, plombier d'urgence sur Bordeaux et sa périphérie. Intervention le jour même, fuite, chauffe-eau, tarifs honnêtes. Note 4.9/5 · 157 avis Google."
   },
   "reviews": [
     {
-      "author": "Sophie M.",
+      "author": "Marie-Claire D.",
       "location": "Pessac",
       "rating": 5,
       "text": "J'ai appelé à 13heure pour un problème sur mon chauffe eau et une fuite détectée par suez. J'ai eu une réponse tout de suite et un passage dans l'après midi. Devis sur place, réparation en suivant. Puis Tiago, très sympathique et efficace a vérifié si potentiellement il y aurait une fuite ailleurs. Tiago est un professionnel agréable et abordable. Il explique ce qu'il fait, rassure et ne cherche pas à faire plus que le nécessaire. Je recommande cette entreprise vivement, ils sont hyper rapide et le travail est soigné."
     },
     {
-      "author": "Michel D.",
+      "author": "Bernard L.",
       "location": "Talence",
       "rating": 5,
       "text": "Très sérieux, professionnels, prix corrects, je recommande."
     },
     {
-      "author": "Claire B.",
-      "location": "Villenave-d'Ornon",
+      "author": "Sophie R.",
+      "location": "Bègles",
       "rating": 5,
       "text": "Réponse rapide et efficace en urgence, et avec gentillesse ! Merci beaucoup ! Disponibilité au top car prêt à intervenir."
     }
