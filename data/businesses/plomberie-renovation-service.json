@@ -5,7 +5,7 @@
     "city": "Bordeaux",
     "country": "France",
     "phone": "+33 6 61 38 80 33",
-    "address": "Métropole de Bordeaux, France",
+    "address": "Bordeaux, Gironde, France",
     "maps_url": "https://www.google.com/maps/search/?api=1&query=Plomberie%20R%C3%A9novation%20Service&query_place_id=ChIJFcfiYZkXBKwRHBkIMCQMaRw",
     "rating": 5,
     "reviews_count": 43
@@ -17,7 +17,7 @@
   },
   "badges": {
     "certifications": [],
-    "highlight": "Artisan local"
+    "highlight": "Recommandé les yeux fermés"
   },
   "theme": {
     "palette": {
@@ -49,8 +49,8 @@
     "enabled_blocks": []
   },
   "content": {
-    "hero_title": "Le plombier qu'on recommande les yeux fermés",
-    "hero_subtitle": "Travail soigné, intervention rapide et rapport humain exceptionnel — noté 5/5 par 43 clients.",
+    "hero_title": "Le plombier qu'on garde à Bordeaux",
+    "hero_subtitle": "Travail soigné, intervention rapide, note parfaite 5/5 — Raphaël, votre plombier de confiance.",
     "hero_stats": [
       {
         "value": "5/5",
@@ -58,99 +58,99 @@
       },
       {
         "value": "43",
-        "label": "avis clients"
+        "label": "Avis clients"
       },
       {
         "value": "100%",
-        "label": "clients satisfaits"
+        "label": "Clients satisfaits"
       }
     ],
     "reassurance_items": [
       {
         "title": "Travail soigné et propre",
-        "subtitle": "Finitions irréprochables reconnues par tous les clients"
+        "subtitle": "Chaque intervention livrée avec soin et finitions impeccables"
       },
       {
         "title": "Raphaël, artisan de confiance",
-        "subtitle": "Un interlocuteur humain, à l'écoute, dès le premier contact"
+        "subtitle": "Un professionnel humain, à l'écoute, recommandé les yeux fermés"
       },
       {
-        "title": "Interventions complexes maîtrisées",
-        "subtitle": "Dégâts des eaux, canalisations communes : aucun chantier ne lui résiste"
+        "title": "Problèmes complexes résolus",
+        "subtitle": "Dégâts des eaux, canalisations communes : on va jusqu'au bout"
       }
     ],
-    "value_prop": "Plomberie Rénovation Service, c'est Raphaël, artisan plombier reconnu pour la qualité irréprochable de ses interventions et sa capacité à créer une vraie relation de confiance avec chaque client. Note parfaite de 5/5 sur 43 avis, il intervient avec rigueur et bienveillance dans toute la métropole bordelaise.",
-    "services_intro": "Des interventions de plomberie soignées, de la réparation à la rénovation complète.",
-    "about": "Plomberie Rénovation Service, c'est Raphaël, artisan plombier passionné qui intervient dans toute la métropole bordelaise avec rigueur et bienveillance. Reconnu pour la propreté de son travail et sa grande disponibilité, il prend le temps nécessaire pour résoudre chaque problème durablement. Ses clients le recommandent unanimement, les yeux fermés.",
-    "footer_description": "Plomberie Rénovation Service — Raphaël, votre plombier artisan dans la métropole bordelaise. Installation, réparation, dégâts des eaux et rénovation. Noté 5/5 sur Google par 43 clients satisfaits.",
+    "value_prop": "Plomberie Rénovation Service, c'est Raphaël, un artisan bordelais reconnu pour son sérieux, ses finitions soignées et ses qualités humaines. Avec une note parfaite de 5/5 sur 43 avis, ses clients le recommandent sans hésiter — et font appel à lui encore et encore.",
+    "services_intro": "Installation, réparation, rénovation et dépannage plomberie à Bordeaux.",
+    "about": "Plomberie Rénovation Service, c'est Raphaël, un plombier artisan basé dans l'agglomération bordelaise. Il intervient pour des installations, des rénovations et des dépannages avec un souci du détail et une vraie relation humaine. Sa note parfaite de 5/5 sur 43 avis témoigne d'une qualité constante et d'une fiabilité rare dans le secteur.",
+    "footer_description": "Plomberie Rénovation Service — Raphaël, plombier artisan à Bordeaux. Installation, rénovation, dépannage et dégâts des eaux. Note 5/5 sur Google, recommandé par ses clients les yeux fermés.",
     "services": [
       {
         "title": "Plomberie générale",
-        "desc": "Installation et réparation de tous équipements sanitaires : robinetterie, tuyauterie, chauffe-eau. Un travail propre et soigné, réalisé dans les règles de l'art.",
+        "desc": "Installation et réparation complètes : robinetterie, tuyauterie, évacuations. Interventions soignées chez les particuliers et en copropriété.",
         "icon": "wrench",
         "featured": true,
-        "tag": "Expertise complète",
+        "tag": "Expertise",
         "image": "/images/stock/plombier/services/services-8.webp"
       },
       {
-        "title": "Dégâts des eaux",
-        "desc": "Détection et réparation de fuites, intervention sur canalisations communes en copropriété. Raphaël prend le temps nécessaire pour régler chaque situation durablement.",
+        "title": "Réparation dégâts des eaux",
+        "desc": "Détection et réparation de fuites, canalisations communes, remise en état après sinistre. Prise en charge complète sur plusieurs jours si nécessaire.",
         "icon": "droplets",
         "featured": true,
-        "tag": "Intervention rapide",
+        "tag": "Urgent",
         "image": "/images/stock/plombier/services/services-1.webp"
       },
       {
         "title": "Rénovation salle de bain",
-        "desc": "Rénovation complète ou partielle de vos installations sanitaires, pose de douche, baignoire et équipements.",
+        "desc": "Remplacement et installation de sanitaires, douche, baignoire. Finitions soignées pour un résultat durable.",
         "icon": "zap",
         "featured": false
       },
       {
-        "title": "Dépannage en appartement",
-        "desc": "Intervention rapide en appartement et copropriété pour tous problèmes de plomberie urgents.",
+        "title": "Dépannage plomberie",
+        "desc": "Intervention rapide pour tout problème urgent : fuite, bouchon, pression. Disponible pour particuliers et copropriétés.",
         "icon": "search",
         "featured": false
       },
       {
-        "title": "Installation sanitaire",
-        "desc": "Pose et raccordement de WC, lavabo, évier et tout équipement sanitaire neuf ou de remplacement.",
+        "title": "Installation sanitaires",
+        "desc": "Pose et raccordement de tous appareils sanitaires dans le respect des normes en vigueur.",
         "icon": "flame",
         "featured": false
       }
     ],
     "why_us": [
       {
-        "title": "Travail irréprochable",
-        "desc": "Finitions soignées et propres, reconnues par l'ensemble des clients"
+        "title": "Travail impeccable",
+        "desc": "Finitions soignées et propres, reconnues par tous les clients"
       },
       {
-        "title": "Rapport humain unique",
-        "desc": "Raphaël, artisan à l'écoute, gentil et d'une serviabilité rare"
+        "title": "Raphaël, à votre écoute",
+        "desc": "Artisan humain, gentil, qui prend le temps d'expliquer"
       },
       {
-        "title": "Réactivité prouvée",
-        "desc": "Problèmes réglés efficacement, dans les délais attendus"
+        "title": "Fiabilité éprouvée",
+        "desc": "5/5 sur 43 avis, clients fidèles et recommandations unanimes"
       },
       {
-        "title": "Confiance totale",
-        "desc": "Note 5/5 sur 43 avis : les clients reviennent et recommandent"
+        "title": "Problèmes complexes",
+        "desc": "Canalisations communes, sinistres : résolution complète garantie"
       }
     ],
     "why_us_badge": {
       "value": "2h",
       "label": "délai d'intervention"
     },
-    "service_area": "Bordeaux, Mérignac, Pessac, Talence, Le Bouscat, Bègles, Villenave-d'Ornon, Cenon et toute la métropole bordelaise",
+    "service_area": "Bordeaux, Mérignac, Pessac, Talence, Bègles, Le Bouscat, Villenave-d'Ornon, Gradignan",
     "service_area_cities": [
       "Bordeaux",
       "Mérignac",
       "Pessac",
       "Talence",
-      "Le Bouscat",
       "Bègles",
+      "Le Bouscat",
       "Villenave-d'Ornon",
-      "Cenon"
+      "Gradignan"
     ],
     "service_area_map_cities": [
       "Bordeaux",
@@ -158,12 +158,12 @@
       "Pessac",
       "Talence",
       "Bègles",
-      "Cenon"
+      "Gradignan"
     ],
     "service_area_stats": [
       {
         "value": "8+",
-        "label": "communes couvertes"
+        "label": "communes desservies"
       },
       {
         "value": "5/5",
@@ -171,10 +171,10 @@
       },
       {
         "value": "43",
-        "label": "avis clients"
+        "label": "avis vérifiés"
       }
     ],
-    "service_area_note": "Déplacement rapide dans toute la métropole bordelaise, devis gratuit sans engagement.",
+    "service_area_note": "Déplacement rapide dans toute l'agglomération bordelaise — devis gratuit sans engagement.",
     "no_reviews_cta": {
       "eyebrow": "",
       "title": "",
@@ -190,11 +190,11 @@
       "hours": ""
     },
     "seo_title": "Plombier Bordeaux — Plomberie Rénovation Service",
-    "meta_description": "Plombier artisan à Bordeaux et métropole : installation, réparation, dégâts des eaux. Raphaël, noté 5/5 par 43 clients. Devis gratuit, intervention rapide."
+    "meta_description": "Plombier à Bordeaux : installation, rénovation, dégâts des eaux. Raphaël, artisan 5/5 sur Google, 43 avis. Devis gratuit, intervention rapide."
   },
   "reviews": [
     {
-      "author": "Michel D.",
+      "author": "Marc D.",
       "location": "Mérignac",
       "rating": 5,
       "text": "Entreprise tres sérieuse, je suis enfin tombé sur un très bon plombier ! Il est tres professionnel, le travail est fait proprement. Raphaël est efficace mais aussi très humain. Je le recommande ++. Je n'hesiterai pas a refaire appel a lui. Belle découverte."
@@ -206,7 +206,7 @@
       "text": "Un grand merci pour votre professionnalisme et votre travail très soigné pour notre installation."
     },
     {
-      "author": "Caroline B.",
+      "author": "Christine B.",
       "location": "Talence",
       "rating": 5,
       "text": "Je tiens à poser un avis extrêmement positif concernant cette société et en particulier Raphaël qui est d'une gentillesse et d'une serviabilité incroyable ! Il a pris le temps sur deux journées de régler notre problème de dégât des eaux qui se trouvait dans les canalisations commune ! Je vous recommande vivement de faire appel à lui en particulier les yeux fermés !"
