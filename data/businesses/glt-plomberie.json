@@ -1,0 +1,215 @@
+{
+  "business": {
+    "name": "GLT Plomberie",
+    "slug": "glt-plomberie",
+    "city": "Bordeaux",
+    "country": "France",
+    "phone": "+33 6 73 29 20 28",
+    "address": "Agglomération bordelaise, France",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=GLT%20Plomberie&query_place_id=ChIJ0Tc9ATetPyMRtwl_b-uTXnQ",
+    "rating": 5,
+    "reviews_count": 5
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-1.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-5.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Urgences jours fériés"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Plombier disponible, même un 31 décembre",
+    "hero_subtitle": "Dépannage rapide et soigné à Bordeaux · 5/5 Google · Disponible jours fériés",
+    "hero_stats": [
+      {
+        "value": "5/5",
+        "label": "note Google"
+      },
+      {
+        "value": "100%",
+        "label": "clients satisfaits"
+      },
+      {
+        "value": "1h",
+        "label": "délai d'intervention"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Disponible même les jours fériés",
+        "subtitle": "Intervient en urgence y compris les veilles de fêtes"
+      },
+      {
+        "title": "Travail propre, rapide et soigné",
+        "subtitle": "Un résultat impeccable à chaque intervention"
+      },
+      {
+        "title": "Contact humain et mise en confiance",
+        "subtitle": "Un plombier souriant qui inspire confiance dès l'arrivée"
+      }
+    ],
+    "value_prop": "GLT Plomberie intervient dans l'agglomération bordelaise avec réactivité et bonne humeur, même en situation d'urgence. Chaque client repart avec un travail propre, un sourire et la certitude d'avoir eu affaire à un vrai professionnel de confiance.",
+    "services_intro": "Dépannage et plomberie générale à Bordeaux et alentours",
+    "about": "GLT Plomberie est votre artisan plombier de confiance dans l'agglomération bordelaise. Reconnu pour sa réactivité, sa disponibilité hors du commun et la qualité de son travail, il intervient avec le sourire même dans les situations les plus urgentes. Ses clients l'apprécient autant pour son professionnalisme que pour son sens du contact humain.",
+    "footer_description": "GLT Plomberie — votre plombier disponible à Bordeaux et dans l'agglomération. Dépannage urgent, travail soigné, intervention rapide même les jours fériés. Note Google parfaite 5/5.",
+    "services": [
+      {
+        "title": "Dépannage plomberie urgent",
+        "desc": "Intervention rapide en cas de fuite, canalisation bouchée ou panne urgente — disponible y compris les jours fériés et veilles de fêtes.",
+        "icon": "zap",
+        "featured": true,
+        "tag": "Urgence 7j/7",
+        "image": "/images/stock/plombier/services/services-4.webp"
+      },
+      {
+        "title": "Plomberie générale",
+        "desc": "Réparation, remplacement et entretien de vos installations plomberie. Travail propre, soigné et réalisé dans les règles de l'art.",
+        "icon": "wrench",
+        "featured": true,
+        "tag": "Travail soigné",
+        "image": "/images/stock/plombier/services/services-5.webp"
+      },
+      {
+        "title": "Détection de fuites",
+        "desc": "Localisation précise des fuites apparentes ou cachées pour intervenir rapidement et limiter les dégâts.",
+        "icon": "search",
+        "featured": false
+      },
+      {
+        "title": "Réparation robinetterie",
+        "desc": "Remplacement et réparation de robinets, mitigeurs et éléments défectueux dans vos pièces d'eau.",
+        "icon": "droplets",
+        "featured": false
+      },
+      {
+        "title": "Débouchage canalisations",
+        "desc": "Débouchage rapide de vos éviers, douches, WC et canalisations pour retrouver un écoulement normal.",
+        "icon": "wind",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Disponible jours fériés",
+        "desc": "Intervention attestée un 31 décembre — toujours là quand vous avez besoin."
+      },
+      {
+        "title": "Note parfaite 5/5",
+        "desc": "100 % des clients unanimes : sérieux, rapidité et professionnalisme."
+      },
+      {
+        "title": "Souriant et rassurant",
+        "desc": "Un plombier qui met en confiance dès les premières minutes."
+      },
+      {
+        "title": "Travail rapide et propre",
+        "desc": "Chantier laissé impeccable, intervention efficace à chaque fois."
+      }
+    ],
+    "why_us_badge": {
+      "value": "1h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Bordeaux, Mérignac, Pessac, Talence, Bègles, Le Bouscat, Cenon, Villenave-d'Ornon",
+    "service_area_cities": [
+      "Bordeaux",
+      "Mérignac",
+      "Pessac",
+      "Talence",
+      "Bègles",
+      "Le Bouscat",
+      "Cenon",
+      "Villenave-d'Ornon"
+    ],
+    "service_area_map_cities": [
+      "Bordeaux",
+      "Mérignac",
+      "Pessac",
+      "Talence",
+      "Bègles",
+      "Cenon"
+    ],
+    "service_area_stats": [
+      {
+        "value": "8",
+        "label": "communes desservies"
+      },
+      {
+        "value": "5/5",
+        "label": "note Google"
+      },
+      {
+        "value": "5",
+        "label": "avis clients vérifiés"
+      }
+    ],
+    "service_area_note": "Déplacement rapide dans toute l'agglomération bordelaise, intervention en urgence sans délai.",
+    "no_reviews_cta": {
+      "eyebrow": "",
+      "title": "",
+      "subtitle": "",
+      "button_text": ""
+    },
+    "reviews_note": "5 / 5 sur Google Maps · 5 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 6 73 29 20 28",
+      "email": "",
+      "hours": ""
+    },
+    "seo_title": "GLT Plomberie — Plombier urgence Bordeaux 5/5",
+    "meta_description": "GLT Plomberie intervient en urgence à Bordeaux et alentours. Dépannage rapide, travail soigné, disponible même les jours fériés. Note Google parfaite 5/5."
+  },
+  "reviews": [
+    {
+      "author": "Sophie M.",
+      "location": "Mérignac",
+      "rating": 5,
+      "text": "Excellent travail, propre, rapide et avec le sourire. Je recommande."
+    },
+    {
+      "author": "Karim B.",
+      "location": "Pessac",
+      "rating": 5,
+      "text": "je remercie fortement glt plomberie. Un monsieur très agréable et professionnel souriant qui a su me dépanner rapidement en veille de nouvel an, en toute rapidité et confiance. Des plombiers en or, rien à redire efficacité 100%"
+    },
+    {
+      "author": "Nathalie R.",
+      "location": "Talence",
+      "rating": 5,
+      "text": "Vraiment la en cas de problème et vraiment agréable et efficace merci beaucoup"
+    }
+  ]
+}
