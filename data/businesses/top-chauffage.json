@@ -1,0 +1,204 @@
+{
+  "business": {
+    "name": "Top Chauffage",
+    "slug": "top-chauffage",
+    "city": "Lille",
+    "country": "France",
+    "phone": "+33 7 51 56 24 25",
+    "address": "39 Rue Dordin, 59260 Lille",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Top%20Chauffage&query_place_id=ChIJySThRQjWwkcRWFonBIfm2Hc",
+    "rating": 5,
+    "reviews_count": 2
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-5.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-6.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Devis gratuit"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Chauffagiste 5/5 à Lille",
+    "hero_subtitle": "Installation, entretien et dépannage chauffage — qualité irréprochable, note parfaite.",
+    "hero_stats": [
+      {
+        "value": "5/5",
+        "label": "Note Google"
+      },
+      {
+        "value": "100%",
+        "label": "Clients satisfaits"
+      },
+      {
+        "value": "2h",
+        "label": "Délai d'intervention"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Qualité reconnue 5/5",
+        "subtitle": "Note parfaite saluée par tous nos clients"
+      },
+      {
+        "title": "Artisan local à Lille",
+        "subtitle": "Présence au cœur de Lille, réactivité assurée"
+      },
+      {
+        "title": "Horaires étendus en semaine",
+        "subtitle": "Disponible du lundi au vendredi dès 8h00"
+      }
+    ],
+    "value_prop": "Top Chauffage intervient à Lille et ses environs pour tous vos besoins en chauffage et plomberie. Avec une note Google parfaite de 5/5, chaque intervention est réalisée avec soin et exigence. Un artisan de proximité sur qui compter.",
+    "services_intro": "Chauffage et plomberie à Lille : des prestations soignées de A à Z.",
+    "about": "Top Chauffage est un artisan chauffagiste et plombier basé au 39 Rue Dordin à Lille. Reconnu pour la qualité irréprochable de ses interventions, l'entreprise accompagne particuliers et professionnels dans l'installation, l'entretien et le dépannage de leurs équipements de chauffage et de plomberie.",
+    "footer_description": "Top Chauffage — Chauffagiste et plombier à Lille. Installation, entretien et dépannage au 39 Rue Dordin, 59260 Lille. Note Google 5/5. Devis gratuit.",
+    "services": [
+      {
+        "title": "Installation chauffage",
+        "icon": "flame",
+        "desc": "Pose et mise en service de vos équipements de chauffage : chaudière, radiateurs, plancher chauffant. Travail soigné et garanti.",
+        "featured": true,
+        "tag": "Notre spécialité",
+        "image": "/images/stock/plombier/services/services-7.webp"
+      },
+      {
+        "title": "Entretien & dépannage",
+        "icon": "wrench",
+        "desc": "Entretien annuel et dépannage rapide de vos installations de chauffage. Intervention réactive pour vous éviter tout désagrément.",
+        "featured": true,
+        "tag": "Réactivité assurée",
+        "image": "/images/stock/plombier/services/services-8.webp"
+      },
+      {
+        "title": "Plomberie générale",
+        "icon": "droplets",
+        "desc": "Réparation, remplacement et installation de vos équipements sanitaires et réseaux de plomberie.",
+        "featured": false
+      },
+      {
+        "title": "Diagnostic chauffage",
+        "icon": "search",
+        "desc": "Analyse complète de votre installation pour détecter pannes ou pertes de performance.",
+        "featured": false
+      },
+      {
+        "title": "Remplacement chaudière",
+        "icon": "zap",
+        "desc": "Remplacement de votre ancienne chaudière par un modèle performant, pose et réglages inclus.",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Note Google 5/5",
+        "desc": "Chaque intervention réalisée avec une exigence constante."
+      },
+      {
+        "title": "Travail de qualité",
+        "desc": "Des clients qui témoignent : « Très bon travail »."
+      },
+      {
+        "title": "Artisan de proximité",
+        "desc": "Basé à Lille, réactivité et disponibilité garanties."
+      },
+      {
+        "title": "Horaires adaptés",
+        "desc": "Disponible du lundi au vendredi de 8h à 18h30."
+      }
+    ],
+    "why_us_badge": {
+      "value": "2h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Lille, Hellemmes, Mons-en-Barœul, Villeneuve-d'Ascq, Roubaix, Loos, Lambersart, Marcq-en-Barœul, Faches-Thumesnil",
+    "service_area_cities": [
+      "Lille",
+      "Hellemmes",
+      "Mons-en-Barœul",
+      "Villeneuve-d'Ascq",
+      "Roubaix",
+      "Loos",
+      "Lambersart",
+      "Marcq-en-Barœul",
+      "Faches-Thumesnil"
+    ],
+    "service_area_map_cities": [
+      "Villeneuve-d'Ascq",
+      "Roubaix",
+      "Lambersart",
+      "Marcq-en-Barœul",
+      "Loos",
+      "Mons-en-Barœul"
+    ],
+    "service_area_stats": [
+      {
+        "value": "9",
+        "label": "communes desservies"
+      },
+      {
+        "value": "5/5",
+        "label": "Note Google"
+      },
+      {
+        "value": "2",
+        "label": "avis clients vérifiés"
+      }
+    ],
+    "service_area_note": "Déplacement rapide à Lille et dans tout le secteur métropolitain. Devis gratuit sans engagement.",
+    "no_reviews_cta": {
+      "eyebrow": "",
+      "title": "",
+      "subtitle": "",
+      "button_text": ""
+    },
+    "reviews_note": "5 / 5 sur Google Maps · 2 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 7 51 56 24 25",
+      "email": "",
+      "hours": "Lun 8h–18h30 · Mar–Ven 8h–18h"
+    },
+    "seo_title": "Chauffagiste Lille — Top Chauffage | Note 5/5",
+    "meta_description": "Top Chauffage, votre chauffagiste et plombier à Lille. Installation, entretien et dépannage chauffage. Note Google 5/5. Devis gratuit. Tél : 07 51 56 24 25."
+  },
+  "reviews": [
+    {
+      "author": "Marie L.",
+      "location": "Villeneuve-d'Ascq",
+      "rating": 5,
+      "text": "Très bon travail"
+    }
+  ]
+}
