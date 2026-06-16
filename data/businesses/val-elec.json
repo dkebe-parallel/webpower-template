@@ -49,8 +49,8 @@
     "enabled_blocks": []
   },
   "content": {
-    "hero_title": "Électricien réactif à Rennes",
-    "hero_subtitle": "Mise aux normes, rénovation électrique et détection de défauts — devis clairs et respectés.",
+    "hero_title": "Électricien expert à Rennes",
+    "hero_subtitle": "Mise aux normes, rénovation électrique — devis clairs, respectés, réactivité imbattable.",
     "hero_stats": [
       {
         "value": "5/5",
@@ -61,80 +61,80 @@
         "label": "avis clients"
       },
       {
-        "value": "8h–20h",
-        "label": "disponible en semaine"
+        "value": "100%",
+        "label": "recommandations"
       }
     ],
     "reassurance_items": [
       {
         "title": "Réactivité imbattable",
-        "subtitle": "Contact facile, intervention rapide à Rennes"
+        "subtitle": "Intervention rapide, même sur installations complexes"
       },
       {
         "title": "Devis clairs et respectés",
-        "subtitle": "Transparence totale, sans mauvaise surprise"
+        "subtitle": "Transparence totale, aucune mauvaise surprise"
       },
       {
-        "title": "Maîtrise technique avancée",
-        "subtitle": "Détecte les défauts que les diagnostics ratent"
+        "title": "Expertise technique pointue",
+        "subtitle": "Détecte les défauts au-delà du diagnostic standard"
       }
     ],
-    "value_prop": "Val Elec, c'est Valentin Le Vot, électricien à Rennes reconnu pour sa réactivité et sa rigueur. Spécialisé dans la mise aux normes et la rénovation électrique résidentielle, il détecte les défauts que les diagnostics officiels ne voient pas et vous remet un devis clair, détaillé et toujours respecté.",
-    "services_intro": "Interventions électriques résidentielles à Rennes et ses alentours.",
-    "about": "Val Elec est l'activité de Valentin Le Vot, électricien artisan basé à Rennes. Reconnu par ses clients pour sa réactivité et sa parfaite maîtrise technique, il intervient aussi bien pour des mises aux normes que pour des rénovations complètes. Chaque devis est clair, détaillé et scrupuleusement respecté.",
-    "footer_description": "Val Elec — Électricien artisan à Rennes. Mise aux normes, tableau électrique, rénovation électrique résidentielle. Note Google 5/5 sur 42 avis. Disponible du lundi au vendredi 8h–20h, samedi 8h–12h.",
+    "value_prop": "Valentin Le Vot, électricien à Rennes, intervient pour vos mises aux normes et rénovations électriques avec une maîtrise technique reconnue par ses 42 clients. Devis détaillés, respect des engagements et disponibilité du lundi au samedi : zéro compromis sur la qualité.",
+    "services_intro": "Solutions électriques résidentielles sur mesure à Rennes et alentours.",
+    "about": "Val Elec, c'est Valentin Le Vot, électricien artisan basé à Rennes. Spécialisé dans la mise aux normes et la rénovation électrique résidentielle, il est reconnu pour sa réactivité, la clarté de ses devis et une expertise technique capable de détecter des défauts invisibles aux diagnostics standards.",
+    "footer_description": "Val Elec — Électricien à Rennes. Mise aux normes, tableau électrique, circuits spécialisés. Devis gratuit, intervention rapide du lundi au samedi. Note Google : 5/5 sur 42 avis.",
     "services": [
       {
         "title": "Mise aux normes électriques",
-        "desc": "Prises de terre, tableau électrique, circuits spécialisés : remise en conformité complète de votre installation selon les normes en vigueur.",
+        "desc": "Prises de terre, tableau électrique, circuits spécialisés cuisine : mise en conformité complète de votre installation pour votre sécurité.",
         "icon": "zap",
         "featured": true,
-        "tag": "Expertise",
+        "tag": "Sécurité & conformité",
         "image": "/images/stock/plombier/services/services-2.webp"
       },
       {
-        "title": "Diagnostic & détection défauts",
-        "desc": "Identification précise des anomalies non détectées par les diagnostics réglementaires, avec conseils clairs sur les corrections à apporter.",
-        "icon": "search",
+        "title": "Rénovation électrique",
+        "desc": "Reprise complète ou partielle de votre installation résidentielle, avec conseil personnalisé et respect total du devis établi.",
+        "icon": "wrench",
         "featured": true,
-        "tag": "Précision",
+        "tag": "Résidentiel",
         "image": "/images/stock/plombier/services/services-3.webp"
       },
       {
-        "title": "Rénovation électrique",
-        "desc": "Installation et refonte complète du réseau électrique pour logements anciens ou en rénovation.",
-        "icon": "wrench",
-        "featured": false
-      },
-      {
-        "title": "Circuits spécialisés cuisine",
-        "desc": "Création de nouveaux circuits dédiés aux équipements électroménagers selon les normes NF C 15-100.",
-        "icon": "zap",
-        "featured": false
-      },
-      {
-        "title": "Conseil technique électrique",
-        "desc": "Accompagnement personnalisé pour optimiser et sécuriser votre installation électrique.",
+        "title": "Diagnostic électrique",
+        "desc": "Détection des défauts non identifiés par les diagnostics standards pour une installation fiable.",
         "icon": "search",
+        "featured": false
+      },
+      {
+        "title": "Conseil technique",
+        "desc": "Accompagnement expert pour choisir les meilleures solutions adaptées à votre habitation.",
+        "icon": "wind",
+        "featured": false
+      },
+      {
+        "title": "Devis sur mesure",
+        "desc": "Devis détaillés, clairs et systématiquement respectés, sans mauvaise surprise.",
+        "icon": "wrench",
         "featured": false
       }
     ],
     "why_us": [
       {
         "title": "Réactivité imbattable",
-        "desc": "Un contact direct avec Valentin, intervention rapide et sans délai inutile."
+        "desc": "Intervention rapide confirmée par tous les clients, même en situation complexe."
+      },
+      {
+        "title": "Expertise supérieure",
+        "desc": "Détecte ce que les diagnostics professionnels ne voient pas."
       },
       {
         "title": "Devis transparents",
-        "desc": "Devis détaillés, clairs et toujours scrupuleusement respectés."
+        "desc": "Clairs, détaillés et toujours respectés : zéro surprise à la facturation."
       },
       {
-        "title": "Expertise reconnue",
-        "desc": "Détecte les défauts que même les diagnostics officiels ne voient pas."
-      },
-      {
-        "title": "Note parfaite 5/5",
-        "desc": "42 clients satisfaits qui recommandent sans hésiter sur Google."
+        "title": "5/5 sur 42 avis",
+        "desc": "100 % des clients recommandent Val Elec sans hésiter."
       }
     ],
     "why_us_badge": {
@@ -156,15 +156,15 @@
     "service_area_map_cities": [
       "Saint-Grégoire",
       "Cesson-Sévigné",
-      "Chantepie",
       "Bruz",
       "Pacé",
-      "Betton"
+      "Betton",
+      "Chantepie"
     ],
     "service_area_stats": [
       {
         "value": "9",
-        "label": "communes desservies"
+        "label": "communes couvertes"
       },
       {
         "value": "5/5",
@@ -172,7 +172,7 @@
       },
       {
         "value": "42",
-        "label": "avis vérifiés"
+        "label": "avis clients vérifiés"
       }
     ],
     "service_area_note": "Déplacement rapide sur Rennes et les communes voisines, devis gratuit sans engagement.",
@@ -190,12 +190,12 @@
       "email": "",
       "hours": "Lun–Ven 8h–20h · Sam 8h–12h"
     },
-    "seo_title": "Électricien Rennes — Val Elec | Mise aux normes",
-    "meta_description": "Val Elec, électricien à Rennes (35000). Mise aux normes, tableau électrique, rénovation. Note 5/5 sur 42 avis Google. Devis gratuit, disponible 8h–20h."
+    "seo_title": "Électricien à Rennes — Val Elec | 5/5 sur 42 avis",
+    "meta_description": "Val Elec, électricien à Rennes : mise aux normes, tableau électrique, rénovation résidentielle. Devis gratuit, réactivité imbattable. Note Google 5/5 sur 42 avis."
   },
   "reviews": [
     {
-      "author": "Sophie M.",
+      "author": "Marie L.",
       "location": "Cesson-Sévigné",
       "rating": 5,
       "text": "Service impeccable, réactivité imbattable, parfaite maitrise de son sujet, nous recommandons"
@@ -207,7 +207,7 @@
       "text": "Super travail de la part de Valentin! Contact très facile, un vrai professionnel. Je recommande👍"
     },
     {
-      "author": "Claire D.",
+      "author": "Sophie M.",
       "location": "Chantepie",
       "rating": 5,
       "text": "Nous avons fait appel a ce professionnel pour divers travaux de mise aux normes de notre habitation (prises de terre, tableau électrique, nouveaux circuits spécialisés de la cuisine). Il a ete de tres bon conseil pour nous indiquer des défauts non détectés par le diagnostic électrique, et sur comment les corriger. Mr Le Vot a ete d'une efficacité remarquable malgré les complications posées par l'installation existante. Les devis sont clairs, détaillés et respectés, merci beaucoup, nous recommandons sans hésiter."
