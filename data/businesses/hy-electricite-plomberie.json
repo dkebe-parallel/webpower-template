@@ -1,0 +1,204 @@
+{
+  "business": {
+    "name": "HY Electricité Plomberie",
+    "slug": "hy-electricite-plomberie",
+    "city": "Rennes",
+    "country": "France",
+    "phone": "+33 6 81 72 13 86",
+    "address": "Rue du Boberil, 35200 Rennes",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=HY%20Electricit%C3%A9%20Plomberie&query_place_id=ChIJ83KoK1zfDkgRVvDPZSkzic4",
+    "rating": 5,
+    "reviews_count": 2
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-3.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-5.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Devis gratuit"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Plombier & électricien à Rennes",
+    "hero_subtitle": "Double compétence plomberie-électricité, disponible 24h/24 et 7j/7 à Rennes.",
+    "hero_stats": [
+      {
+        "value": "5/5",
+        "label": "Note Google"
+      },
+      {
+        "value": "24h/24",
+        "label": "Disponibilité"
+      },
+      {
+        "value": "2",
+        "label": "Métiers maîtrisés"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Travail soigné et reconnu",
+        "subtitle": "Clients satisfaits, qualité saluée à chaque intervention"
+      },
+      {
+        "title": "Disponible 24h/24, 7j/7",
+        "subtitle": "Urgences traitées à toute heure, tous les jours"
+      },
+      {
+        "title": "Double compétence en un",
+        "subtitle": "Plomberie et électricité, un seul artisan pour tout"
+      }
+    ],
+    "value_prop": "HY Electricité Plomberie intervient à Rennes et ses alentours pour tous vos travaux de plomberie et d'électricité. Disponible 24h/24 et 7j/7, l'entreprise répond aussi bien aux urgences qu'aux chantiers planifiés, avec sérieux et efficacité.",
+    "services_intro": "Plomberie et électricité, toutes interventions à Rennes et alentours.",
+    "about": "HY Electricité Plomberie est un artisan rennais proposant des prestations complètes en plomberie et électricité. Reconnu pour la qualité de son travail, il intervient 24h/24 et 7j/7 pour répondre à toutes vos demandes, urgences comprises.",
+    "footer_description": "HY Electricité Plomberie — Artisan plombier-électricien à Rennes. Disponible 24h/24, 7j/7 pour vos urgences et travaux. Qualité reconnue, devis gratuit.",
+    "services": [
+      {
+        "title": "Plomberie",
+        "desc": "Dépannage, installation et rénovation de tous vos équipements de plomberie. Intervention rapide à Rennes et dans tout le secteur, 24h/24.",
+        "icon": "droplets",
+        "featured": true,
+        "tag": "Urgence & installation",
+        "image": "/images/stock/plombier/services/services-6.webp"
+      },
+      {
+        "title": "Électricité",
+        "desc": "Mise aux normes, installation électrique et dépannage rapide. Artisan disponible à toute heure pour sécuriser votre habitation.",
+        "icon": "zap",
+        "featured": true,
+        "tag": "Mise aux normes & dépannage",
+        "image": "/images/stock/plombier/services/services-7.webp"
+      },
+      {
+        "title": "Dépannage d'urgence",
+        "desc": "Intervention rapide 24h/24, 7j/7 pour toute panne électrique ou fuite d'eau urgente à Rennes.",
+        "icon": "wrench",
+        "featured": false
+      },
+      {
+        "title": "Rénovation & travaux",
+        "desc": "Rénovation complète de vos installations plomberie et électricité pour particuliers et professionnels.",
+        "icon": "search",
+        "featured": false
+      },
+      {
+        "title": "Diagnostic & devis",
+        "desc": "Diagnostic sur place et devis gratuit pour tous vos projets plomberie ou électricité à Rennes.",
+        "icon": "flame",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Travail de qualité",
+        "desc": "Chaque intervention réalisée avec soin, clients satisfaits."
+      },
+      {
+        "title": "Disponible 24h/24",
+        "desc": "Joignable à toute heure, 7j/7, urgences incluses."
+      },
+      {
+        "title": "Double compétence",
+        "desc": "Plomberie et électricité, un seul artisan de confiance."
+      },
+      {
+        "title": "Note parfaite 5/5",
+        "desc": "Évalué 5/5 sur Google par ses clients rennais."
+      }
+    ],
+    "why_us_badge": {
+      "value": "1h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Rennes, Saint-Jacques-de-la-Lande, Bruz, Chartres-de-Bretagne, Vezin-le-Coquet, Chantepie, Cesson-Sévigné, Saint-Grégoire, Le Rheu",
+    "service_area_cities": [
+      "Rennes",
+      "Saint-Jacques-de-la-Lande",
+      "Bruz",
+      "Chartres-de-Bretagne",
+      "Vezin-le-Coquet",
+      "Chantepie",
+      "Cesson-Sévigné",
+      "Saint-Grégoire",
+      "Le Rheu"
+    ],
+    "service_area_map_cities": [
+      "Rennes",
+      "Cesson-Sévigné",
+      "Saint-Grégoire",
+      "Bruz",
+      "Chantepie",
+      "Saint-Jacques-de-la-Lande"
+    ],
+    "service_area_stats": [
+      {
+        "value": "9",
+        "label": "communes desservies"
+      },
+      {
+        "value": "5/5",
+        "label": "note Google"
+      },
+      {
+        "value": "24h/24",
+        "label": "disponibilité"
+      }
+    ],
+    "service_area_note": "Déplacement rapide à Rennes et dans tout le secteur, devis gratuit sans engagement.",
+    "no_reviews_cta": {
+      "eyebrow": "CONFIANCE",
+      "title": "Un artisan fiable au cœur de Rennes",
+      "subtitle": "Disponible 24h/24 et 7j/7, HY Electricité Plomberie intervient vite pour vos travaux et urgences plomberie ou électricité.",
+      "button_text": "Demander un devis gratuit"
+    },
+    "reviews_note": "5 / 5 sur Google Maps · 2 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 6 81 72 13 86",
+      "email": "",
+      "hours": "Lun–Dim 24h/24"
+    },
+    "seo_title": "Plombier Électricien à Rennes — HY Electricité Plomberie",
+    "meta_description": "Artisan plombier-électricien à Rennes, disponible 24h/24 et 7j/7. Dépannage, installation, urgences. Note 5/5 sur Google. Devis gratuit."
+  },
+  "reviews": [
+    {
+      "author": "Mathieu R.",
+      "location": "Rennes",
+      "rating": 5,
+      "text": "Du bon travail, Je recommande!"
+    }
+  ]
+}
