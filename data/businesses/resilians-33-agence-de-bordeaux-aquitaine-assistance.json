@@ -17,7 +17,7 @@
   },
   "badges": {
     "certifications": [],
-    "highlight": "Réseau agréé assureurs"
+    "highlight": "Agence physique à Bordeaux"
   },
   "theme": {
     "palette": {
@@ -50,7 +50,7 @@
   },
   "content": {
     "hero_title": "Votre sinistre géré de A à Z",
-    "hero_subtitle": "Dégâts des eaux, plomberie et remise en état : un seul interlocuteur, coordination assurance incluse.",
+    "hero_subtitle": "Dégâts des eaux, plomberie, remise en état : un seul interlocuteur, en lien direct avec votre assurance.",
     "hero_stats": [
       {
         "value": "4.8/5",
@@ -61,32 +61,32 @@
         "label": "avis clients vérifiés"
       },
       {
-        "value": "100%",
-        "label": "prise en charge sinistre"
+        "value": "1",
+        "label": "interlocuteur unique"
       }
     ],
     "reassurance_items": [
       {
-        "title": "Interlocuteur unique",
-        "subtitle": "Plomberie, peinture et assurance gérés ensemble"
+        "title": "Prise en charge complète",
+        "subtitle": "Du dégât des eaux à la remise en état finale"
       },
       {
-        "title": "Techniciens qualifiés",
-        "subtitle": "Équipes expertes, résultats salués par 509 clients"
+        "title": "Coordination assurance incluse",
+        "subtitle": "Démarches simplifiées, on gère pour vous"
       },
       {
-        "title": "Suivi de chantier rigoureux",
-        "subtitle": "Multi-corps de métier coordonnés sur chaque dossier"
+        "title": "509 avis à 4.8/5 sur Google",
+        "subtitle": "Fiabilité constante, reconnue par nos clients"
       }
     ],
-    "value_prop": "Résilians 33 prend en charge vos sinistres de bout en bout : de l'intervention plomberie à la remise en peinture, en passant par la coordination avec votre assurance. Une structure rodée, une note de 4.8/5 sur 509 avis, au service des particuliers bordelais.",
-    "services_intro": "Gestion complète des sinistres et dégâts des eaux à Bordeaux.",
-    "about": "Résilians 33 est l'agence bordelaise spécialisée dans la gestion globale des sinistres, notamment les dégâts des eaux. Adossée au réseau Aquitaine Assistance, l'agence coordonne tous les corps de métier — plomberie, peinture, remise en état — pour une prise en charge clé en main. Avec plus de 509 avis Google à 4.8/5, elle s'impose comme un référent de confiance sur Bordeaux et sa métropole.",
-    "footer_description": "Résilians 33 – Agence de Bordeaux accompagne particuliers et assurés dans la gestion complète de leurs sinistres : dégâts des eaux, plomberie, remise en état. Un seul contact pour tout régler, à Bordeaux et ses environs.",
+    "value_prop": "Résilians 33 est l'agence bordelaise spécialisée dans la gestion globale des sinistres : dégâts des eaux, plomberie, peinture et remise en état. Un seul interlocuteur coordonne tout, y compris les démarches auprès de votre assurance.",
+    "services_intro": "Interventions sinistres, plomberie et remise en état à Bordeaux.",
+    "about": "Résilians 33 est une agence implantée à Bordeaux, spécialisée dans la gestion complète des sinistres et dégâts des eaux. Elle intervient en coordination directe avec les assurances pour accompagner particuliers et professionnels de l'urgence jusqu'à la remise en état définitive. Avec 509 avis Google à 4.8/5, l'agence s'est imposée comme référence locale pour sa rigueur et la qualité de ses techniciens.",
+    "footer_description": "Résilians 33 – Aquitaine Assistance, agence spécialisée en gestion de sinistres à Bordeaux. Dégâts des eaux, plomberie et remise en état, en coordination avec votre assurance. 6 Rue Edmond Besse, 33300 Bordeaux.",
     "services": [
       {
-        "title": "Gestion dégâts des eaux",
-        "desc": "Prise en charge complète des dégâts des eaux : diagnostic, travaux de plomberie et coordination avec votre compagnie d'assurance pour un règlement rapide.",
+        "title": "Dégâts des eaux",
+        "desc": "Intervention rapide sur tout sinistre lié à l'eau : détection, séchage, réparation et coordination avec votre assurance pour une prise en charge optimale.",
         "icon": "droplets",
         "featured": true,
         "tag": "Service phare",
@@ -94,7 +94,7 @@
       },
       {
         "title": "Remise en état après sinistre",
-        "desc": "Peinture, revêtements et finitions assurées après sinistre. Tous corps de métier coordonnés pour retrouver votre logement en parfait état.",
+        "desc": "Travaux complets de remise en état : peinture, revêtements, finitions — tout est géré par nos équipes après votre sinistre, sans sous-traitant supplémentaire.",
         "icon": "wrench",
         "featured": true,
         "tag": "Clé en main",
@@ -102,69 +102,69 @@
       },
       {
         "title": "Plomberie tous corps d'état",
-        "desc": "Interventions de plomberie résidentielle : fuites, réparations, installations. Techniciens qualifiés, travail soigné.",
+        "desc": "Réparations, remplacement de canalisations et interventions plomberie pour particuliers et copropriétés dans tout Bordeaux.",
         "icon": "zap",
         "featured": false
       },
       {
-        "title": "Coordination avec assurances",
-        "desc": "Suivi et gestion des dossiers sinistres auprès des assureurs. Vous n'avez qu'un seul interlocuteur.",
+        "title": "Gestion des sinistres assurance",
+        "desc": "Accompagnement et coordination avec votre assureur, de la déclaration à l'indemnisation, pour simplifier vos démarches.",
         "icon": "search",
         "featured": false
       },
       {
-        "title": "Dépannage plomberie urgence",
-        "desc": "Intervention rapide pour dépannage plomberie résidentielle à Bordeaux et communes voisines.",
-        "icon": "flame",
+        "title": "Assistance et dépannage",
+        "desc": "Dépannage plomberie et assistance technique rapide pour toute urgence sur Bordeaux et les communes voisines.",
+        "icon": "wind",
         "featured": false
       }
     ],
     "why_us": [
       {
-        "title": "Un seul interlocuteur",
-        "desc": "Plomberie, peinture, assurance : tout géré en interne"
+        "title": "Techniciens qualifiés",
+        "desc": "Des professionnels reconnus pour leur compétence et leur sérieux sur chaque chantier."
       },
       {
-        "title": "Note 4.8/5 Google",
-        "desc": "509 avis, satisfaction constante et activité soutenue"
+        "title": "Multi-corps de métier",
+        "desc": "Plomberie, peinture, remise en état : tout sous un même toit."
       },
       {
-        "title": "Expertise sinistres",
-        "desc": "Réactivité et coordination décisives sur chaque dossier"
+        "title": "Lien direct assurances",
+        "desc": "Coordination fluide avec votre assureur pour accélérer la prise en charge."
       },
       {
-        "title": "Réseau structuré",
-        "desc": "Process rodés grâce à l'enseigne Aquitaine Assistance"
+        "title": "509 avis · note 4.8/5",
+        "desc": "Un volume d'avis exceptionnel qui témoigne d'une fiabilité constante."
       }
     ],
     "why_us_badge": {
       "value": "2h",
       "label": "délai d'intervention"
     },
-    "service_area": "Bordeaux, Le Bouscat, Mérignac, Eysines, Bruges, Blanquefort, Pessac, Talence, Bègles",
+    "service_area": "Bordeaux, Le Bouscat, Bruges, Eysines, Mérignac, Pessac, Talence, Blanquefort, Caudéran",
     "service_area_cities": [
       "Bordeaux",
       "Le Bouscat",
-      "Mérignac",
-      "Eysines",
       "Bruges",
-      "Blanquefort",
+      "Eysines",
+      "Mérignac",
       "Pessac",
       "Talence",
-      "Bègles"
+      "Blanquefort",
+      "Caudéran"
     ],
     "service_area_map_cities": [
       "Mérignac",
       "Pessac",
       "Le Bouscat",
       "Talence",
-      "Bègles",
-      "Eysines"
+      "Eysines",
+      "Bruges"
     ],
     "service_area_stats": [
       {
         "value": "9",
-        "label": "communes desservies"
+        "label": "communes couvertes"
       },
       {
         "value": "4.8/5",
@@ -178,8 +178,8 @@
     "service_area_note": "Déplacement rapide sur Bordeaux et toute la métropole girondine, devis gratuit sans engagement.",
     "no_reviews_cta": {
       "eyebrow": "CONFIANCE",
-      "title": "Un expert sinistres reconnu à Bordeaux",
-      "subtitle": "509 clients satisfaits, techniciens qualifiés et prise en charge complète de vos dégâts des eaux avec coordination assurance incluse.",
+      "title": "Une agence de référence à Bordeaux",
+      "subtitle": "509 avis Google à 4.8/5 : Résilians 33 gère vos sinistres avec rigueur, en coordination directe avec votre assurance.",
       "button_text": "Demander un devis gratuit"
     },
     "reviews_note": "4.8 / 5 sur Google Maps · 509 avis clients vérifiés",
@@ -190,8 +190,8 @@
       "email": "",
       "hours": "Lun–Ven 8h30–17h30"
     },
-    "seo_title": "Résilians 33 Bordeaux – Gestion sinistres & dégâts des eaux",
-    "meta_description": "Résilians 33 à Bordeaux : gestion complète de vos sinistres, dégâts des eaux, plomberie et remise en état. Coordination assurance incluse. Note 4.8/5 · 509 avis."
+    "seo_title": "Résilians 33 Bordeaux – Sinistres & Dégâts des eaux",
+    "meta_description": "Gestion complète de sinistres à Bordeaux : dégâts des eaux, plomberie, remise en état. En lien avec votre assurance. 4.8/5 sur 509 avis Google. Appelez le 05 56 69 12 41."
   },
   "reviews": []
 }
