@@ -1,0 +1,216 @@
+{
+  "business": {
+    "name": "Action Dépannages plomberie recherche et réparation fuite d'eau Bordeaux Métropole",
+    "slug": "action-depannages-plomberie-recherche-et-reparation-fuite-de",
+    "city": "Talence",
+    "country": "France",
+    "phone": "+33 5 56 37 00 37",
+    "address": "43 Chem. de Leysotte, 33400 Talence",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Action%20D%C3%A9pannages%20plomberie%20recherche%20et%20r%C3%A9paration%20fuite%20d'eau%20Bordeaux%20M%C3%A9tropole&query_place_id=ChIJ-7UrkQ8nVQ0Rq1k9YZ4yVSw",
+    "rating": 4.6,
+    "reviews_count": 59
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-3.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-3.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Cas complexes résolus"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Fuite d'eau ? On trouve, on répare.",
+    "hero_subtitle": "Spécialiste recherche et réparation de fuites sur Bordeaux Métropole — intervention rapide, problèmes complexes résolus.",
+    "hero_stats": [
+      {
+        "value": "4.6/5",
+        "label": "Note Google"
+      },
+      {
+        "value": "59",
+        "label": "Avis clients vérifiés"
+      },
+      {
+        "value": "08h–20h",
+        "label": "6 jours sur 7"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Intervention rapide et efficace",
+        "subtitle": "Disponible 6j/7 de 8h à 20h pour vos urgences"
+      },
+      {
+        "title": "Problèmes complexes résolus",
+        "subtitle": "Là où d'autres ont échoué, nous trouvons la solution"
+      },
+      {
+        "title": "Équipe professionnelle reconnue",
+        "subtitle": "4.6/5 sur Google · 59 avis clients satisfaits"
+      }
+    ],
+    "value_prop": "Action Dépannages est le spécialiste de la recherche et réparation de fuites d'eau sur Bordeaux Métropole. Notre équipe intervient rapidement pour résoudre les cas les plus complexes — canalisations, évacuations, fuites invisibles — là où d'autres n'ont pas trouvé de solution.",
+    "services_intro": "Dépannage plomberie et recherche de fuites sur Bordeaux Métropole.",
+    "about": "Action Dépannages est une entreprise spécialisée dans la recherche et la réparation de fuites d'eau à Talence et sur l'ensemble de Bordeaux Métropole. Notre équipe intervient rapidement pour diagnostiquer et résoudre tous types de problèmes de plomberie, des plus courants aux plus complexes. Reconnue pour son professionnalisme et sa réactivité, elle est disponible du lundi au samedi de 8h à 20h.",
+    "footer_description": "Action Dépannages — Spécialiste recherche et réparation de fuites d'eau à Talence et Bordeaux Métropole. Intervention rapide, problèmes complexes résolus. Disponible 6j/7 de 8h à 20h.",
+    "services": [
+      {
+        "title": "Recherche de fuites d'eau",
+        "desc": "Détection précise de vos fuites invisibles ou complexes grâce à des techniques éprouvées. Nous localisons le problème là où d'autres ont échoué.",
+        "icon": "search",
+        "featured": true,
+        "tag": "Spécialité",
+        "image": "/images/stock/plombier/services/services-2.webp"
+      },
+      {
+        "title": "Réparation de fuites",
+        "desc": "Réparation durable de toutes fuites d'eau, même en situation difficile. Intervention soignée pour garantir un résultat pérenne sur votre installation.",
+        "icon": "droplets",
+        "featured": true,
+        "tag": "Intervention rapide",
+        "image": "/images/stock/plombier/services/services-3.webp"
+      },
+      {
+        "title": "Dépannage plomberie",
+        "desc": "Dépannage de vos installations plomberie pour tous types de pannes. Disponible 6j/7 de 8h à 20h.",
+        "icon": "wrench",
+        "featured": false
+      },
+      {
+        "title": "Travaux de canalisation",
+        "desc": "Tranchée, remplacement et réhabilitation de canalisations endommagées ou vétustes.",
+        "icon": "zap",
+        "featured": false
+      },
+      {
+        "title": "Évacuation eaux usées",
+        "desc": "Diagnostic et réparation de vos systèmes d'évacuation, même les cas les plus complexes.",
+        "icon": "wind",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Réactivité maximale",
+        "desc": "Intervention rapide et efficace saluée par nos clients"
+      },
+      {
+        "title": "Cas complexes résolus",
+        "desc": "Nous trouvons la solution là où d'autres ont échoué"
+      },
+      {
+        "title": "Équipe professionnelle",
+        "desc": "Techniciens reconnus pour leur sérieux et leur expertise"
+      },
+      {
+        "title": "Disponibilité étendue",
+        "desc": "Ouvert 6j/7 de 8h à 20h pour vos urgences"
+      }
+    ],
+    "why_us_badge": {
+      "value": "1h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Talence, Bordeaux, Pessac, Gradignan, Villenave-d'Ornon, Bègles, Mérignac, Cestas, Léognan",
+    "service_area_cities": [
+      "Talence",
+      "Bordeaux",
+      "Pessac",
+      "Gradignan",
+      "Villenave-d'Ornon",
+      "Bègles",
+      "Mérignac",
+      "Cestas",
+      "Léognan"
+    ],
+    "service_area_map_cities": [
+      "Bordeaux",
+      "Pessac",
+      "Mérignac",
+      "Bègles",
+      "Gradignan",
+      "Villenave-d'Ornon"
+    ],
+    "service_area_stats": [
+      {
+        "value": "9",
+        "label": "communes couvertes"
+      },
+      {
+        "value": "4.6/5",
+        "label": "Note Google"
+      },
+      {
+        "value": "59",
+        "label": "avis clients"
+      }
+    ],
+    "service_area_note": "Déplacement rapide sur tout Bordeaux Métropole — intervention le jour même selon disponibilités.",
+    "no_reviews_cta": {
+      "eyebrow": "",
+      "title": "",
+      "subtitle": "",
+      "button_text": ""
+    },
+    "reviews_note": "4.6 / 5 sur Google Maps · 59 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 5 56 37 00 37",
+      "email": "",
+      "hours": "Lun–Sam 8h–20h"
+    },
+    "seo_title": "Plombier fuite d'eau Talence · Action Dépannages",
+    "meta_description": "Spécialiste recherche et réparation de fuites d'eau à Talence et Bordeaux Métropole. Intervention rapide 6j/7. Note 4.6/5 · 59 avis clients. Appelez le 05 56 37 00 37."
+  },
+  "reviews": [
+    {
+      "author": "Marie-Christine L.",
+      "location": "Pessac",
+      "rating": 5,
+      "text": "Merci à toute l'équipe pour son intervention extrêmement rapide et efficace ! Je suis ravie des travaux réalisés qui ont permis de solutionner mon problème d'évacuation des eaux usées là où personne ne trouvait de solutions ! Cette entreprise est incontestablement la meilleure ! Je recommande sans hésitation !"
+    },
+    {
+      "author": "Bernard T.",
+      "location": "Gradignan",
+      "rating": 5,
+      "text": "Équipe très professionnelle. Merci à tous les 2 car la réparation n'était pas facile. Nous recommanderons sans souci."
+    },
+    {
+      "author": "Patrick M.",
+      "location": "Villenave-d'Ornon",
+      "rating": 5,
+      "text": "Ok tranchée et changement canalisations\nRAS"
+    }
+  ]
+}
