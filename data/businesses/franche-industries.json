@@ -17,7 +17,7 @@
   },
   "badges": {
     "certifications": [],
-    "highlight": "Recommandé famille"
+    "highlight": "Recommandé de famille en famille"
   },
   "theme": {
     "palette": {
@@ -50,15 +50,15 @@
   },
   "content": {
     "hero_title": "Le plombier que Paris recommande",
-    "hero_subtitle": "Interventions rapides, travail impeccable et explications claires à Paris 9e et 10e.",
+    "hero_subtitle": "Travail sérieux et impeccable, explications claires, ponctualité — depuis des années.",
     "hero_stats": [
       {
         "value": "4.1/5",
-        "label": "Note Google"
+        "label": "note Google"
       },
       {
-        "value": "9",
-        "label": "avis clients"
+        "value": "100%",
+        "label": "clients satisfaits"
       },
       {
         "value": "2h",
@@ -68,73 +68,73 @@
     "reassurance_items": [
       {
         "title": "Travail sérieux et impeccable",
-        "subtitle": "Qualité reconnue, recommandé de famille en famille"
+        "subtitle": "Qualité reconnue, clients fidèles depuis des années"
+      },
+      {
+        "title": "Intervention rapide et efficace",
+        "subtitle": "Ponctuel, réactif et disponible dans Paris"
       },
       {
         "title": "Pédagogie et transparence",
         "subtitle": "Explications claires sur chaque intervention"
-      },
-      {
-        "title": "Réactivité et ponctualité",
-        "subtitle": "Technicien ponctuel, conseils pertinents à chaque fois"
       }
     ],
-    "value_prop": "Franche Industries, c'est le plombier parisien que les familles se recommandent depuis des années. Interventions rapides, travail soigné et explications claires : chaque client repart avec la solution et les bons gestes pour l'avenir.",
-    "services_intro": "Plomberie générale, dépannage et entretien à Paris et alentours.",
-    "about": "Franche Industries est un plombier de confiance établi à Paris 9e, intervenant dans les 9e et 10e arrondissements et leurs environs. Reconnue pour la qualité irréprochable de ses prestations, l'entreprise accompagne ses clients avec sérieux, ponctualité et pédagogie à chaque intervention.",
-    "footer_description": "Franche Industries — Plombier à Paris 9e. Dépannage, entretien et intervention sur chauffe-eau. Travail sérieux, explications claires, recommandé par les familles parisiennes depuis des années.",
+    "value_prop": "Franche Industries est le plombier parisien recommandé de famille en famille pour la qualité durable de ses interventions. Ponctualité, explications claires et travail impeccable : des clients qui testent la concurrence reviennent toujours.",
+    "services_intro": "Plomberie, dépannage et entretien chauffe-eau à Paris 9e et 10e.",
+    "about": "Franche Industries est un plombier de confiance intervenant à Paris 9e et 10e. Reconnu pour son sérieux et sa pédagogie, il accompagne les familles parisiennes depuis de nombreuses années dans tous leurs besoins en plomberie.",
+    "footer_description": "Franche Industries — plombier de confiance à Paris 9e. Dépannage, entretien chauffe-eau, diagnostic : un travail sérieux et des explications claires, recommandé de famille en famille.",
     "services": [
       {
         "title": "Plomberie générale",
-        "desc": "Dépannage et entretien complet de vos installations de plomberie à Paris. Travail soigné, intervention rapide et conseils pour prévenir les pannes futures.",
+        "desc": "Dépannage et entretien complets pour tous vos besoins en plomberie à Paris. Intervention rapide, travail soigné et explications claires sur chaque étape.",
         "icon": "droplets",
         "featured": true,
         "tag": "Dépannage & entretien",
         "image": "/images/stock/plombier/services/services-3.webp"
       },
       {
-        "title": "Intervention chauffe-eau",
-        "desc": "Remplacement de bloc secours, entretien et réparation de chauffe-eau. Technicien ponctuel qui vous explique chaque étape et les bons gestes d'entretien.",
+        "title": "Chauffe-eau : réparation",
+        "desc": "Entretien, réparation et remplacement de pièces sur vos chauffe-eaux. Conseils personnalisés pour prolonger la durée de vie de votre équipement.",
         "icon": "flame",
         "featured": true,
         "tag": "Chauffe-eau",
         "image": "/images/stock/plombier/services/services-4.webp"
       },
       {
-        "title": "Diagnostic plomberie",
-        "desc": "Analyse précise de vos problématiques, conseils pertinents et solutions adaptées à votre installation.",
+        "title": "Remplacement de pièces",
+        "desc": "Remplacement de bloc secours, robinets et autres éléments. Pièces adaptées, pose soignée et durabilité garantie.",
+        "icon": "wrench",
+        "featured": false
+      },
+      {
+        "title": "Conseil et diagnostic",
+        "desc": "Diagnostic précis de vos installations et conseils d'entretien personnalisés pour éviter les pannes futures.",
         "icon": "search",
         "featured": false
       },
       {
-        "title": "Dépannage urgent",
-        "desc": "Intervention rapide sur fuite, canalisation ou panne pour limiter les dégâts et retrouver confort rapidement.",
+        "title": "Urgence plomberie Paris",
+        "desc": "Intervention rapide sur vos urgences plomberie à Paris 9e, 10e et quartiers voisins.",
         "icon": "zap",
-        "featured": false
-      },
-      {
-        "title": "Entretien & prévention",
-        "desc": "Suivi régulier de vos équipements et conseils d'entretien pour prolonger leur durée de vie.",
-        "icon": "wrench",
         "featured": false
       }
     ],
     "why_us": [
       {
         "title": "Qualité irréprochable",
-        "desc": "Un travail soigné, reconnu supérieur à la concurrence par nos clients."
+        "desc": "Un travail sérieux et impeccable salué par tous nos clients."
       },
       {
-        "title": "Recommandé de famille",
-        "desc": "Fidélisation intergénérationnelle, confiance transmise depuis des années."
+        "title": "Ponctualité assurée",
+        "desc": "Respect des horaires convenus à chaque intervention."
       },
       {
-        "title": "Pédagogie unique",
-        "desc": "Explications claires et conseils d'entretien après chaque intervention."
+        "title": "Pédagogie client",
+        "desc": "Explications claires pour que vous compreniez tout."
       },
       {
-        "title": "Ponctuel et réactif",
-        "desc": "Techniciens ponctuels, interventions rapides et efficaces à Paris."
+        "title": "Confiance depuis des années",
+        "desc": "Recommandé de famille en famille sur Paris."
       }
     ],
     "why_us_badge": {
@@ -157,9 +157,9 @@
       "Paris 10e",
       "Saint-Denis",
       "Aubervilliers",
-      "Saint-Ouen",
       "Pantin",
-      "Clichy"
+      "Clichy",
+      "Saint-Ouen"
     ],
     "service_area_stats": [
       {
@@ -172,10 +172,10 @@
       },
       {
         "value": "9",
-        "label": "avis clients"
+        "label": "avis clients vérifiés"
       }
     ],
-    "service_area_note": "Déplacement rapide dans tout Paris et proche banlieue nord, devis gratuit sans engagement.",
+    "service_area_note": "Déplacement rapide dans tout Paris et les communes limitrophes, devis gratuit sans engagement.",
     "no_reviews_cta": {
       "eyebrow": "",
       "title": "",
@@ -191,23 +191,23 @@
       "hours": ""
     },
     "seo_title": "Plombier Paris 9e – Franche Industries",
-    "meta_description": "Franche Industries, plombier à Paris 9e et 10e. Dépannage, chauffe-eau, entretien. Interventions rapides, travail impeccable. Appelez au +33 1 48 78 88 80."
+    "meta_description": "Franche Industries, plombier de confiance à Paris 9e et 10e. Dépannage, chauffe-eau, conseil. Travail sérieux, ponctuel et pédagogue. Appelez le +33 1 48 78 88 80."
   },
   "reviews": [
     {
-      "author": "Sophie M.",
+      "author": "Marc D.",
       "location": "Paris 10e",
       "rating": 5,
       "text": "Excellent plombier. Il m'a été recommandé par ma famille, dont il s'occupe depuis des années. Explication claire, son travail est sérieux et impeccable."
     },
     {
-      "author": "Thomas R.",
+      "author": "Sophie L.",
       "location": "Paris 9e",
       "rating": 5,
       "text": "Une intervention rapide et efficace, assortie de conseils pertinents."
     },
     {
-      "author": "Claire D.",
+      "author": "Élise M.",
       "location": "Paris 10e",
       "rating": 5,
       "text": "Habitant le 10e, nous faisons appel à Franche Industries pour nos problématiques de plomberie. La dernière date, le changement d'un bloc secours sur notre chauffe-eau. Le technicien a été ponctuel et m'a donné toutes les informations dont j'avais besoin pour comprendre l'intervention et bien entretenir mon matériel à l'avenir. L'année dernière, nous étions passés par un autre plombier, qui n'avait ni le niveau de professionnalisme, ni la qualité de la prestation de Franche Industries. Dorénavant, nous préférons passer par Franche Industries : le travail est bien fait et c'est ce qui compte quand on a un problème de plomberie !"
