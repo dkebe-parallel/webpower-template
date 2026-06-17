@@ -1,0 +1,197 @@
+{
+  "business": {
+    "name": "Terrade David",
+    "slug": "terrade-david",
+    "city": "Barinque",
+    "country": "France",
+    "phone": "+33 5 59 68 32 67",
+    "address": "Imp. de Lardas, 64160 Barinque",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Terrade%20David&query_place_id=ChIJZcdJJCk5Vg0RrMrCN2aiOnU",
+    "rating": null,
+    "reviews_count": null
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-4.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-2.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Artisan local"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Votre plombier de confiance en Béarn",
+    "hero_subtitle": "Artisan indépendant à Barinque · contact direct · intervention réactive dans le piémont béarnais.",
+    "hero_stats": [
+      {
+        "value": "100%",
+        "label": "artisan indépendant"
+      },
+      {
+        "value": "< 2h",
+        "label": "délai d'intervention"
+      },
+      {
+        "value": "1",
+        "label": "interlocuteur unique"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Proximité & ancrage local",
+        "subtitle": "Basé à Barinque, au cœur du piémont béarnais"
+      },
+      {
+        "title": "Interlocuteur unique",
+        "subtitle": "Un seul artisan, un suivi personnalisé du début à la fin"
+      },
+      {
+        "title": "Flexibilité & réactivité",
+        "subtitle": "Structure à taille humaine, disponible et adaptable"
+      }
+    ],
+    "value_prop": "Terrade David est un artisan plombier indépendant installé à Barinque, dans le Béarn. Sans intermédiaire, il intervient directement chez vous pour tous vos besoins en plomberie, avec la réactivité et le sérieux d'un professionnel ancré dans son territoire.",
+    "services_intro": "Plomberie générale, dépannage et installation sanitaire au cœur du Béarn.",
+    "about": "Terrade David est un artisan plombier installé à Barinque, dans le piémont béarnais. Travaillant en indépendant, il assure un contact direct et un suivi personnalisé pour chaque intervention. Sa connaissance du secteur lui permet d'intervenir rapidement chez les particuliers de Barinque et des communes voisines.",
+    "footer_description": "Terrade David, artisan plombier indépendant à Barinque (64160). Plomberie générale, dépannage et installation sanitaire dans le Béarn et le piémont. Contactez-nous au +33 5 59 68 32 67.",
+    "services": [
+      {
+        "title": "Plomberie générale",
+        "desc": "Réalisation de tous travaux de plomberie pour particuliers : canalisations, robinetterie, raccordements et mise aux normes dans le respect des règles de l'art.",
+        "icon": "wrench",
+        "featured": true,
+        "tag": "Essentiel",
+        "image": "/images/stock/plombier/services/services-1.webp"
+      },
+      {
+        "title": "Dépannage & réparation",
+        "desc": "Intervention rapide pour fuite d'eau, canalisation bouchée ou robinet défaillant. Un artisan réactif qui se déplace directement chez vous.",
+        "icon": "zap",
+        "featured": true,
+        "tag": "Réactif",
+        "image": "/images/stock/plombier/services/services-2.webp"
+      },
+      {
+        "title": "Installation sanitaire",
+        "desc": "Pose et remplacement de sanitaires : WC, lavabo, douche, baignoire. Installation soignée par un artisan local.",
+        "icon": "droplets",
+        "featured": false
+      },
+      {
+        "title": "Recherche de fuite",
+        "desc": "Détection et localisation des fuites pour limiter les dégâts et intervenir au plus vite.",
+        "icon": "search",
+        "featured": false
+      },
+      {
+        "title": "Entretien plomberie",
+        "desc": "Contrôle et entretien de vos installations pour prévenir les pannes et garantir leur durabilité.",
+        "icon": "wrench",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Artisan indépendant",
+        "desc": "Un seul interlocuteur, sans sous-traitance ni intermédiaire."
+      },
+      {
+        "title": "Ancré dans le Béarn",
+        "desc": "Basé à Barinque, proche de vous pour intervenir rapidement."
+      },
+      {
+        "title": "Suivi personnalisé",
+        "desc": "Chaque chantier suivi de A à Z par le même professionnel."
+      },
+      {
+        "title": "Structure à taille humaine",
+        "desc": "Flexibilité et disponibilité grâce à une entreprise individuelle."
+      }
+    ],
+    "why_us_badge": {
+      "value": "2h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Barinque, Morlaàs, Serres-Castet, Buros, Denguin, Lescar, Pau, Montardon, Navailles-Angos",
+    "service_area_cities": [
+      "Barinque",
+      "Morlaàs",
+      "Serres-Castet",
+      "Buros",
+      "Denguin",
+      "Lescar",
+      "Pau",
+      "Montardon",
+      "Navailles-Angos"
+    ],
+    "service_area_map_cities": [
+      "Pau",
+      "Lescar",
+      "Morlaàs",
+      "Serres-Castet",
+      "Denguin",
+      "Montardon"
+    ],
+    "service_area_stats": [
+      {
+        "value": "9",
+        "label": "communes desservies"
+      },
+      {
+        "value": "< 2h",
+        "label": "délai d'intervention"
+      },
+      {
+        "value": "1",
+        "label": "artisan dédié"
+      }
+    ],
+    "service_area_note": "Déplacement rapide dans tout le piémont béarnais, devis gratuit sans engagement pour chaque intervention.",
+    "no_reviews_cta": {
+      "eyebrow": "CONFIANCE",
+      "title": "Un artisan de confiance au cœur du Béarn",
+      "subtitle": "Artisan indépendant à Barinque, Terrade David intervient avec réactivité et savoir-faire directement chez vous, sans intermédiaire.",
+      "button_text": "Demander un devis gratuit"
+    },
+    "reviews_note": "Artisan plombier local · Barinque, Béarn",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 5 59 68 32 67",
+      "email": "",
+      "hours": ""
+    },
+    "seo_title": "Plombier à Barinque & Béarn — Terrade David",
+    "meta_description": "Artisan plombier indépendant à Barinque (64160). Plomberie générale, dépannage et installation sanitaire dans le Béarn. Contactez Terrade David au 05 59 68 32 67."
+  },
+  "reviews": []
+}
