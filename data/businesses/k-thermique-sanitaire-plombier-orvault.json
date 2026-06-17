@@ -49,8 +49,8 @@
     "enabled_blocks": []
   },
   "content": {
-    "hero_title": "Plombier 5/5 à Orvault",
-    "hero_subtitle": "Intervention rapide, travail soigné et prix justes — 62 clients unanimes à Orvault et alentours.",
+    "hero_title": "Votre plombier 5/5 à Orvault",
+    "hero_subtitle": "Réactif, sérieux et à prix juste — plomberie, chauffage et sanitaire à Orvault.",
     "hero_stats": [
       {
         "value": "5/5",
@@ -67,54 +67,54 @@
     ],
     "reassurance_items": [
       {
-        "title": "Réactivité exceptionnelle",
-        "subtitle": "Interventions rapides, délais toujours respectés"
+        "title": "Réactivité immédiate",
+        "subtitle": "Intervention rapide, délais toujours respectés"
       },
       {
-        "title": "Travail soigné et sérieux",
-        "subtitle": "Qualité reconnue par chaque client sans exception"
+        "title": "Travail soigné & sérieux",
+        "subtitle": "Qualité saluée par chaque client, sans exception"
       },
       {
-        "title": "Prix justes et transparents",
-        "subtitle": "Tarifs raisonnables, aucune mauvaise surprise"
+        "title": "Prix honnêtes et justes",
+        "subtitle": "Tarifs transparents, reconnus comme très raisonnables"
       }
     ],
-    "value_prop": "K Thermique & Sanitaire intervient à Orvault et ses environs pour tous vos besoins en plomberie et chauffage. Réactivité, rigueur et tarifs honnêtes : 62 clients l'ont confirmé avec la note parfaite de 5/5.",
-    "services_intro": "Plomberie, sanitaire et chauffage : une double expertise pour votre domicile.",
-    "about": "K Thermique & Sanitaire est votre plombier-chauffagiste de proximité à Orvault, reconnu pour la qualité de ses interventions et sa disponibilité. Sérieux, efficace et à l'écoute, l'artisan intervient rapidement pour tous vos travaux de plomberie et de thermique. Une réputation solide bâtie sur 62 avis Google unanimement positifs.",
-    "footer_description": "K Thermique & Sanitaire, plombier-chauffagiste à Orvault (44700). Dépannage, installation sanitaire et chauffage. Intervention rapide, tarifs justes. Lun–Ven 8h–18h.",
+    "value_prop": "K Thermique & Sanitaire est votre plombier-chauffagiste de proximité à Orvault. Reconnu pour sa réactivité, son sérieux et ses tarifs justes, il affiche une note parfaite de 5/5 sur 62 avis Google. Chaque intervention est traitée avec le même soin et la même disponibilité.",
+    "services_intro": "Plomberie, chauffage et sanitaire à Orvault et alentours.",
+    "about": "K Thermique & Sanitaire est un artisan plombier-chauffagiste basé à Orvault, spécialisé en installations thermiques et travaux sanitaires. Réactif et disponible du lundi au vendredi, il intervient rapidement chez ses clients avec sérieux et professionnalisme. Sa réputation repose sur un travail soigné, des prix transparents et un relationnel humain qui fidélise.",
+    "footer_description": "K Thermique & Sanitaire — plombier-chauffagiste à Orvault. Spécialiste en plomberie, chauffage et sanitaire. Note parfaite 5/5 sur 62 avis Google. Intervention rapide, devis gratuit.",
     "services": [
       {
-        "title": "Dépannage plomberie urgent",
-        "desc": "Intervention rapide pour toute fuite, canalisation bouchée ou panne urgente. Réactivité reconnue et délais respectés à Orvault et alentours.",
-        "icon": "zap",
+        "title": "Plomberie générale",
+        "desc": "Dépannage et installation plomberie à Orvault : fuites, canalisations, robinetterie. Intervention rapide avec un travail soigné et des tarifs transparents.",
+        "icon": "droplets",
         "featured": true,
-        "tag": "Intervention rapide",
+        "tag": "Dépannage & installation",
         "image": "/images/stock/plombier/services/services-3.webp"
       },
       {
         "title": "Chauffage & thermique",
-        "desc": "Installation, entretien et dépannage de vos équipements de chauffage. Double compétence thermique et sanitaire pour un service complet et fiable.",
+        "desc": "Installation, entretien et dépannage de systèmes de chauffage. Artisan réactif pour assurer votre confort thermique à Orvault et ses environs.",
         "icon": "flame",
         "featured": true,
-        "tag": "Expertise thermique",
+        "tag": "Chauffage & confort",
         "image": "/images/stock/plombier/services/services-4.webp"
       },
       {
         "title": "Ballon d'eau chaude",
-        "desc": "Remplacement et installation de ballons d'eau chaude. Matériel de qualité, pose soignée et tarifs raisonnables.",
-        "icon": "droplets",
+        "desc": "Remplacement et installation de ballons d'eau chaude. Travail rapide et soigné, prix raisonnable garanti.",
+        "icon": "zap",
         "featured": false
       },
       {
         "title": "Travaux sanitaires",
-        "desc": "Réalisation de travaux de plomberie sanitaire pour salles de bain, WC et cuisines. Travail soigné, résultat garanti.",
+        "desc": "Installation et rénovation de sanitaires : douche, lavabo, WC. Finitions soignées et délais respectés.",
         "icon": "wrench",
         "featured": false
       },
       {
-        "title": "Rénovation plomberie",
-        "desc": "Rénovation complète de vos installations de plomberie. Diagnostic précis, conseils adaptés et intervention efficace.",
+        "title": "Diagnostic & devis",
+        "desc": "Diagnostic précis de vos installations, devis gratuit et sans engagement pour tous vos travaux.",
         "icon": "search",
         "featured": false
       }
@@ -122,36 +122,36 @@
     "why_us": [
       {
         "title": "Réactivité prouvée",
-        "desc": "Interventions rapides, délais tenus à chaque chantier"
+        "desc": "Intervention rapide, délais systématiquement respectés selon les clients."
       },
       {
-        "title": "Travail de qualité",
-        "desc": "Finitions soignées, sérieux reconnu par tous les clients"
+        "title": "Sérieux reconnu",
+        "desc": "Travail soigné salué unanimement dans chaque avis client."
       },
       {
         "title": "Prix raisonnables",
-        "desc": "Tarification juste et transparente, sans surprise"
+        "desc": "Tarifs justes et transparents, reconnus comme un vrai atout."
       },
       {
         "title": "Artisan disponible",
-        "desc": "Sympathique et à l'écoute, disponible du lundi au vendredi"
+        "desc": "Sympathique et à l'écoute, recommandé sans réserve par ses clients."
       }
     ],
     "why_us_badge": {
       "value": "1h",
       "label": "délai d'intervention"
     },
-    "service_area": "Orvault, Nantes, Sautron, Saint-Herblain, La Chapelle-sur-Erdre, Couëron, Treillières, Carquefou, Indre",
+    "service_area": "Orvault, Nantes, Saint-Herblain, Sautron, La Chapelle-sur-Erdre, Treillières, Couëron, Carquefou, Grandchamp-des-Fontaines",
     "service_area_cities": [
       "Orvault",
       "Nantes",
-      "Sautron",
       "Saint-Herblain",
+      "Sautron",
       "La Chapelle-sur-Erdre",
-      "Couëron",
       "Treillières",
+      "Couëron",
       "Carquefou",
-      "Indre"
+      "Grandchamp-des-Fontaines"
     ],
     "service_area_map_cities": [
       "Nantes",
@@ -159,7 +159,7 @@
       "La Chapelle-sur-Erdre",
       "Couëron",
       "Carquefou",
-      "Sautron"
+      "Treillières"
     ],
     "service_area_stats": [
       {
@@ -175,7 +175,7 @@
         "label": "avis clients"
       }
     ],
-    "service_area_note": "Déplacement rapide à Orvault et dans tout le secteur nantais — devis gratuit sans engagement.",
+    "service_area_note": "Déplacement rapide à Orvault et dans tout le secteur nantais, devis gratuit sans engagement.",
     "no_reviews_cta": {
       "eyebrow": "",
       "title": "",
@@ -191,24 +191,24 @@
       "hours": "Lun–Ven 8h–18h"
     },
     "seo_title": "Plombier Orvault — K Thermique & Sanitaire",
-    "meta_description": "Plombier-chauffagiste à Orvault (44700). Dépannage urgent, installation sanitaire et chauffage. Note 5/5 sur 62 avis Google. Devis gratuit — appelez dès maintenant."
+    "meta_description": "Plombier-chauffagiste à Orvault, note 5/5 sur 62 avis Google. Intervention rapide, travaux sanitaires et thermiques, prix raisonnables. Devis gratuit."
   },
   "reviews": [
     {
-      "author": "Philippe R.",
+      "author": "Philippe M.",
       "location": "Orvault",
       "rating": 5,
       "text": "Prise de Rdv, respect des délais, travail effectué, très grande efficacité, je conseille vivement cette entreprise et sans réserve."
     },
     {
-      "author": "Marc D.",
-      "location": "Sautron",
+      "author": "Bernard T.",
+      "location": "Saint-Herblain",
       "rating": 5,
-      "text": "Artisan sérieux et compétent. Est intervenu très rapidement. A recommander sans problème."
+      "text": "Artisan sérieux et compétent.\nEst intervenu très rapidement.\nA recommander sans problème."
     },
     {
-      "author": "Laurent B.",
-      "location": "Saint-Herblain",
+      "author": "Stéphane L.",
+      "location": "Nantes",
       "rating": 5,
       "text": "Je viens de faire appel à cette société. Je suis très satisfait du résultat. Travail soigné et sérieux. Prix très raisonnable. Personne très sympathique et disponible."
     }
