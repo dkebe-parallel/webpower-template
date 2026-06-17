@@ -1,0 +1,197 @@
+{
+  "business": {
+    "name": "Caffray Scop",
+    "slug": "caffray-scop",
+    "city": "Saint-Omer",
+    "country": "France",
+    "phone": "+33 3 21 38 08 87",
+    "address": "56 Bd de Strasbourg, 62500 Saint-Omer",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Caffray%20Scop&query_place_id=ChIJ__9voaT43EcRLr739_MfEGQ",
+    "rating": 4.5,
+    "reviews_count": 36
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-2.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-6.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Coopérative SCOP"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Plombier-chauffagiste à Saint-Omer",
+    "hero_subtitle": "Équipe coopérative réactive, spécialisée chaudières — 4,5/5 sur 36 avis clients.",
+    "hero_stats": [
+      {
+        "value": "4.5/5",
+        "label": "note Google"
+      },
+      {
+        "value": "36",
+        "label": "avis clients"
+      },
+      {
+        "value": "SCOP",
+        "label": "entreprise coopérative"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Réactivité garantie",
+        "subtitle": "Intervention rapide pour dépannage et urgences"
+      },
+      {
+        "title": "Spécialistes chaudières",
+        "subtitle": "Expertise reconnue en entretien et remplacement"
+      },
+      {
+        "title": "Équipe engagée SCOP",
+        "subtitle": "Chaque salarié impliqué dans la qualité du service"
+      }
+    ],
+    "value_prop": "Caffray Scop est votre plombier-chauffagiste coopératif de référence à Saint-Omer. Reconnu pour sa réactivité et la confiance durable qu'il inspire, ce collectif de professionnels intervient sur vos chaudières, réseaux d'eau et installations de chauffage avec rigueur et engagement.",
+    "services_intro": "Plomberie, chauffage et entretien chaudières en Audomarois.",
+    "about": "Caffray Scop est une entreprise coopérative (SCOP) implantée au cœur de Saint-Omer, spécialisée en plomberie et chauffage. Son statut coopératif garantit l'implication directe de chaque salarié dans la qualité des prestations. Reconnue pour sa réactivité et la relation de confiance établie avec sa clientèle, elle intervient dans tout le secteur audomarois.",
+    "footer_description": "Caffray Scop — Plombier-chauffagiste coopératif à Saint-Omer. Entretien chaudières, plomberie générale et chauffage. 56 Bd de Strasbourg, 62500 Saint-Omer. Tél : +33 3 21 38 08 87.",
+    "services": [
+      {
+        "title": "Entretien chaudières",
+        "desc": "Entretien annuel, dépannage et diagnostic de vos chaudières pour garantir performance, sécurité et durabilité de votre installation.",
+        "icon": "flame",
+        "featured": true,
+        "tag": "Service phare",
+        "image": "/images/stock/plombier/services/services-3.webp"
+      },
+      {
+        "title": "Plomberie générale",
+        "desc": "Réparation de fuites, remplacement de robinetterie, maintenance des réseaux d'eau pour particuliers et professionnels.",
+        "icon": "droplets",
+        "featured": true,
+        "tag": "Intervention rapide",
+        "image": "/images/stock/plombier/services/services-4.webp"
+      },
+      {
+        "title": "Installation chauffage",
+        "desc": "Pose et remplacement de systèmes de chauffage adaptés à vos besoins et votre budget.",
+        "icon": "zap",
+        "featured": false
+      },
+      {
+        "title": "Maintenance circuits d'eau",
+        "desc": "Réparation et entretien préventif de vos circuits pour éviter pannes et dégâts des eaux.",
+        "icon": "wrench",
+        "featured": false
+      },
+      {
+        "title": "Diagnostic et dépannage",
+        "desc": "Identification rapide des pannes et interventions de dépannage sur l'ensemble de vos équipements.",
+        "icon": "search",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Réactivité prouvée",
+        "desc": "Interventions rapides saluées par les clients en cas d'urgence."
+      },
+      {
+        "title": "Confiance client",
+        "desc": "Relation durable et honnête, reconnue par 36 avis positifs."
+      },
+      {
+        "title": "Experts chaudières",
+        "desc": "Spécialisation reconnue sur l'entretien et le dépannage chaudières."
+      },
+      {
+        "title": "Équipe SCOP stable",
+        "desc": "Coopérative engagée, garantie de stabilité et de qualité constante."
+      }
+    ],
+    "why_us_badge": {
+      "value": "2h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Saint-Omer, Longuenesse, Arques, Blendecques, Wizernes, Clairmarais, Tilques, Éperlecques, Thérouanne",
+    "service_area_cities": [
+      "Saint-Omer",
+      "Longuenesse",
+      "Arques",
+      "Blendecques",
+      "Wizernes",
+      "Clairmarais",
+      "Tilques",
+      "Éperlecques",
+      "Thérouanne"
+    ],
+    "service_area_map_cities": [
+      "Longuenesse",
+      "Arques",
+      "Blendecques",
+      "Wizernes",
+      "Éperlecques",
+      "Thérouanne"
+    ],
+    "service_area_stats": [
+      {
+        "value": "9",
+        "label": "communes desservies"
+      },
+      {
+        "value": "4.5/5",
+        "label": "note Google"
+      },
+      {
+        "value": "36",
+        "label": "avis clients"
+      }
+    ],
+    "service_area_note": "Déplacement rapide dans tout l'Audomarois, devis gratuit sans engagement.",
+    "no_reviews_cta": {
+      "eyebrow": "CONFIANCE",
+      "title": "Un plombier-chauffagiste fiable en Audomarois",
+      "subtitle": "Équipe coopérative réactive, spécialisée chaudières et plomberie, au service des foyers de Saint-Omer et ses environs.",
+      "button_text": "Demander un devis gratuit"
+    },
+    "reviews_note": "4.5 / 5 sur Google Maps · 36 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 3 21 38 08 87",
+      "email": "",
+      "hours": "Lun–Ven 8h30–12h · 13h30–17h30"
+    },
+    "seo_title": "Plombier-chauffagiste Saint-Omer | Caffray Scop",
+    "meta_description": "Caffray Scop, plombier-chauffagiste coopératif à Saint-Omer. Entretien chaudières, plomberie, chauffage. Réactif et de confiance. Appelez le +33 3 21 38 08 87."
+  },
+  "reviews": []
+}
