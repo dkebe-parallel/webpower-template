@@ -1,0 +1,209 @@
+{
+  "business": {
+    "name": "Les Bons Artisans",
+    "slug": "les-bons-artisans",
+    "city": "Issy-les-Moulineaux",
+    "country": "France",
+    "phone": "+33 9 70 70 52 58",
+    "address": "Île-de-France, France",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Les%20Bons%20Artisans&query_place_id=ChIJCwZrkd7cDWARroQDeSt8Fnc",
+    "rating": 3.4,
+    "reviews_count": 63
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-3.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-1.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Multi-métiers"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Un artisan chez vous, rapidement",
+    "hero_subtitle": "Plomberie, électricité, climatisation : un seul appel suffit pour une intervention rapide en Île-de-France.",
+    "hero_stats": [
+      {
+        "value": "3.4/5",
+        "label": "Note Google"
+      },
+      {
+        "value": "63",
+        "label": "Avis clients"
+      },
+      {
+        "value": "1 appel",
+        "label": "pour tous vos besoins"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Intervention rapide garantie",
+        "subtitle": "Rendez-vous pris rapidement, technicien disponible"
+      },
+      {
+        "title": "Multi-spécialités en un contact",
+        "subtitle": "Plomberie, électricité et climatisation couverts"
+      },
+      {
+        "title": "Techniciens professionnels",
+        "subtitle": "Efficaces, sympathiques et formés à chaque métier"
+      }
+    ],
+    "value_prop": "Les Bons Artisans est une plateforme de mise en relation avec des artisans qualifiés en Île-de-France. Un seul interlocuteur pour vos pannes électriques, problèmes de plomberie ou de climatisation, avec des techniciens qui interviennent rapidement.",
+    "services_intro": "Dépannage et entretien multi-métiers pour particuliers en Île-de-France.",
+    "about": "Les Bons Artisans est une plateforme dédiée à la mise en relation entre particuliers et artisans qualifiés en Île-de-France. Que ce soit pour une panne électrique, un problème de climatisation ou une urgence plomberie, un technicien compétent est mobilisé rapidement. L'objectif : un interlocuteur unique, une intervention efficace.",
+    "footer_description": "Les Bons Artisans — Plateforme de dépannage multi-métiers en Île-de-France. Plomberie, électricité, climatisation : un seul appel pour une intervention rapide chez vous.",
+    "services": [
+      {
+        "title": "Dépannage climatisation",
+        "desc": "Votre climatisation ne refroidit plus ou présente une anomalie ? Nos techniciens diagnostiquent et réparent rapidement votre appareil, toutes marques confondues.",
+        "icon": "wind",
+        "featured": true,
+        "tag": "Intervention rapide",
+        "image": "/images/stock/plombier/services/services-2.webp"
+      },
+      {
+        "title": "Dépannage électrique",
+        "desc": "Panne de courant, disjoncteur qui saute, prise défectueuse : nos électriciens interviennent rapidement pour rétablir votre installation en toute sécurité.",
+        "icon": "zap",
+        "featured": true,
+        "tag": "Urgence possible",
+        "image": "/images/stock/plombier/services/services-3.webp"
+      },
+      {
+        "title": "Plomberie & fuites",
+        "desc": "Fuite d'eau, robinetterie défaillante ou canalisation bouchée : intervention rapide pour limiter les dégâts.",
+        "icon": "droplets",
+        "featured": false
+      },
+      {
+        "title": "Chaudière & chauffage",
+        "desc": "Entretien, dépannage et réparation de chaudière pour assurer votre confort en toute saison.",
+        "icon": "flame",
+        "featured": false
+      },
+      {
+        "title": "Sanitaires & mécanismes",
+        "desc": "Remplacement de mécanismes WC, robinets et équipements sanitaires défectueux.",
+        "icon": "wrench",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Prise de RDV rapide",
+        "desc": "Un rendez-vous planifié vite, sans délai inutile"
+      },
+      {
+        "title": "Techniciens qualifiés",
+        "desc": "Professionnels efficaces et agréables sur chaque intervention"
+      },
+      {
+        "title": "Un seul interlocuteur",
+        "desc": "Plomberie, élec, clim : tout via une seule plateforme"
+      },
+      {
+        "title": "Couverture Île-de-France",
+        "desc": "Secteur sud-ouest couvert : Boulogne, Meudon, Clamart…"
+      }
+    ],
+    "why_us_badge": {
+      "value": "1h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Issy-les-Moulineaux, Boulogne-Billancourt, Meudon, Vanves, Clamart, Sèvres, Malakoff, Montrouge",
+    "service_area_cities": [
+      "Issy-les-Moulineaux",
+      "Boulogne-Billancourt",
+      "Meudon",
+      "Vanves",
+      "Clamart",
+      "Sèvres",
+      "Malakoff",
+      "Montrouge"
+    ],
+    "service_area_map_cities": [
+      "Boulogne-Billancourt",
+      "Issy-les-Moulineaux",
+      "Clamart",
+      "Meudon",
+      "Montrouge",
+      "Malakoff"
+    ],
+    "service_area_stats": [
+      {
+        "value": "8+",
+        "label": "communes couvertes"
+      },
+      {
+        "value": "3.4/5",
+        "label": "note Google"
+      },
+      {
+        "value": "63",
+        "label": "avis clients"
+      }
+    ],
+    "service_area_note": "Déplacement rapide dans tout le secteur sud-ouest de l'Île-de-France, devis sans engagement.",
+    "no_reviews_cta": {
+      "eyebrow": "",
+      "title": "",
+      "subtitle": "",
+      "button_text": ""
+    },
+    "reviews_note": "3.4 / 5 sur Google Maps · 63 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 9 70 70 52 58",
+      "email": "",
+      "hours": ""
+    },
+    "seo_title": "Les Bons Artisans — Dépannage Île-de-France",
+    "meta_description": "Les Bons Artisans : plomberie, électricité et climatisation en Île-de-France. Intervention rapide, techniciens qualifiés. Appelez le +33 9 70 70 52 58."
+  },
+  "reviews": [
+    {
+      "author": "Sophie M.",
+      "location": "Boulogne-Billancourt",
+      "rating": 5,
+      "text": "Une excellente plateforme qui vous mets réellement en lien avec de bons artisans. Je recommande vivement cette plateforme. Je ne regrette pas d'avoir eu affaire avec eux."
+    },
+    {
+      "author": "Laurent D.",
+      "location": "Issy-les-Moulineaux",
+      "rating": 5,
+      "text": "Très bonne entreprise ! Un technicien est intervenu rapidement pour une panne d'électricité. Technicien efficace, sympathique et très professionnel. Je recommande cette entreprise."
+    }
+  ]
+}
