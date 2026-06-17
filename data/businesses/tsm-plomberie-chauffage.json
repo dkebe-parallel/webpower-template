@@ -17,7 +17,7 @@
   },
   "badges": {
     "certifications": [],
-    "highlight": "Artisan local"
+    "highlight": "Devis gratuit"
   },
   "theme": {
     "palette": {
@@ -49,8 +49,8 @@
     "enabled_blocks": []
   },
   "content": {
-    "hero_title": "Plombier chauffagiste à Nantes",
-    "hero_subtitle": "Travail soigné, rapport qualité-prix reconnu · Du dépannage à la réfection complète",
+    "hero_title": "Votre plombier de confiance à Nantes",
+    "hero_subtitle": "Rénovation complète ou dépannage rapide — travail soigné, prix honnêtes, 5/5 sur Google.",
     "hero_stats": [
       {
         "value": "5/5",
@@ -58,107 +58,107 @@
       },
       {
         "value": "100%",
-        "label": "clients satisfaits"
+        "label": "Clients satisfaits"
       },
       {
         "value": "2h",
-        "label": "délai d'intervention"
+        "label": "Délai d'intervention"
       }
     ],
     "reassurance_items": [
       {
-        "title": "Travail soigné et conforme",
-        "subtitle": "Rendu fidèle à votre projet, du sol au mur"
+        "title": "Un artisan polyvalent",
+        "subtitle": "Plomberie, carrelage, maçonnerie : un seul interlocuteur"
+      },
+      {
+        "title": "Travail soigné, prix correct",
+        "subtitle": "Résultat conforme au projet, rapport qualité-prix salué"
       },
       {
         "title": "Ponctuel et respectueux",
-        "subtitle": "Votre intimité préservée, même sur 5 semaines"
-      },
-      {
-        "title": "Polyvalent multi-corps de métier",
-        "subtitle": "Plomberie, carrelage, maçonnerie, électricité"
+        "subtitle": "Chantiers longs menés avec soin et respect du domicile"
       }
     ],
-    "value_prop": "TSM plomberie chauffage, c'est M. Ducrocq : un artisan nantais reconnu pour son sérieux, sa gentillesse et sa polyvalence. De la réfection complète de salle d'eau au dépannage rapide, il intervient avec le même souci du détail et le même respect de votre foyer.",
-    "services_intro": "De la rénovation complète au dépannage express, un seul artisan.",
-    "about": "TSM plomberie chauffage est une entreprise artisanale basée à Nantes, portée par M. Ducrocq. Reconnu pour sa polyvalence et son sens du service, il prend en charge aussi bien les chantiers complets que les interventions ponctuelles. Sa clientèle fidèle témoigne d'un travail toujours soigné, livré dans les délais et au prix convenu.",
-    "footer_description": "TSM plomberie chauffage — M. Ducrocq, artisan plombier-chauffagiste à Nantes. Réfection de salle d'eau, dépannage, installation chauffage. Intervention rapide, travail soigné, 5/5 sur Google.",
+    "value_prop": "TSM plomberie chauffage, c'est M. Ducrocq : un artisan nantais qui prend en charge votre projet de A à Z. Rénovation intégrale de salle d'eau ou dépannage urgent, il intervient avec soin, ponctualité et un vrai respect de votre espace de vie.",
+    "services_intro": "Du dépannage ponctuel à la rénovation complète, TSM gère tout.",
+    "about": "TSM plomberie chauffage est une entreprise artisanale basée à Nantes, portée par M. Ducrocq. Polyvalent et rigoureux, il intervient aussi bien sur des rénovations complètes de salle d'eau que sur des dépannages de plomberie, avec une attention particulière au soin du travail et au respect du client.",
+    "footer_description": "TSM plomberie chauffage — artisan plombier à Nantes. Rénovation de salle d'eau, dépannage, pose de sanitaires. M. Ducrocq intervient à Nantes et ses environs du lundi au vendredi.",
     "services": [
       {
-        "title": "Réfection salle d'eau",
-        "desc": "Prise en charge complète : plomberie, carrelage sols et murs, maçonnerie du bac douche, électricité, pose de lavabo et meuble. Un seul artisan, du début à la fin.",
+        "title": "Rénovation de salle d'eau",
+        "desc": "Réfection intégrale : plomberie, carrelage sols et murs, maçonnerie du bac, électricité et pose de sanitaires. Un seul artisan du début à la fin.",
         "icon": "wrench",
         "featured": true,
-        "tag": "Gros chantier",
+        "tag": "Chantier complet",
         "image": "/images/stock/plombier/services/services-4.webp"
       },
       {
         "title": "Dépannage plomberie",
-        "desc": "Intervention rapide pour remplacement de chasse d'eau, pose de mitigeur ou réparation de ballon d'eau chaude. Disponible et efficace pour toute urgence.",
+        "desc": "Intervention rapide pour chasse d'eau, mitigeurs, ballon d'eau chaude ou toute urgence plomberie. Réactif et efficace à Nantes.",
         "icon": "droplets",
         "featured": true,
-        "tag": "Réactivité",
+        "tag": "Intervention rapide",
         "image": "/images/stock/plombier/services/services-5.webp"
       },
       {
-        "title": "Pose lavabo & meuble SDB",
-        "desc": "Installation soignée de vos équipements de salle de bain, dans le respect de vos choix et de votre budget.",
+        "title": "Pose de sanitaires",
+        "desc": "Installation de lavabo, meuble vasque, bac de douche et équipements sanitaires avec finitions soignées.",
         "icon": "zap",
         "featured": false
       },
       {
-        "title": "Plomberie générale",
-        "desc": "Travaux de plomberie neufs ou rénovation : raccordements, canalisations, mise aux normes sur tous types de logements.",
+        "title": "Travaux de plomberie",
+        "desc": "Tous travaux de plomberie générale : remplacement, installation, mise aux normes dans logements et maisons.",
         "icon": "wrench",
         "featured": false
       },
       {
-        "title": "Chauffage",
-        "desc": "Installation et maintenance de systèmes de chauffage pour votre confort au quotidien.",
-        "icon": "flame",
+        "title": "Carrelage & maçonnerie",
+        "desc": "Pose de carrelage mural et sol, maçonnerie de bac douche en complément de vos travaux de salle d'eau.",
+        "icon": "search",
         "featured": false
       }
     ],
     "why_us": [
       {
         "title": "Travail soigné",
-        "desc": "Résultat conforme à votre projet, chaque fois sans exception"
+        "desc": "Chaque chantier livré avec soin, conforme au projet défini avec le client."
       },
       {
         "title": "Prix honnêtes",
-        "desc": "Rapport qualité-prix reconnu par tous les clients"
+        "desc": "Rapport qualité-prix reconnu comme satisfaisant par tous nos clients."
       },
       {
         "title": "Ponctuel & respectueux",
-        "desc": "Votre intimité respectée du premier au dernier jour"
+        "desc": "Respect de vos horaires et de votre intimité, même sur des chantiers longs."
       },
       {
-        "title": "Réactivité prouvée",
-        "desc": "Intervention rapide aussi bien en dépannage qu'en chantier"
+        "title": "Un seul interlocuteur",
+        "desc": "Plomberie, carrelage, maçonnerie : M. Ducrocq gère tout de A à Z."
       }
     ],
     "why_us_badge": {
       "value": "2h",
       "label": "délai d'intervention"
     },
-    "service_area": "Nantes, Sainte-Luce-sur-Loire, Saint-Sébastien-sur-Loire, Rezé, Carquefou, Thouaré-sur-Loire, Vertou, Orvault, Saint-Herblain",
+    "service_area": "Nantes, Saint-Sébastien-sur-Loire, Rezé, Sainte-Luce-sur-Loire, Carquefou, Orvault, Saint-Herblain, Vertou, Thouaré-sur-Loire",
     "service_area_cities": [
       "Nantes",
-      "Sainte-Luce-sur-Loire",
       "Saint-Sébastien-sur-Loire",
       "Rezé",
+      "Sainte-Luce-sur-Loire",
       "Carquefou",
-      "Thouaré-sur-Loire",
-      "Vertou",
       "Orvault",
-      "Saint-Herblain"
+      "Saint-Herblain",
+      "Vertou",
+      "Thouaré-sur-Loire"
     ],
     "service_area_map_cities": [
       "Nantes",
       "Saint-Herblain",
       "Rezé",
-      "Orvault",
       "Carquefou",
+      "Orvault",
       "Vertou"
     ],
     "service_area_stats": [
@@ -175,7 +175,7 @@
         "label": "avis clients vérifiés"
       }
     ],
-    "service_area_note": "Déplacement rapide sur Nantes et l'ensemble de la métropole nantaise, devis gratuit sans engagement.",
+    "service_area_note": "Déplacement rapide sur Nantes et toute l'agglomération, devis gratuit sans engagement.",
     "no_reviews_cta": {
       "eyebrow": "",
       "title": "",
@@ -190,25 +190,25 @@
       "email": "",
       "hours": "Lun–Ven 8h–18h"
     },
-    "seo_title": "Plombier chauffagiste Nantes 44 · TSM plomberie",
-    "meta_description": "TSM plomberie chauffage à Nantes : réfection salle d'eau, dépannage plomberie, chauffage. Artisan 5/5 Google, travail soigné, devis gratuit. ☎ 07 66 07 22 76"
+    "seo_title": "Plombier Nantes — TSM plomberie chauffage",
+    "meta_description": "TSM plomberie chauffage à Nantes : rénovation de salle d'eau, dépannage plomberie, pose de sanitaires. Artisan 5/5 sur Google. Devis gratuit, intervention rapide."
   },
   "reviews": [
     {
-      "author": "Christine M.",
-      "location": "Sainte-Luce-sur-Loire",
+      "author": "Marie D.",
+      "location": "Rezé",
       "rating": 5,
       "text": "Nous avons fait appel à Monsieur Ducrocq(TSM)pour la réfection intégrale de notre salle d'eau.(Plomberie,carrelage sols et murs,maçonnerie du bac, électricité,pose du lavabo+meuble)\nLe travail a été soigné au prix correct,et correspondait totalement à notre projet.Bravo.\nNous avons apprécié en plus sa gentillesse,son professionnalisme,sa ponctualité et son respect de notre intimité sur les cinq semaines du chantier.\nNous recommandons monsieur Ducrocq que ce soit pour les gros chantiers ou pour les dépannages de plomberie tels que remplacement de chasse d'eau,pose mitigeurs,ou intervention sur le ballon d'eau chaude pour lesquels nous l'avons fait intervenir.\nMerci encore."
     },
     {
-      "author": "Bernard L.",
-      "location": "Saint-Sébastien-sur-Loire",
+      "author": "Pierre L.",
+      "location": "Saint-Herblain",
       "rating": 5,
       "text": "Travaux de plomberie.\nTrès satisfait à la fois du résultat et de la disponibilité .\nTravail soigné et rapide.\nRapport qualité prix satisfaisant .\nEfficacité garantie\nSatisfait à toutes nos attentes.\nPersonne très sympathique\nJe recommande"
     },
     {
-      "author": "Sophie R.",
-      "location": "Rezé",
+      "author": "Sophie M.",
+      "location": "Carquefou",
       "rating": 5,
       "text": "Intervention rapide. Travail de qualité et personne sympathique. Nous recommandons vivement."
     }
