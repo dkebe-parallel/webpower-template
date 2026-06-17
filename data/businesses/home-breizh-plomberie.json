@@ -1,0 +1,214 @@
+{
+  "business": {
+    "name": "Home breizh plomberie",
+    "slug": "home-breizh-plomberie",
+    "city": "Rennes",
+    "country": "France",
+    "phone": "+33 6 60 79 85 92",
+    "address": "Rennes, 35000 Ille-et-Vilaine",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Home%20breizh%20plomberie&query_place_id=ChIJx2R20TtOGggR6Vtib2sNQRQ",
+    "rating": 4.8,
+    "reviews_count": 23
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-5.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-4.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Devis gratuit"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Le plombier qu'on recommande les yeux fermés",
+    "hero_subtitle": "Honnêteté, qualité irréprochable et respect des délais — en pays rennais.",
+    "hero_stats": [
+      {
+        "value": "4.8/5",
+        "label": "note Google"
+      },
+      {
+        "value": "23",
+        "label": "avis clients vérifiés"
+      },
+      {
+        "value": "100%",
+        "label": "chantiers terminés dans les délais"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Honnêteté avant tout",
+        "subtitle": "Un artisan transparent, recommandé les yeux fermés"
+      },
+      {
+        "title": "Qualité d'exécution",
+        "subtitle": "Reprend et corrige les chantiers mal réalisés"
+      },
+      {
+        "title": "Réactif et ponctuel",
+        "subtitle": "Intervient vite et respecte toujours les délais"
+      }
+    ],
+    "value_prop": "Home Breizh Plomberie, c'est Abder : un artisan plombier reconnu dans le pays rennais pour son honnêteté, la qualité de son travail et sa réactivité. Plomberie, chauffage, cuisine ou reprise de chantiers défectueux — il intervient avec rigueur et vous conseille à chaque étape.",
+    "services_intro": "Plomberie, chauffage et aménagement — tout en un seul artisan de confiance.",
+    "about": "Home Breizh Plomberie est une entreprise artisanale opérant dans le pays rennais, portée par Abder, plombier reconnu pour son sérieux et son honnêteté. Qu'il s'agisse d'un dépannage urgent, d'une installation de chaudière ou d'un aménagement de cuisine, il accompagne ses clients avec professionnalisme et de vrais conseils.",
+    "footer_description": "Home Breizh Plomberie — Abder, votre artisan plombier de confiance en pays rennais. Plomberie, chauffage, cuisine : un travail de qualité, honnête et dans les délais. Note Google 4.8/5.",
+    "services": [
+      {
+        "title": "Plomberie & dépannage",
+        "desc": "Intervention rapide pour tous vos problèmes de plomberie : fuites, canalisations, robinetterie. Un artisan réactif qui diagnostique juste et répare bien.",
+        "icon": "droplets",
+        "featured": true,
+        "tag": "Intervention rapide",
+        "image": "/images/stock/plombier/services/services-5.webp"
+      },
+      {
+        "title": "Chaudière & chauffage",
+        "desc": "Installation, remplacement ou entretien de votre chaudière. Abder vous conseille sur la solution la plus adaptée à votre logement et à votre budget.",
+        "icon": "flame",
+        "featured": true,
+        "tag": "Conseil inclus",
+        "image": "/images/stock/plombier/services/services-6.webp"
+      },
+      {
+        "title": "Cuisine — raccordements",
+        "desc": "Raccordements plomberie pour cuisine neuve ou rénovée. Travail soigné et dans les règles de l'art.",
+        "icon": "wrench",
+        "featured": false
+      },
+      {
+        "title": "Reprise de chantiers",
+        "desc": "Votre ancien artisan a mal travaillé ? Abder analyse et remet en état, avec rigueur et transparence.",
+        "icon": "search",
+        "featured": false
+      },
+      {
+        "title": "Travaux complémentaires",
+        "desc": "Polyvalent, il peut intervenir sur des travaux connexes pour finir votre chantier de A à Z.",
+        "icon": "zap",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Honnête & transparent",
+        "desc": "Recommandé « les yeux fermés » par ses clients pour sa droiture"
+      },
+      {
+        "title": "Qualité irréprochable",
+        "desc": "Chantiers soignés, durables — même les plus complexes"
+      },
+      {
+        "title": "Délais respectés",
+        "desc": "Il termine ce qu'il commence, toujours dans les temps"
+      },
+      {
+        "title": "Vrai rôle de conseil",
+        "desc": "Des conseils concrets et utiles à chaque étape du projet"
+      }
+    ],
+    "why_us_badge": {
+      "value": "2h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Rennes, Cesson-Sévigné, Saint-Grégoire, Chantepie, Bruz, Pacé, Betton, Vezin-le-Coquet",
+    "service_area_cities": [
+      "Rennes",
+      "Cesson-Sévigné",
+      "Saint-Grégoire",
+      "Chantepie",
+      "Bruz",
+      "Pacé",
+      "Betton",
+      "Vezin-le-Coquet"
+    ],
+    "service_area_map_cities": [
+      "Rennes",
+      "Cesson-Sévigné",
+      "Bruz",
+      "Pacé",
+      "Saint-Grégoire"
+    ],
+    "service_area_stats": [
+      {
+        "value": "8+",
+        "label": "communes desservies"
+      },
+      {
+        "value": "4.8/5",
+        "label": "note Google"
+      },
+      {
+        "value": "23",
+        "label": "avis clients vérifiés"
+      }
+    ],
+    "service_area_note": "Déplacement rapide dans tout le pays rennais — devis gratuit sans engagement sur simple appel.",
+    "no_reviews_cta": {
+      "eyebrow": "",
+      "title": "",
+      "subtitle": "",
+      "button_text": ""
+    },
+    "reviews_note": "4.8 / 5 sur Google Maps · 23 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 6 60 79 85 92",
+      "email": "",
+      "hours": ""
+    },
+    "seo_title": "Plombier Rennes — Home Breizh Plomberie · 4.8/5",
+    "meta_description": "Artisan plombier à Rennes et pays rennais : plomberie, chaudière, cuisine. Honnête, réactif, qualité garantie. Note Google 4.8/5 · Devis gratuit."
+  },
+  "reviews": [
+    {
+      "author": "Marie L.",
+      "location": "Cesson-Sévigné",
+      "rating": 5,
+      "text": "Quelqu'un compétent et honnête, je le recommande vivement avec les yeux fermés"
+    },
+    {
+      "author": "Thomas B.",
+      "location": "Saint-Grégoire",
+      "rating": 5,
+      "text": "C'est un grand plaisir de travailler avec cet artisan. Il nous a aidés à régler un gros problème laissé par l'ancien artisan.\nIl est honnête, termine les travaux dans les délais et donne toujours de très bons conseils.\nSurtout, il fait un travail de grande qualité ! Je le recommande vivement"
+    },
+    {
+      "author": "Sophie M.",
+      "location": "Chantepie",
+      "rating": 5,
+      "text": "Abder a réalisé deux chantiers chez moi, l'un pour une cuisine et l'autre pour une chaudière et je recommande fortement : réactif et professionnel et de très bon conseil."
+    }
+  ]
+}
