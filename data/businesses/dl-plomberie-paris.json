@@ -17,7 +17,7 @@
   },
   "badges": {
     "certifications": [],
-    "highlight": "6j/7 · 9h–20h"
+    "highlight": "Devis gratuit"
   },
   "theme": {
     "palette": {
@@ -49,8 +49,8 @@
     "enabled_blocks": []
   },
   "content": {
-    "hero_title": "Votre plombier de confiance à Paris",
-    "hero_subtitle": "Réactif, soigné et disponible 6j/7 — 5/5 sur Google pour 45 clients satisfaits.",
+    "hero_title": "Votre plombier réactif à Paris",
+    "hero_subtitle": "Disponible 9h–20h, 6j/7 · Interventions rapides dans le 11e et alentours · 5/5 sur Google",
     "hero_stats": [
       {
         "value": "5/5",
@@ -58,7 +58,7 @@
       },
       {
         "value": "45",
-        "label": "Avis clients"
+        "label": "Avis clients vérifiés"
       },
       {
         "value": "6j/7",
@@ -68,25 +68,25 @@
     "reassurance_items": [
       {
         "title": "Réactivité garantie",
-        "subtitle": "Interventions rapides, même sur des tâches délicates"
+        "subtitle": "Intervention rapide, même sur travaux délicats"
       },
       {
-        "title": "Travail habile et soigné",
-        "subtitle": "Résultats jugés très satisfaisants par les clients"
+        "title": "Artisan polyvalent",
+        "subtitle": "Plomberie, rénovation et petits travaux assurés"
       },
       {
-        "title": "Artisan sympathique",
-        "subtitle": "Un contact chaleureux et un relationnel de qualité"
+        "title": "Contact humain et bienveillant",
+        "subtitle": "Un artisan sympathique et à l'écoute"
       }
     ],
-    "value_prop": "DL Plomberie Paris intervient au cœur du 11e arrondissement avec réactivité et soin. Plomberie générale, rénovation de salle de bain, petits travaux : chaque intervention est réalisée avec habileté, et 45 clients lui attribuent un sans-faute de 5/5.",
-    "services_intro": "Plomberie, salle de bain, dépannage et petits travaux à Paris.",
-    "about": "DL Plomberie Paris est un artisan de proximité basé au 38 Rue Saint-Sébastien dans le 11e arrondissement. Reconnu pour son efficacité, sa disponibilité et la qualité de ses finitions, il intervient sur tous types de travaux de plomberie avec soin et bienveillance.",
-    "footer_description": "DL Plomberie Paris — artisan plombier du 11e, disponible 6j/7 de 9h à 20h. Plomberie, salle de bain, dépannage et petits travaux. Note parfaite 5/5 sur 45 avis Google.",
+    "value_prop": "DL Plomberie Paris intervient dans le 11e arrondissement et ses environs avec efficacité, disponibilité et un vrai savoir-faire artisanal. Plomberie, salle de bain, dépannage ou petits travaux : une seule adresse, une note parfaite de 5/5 sur 45 avis Google.",
+    "services_intro": "Plomberie, rénovation salle de bain et petits travaux à Paris",
+    "about": "DL Plomberie Paris est un artisan plombier implanté dans le 11e arrondissement, reconnu pour sa réactivité et la qualité de ses interventions. Disponible du lundi au samedi de 9h à 20h, il assure des travaux soignés, qu'il s'agisse de plomberie courante, de rénovation de salle de bain ou de petits travaux de bricolage.",
+    "footer_description": "DL Plomberie Paris — Plombier réactif et polyvalent dans le 11e arrondissement. Disponible 6j/7 de 9h à 20h pour tous vos travaux de plomberie, rénovation et dépannage à Paris et alentours.",
     "services": [
       {
         "title": "Plomberie générale",
-        "desc": "Installation, remplacement et réparation de tous vos équipements de plomberie. Interventions soignées et durables pour votre logement parisien.",
+        "desc": "Installation et réparation de tous vos équipements de plomberie : robinetterie, canalisations, évacuations. Interventions soignées et durables dans tout Paris.",
         "icon": "droplets",
         "featured": true,
         "tag": "Expertise",
@@ -94,7 +94,7 @@
       },
       {
         "title": "Salle de bain",
-        "desc": "Aménagement, rénovation et mise aux normes de votre salle de bain. Un travail précis et habile pour un résultat qui vous satisfera pleinement.",
+        "desc": "Aménagement et rénovation complète de salle de bain : pose de sanitaires, carrelage, douche, baignoire. Un résultat soigné pour un espace fonctionnel et esthétique.",
         "icon": "wrench",
         "featured": true,
         "tag": "Rénovation",
@@ -102,19 +102,19 @@
       },
       {
         "title": "Dépannage plomberie",
-        "desc": "Intervention rapide pour fuites, canalisations bouchées ou pannes urgentes. Disponible 6 jours sur 7 jusqu'à 20h.",
+        "desc": "Fuite, canalisation bouchée, problème urgent ? DL intervient rapidement pour remettre votre installation en état dans les meilleurs délais.",
         "icon": "zap",
         "featured": false
       },
       {
         "title": "Petits travaux & bricolage",
-        "desc": "Accrochage, pose d'équipements, fixations délicates : chaque petit chantier est traité avec autant de soin que les grands.",
+        "desc": "Accrochage, pose d'équipements, fixations délicates : des interventions habiles réalisées avec soin et méthode.",
         "icon": "search",
         "featured": false
       },
       {
-        "title": "Pose d'équipements",
-        "desc": "Installation de suspensions, luminaires, accessoires sanitaires et autres éléments avec précision et méthode.",
+        "title": "Pose d'équipements sanitaires",
+        "desc": "Installation de lavabos, WC, douches et robinetteries avec finitions précises et matériaux adaptés à vos besoins.",
         "icon": "flame",
         "featured": false
       }
@@ -122,23 +122,23 @@
     "why_us": [
       {
         "title": "Efficace et disponible",
-        "desc": "Réactivité saluée par les clients, même en semaine et le samedi"
+        "desc": "Interventions menées rapidement, 6 jours sur 7 jusqu'à 20h"
       },
       {
-        "title": "Travail très soigné",
-        "desc": "Finitions précises et résultat jugé « habile et judicieux »"
+        "title": "Savoir-faire reconnu",
+        "desc": "Habileté technique saluée même sur travaux délicats"
       },
       {
-        "title": "Excellent contact",
-        "desc": "Artisan sympathique, facile à joindre et agréable au quotidien"
+        "title": "Excellent relationnel",
+        "desc": "Un artisan sympathique et à l'écoute de vos besoins"
       },
       {
-        "title": "Note parfaite 5/5",
-        "desc": "45 avis clients sans la moindre insatisfaction recensée"
+        "title": "5/5 sur 45 avis Google",
+        "desc": "Satisfaction client sans faille, confirmée par tous les avis"
       }
     ],
     "why_us_badge": {
-      "value": "1h",
+      "value": "2h",
       "label": "délai d'intervention"
     },
     "service_area": "Paris 11e, Paris 3e, Paris 4e, Paris 10e, Paris 12e, Paris 20e, Paris 5e, Montreuil, Bagnolet",
@@ -164,7 +164,7 @@
     "service_area_stats": [
       {
         "value": "9",
-        "label": "Communes desservies"
+        "label": "Communes couvertes"
       },
       {
         "value": "5/5",
@@ -172,10 +172,10 @@
       },
       {
         "value": "45",
-        "label": "Avis vérifiés"
+        "label": "Avis clients"
       }
     ],
-    "service_area_note": "Déplacement rapide dans le 11e et arrondissements voisins — devis gratuit sans engagement.",
+    "service_area_note": "Déplacement rapide dans tout Paris et le secteur est-parisien, devis gratuit sans engagement.",
     "no_reviews_cta": {
       "eyebrow": "",
       "title": "",
@@ -191,11 +191,11 @@
       "hours": "Lun–Sam 9h–20h"
     },
     "seo_title": "Plombier Paris 11e — DL Plomberie Paris",
-    "meta_description": "DL Plomberie Paris, votre plombier de confiance dans le 11e. Plomberie, salle de bain, dépannage. Disponible 6j/7 · Note 5/5 sur 45 avis Google."
+    "meta_description": "DL Plomberie Paris, plombier réactif dans le 11e arrondissement. Disponible 6j/7 de 9h à 20h. Note 5/5 sur 45 avis Google. Devis gratuit, intervention rapide."
   },
   "reviews": [
     {
-      "author": "Marc T.",
+      "author": "Marc D.",
       "location": "Paris 11e",
       "rating": 5,
       "text": "Efficace disponible et sympathique"
