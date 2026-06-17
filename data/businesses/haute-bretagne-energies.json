@@ -1,0 +1,204 @@
+{
+  "business": {
+    "name": "Haute Bretagne Energies",
+    "slug": "haute-bretagne-energies",
+    "city": "Rennes",
+    "country": "France",
+    "phone": "+33 2 30 21 18 43",
+    "address": "1 Rue de la Tremblaie, 35000 Rennes",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Haute%20Bretagne%20Energies&query_place_id=ChIJLTAXWQnfDkgR0RhECNcQ-_4",
+    "rating": 3.3,
+    "reviews_count": 9
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-3.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-3.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Devis gratuit"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Plomberie & énergies à Rennes",
+    "hero_subtitle": "Techniciens ponctuels, finitions soignées et service commercial arrangeant pour vos projets.",
+    "hero_stats": [
+      {
+        "value": "3.3/5",
+        "label": "note Google"
+      },
+      {
+        "value": "100%",
+        "label": "ponctualité garantie"
+      },
+      {
+        "value": "+",
+        "label": "finitions toujours parfaites"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Techniciens ponctuels et pros",
+        "subtitle": "Intervention à l'heure, travail soigné dès la première visite."
+      },
+      {
+        "title": "Finitions impeccables",
+        "subtitle": "Nos équipes vont au-delà du devis pour un résultat parfait."
+      },
+      {
+        "title": "Service commercial réactif",
+        "subtitle": "Un interlocuteur disponible et arrangeant à votre écoute."
+      }
+    ],
+    "value_prop": "Haute Bretagne Energies intervient à Rennes pour vos besoins en plomberie et solutions énergétiques. Nos techniciens ponctuels et attentifs aux détails vont au-delà de la prestation pour garantir des finitions irréprochables, avec un service commercial toujours disponible.",
+    "services_intro": "Plomberie, sanitaires et solutions énergétiques à Rennes.",
+    "about": "Haute Bretagne Energies est une entreprise rennaise spécialisée en plomberie, installation sanitaire et solutions énergétiques. Notre équipe de techniciens qualifiés intervient avec ponctualité et professionnalisme sur l'ensemble de vos projets. Nous mettons un point d'honneur à soigner chaque finition pour vous garantir un résultat impeccable.",
+    "footer_description": "Haute Bretagne Energies — Plomberie et solutions énergétiques à Rennes. Techniciens ponctuels, finitions soignées, service commercial arrangeant. Interventions à Rennes et alentours.",
+    "services": [
+      {
+        "title": "Pose de parois de douche",
+        "desc": "Installation et remplacement de parois de douche, portes battantes ou coulissantes. Pose précise, joints parfaits et finitions soignées pour votre salle de bain.",
+        "icon": "droplets",
+        "featured": true,
+        "tag": "Sanitaires",
+        "image": "/images/stock/plombier/services/services-8.webp"
+      },
+      {
+        "title": "Plomberie & salle de bain",
+        "desc": "Travaux complets de plomberie, rénovation et aménagement de salle de bain. Réparation de fuites, remplacement d'équipements et mise aux normes.",
+        "icon": "wrench",
+        "featured": true,
+        "tag": "Plomberie",
+        "image": "/images/stock/plombier/services/services-1.webp"
+      },
+      {
+        "title": "Reprise joints & finitions",
+        "desc": "Reprise de joints défaillants, finitions sanitaires et étanchéité. Intervention rapide pour éviter infiltrations et dégradations.",
+        "icon": "search",
+        "featured": false
+      },
+      {
+        "title": "Solutions énergétiques",
+        "desc": "Plomberie énergétique, installation et entretien de systèmes de chauffage adaptés à vos besoins.",
+        "icon": "flame",
+        "featured": false
+      },
+      {
+        "title": "Dépannage plomberie",
+        "desc": "Intervention rapide pour fuites, canalisations bouchées ou équipements défaillants à Rennes.",
+        "icon": "zap",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Ponctualité assurée",
+        "desc": "Nos techniciens arrivent à l'heure convenue, sans retard."
+      },
+      {
+        "title": "Travail soigné",
+        "desc": "Qualité d'exécution reconnue, finitions au-delà des attentes."
+      },
+      {
+        "title": "Initiative & rigueur",
+        "desc": "Nous reprenons spontanément toute finition imparfaite constatée."
+      },
+      {
+        "title": "Service arrangeant",
+        "desc": "Notre équipe commerciale s'adapte à vos contraintes et délais."
+      }
+    ],
+    "why_us_badge": {
+      "value": "2h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Rennes, Cesson-Sévigné, Saint-Jacques-de-la-Lande, Chantepie, Bruz, Saint-Grégoire, Vezin-le-Coquet, Pacé, Chartres-de-Bretagne",
+    "service_area_cities": [
+      "Rennes",
+      "Cesson-Sévigné",
+      "Saint-Jacques-de-la-Lande",
+      "Chantepie",
+      "Bruz",
+      "Saint-Grégoire",
+      "Vezin-le-Coquet",
+      "Pacé",
+      "Chartres-de-Bretagne"
+    ],
+    "service_area_map_cities": [
+      "Rennes",
+      "Cesson-Sévigné",
+      "Bruz",
+      "Saint-Grégoire",
+      "Pacé",
+      "Chantepie"
+    ],
+    "service_area_stats": [
+      {
+        "value": "9",
+        "label": "communes couvertes"
+      },
+      {
+        "value": "3.3/5",
+        "label": "note Google"
+      },
+      {
+        "value": "9",
+        "label": "avis clients"
+      }
+    ],
+    "service_area_note": "Déplacement rapide à Rennes et dans tout le bassin rennais — devis gratuit sans engagement.",
+    "no_reviews_cta": {
+      "eyebrow": "",
+      "title": "",
+      "subtitle": "",
+      "button_text": ""
+    },
+    "reviews_note": "3.3 / 5 sur Google Maps · 9 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 2 30 21 18 43",
+      "email": "",
+      "hours": "Lun–Jeu 8h30–12h · 13h–17h · Ven 8h30–12h · 13h–16h"
+    },
+    "seo_title": "Plomberie & Énergies à Rennes | Haute Bretagne Energies",
+    "meta_description": "Haute Bretagne Energies à Rennes : plomberie, pose de parois de douche et solutions énergétiques. Techniciens ponctuels, finitions soignées. Devis gratuit."
+  },
+  "reviews": [
+    {
+      "author": "Marie L.",
+      "location": "Cesson-Sévigné",
+      "rating": 5,
+      "text": "Nous avons fait appel à Haute Bretagne Service pour la pose d'une paroi de douche double porte battante. Technicien à l'heure, très poli, très sympa, très pro. Qualité du travail au top, il en a même fait un peu plus qu'il ne fallait en rattrapant un joint qui n'avait pas été fait dans notre maison. Service commercial disponible, arrangeant. Je recommande !"
+    }
+  ]
+}
