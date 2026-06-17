@@ -50,7 +50,7 @@
   },
   "content": {
     "hero_title": "Le plombier qui se déplace vraiment",
-    "hero_subtitle": "Dépannage rapide à domicile · Note 5/5 Google · Artisan local en Périgord noir",
+    "hero_subtitle": "Dépannage à domicile à Terrasson-Lavilledieu · Réactivité prouvée · Note 5/5 Google",
     "hero_stats": [
       {
         "value": "5/5",
@@ -58,35 +58,35 @@
       },
       {
         "value": "100%",
-        "label": "Clients satisfaits"
+        "label": "Déplacement à domicile"
       },
       {
-        "value": "2h",
-        "label": "Délai d'intervention"
+        "value": "1h",
+        "label": "délai d'intervention"
       }
     ],
     "reassurance_items": [
       {
-        "title": "Il se déplace quand les autres non",
-        "subtitle": "Reconnu comme le seul à intervenir"
+        "title": "Disponible quand les autres ne viennent pas",
+        "subtitle": "M. Roche se déplace là où d'autres refusent"
       },
       {
-        "title": "Artisan ancré à Terrasson",
-        "subtitle": "Présence locale en Périgord noir"
+        "title": "Artisan de proximité ancré localement",
+        "subtitle": "Basé rue Rastignac, Terrasson-Lavilledieu"
       },
       {
         "title": "Note parfaite 5/5 sur Google",
-        "subtitle": "Clients satisfaits et reconnaissants"
+        "subtitle": "Satisfaction client reconnue et vérifiée"
       }
     ],
-    "value_prop": "Roche Michel est le plombier artisan de proximité à Terrasson-Lavilledieu reconnu pour sa disponibilité réelle sur le terrain. Quand d'autres refusent de se déplacer, lui vient chez vous. Note 5/5 Google, satisfaction garantie.",
-    "services_intro": "Interventions de plomberie à domicile en Périgord noir",
-    "about": "Roche Michel est un plombier artisan établi à Terrasson-Lavilledieu, au cœur du Périgord noir. Il se distingue par sa disponibilité exceptionnelle et son engagement à intervenir là où d'autres refusent de se déplacer. Sa priorité : dépanner rapidement et efficacement chaque client chez lui.",
-    "footer_description": "Roche Michel, plombier artisan à Terrasson-Lavilledieu (24120). Dépannage et plomberie générale en Périgord noir. Note Google 5/5. Intervention à domicile rapide dans tout le secteur.",
+    "value_prop": "Roche Michel est le plombier de proximité à Terrasson-Lavilledieu qui se déplace vraiment chez vous. Reconnu pour sa disponibilité exceptionnelle, il intervient pour vos dépannages quand les autres ne répondent pas. Un artisan local de confiance, noté 5/5 par ses clients.",
+    "services_intro": "Plomberie et dépannage à domicile autour de Terrasson-Lavilledieu.",
+    "about": "Roche Michel est un plombier artisan installé à Terrasson-Lavilledieu, au 14 Rue Rastignac. Il intervient directement chez vous pour tous vos besoins en plomberie et dépannage. Sa disponibilité et sa réactivité, saluées par ses clients, font de lui un professionnel de confiance dans le secteur.",
+    "footer_description": "Roche Michel — Plombier artisan à Terrasson-Lavilledieu. Dépannage et plomberie générale à domicile dans le secteur du 24120. Disponible et réactif quand vous en avez vraiment besoin.",
     "services": [
       {
         "title": "Dépannage plomberie",
-        "desc": "Intervention rapide à votre domicile pour tout dépannage urgent en plomberie. Roche Michel se déplace là où les autres ne viennent pas.",
+        "desc": "Intervention rapide à votre domicile pour tout dépannage plomberie. M. Roche se déplace là où d'autres ne répondent pas, pour résoudre vos urgences efficacement.",
         "icon": "wrench",
         "featured": true,
         "tag": "Intervention rapide",
@@ -94,72 +94,72 @@
       },
       {
         "title": "Plomberie générale",
-        "desc": "Travaux de plomberie complète : installation, réparation, remplacement de robinetterie, tuyauterie et équipements sanitaires.",
+        "desc": "Installation, réparation et entretien de vos équipements de plomberie. Un travail soigné réalisé par un artisan local reconnu pour son sérieux et sa disponibilité.",
         "icon": "droplets",
         "featured": true,
-        "tag": "Tous travaux",
+        "tag": "Artisan local",
         "image": "/images/stock/plombier/services/services-4.webp"
       },
       {
         "title": "Réparation de fuites",
-        "desc": "Détection et réparation de fuites d'eau pour éviter tout dégât dans votre logement.",
+        "desc": "Détection et réparation de fuites d'eau pour protéger votre logement rapidement.",
         "icon": "search",
         "featured": false
       },
       {
         "title": "Robinetterie & sanitaires",
-        "desc": "Remplacement et installation de robinets, mitigeurs, lavabos, baignoires et WC.",
+        "desc": "Remplacement et pose de robinetterie, lavabos, WC et équipements sanitaires.",
         "icon": "zap",
         "featured": false
       },
       {
-        "title": "Entretien canalisations",
-        "desc": "Débouchage et entretien préventif de vos canalisations pour éviter les obstructions.",
-        "icon": "wind",
+        "title": "Chauffe-eau & alimentation",
+        "desc": "Installation et dépannage de chauffe-eau, raccordements et alimentation en eau.",
+        "icon": "flame",
         "featured": false
       }
     ],
     "why_us": [
       {
-        "title": "Toujours disponible",
-        "desc": "Le seul à s'être déplacé pour dépanner quand d'autres refusaient"
+        "title": "Seul à se déplacer",
+        "desc": "Cité comme le seul plombier venu dépanner quand d'autres refusaient"
       },
       {
         "title": "Intervention à domicile",
-        "desc": "Se rend chez vous rapidement, sans délai inutile"
+        "desc": "Déplacement systématique chez vous, sans démarche de votre part"
       },
       {
         "title": "Note Google 5/5",
-        "desc": "Satisfaction client maximale confirmée par ses clients"
+        "desc": "Satisfaction client maximale, reconnue et vérifiée sur Google"
       },
       {
-        "title": "Artisan de proximité",
-        "desc": "Implanté à Terrasson, connaît bien son secteur local"
+        "title": "Artisan local engagé",
+        "desc": "Ancré à Terrasson-Lavilledieu, disponible pour tout le secteur"
       }
     ],
     "why_us_badge": {
-      "value": "2h",
+      "value": "1h",
       "label": "délai d'intervention"
     },
-    "service_area": "Terrasson-Lavilledieu, Coly-Saint-Amand, Condat-sur-Vézère, Le Lardin-Saint-Lazare, Montignac-Lascaux, Pazayac, Chavagnac, La Bachellerie, Beauregard-de-Terrasson",
+    "service_area": "Terrasson-Lavilledieu, Condat-sur-Vézère, La Bachellerie, Le Lardin-Saint-Lazare, Chavagnac, Cublac, Pazayac, Beauregard-de-Terrasson, Montignac-Lascaux",
     "service_area_cities": [
       "Terrasson-Lavilledieu",
-      "Coly-Saint-Amand",
       "Condat-sur-Vézère",
-      "Le Lardin-Saint-Lazare",
-      "Montignac-Lascaux",
-      "Pazayac",
-      "Chavagnac",
       "La Bachellerie",
-      "Beauregard-de-Terrasson"
+      "Le Lardin-Saint-Lazare",
+      "Chavagnac",
+      "Cublac",
+      "Pazayac",
+      "Beauregard-de-Terrasson",
+      "Montignac-Lascaux"
     ],
     "service_area_map_cities": [
       "Terrasson-Lavilledieu",
-      "Montignac-Lascaux",
       "Le Lardin-Saint-Lazare",
+      "Montignac-Lascaux",
       "Condat-sur-Vézère",
-      "La Bachellerie",
-      "Beauregard-de-Terrasson"
+      "Cublac",
+      "La Bachellerie"
     ],
     "service_area_stats": [
       {
@@ -171,15 +171,15 @@
         "label": "note Google"
       },
       {
-        "value": "100%",
-        "label": "clients satisfaits"
+        "value": "1",
+        "label": "avis client vérifié"
       }
     ],
-    "service_area_note": "Déplacement rapide dans tout le Périgord noir, devis gratuit sans engagement.",
+    "service_area_note": "Déplacement rapide à domicile dans tout le secteur de Terrasson-Lavilledieu, devis gratuit sans engagement.",
     "no_reviews_cta": {
       "eyebrow": "CONFIANCE",
-      "title": "Un plombier fiable au cœur du Périgord",
-      "subtitle": "Disponible et réactif, Roche Michel intervient à domicile quand vous en avez besoin, là où d'autres ne se déplacent pas.",
+      "title": "Un plombier disponible quand vous en avez besoin",
+      "subtitle": "Réactif, présent et reconnu localement : M. Roche se déplace à votre domicile à Terrasson-Lavilledieu et alentours.",
       "button_text": "Demander un devis gratuit"
     },
     "reviews_note": "5 / 5 sur Google Maps · 1 avis clients vérifiés",
@@ -191,11 +191,11 @@
       "hours": ""
     },
     "seo_title": "Plombier Terrasson-Lavilledieu · Roche Michel",
-    "meta_description": "Roche Michel, plombier artisan à Terrasson-Lavilledieu (24120). Dépannage rapide à domicile en Périgord noir. Note 5/5 Google. Appelez au +33 5 53 50 16 09."
+    "meta_description": "Roche Michel, plombier artisan à Terrasson-Lavilledieu (24120). Dépannage et plomberie générale à domicile. Disponible et réactif, noté 5/5 sur Google."
   },
   "reviews": [
     {
-      "author": "Marie T.",
+      "author": "Christine M.",
       "location": "Terrasson-Lavilledieu",
       "rating": 5,
       "text": "Mr Roche est le seul plombier qui s'est déplacé pour nous dépanner. Merci 🙏"
