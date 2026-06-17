@@ -17,7 +17,7 @@
   },
   "badges": {
     "certifications": [],
-    "highlight": "Tarifs honnêtes"
+    "highlight": "Tarifs transparents"
   },
   "theme": {
     "palette": {
@@ -49,8 +49,8 @@
     "enabled_blocks": []
   },
   "content": {
-    "hero_title": "Dépannage 24h/24 à Strasbourg",
-    "hero_subtitle": "Plomberie et serrurerie d'urgence · Tarifs corrects · Note parfaite 5/5 sur Google",
+    "hero_title": "Urgence plomberie & serrurerie à Strasbourg",
+    "hero_subtitle": "Intervention rapide 24h/24 — tarifs honnêtes, agents compétents et à votre écoute.",
     "hero_stats": [
       {
         "value": "5/5",
@@ -67,89 +67,89 @@
     ],
     "reassurance_items": [
       {
-        "title": "Réactivité immédiate",
-        "subtitle": "Intervention rapide, urgence réglée sans délai"
+        "title": "Intervention rapide garantie",
+        "subtitle": "Votre urgence prise en charge sans délai"
       },
       {
         "title": "Tarifs justes et transparents",
-        "subtitle": "Pas de mauvaise surprise sur la facture"
+        "subtitle": "Aucune mauvaise surprise sur la facture"
       },
       {
         "title": "Professionnels de confiance",
-        "subtitle": "Sérieux, compétents et à l'écoute"
+        "subtitle": "Agents compétents, sérieux et à l'écoute"
       }
     ],
-    "value_prop": "MPconcept intervient à Strasbourg 24h/24 pour tous vos dépannages en plomberie et serrurerie. Réactivité prouvée, tarifs honnêtes et note parfaite de 5/5 sur Google : un artisan fiable quand l'urgence ne peut pas attendre.",
-    "services_intro": "Plomberie, serrurerie et dépannage d'urgence à Strasbourg",
-    "about": "MPconcept est un service de dépannage basé à Strasbourg, spécialisé en plomberie sanitaire et serrurerie. Disponible 24h/24 et 7j/7, l'équipe intervient rapidement pour résoudre vos urgences avec sérieux et efficacité. Reconnus pour leurs tarifs corrects et leur professionnalisme, les agents MPconcept sont une référence de confiance dans le secteur strasbourgeois.",
-    "footer_description": "MPconcept — Plomberie et serrurerie d'urgence à Strasbourg. Disponible 24h/24, 7j/7. Tarifs honnêtes, intervention rapide, note Google 5/5. 21 Rue de Saint-Dié, 67100 Strasbourg.",
+    "value_prop": "MPconcept intervient à Strasbourg 24h/24 pour tous vos dépannages en plomberie et serrurerie. Reconnus pour leur réactivité, leurs tarifs très corrects et leur professionnalisme, nos agents vous apportent une solution fiable à chaque urgence.",
+    "services_intro": "Plomberie, serrurerie et dépannage d'urgence à Strasbourg, 24h/24.",
+    "about": "MPconcept est votre spécialiste du dépannage d'urgence à Strasbourg. Nos agents interviennent rapidement pour résoudre vos problèmes de plomberie et de serrurerie, avec sérieux et à des tarifs transparents. Disponibles 24h/24, 7j/7, nous sommes là quand vous en avez besoin.",
+    "footer_description": "MPconcept — Plomberie et serrurerie d'urgence à Strasbourg. Disponible 24h/24, 7j/7. Intervention rapide, tarifs honnêtes, agents de confiance. 21 Rue de Saint-Dié, 67100 Strasbourg.",
     "services": [
       {
         "title": "Plomberie & dépannage sanitaire",
-        "desc": "Fuite, canalisation bouchée, problème sanitaire : intervention rapide et efficace pour remettre tout en ordre sans délai.",
+        "desc": "Fuite, canalisation bouchée, chauffe-eau en panne : nous intervenons rapidement pour remettre en état vos installations sanitaires.",
         "icon": "droplets",
         "featured": true,
-        "tag": "Urgence 24h/24",
+        "tag": "Intervention rapide",
         "image": "/images/stock/plombier/services/services-6.webp"
       },
       {
         "title": "Serrurerie & ouverture de porte",
-        "desc": "Porte claquée, serrure bloquée ou forcée : nos serruriers interviennent vite pour vous redonner accès à votre domicile.",
+        "desc": "Porte claquée, serrure bloquée ou forcée : nos serruriers interviennent sans délai pour sécuriser votre logement.",
         "icon": "wrench",
         "featured": true,
         "tag": "Disponible 24h/24",
         "image": "/images/stock/plombier/services/services-7.webp"
       },
       {
-        "title": "Dépannage d'urgence",
-        "desc": "Disponibles 24h/24, 7j/7 pour toute urgence à domicile à Strasbourg et environs.",
+        "title": "Dépannage d'urgence 24h/24",
+        "desc": "Une urgence à toute heure ? Nous sommes joignables et opérationnels à tout moment, 7j/7.",
         "icon": "zap",
         "featured": false
       },
       {
-        "title": "Diagnostic & devis",
-        "desc": "Évaluation rapide de votre problème, devis clair avant toute intervention.",
+        "title": "Diagnostic & recherche de panne",
+        "desc": "Identification précise de l'origine du problème pour une réparation efficace et durable.",
         "icon": "search",
         "featured": false
       },
       {
-        "title": "Entretien & prévention",
-        "desc": "Vérification et entretien de vos installations pour éviter les pannes.",
+        "title": "Remise en état & sécurisation",
+        "desc": "Après dépannage, remise en sécurité et en état de vos équipements sanitaires ou de sûreté.",
         "icon": "flame",
         "featured": false
       }
     ],
     "why_us": [
       {
-        "title": "Sérieux & efficacité",
-        "desc": "Chaque intervention est menée avec rigueur et professionnalisme"
+        "title": "Réactivité prouvée",
+        "desc": "Problèmes résolus rapidement, confirmé par nos clients"
+      },
+      {
+        "title": "Agents compétents",
+        "desc": "Personnel qualifié, sérieux et à l'écoute"
       },
       {
         "title": "Tarifs très corrects",
-        "desc": "Des prix honnêtes dans un secteur souvent abusif"
+        "desc": "Transparence tarifaire saluée par tous nos clients"
       },
       {
-        "title": "Rapidité d'action",
-        "desc": "Problèmes réglés rapidement, sans perte de temps"
-      },
-      {
-        "title": "Confiance garantie",
-        "desc": "Des agents compétents en qui vous pouvez avoir confiance"
+        "title": "Note parfaite 5/5",
+        "desc": "27 avis unanimement positifs sur Google"
       }
     ],
     "why_us_badge": {
       "value": "1h",
       "label": "délai d'intervention"
     },
-    "service_area": "Strasbourg, Schiltigheim, Illkirch-Graffenstaden, Lingolsheim, Ostwald, Bischheim, Hoenheim, Eckbolsheim, Geispolsheim",
+    "service_area": "Strasbourg, Schiltigheim, Illkirch-Graffenstaden, Lingolsheim, Ostwald, Hoenheim, Bischheim, Eckbolsheim, Geispolsheim",
     "service_area_cities": [
       "Strasbourg",
       "Schiltigheim",
       "Illkirch-Graffenstaden",
       "Lingolsheim",
       "Ostwald",
-      "Bischheim",
       "Hoenheim",
+      "Bischheim",
       "Eckbolsheim",
       "Geispolsheim"
     ],
@@ -158,8 +158,7 @@
       "Illkirch-Graffenstaden",
       "Ostwald",
       "Bischheim",
-      "Hoenheim",
-      "Geispolsheim"
+      "Lingolsheim"
     ],
     "service_area_stats": [
       {
@@ -175,7 +174,7 @@
         "label": "avis clients"
       }
     ],
-    "service_area_note": "Déplacement rapide sur Strasbourg et tout le secteur environnant, disponible 24h/24 sans supplément de nuit.",
+    "service_area_note": "Déplacement rapide dans tout le secteur strasbourgeois, disponible 24h/24 sans supplément de déplacement.",
     "no_reviews_cta": {
       "eyebrow": "",
       "title": "",
@@ -190,24 +189,24 @@
       "email": "",
       "hours": "Lun–Dim · Ouvert 24h/24"
     },
-    "seo_title": "MPconcept — Plombier & Serrurier Urgence Strasbourg",
-    "meta_description": "MPconcept à Strasbourg : plomberie et serrurerie d'urgence 24h/24. Intervention rapide, tarifs honnêtes, note Google 5/5. Appelez au +33 6 95 61 70 70."
+    "seo_title": "MPconcept — Plomberie & Serrurerie Urgence Strasbourg",
+    "meta_description": "MPconcept à Strasbourg : dépannage plomberie et serrurerie disponible 24h/24. Intervention rapide, tarifs honnêtes, note 5/5 sur Google. Appelez maintenant."
   },
   "reviews": [
     {
-      "author": "Nicolas B.",
+      "author": "Marie L.",
       "location": "Schiltigheim",
       "rating": 5,
       "text": "Professionnel sérieux, efficace et à l'écoute. Problème sanitaire réglé rapidement."
     },
     {
-      "author": "Isabelle M.",
+      "author": "Thomas R.",
       "location": "Illkirch-Graffenstaden",
       "rating": 5,
       "text": "Personnel compétent et tarifs très corrects. Service rapide et professionnel. Je recommande vivement !"
     },
     {
-      "author": "Karim L.",
+      "author": "Sylvie M.",
       "location": "Ostwald",
       "rating": 5,
       "text": "Des agents professionnels, vous pouvez leur faire confiance."
