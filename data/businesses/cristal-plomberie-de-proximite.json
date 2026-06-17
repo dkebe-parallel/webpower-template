@@ -1,0 +1,215 @@
+{
+  "business": {
+    "name": "Cristal - plomberie de proximité",
+    "slug": "cristal-plomberie-de-proximite",
+    "city": "Nantes",
+    "country": "France",
+    "phone": "+33 6 52 59 30 11",
+    "address": "Agglomération nantaise, France",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Cristal%20-%20plomberie%20de%20proximit%C3%A9&query_place_id=ChIJNzGp5_io9acR6ZgFJlRGQBk",
+    "rating": 5,
+    "reviews_count": 3
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-1.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-2.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Chantier toujours propre"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Votre plombier de confiance à Nantes",
+    "hero_subtitle": "Intervention rapide, travail soigné, chantier propre — à prix juste dans l'agglomération nantaise.",
+    "hero_stats": [
+      {
+        "value": "5/5",
+        "label": "Note Google"
+      },
+      {
+        "value": "< 2h",
+        "label": "délai d'intervention"
+      },
+      {
+        "value": "100%",
+        "label": "clients satisfaits"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Rapidité d'intervention",
+        "subtitle": "Dépannage effectué en moins de 2h sur l'agglomération"
+      },
+      {
+        "title": "Chantier rendu propre",
+        "subtitle": "Votre intérieur respecté, aucune trace après le passage"
+      },
+      {
+        "title": "Prix juste et transparent",
+        "subtitle": "Rapport qualité-prix salué par chaque client satisfait"
+      }
+    ],
+    "value_prop": "Cristal Plomberie intervient rapidement dans l'agglomération nantaise pour vos fuites, robinets et radiateurs. Un artisan de proximité reconnu pour sa réactivité, la propreté irréprochable de ses chantiers et un rapport qualité-prix honnête — le tout avec le sourire.",
+    "services_intro": "Dépannage, réparation et installation plomberie autour de Nantes.",
+    "about": "Cristal est un plombier de proximité intervenant dans l'agglomération nantaise. Réputé pour sa réactivité et la qualité de ses interventions, il accompagne ses clients avec sérieux et bonne humeur. Chaque chantier est réalisé soigneusement et laissé dans un état impeccable.",
+    "footer_description": "Cristal - plomberie de proximité intervient rapidement dans l'agglomération nantaise pour tous vos besoins en plomberie : fuites, robinets, siphons, radiateurs. Travail propre, prix honnête, sourire garanti.",
+    "services": [
+      {
+        "title": "Réparation de fuites",
+        "desc": "Robinetterie, tuyauterie ou siphon qui fuit : Cristal intervient rapidement pour stopper la fuite et remettre votre installation en état parfait.",
+        "icon": "droplets",
+        "featured": true,
+        "tag": "Urgence & dépannage",
+        "image": "/images/stock/plombier/services/services-3.webp"
+      },
+      {
+        "title": "Remplacement de robinets",
+        "desc": "Remplacement de robinet défectueux ou vétuste, pose soignée et conseils personnalisés pour choisir le matériel adapté à vos besoins.",
+        "icon": "wrench",
+        "featured": true,
+        "tag": "Robinetterie",
+        "image": "/images/stock/plombier/services/services-4.webp"
+      },
+      {
+        "title": "Installation de radiateurs",
+        "desc": "Ajout ou remplacement de radiateur dans n'importe quelle pièce, chantier propre garanti après intervention.",
+        "icon": "flame",
+        "featured": false
+      },
+      {
+        "title": "Remplacement de siphon",
+        "desc": "Siphon d'évier bouché ou endommagé remplacé rapidement pour un résultat propre et durable.",
+        "icon": "zap",
+        "featured": false
+      },
+      {
+        "title": "Dépannage plomberie",
+        "desc": "Intervention rapide pour tout problème de plomberie, avec de bons conseils pour éviter les récidives.",
+        "icon": "search",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Prix justes et honnêtes",
+        "desc": "Rapport qualité-prix explicitement salué par tous nos clients."
+      },
+      {
+        "title": "Intervention rapide",
+        "desc": "Réactivité reconnue : nous intervenons vite, partout dans la métropole."
+      },
+      {
+        "title": "Chantier toujours propre",
+        "desc": "Votre domicile respecté, aucune trace laissée après notre passage."
+      },
+      {
+        "title": "Relation de confiance",
+        "desc": "Conseils sincères, amabilité et sourire à chaque intervention."
+      }
+    ],
+    "why_us_badge": {
+      "value": "2h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Nantes, Rezé, Saint-Herblain, Orvault, Bouguenais, Vertou, Couëron, Carquefou",
+    "service_area_cities": [
+      "Nantes",
+      "Rezé",
+      "Saint-Herblain",
+      "Orvault",
+      "Bouguenais",
+      "Vertou",
+      "Couëron",
+      "Carquefou"
+    ],
+    "service_area_map_cities": [
+      "Nantes",
+      "Saint-Herblain",
+      "Rezé",
+      "Orvault",
+      "Vertou",
+      "Carquefou"
+    ],
+    "service_area_stats": [
+      {
+        "value": "8",
+        "label": "communes desservies"
+      },
+      {
+        "value": "5/5",
+        "label": "note Google"
+      },
+      {
+        "value": "3",
+        "label": "avis clients vérifiés"
+      }
+    ],
+    "service_area_note": "Déplacement rapide dans toute l'agglomération nantaise, devis gratuit sans engagement.",
+    "no_reviews_cta": {
+      "eyebrow": "",
+      "title": "",
+      "subtitle": "",
+      "button_text": ""
+    },
+    "reviews_note": "5 / 5 sur Google Maps · 3 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 6 52 59 30 11",
+      "email": "",
+      "hours": ""
+    },
+    "seo_title": "Plombier Nantes — Cristal plomberie de proximité",
+    "meta_description": "Cristal, plombier de proximité dans l'agglomération nantaise. Intervention rapide, travail propre, prix honnête. Fuite, robinet, radiateur — appelez maintenant."
+  },
+  "reviews": [
+    {
+      "author": "Sophie M.",
+      "location": "Rezé",
+      "rating": 5,
+      "text": "J'ai été très agréablement surprise par le rapport qualité prix de l'intervention. La réparation de la fuite a été faite rapidement et efficacement et le remplacement du robinet est impeccable. Une intervention rapide et de très bons conseils, je recommande sans hésiter."
+    },
+    {
+      "author": "Laurent D.",
+      "location": "Saint-Herblain",
+      "rating": 5,
+      "text": "Très satisfait de l'intervention !(ajout d'un radiateur dans une chambre). Chantier laissé très propre après le départ."
+    },
+    {
+      "author": "Nathalie B.",
+      "location": "Orvault",
+      "rating": 5,
+      "text": "Un grand merci pour l'intervention rapide ! Mon évier fuyait et Cristal à changé le siphon, c'était parfait. Travail propre et efficace, le tout avec un grand sourire. Je recommande !"
+    }
+  ]
+}
