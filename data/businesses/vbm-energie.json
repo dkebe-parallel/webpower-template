@@ -1,0 +1,197 @@
+{
+  "business": {
+    "name": "VBM Energie",
+    "slug": "vbm-energie",
+    "city": "Rennes",
+    "country": "France",
+    "phone": "+33 2 23 44 58 16",
+    "address": "20 Rue d'Isly, 35000 Rennes",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=VBM%20Energie&query_place_id=ChIJx5-WDEDfDkgR2sRdaB0PhUk",
+    "rating": null,
+    "reviews_count": null
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-2.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-3.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Devis gratuit"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Plomberie & énergie au cœur de Rennes",
+    "hero_subtitle": "Un interlocuteur unique pour votre plomberie et vos systèmes énergétiques · Disponible jusqu'à 19h",
+    "hero_stats": [
+      {
+        "value": "2",
+        "label": "compétences réunies"
+      },
+      {
+        "value": "100%",
+        "label": "devis gratuit"
+      },
+      {
+        "value": "19h",
+        "label": "ouverture jeu. & ven."
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "En plein cœur de Rennes",
+        "subtitle": "Interventions rapides depuis le centre-ville"
+      },
+      {
+        "title": "Horaires flexibles",
+        "subtitle": "Ouvert jusqu'à 19h le jeudi et le vendredi"
+      },
+      {
+        "title": "Plomberie & énergie",
+        "subtitle": "Double expertise pour un interlocuteur unique"
+      }
+    ],
+    "value_prop": "VBM Energie réunit plomberie traditionnelle et solutions énergétiques sous un même toit, au 20 Rue d'Isly à Rennes. Interventions rapides en centre-ville et dans les communes voisines, avec des horaires élargis pour s'adapter à votre emploi du temps.",
+    "services_intro": "Plomberie et énergie : toutes vos installations et dépannages à Rennes.",
+    "about": "VBM Energie est une entreprise artisanale implantée en plein centre de Rennes, spécialisée dans la plomberie générale et les solutions énergétiques. Elle accompagne particuliers et professionnels pour l'installation, la maintenance et le dépannage de leurs équipements sanitaires et thermiques. Son positionnement hybride permet de répondre à tous les besoins de confort en un seul interlocuteur.",
+    "footer_description": "VBM Energie — Plombier et spécialiste en énergie à Rennes (35). Interventions en plomberie, chauffage et systèmes énergétiques dans tout le bassin rennais. Ouvert du lundi au vendredi.",
+    "services": [
+      {
+        "title": "Plomberie générale",
+        "desc": "Installation, rénovation et entretien de vos équipements sanitaires. Robinetterie, canalisations, éviers, douches : une expertise complète pour votre confort quotidien.",
+        "icon": "droplets",
+        "featured": true,
+        "tag": "Expertise cœur de métier",
+        "image": "/images/stock/plombier/services/services-2.webp"
+      },
+      {
+        "title": "Chauffage & énergie",
+        "desc": "Installation et maintenance de systèmes de chauffage performants. VBM Energie vous conseille sur les solutions adaptées à vos besoins et à votre budget énergétique.",
+        "icon": "flame",
+        "featured": true,
+        "tag": "Solutions sur mesure",
+        "image": "/images/stock/plombier/services/services-3.webp"
+      },
+      {
+        "title": "Systèmes énergétiques",
+        "desc": "Mise en place et suivi de vos installations énergétiques pour optimiser confort et économies.",
+        "icon": "zap",
+        "featured": false
+      },
+      {
+        "title": "Dépannage plomberie",
+        "desc": "Intervention rapide pour fuites, débouchage et pannes sur vos installations sanitaires.",
+        "icon": "wrench",
+        "featured": false
+      },
+      {
+        "title": "Diagnostic & devis",
+        "desc": "Analyse de vos installations et établissement d'un devis gratuit, sans engagement.",
+        "icon": "search",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Centre-ville de Rennes",
+        "desc": "Localisés Rue d'Isly pour des interventions rapides."
+      },
+      {
+        "title": "Double compétence",
+        "desc": "Plomberie et énergie réunies chez un seul artisan."
+      },
+      {
+        "title": "Horaires étendus",
+        "desc": "Disponibles jusqu'à 19h le jeudi et le vendredi."
+      },
+      {
+        "title": "Devis gratuit",
+        "desc": "Estimation claire et sans engagement à votre demande."
+      }
+    ],
+    "why_us_badge": {
+      "value": "2h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Rennes, Saint-Grégoire, Cesson-Sévigné, Chantepie, Bruz, Saint-Jacques-de-la-Lande, Pacé, Vezin-le-Coquet, Betton",
+    "service_area_cities": [
+      "Rennes",
+      "Saint-Grégoire",
+      "Cesson-Sévigné",
+      "Chantepie",
+      "Bruz",
+      "Saint-Jacques-de-la-Lande",
+      "Pacé",
+      "Vezin-le-Coquet",
+      "Betton"
+    ],
+    "service_area_map_cities": [
+      "Rennes",
+      "Cesson-Sévigné",
+      "Bruz",
+      "Saint-Grégoire",
+      "Pacé",
+      "Chantepie"
+    ],
+    "service_area_stats": [
+      {
+        "value": "9",
+        "label": "communes couvertes"
+      },
+      {
+        "value": "100%",
+        "label": "devis gratuit"
+      },
+      {
+        "value": "2h",
+        "label": "délai d'intervention"
+      }
+    ],
+    "service_area_note": "Déplacement rapide dans tout le bassin rennais, devis gratuit et sans engagement à votre domicile.",
+    "no_reviews_cta": {
+      "eyebrow": "CONFIANCE",
+      "title": "Un artisan fiable au cœur de Rennes",
+      "subtitle": "Installé en centre-ville, VBM Energie intervient rapidement pour tous vos besoins en plomberie et énergie avec sérieux et transparence.",
+      "button_text": "Demander un devis gratuit"
+    },
+    "reviews_note": "",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 2 23 44 58 16",
+      "email": "",
+      "hours": "Lun–Mer 8h30–18h30 · Jeu–Ven 8h30–19h00"
+    },
+    "seo_title": "Plombier & Énergie à Rennes | VBM Energie",
+    "meta_description": "VBM Energie, votre plombier et spécialiste en énergie à Rennes (35). Plomberie, chauffage, dépannage et devis gratuit. Interventions rapides en centre-ville."
+  },
+  "reviews": []
+}
