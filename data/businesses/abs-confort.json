@@ -49,8 +49,8 @@
     "enabled_blocks": []
   },
   "content": {
-    "hero_title": "Votre confort, notre priorité à Lille",
-    "hero_subtitle": "Plombier lillois noté 5/5 · Proximité, réactivité et satisfaction garantie.",
+    "hero_title": "Plombier de confiance à Lille",
+    "hero_subtitle": "Votre confort au cœur de Lille — interventions soignées, note parfaite 5/5, artisan de proximité.",
     "hero_stats": [
       {
         "value": "5/5",
@@ -67,26 +67,26 @@
     ],
     "reassurance_items": [
       {
-        "title": "Note parfaite 5/5",
-        "subtitle": "Satisfaction client totale sur Google Maps"
+        "title": "Note parfaite 5/5 étoiles",
+        "subtitle": "Zéro insatisfaction — chaque client compte"
       },
       {
-        "title": "Artisan de proximité",
-        "subtitle": "Implanté au cœur de Lille, disponible vite"
+        "title": "Artisan au cœur de Lille",
+        "subtitle": "Rue Mariotte, disponible dans tout le secteur"
       },
       {
-        "title": "Contact direct & rapide",
-        "subtitle": "Un numéro mobile pour joindre l'artisan"
+        "title": "Le confort comme priorité",
+        "subtitle": "Un service orienté bien-être et satisfaction"
       }
     ],
-    "value_prop": "ABS Confort est votre plombier de proximité à Lille, noté 5/5 sur Google. Spécialisé en plomberie générale, dépannage, installation sanitaire et chauffage, l'artisan intervient rapidement pour garantir votre confort au quotidien.",
-    "services_intro": "Plomberie, dépannage, sanitaire et chauffage à Lille.",
-    "about": "ABS Confort est un artisan plombier implanté au 29 Rue Mariotte à Lille, reconnu pour la qualité de ses interventions et sa proximité avec la clientèle locale. Plomberie générale, dépannage, installation sanitaire et confort thermique : chaque chantier est traité avec soin et professionnalisme. L'entreprise se distingue par une approche centrée sur la satisfaction et la tranquillité de ses clients.",
-    "footer_description": "ABS Confort — Plombier à Lille, spécialisé en plomberie générale, dépannage, installation sanitaire et chauffage. Artisan local noté 5/5, disponible rapidement dans toute la métropole lilloise.",
+    "value_prop": "ABS Confort est votre plombier lillois de référence, implanté rue Mariotte au cœur de Lille. Avec une note Google parfaite de 5/5, l'entreprise s'engage à vous offrir un service irréprochable en plomberie, installation sanitaire et chauffage — votre confort, sans compromis.",
+    "services_intro": "Plomberie, sanitaire et chauffage à Lille et alentours.",
+    "about": "ABS Confort est un artisan plombier établi à Lille, 29 Rue Mariotte, au service des particuliers et professionnels de la métropole lilloise. Spécialisée en plomberie générale, installation sanitaire et chauffage, l'entreprise se distingue par une approche centrée sur le confort et la satisfaction client. Sa note Google parfaite de 5/5 témoigne d'un engagement constant envers la qualité.",
+    "footer_description": "ABS Confort — artisan plombier à Lille (59000). Plomberie, dépannage, installation sanitaire et chauffage dans toute la métropole lilloise. Note Google 5/5. Contactez-nous au +33 6 60 35 50 71.",
     "services": [
       {
         "title": "Plomberie générale",
-        "desc": "Intervention complète sur vos installations de plomberie : canalisations, robinetterie, évacuations et réseaux d'eau pour particuliers à Lille.",
+        "desc": "Intervention complète sur vos installations de plomberie : réparation de fuites, remplacement de canalisations, mise aux normes et entretien régulier pour un réseau fiable.",
         "icon": "droplets",
         "featured": true,
         "tag": "Expertise locale",
@@ -94,7 +94,7 @@
       },
       {
         "title": "Dépannage plomberie",
-        "desc": "Réparation rapide en cas de fuite, canalisation bouchée ou panne : un artisan réactif qui intervient vite pour limiter les dégâts.",
+        "desc": "Fuite, canalisation bouchée ou pression défaillante ? ABS Confort intervient rapidement à Lille pour rétablir votre confort dans les meilleurs délais.",
         "icon": "wrench",
         "featured": true,
         "tag": "Intervention rapide",
@@ -102,64 +102,64 @@
       },
       {
         "title": "Installation sanitaire",
-        "desc": "Pose et remplacement de sanitaires, douches, baignoires et WC. Travail soigné pour un résultat durable.",
+        "desc": "Pose et remplacement de sanitaires, robinetterie, douche, baignoire ou WC pour un confort optimal dans votre salle de bain.",
         "icon": "zap",
         "featured": false
       },
       {
-        "title": "Chauffage & confort",
-        "desc": "Installation et entretien de systèmes de chauffage pour améliorer votre confort thermique au quotidien.",
+        "title": "Chauffage et confort",
+        "desc": "Installation et entretien de systèmes de chauffage pour optimiser votre confort thermique toute l'année.",
         "icon": "flame",
         "featured": false
       },
       {
-        "title": "Diagnostic & devis",
-        "desc": "Bilan de votre installation plomberie et devis gratuit avant toute intervention, sans engagement.",
+        "title": "Diagnostic et conseil",
+        "desc": "Audit de votre installation existante et conseils personnalisés pour améliorer performance et durabilité.",
         "icon": "search",
         "featured": false
       }
     ],
     "why_us": [
       {
-        "title": "Note Google 5/5",
-        "desc": "100 % de clients satisfaits, aucun avis négatif enregistré."
+        "title": "Note 5/5 sur Google",
+        "desc": "Chaque client repart satisfait — une exigence de tous les instants."
       },
       {
         "title": "Artisan de proximité",
-        "desc": "Basé à Lille, proche de vous pour intervenir rapidement."
+        "desc": "Basé rue Mariotte à Lille, disponible rapidement dans tout le secteur."
       },
       {
         "title": "Confort au centre",
-        "desc": "Chaque intervention vise votre bien-être et tranquillité."
+        "desc": "Une philosophie orientée bien-être et satisfaction durable."
       },
       {
-        "title": "Contact direct",
-        "desc": "Joignez l'artisan directement sur son mobile sans attente."
+        "title": "Devis gratuit",
+        "desc": "Transparence tarifaire, sans surprise ni engagement à la signature."
       }
     ],
     "why_us_badge": {
       "value": "2h",
       "label": "délai d'intervention"
     },
-    "service_area": "Lille, Lambersart, La Madeleine, Marcq-en-Barœul, Lomme, Saint-André-lez-Lille, Loos, Roubaix, Villeneuve-d'Ascq",
+    "service_area": "Lille, La Madeleine, Lambersart, Marcq-en-Barœul, Saint-André-lez-Lille, Mons-en-Barœul, Loos, Hellemmes, Roubaix",
     "service_area_cities": [
       "Lille",
-      "Lambersart",
       "La Madeleine",
+      "Lambersart",
       "Marcq-en-Barœul",
-      "Lomme",
       "Saint-André-lez-Lille",
+      "Mons-en-Barœul",
       "Loos",
-      "Roubaix",
-      "Villeneuve-d'Ascq"
+      "Hellemmes",
+      "Roubaix"
     ],
     "service_area_map_cities": [
       "Lille",
       "Roubaix",
-      "Villeneuve-d'Ascq",
       "Marcq-en-Barœul",
       "Lambersart",
-      "Loos"
+      "Loos",
+      "La Madeleine"
     ],
     "service_area_stats": [
       {
@@ -175,11 +175,11 @@
         "label": "avis clients vérifiés"
       }
     ],
-    "service_area_note": "Déplacement rapide dans toute la métropole lilloise, devis gratuit sans engagement.",
+    "service_area_note": "Déplacement rapide dans Lille et toute la métropole lilloise — devis gratuit sans engagement.",
     "no_reviews_cta": {
       "eyebrow": "CONFIANCE",
-      "title": "Un artisan de confiance à Lille",
-      "subtitle": "Plombier local noté 5/5, réactif et disponible pour tous vos besoins en plomberie et chauffage dans la métropole lilloise.",
+      "title": "Un artisan de confiance au cœur de Lille",
+      "subtitle": "Note Google parfaite 5/5, présence locale rue Mariotte, interventions soignées en plomberie et chauffage à Lille et ses environs.",
       "button_text": "Demander un devis gratuit"
     },
     "reviews_note": "5 / 5 sur Google Maps · 2 avis clients vérifiés",
@@ -190,8 +190,8 @@
       "email": "",
       "hours": ""
     },
-    "seo_title": "Plombier à Lille — ABS Confort · Noté 5/5",
-    "meta_description": "ABS Confort, plombier à Lille noté 5/5. Plomberie générale, dépannage, installation sanitaire et chauffage. Devis gratuit, intervention rapide dans la métropole."
+    "seo_title": "Plombier Lille — ABS Confort | Dépannage & Installation",
+    "meta_description": "ABS Confort, plombier à Lille (59000) : plomberie générale, dépannage, installation sanitaire et chauffage. Note Google 5/5. Devis gratuit — +33 6 60 35 50 71."
   },
   "reviews": []
 }
