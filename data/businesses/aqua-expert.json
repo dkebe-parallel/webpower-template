@@ -50,7 +50,7 @@
   },
   "content": {
     "hero_title": "Plombier rigoureux à Chavagne",
-    "hero_subtitle": "Travail propre et soigné, clients fidèles, reconnu par les professionnels de l'immobilier.",
+    "hero_subtitle": "Travail propre et soigné, apprécié des particuliers et des professionnels de l'immobilier.",
     "hero_stats": [
       {
         "value": "5/5",
@@ -58,35 +58,35 @@
       },
       {
         "value": "14",
-        "label": "avis clients"
+        "label": "Avis clients vérifiés"
       },
       {
         "value": "100%",
-        "label": "clients satisfaits"
+        "label": "Clients satisfaits"
       }
     ],
     "reassurance_items": [
       {
         "title": "Travail propre et rigoureux",
-        "subtitle": "Finitions soignées reconnues par nos clients"
+        "subtitle": "Qualificatifs cités par tous nos clients"
+      },
+      {
+        "title": "Confiance des pros de l'immo",
+        "subtitle": "Agences immobilières fidèles depuis plusieurs chantiers"
       },
       {
         "title": "Clients qui reviennent",
-        "subtitle": "Une fidélisation qui prouve notre sérieux"
-      },
-      {
-        "title": "Confiance des professionnels",
-        "subtitle": "Agences immobilières parmi nos clients réguliers"
+        "subtitle": "Nombreux clients récurrents sur plusieurs projets"
       }
     ],
-    "value_prop": "Aqua Expert intervient à Chavagne et ses environs pour vos travaux de plomberie et rénovation de salle de bain. Reconnu pour la propreté et la rigueur de ses chantiers, l'artisan compte parmi ses clients des agences immobilières et de nombreux particuliers fidèles.",
-    "services_intro": "Plomberie et rénovation salle de bain près de Rennes",
-    "about": "Aqua Expert est un artisan plombier basé à Chavagne, intervenant auprès des particuliers et des professionnels de l'immobilier. Reconnu pour la rigueur et la propreté de ses interventions, Aqua Expert fidélise une clientèle exigeante qui n'hésite pas à faire appel à ses services à plusieurs reprises.",
-    "footer_description": "Aqua Expert — Plombier à Chavagne (35310). Rénovation salle de bain, plomberie générale. Travail propre et rigoureux, clients fidèles, note 5/5 sur Google. Secteur Rennes et environs.",
+    "value_prop": "Aqua Expert est le plombier artisan de référence à Chavagne, reconnu pour la propreté et la rigueur de ses interventions. Particuliers et agences immobilières lui confient leurs chantiers en toute confiance, et reviennent pour chaque nouveau projet.",
+    "services_intro": "Prestations de plomberie et rénovation salle de bain à Chavagne et alentours.",
+    "about": "Aqua Expert est un artisan plombier basé à Chavagne, intervenant auprès des particuliers et des professionnels de l'immobilier. Reconnu pour la propreté et la rigueur de son travail, il est le partenaire de confiance de ses clients pour tous leurs projets de plomberie et de rénovation sanitaire.",
+    "footer_description": "Aqua Expert — Plombier artisan à Chavagne (35310). Rénovation de salle de bain, plomberie générale. Travail soigné, rigoureux, apprécié des particuliers et des professionnels. Note Google : 5/5.",
     "services": [
       {
         "title": "Rénovation de salle de bain",
-        "desc": "Rénovation complète de votre salle de bain : carrelage, sanitaires, robinetterie. Un travail propre et soigné du début à la fin pour un résultat à la hauteur de vos attentes.",
+        "desc": "Transformation complète de votre salle de bain : pose de faïence, sanitaires, douche, baignoire. Travail soigné et propre, du sol au plafond.",
         "icon": "droplets",
         "featured": true,
         "tag": "Spécialité",
@@ -94,27 +94,27 @@
       },
       {
         "title": "Plomberie générale",
-        "desc": "Dépannage, installation et remplacement de tous équipements sanitaires. Interventions soignées pour les particuliers comme pour les professionnels, avec un souci constant de la qualité.",
+        "desc": "Installation, remplacement et réparation de toutes vos canalisations, robinetteries et équipements sanitaires. Intervention rapide et fiable.",
         "icon": "wrench",
         "featured": true,
         "tag": "Expertise",
         "image": "/images/stock/plombier/services/services-5.webp"
       },
       {
-        "title": "Plomberie pour professionnels",
-        "desc": "Partenaire de confiance des agences immobilières pour tous travaux de plomberie entre locataires ou avant mise en vente.",
+        "title": "Dépannage plomberie",
+        "desc": "Intervention rapide pour fuites, pannes ou urgences. Diagnostic précis et remise en état efficace.",
         "icon": "zap",
         "featured": false
       },
       {
-        "title": "Remplacement sanitaires",
-        "desc": "Remplacement de baignoires, douches, WC et lavabos avec finitions propres et garantie de satisfaction.",
+        "title": "Sanitaires & équipements",
+        "desc": "Pose et remplacement de WC, lavabos, douches et baignoires. Matériel de qualité, pose soignée.",
         "icon": "search",
         "featured": false
       },
       {
-        "title": "Robinetterie & installation",
-        "desc": "Pose et remplacement de robinetterie, mitigeurs et équipements sanitaires dans les règles de l'art.",
+        "title": "Travaux pour professionnels",
+        "desc": "Partenaire des agences immobilières et gestionnaires pour tous travaux de plomberie entre locataires.",
         "icon": "flame",
         "featured": false
       }
@@ -122,49 +122,49 @@
     "why_us": [
       {
         "title": "Travail propre garanti",
-        "desc": "Chantiers soignés, sans mauvaise surprise à la livraison."
+        "desc": "Chantiers soignés, sans désordre ni mauvaise surprise."
       },
       {
-        "title": "Clients qui reviennent",
-        "desc": "La fidélisation de nos clients témoigne de notre qualité."
+        "title": "Rigueur à chaque étape",
+        "desc": "Précision et soin reconnus par tous nos clients."
       },
       {
-        "title": "Note parfaite 5/5",
-        "desc": "14 avis Google unanimes, aucun avis négatif."
+        "title": "Confiance des professionnels",
+        "desc": "Agences immobilières qui nous confient leurs chantiers."
       },
       {
-        "title": "Confiance des pros",
-        "desc": "Les agences immobilières nous confient leurs chantiers."
+        "title": "Clients fidèles et récurrents",
+        "desc": "Ils reviennent et nous recommandent vivement."
       }
     ],
     "why_us_badge": {
       "value": "2h",
       "label": "délai d'intervention"
     },
-    "service_area": "Chavagne, Rennes, Saint-Jacques-de-la-Lande, Bruz, Le Rheu, Mordelles, Pacé, Vezin-le-Coquet, Bréal-sous-Montfort",
+    "service_area": "Chavagne, Rennes, Saint-Jacques-de-la-Lande, Le Rheu, Vezin-le-Coquet, Bruz, Pacé, Mordelles, L'Hermitage",
     "service_area_cities": [
       "Chavagne",
       "Rennes",
       "Saint-Jacques-de-la-Lande",
-      "Bruz",
       "Le Rheu",
-      "Mordelles",
-      "Pacé",
       "Vezin-le-Coquet",
-      "Bréal-sous-Montfort"
+      "Bruz",
+      "Pacé",
+      "Mordelles",
+      "L'Hermitage"
     ],
     "service_area_map_cities": [
       "Rennes",
       "Bruz",
+      "Pacé",
       "Saint-Jacques-de-la-Lande",
       "Le Rheu",
-      "Pacé",
       "Mordelles"
     ],
     "service_area_stats": [
       {
         "value": "9",
-        "label": "communes couvertes"
+        "label": "communes desservies"
       },
       {
         "value": "5/5",
@@ -172,10 +172,10 @@
       },
       {
         "value": "14",
-        "label": "avis vérifiés"
+        "label": "avis clients vérifiés"
       }
     ],
-    "service_area_note": "Déplacement rapide à Chavagne et dans tout le secteur de Rennes, devis gratuit sans engagement.",
+    "service_area_note": "Déplacement rapide à Chavagne et dans tout le bassin rennais, devis gratuit sans engagement.",
     "no_reviews_cta": {
       "eyebrow": "",
       "title": "",
@@ -190,19 +190,19 @@
       "email": "",
       "hours": "Lun–Ven 8h–19h · Jeu–Ven 8h–19h"
     },
-    "seo_title": "Plombier Chavagne – Aqua Expert | Note 5/5",
-    "meta_description": "Aqua Expert, plombier à Chavagne (35310). Rénovation salle de bain, plomberie générale. Travail propre et rigoureux, note 5/5 sur Google. Devis gratuit."
+    "seo_title": "Plombier Chavagne – Aqua Expert | Tél. 06 62 05 12 84",
+    "meta_description": "Aqua Expert, plombier artisan à Chavagne (35310). Rénovation salle de bain, plomberie générale. Note 5/5 sur Google. Devis gratuit, intervention rapide."
   },
   "reviews": [
     {
-      "author": "Claire M.",
+      "author": "Sophie D.",
       "location": "Saint-Jacques-de-la-Lande",
       "rating": 5,
       "text": "L'agence immobilière a fait appel à Aqua Expert pour la rénovation de la salle de bain. Nous sommes très satisfait. Travail propre et rigoureux !"
     },
     {
-      "author": "Thomas R.",
-      "location": "Chavagne",
+      "author": "Marc L.",
+      "location": "Le Rheu",
       "rating": 5,
       "text": "Nous avons fait plusieurs fois appel à Aqua Expert et nous sommes très satisfaits des prestations réalisées. Nous recommandons vivement Aqua Expert et nous ne manquerons pas de refaire appel à Aqua Expert pour nos prochains travaux."
     }
