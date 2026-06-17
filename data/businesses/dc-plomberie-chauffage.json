@@ -17,7 +17,7 @@
   },
   "badges": {
     "certifications": [],
-    "highlight": "Tarifs honnêtes"
+    "highlight": "Prix honnêtes"
   },
   "theme": {
     "palette": {
@@ -49,106 +49,106 @@
     "enabled_blocks": []
   },
   "content": {
-    "hero_title": "Plombier de confiance à Pont-de-l'Arche",
-    "hero_subtitle": "Dépannage urgent le samedi, tarifs justes, un artisan pro et aimable que ses clients ne lâchaient plus.",
+    "hero_title": "Votre plombier de confiance à Pont-de-l'Arche",
+    "hero_subtitle": "Dépannage urgent, pose et entretien — réactif, honnête et 5/5 sur Google.",
     "hero_stats": [
       {
         "value": "5/5",
-        "label": "note Google"
+        "label": "Note Google"
+      },
+      {
+        "value": "6j/7",
+        "label": "Disponibilité"
       },
       {
         "value": "100%",
-        "label": "clients satisfaits"
-      },
-      {
-        "value": "Sam.",
-        "label": "disponible en urgence"
+        "label": "Clients satisfaits"
       }
     ],
     "reassurance_items": [
       {
         "title": "Réactivité en urgence",
-        "subtitle": "Intervention rapide, même le samedi matin"
+        "subtitle": "Intervention le samedi matin, même à la dernière minute"
       },
       {
-        "title": "Tarifs corrects et honnêtes",
-        "subtitle": "Pas de mauvaise surprise sur la facture"
+        "title": "Tarifs justes et transparents",
+        "subtitle": "Prix corrects reconnus spontanément par les clients"
       },
       {
-        "title": "Relation de confiance durable",
-        "subtitle": "Des clients fidèles année après année"
+        "title": "Artisan fiable et aimable",
+        "subtitle": "Fidélité client sur plusieurs années, sans jamais rien à redire"
       }
     ],
-    "value_prop": "DC Plomberie Chauffage, c'est l'artisan plombier-chauffagiste de Pont-de-l'Arche reconnu pour sa réactivité en urgence, son honnêteté tarifaire et sa capacité à fidéliser ses clients sur le long terme. Note parfaite 5/5 sur Google.",
-    "services_intro": "Plomberie et chauffage à Pont-de-l'Arche et environs.",
-    "about": "DC Plomberie Chauffage intervient à Pont-de-l'Arche et dans le secteur de la boucle de la Seine pour tous vos besoins en plomberie et chauffage. Réputé pour sa réactivité même en urgence le week-end, l'entreprise a su fidéliser ses clients année après année grâce à un travail soigné et des prix justes.",
-    "footer_description": "DC Plomberie Chauffage — Artisan plombier-chauffagiste à Pont-de-l'Arche (27340). Dépannage urgent, entretien annuel, pose de matériel. Pro, aimable et honnête — note 5/5 sur Google.",
+    "value_prop": "DC Plomberie Chauffage, c'est l'artisan de Pont-de-l'Arche que ses clients regrettent quand il s'arrête. Réactif en urgence, honnête sur les prix et toujours professionnel : une réputation bâtie année après année, avis après avis.",
+    "services_intro": "Plomberie et chauffage à Pont-de-l'Arche et ses environs.",
+    "about": "DC Plomberie Chauffage intervient à Pont-de-l'Arche et dans tout le secteur pour des travaux de plomberie et de chauffage. Reconnu pour sa réactivité, même le samedi en urgence, et pour son honnêteté tarifaire, cet artisan de proximité a su fidéliser ses clients année après année.",
+    "footer_description": "DC Plomberie Chauffage — artisan plombier-chauffagiste à Pont-de-l'Arche (27340). Dépannage urgent, pose de réducteur de pression, entretien annuel. Disponible du lundi au samedi. Note Google : 5/5.",
     "services": [
       {
         "title": "Dépannage plomberie urgent",
-        "desc": "Intervention rapide pour fuites, rupture de canalisation ou problème sur compteur d'eau, y compris le samedi matin.",
+        "desc": "Intervention rapide pour fuites, compteur d'eau ou tout incident plomberie, y compris le samedi matin en cas d'urgence.",
         "icon": "zap",
         "featured": true,
         "tag": "Urgence",
         "image": "/images/stock/plombier/services/services-5.webp"
       },
       {
-        "title": "Réducteur de pression",
-        "desc": "Pose et remplacement de réducteur de pression sur arrivée d'eau pour protéger votre installation et votre matériel.",
+        "title": "Pose de réducteur de pression",
+        "desc": "Installation et remplacement de réducteur de pression sur arrivée d'eau, réalisés avec soin et professionnalisme.",
         "icon": "droplets",
         "featured": true,
         "tag": "Installation",
         "image": "/images/stock/plombier/services/services-6.webp"
       },
       {
-        "title": "Entretien annuel",
-        "desc": "Contrôle régulier de votre plomberie et chauffage pour prévenir les pannes et garantir la durabilité.",
+        "title": "Entretien annuel plomberie",
+        "desc": "Contrôle et maintenance régulière de votre installation pour prévenir les pannes et garantir la longévité.",
         "icon": "wrench",
         "featured": false
       },
       {
-        "title": "Travaux de plomberie",
-        "desc": "Rénovation, mise aux normes et installation complète pour tous travaux de plomberie générale.",
-        "icon": "search",
+        "title": "Installation chauffage",
+        "desc": "Pose et mise en service de systèmes de chauffage adaptés à votre logement, dans les règles de l'art.",
+        "icon": "flame",
         "featured": false
       },
       {
-        "title": "Chauffage",
-        "desc": "Diagnostic, entretien et dépannage de vos équipements de chauffage pour un confort optimal.",
-        "icon": "flame",
+        "title": "Maintenance chauffage",
+        "desc": "Entretien et dépannage de vos équipements de chauffage pour un confort optimal toute l'année.",
+        "icon": "search",
         "featured": false
       }
     ],
     "why_us": [
       {
-        "title": "Disponible le samedi",
-        "desc": "Urgences prises en charge même le samedi matin dès 8h"
+        "title": "Réactif en urgence",
+        "desc": "Dépannage le samedi matin, intervention rapide même de dernière minute."
       },
       {
-        "title": "Prix justes et clairs",
-        "desc": "Tarification honnête, saluée par tous les clients"
+        "title": "Prix honnêtes",
+        "desc": "Tarifs justes reconnus par les clients, même en situation d'urgence."
       },
       {
-        "title": "Artisan professionnel",
-        "desc": "Qualifié de pro, aimable et honnête par ses clients"
+        "title": "Professionnel constant",
+        "desc": "Qualité irréprochable année après année, sans jamais rien à redire."
       },
       {
-        "title": "Fidélisation naturelle",
-        "desc": "Clients qui reviennent chaque année sans hésiter"
+        "title": "Aimable et humain",
+        "desc": "Un artisan agréable, à l'écoute, qui crée un vrai lien de confiance."
       }
     ],
     "why_us_badge": {
       "value": "1h",
       "label": "délai d'intervention"
     },
-    "service_area": "Pont-de-l'Arche, Les Damps, Igoville, Alizay, Criquebeuf-sur-Seine, Léry, Val-de-Reuil, Louviers, Elbeuf",
+    "service_area": "Pont-de-l'Arche, Igoville, Les Damps, Alizay, Criquebeuf-sur-Seine, Tostes, Val-de-Reuil, Louviers, Elbeuf",
     "service_area_cities": [
       "Pont-de-l'Arche",
-      "Les Damps",
       "Igoville",
+      "Les Damps",
       "Alizay",
       "Criquebeuf-sur-Seine",
-      "Léry",
+      "Tostes",
       "Val-de-Reuil",
       "Louviers",
       "Elbeuf"
@@ -157,14 +157,13 @@
       "Louviers",
       "Elbeuf",
       "Val-de-Reuil",
-      "Les Damps",
-      "Léry",
+      "Alizay",
       "Criquebeuf-sur-Seine"
     ],
     "service_area_stats": [
       {
         "value": "9",
-        "label": "communes desservies"
+        "label": "communes couvertes"
       },
       {
         "value": "5/5",
@@ -175,7 +174,7 @@
         "label": "avis clients vérifiés"
       }
     ],
-    "service_area_note": "Déplacement rapide dans tout le secteur de Pont-de-l'Arche et la boucle de la Seine, devis gratuit sans engagement.",
+    "service_area_note": "Déplacement rapide à Pont-de-l'Arche et dans tout le secteur — devis gratuit sans engagement.",
     "no_reviews_cta": {
       "eyebrow": "",
       "title": "",
@@ -190,25 +189,25 @@
       "email": "",
       "hours": "Lun–Ven 8h–18h · Sam 8h–12h"
     },
-    "seo_title": "Plombier Pont-de-l'Arche — DC Plomberie Chauffage",
-    "meta_description": "DC Plomberie Chauffage à Pont-de-l'Arche : dépannage urgent, pose réducteur de pression, entretien. Disponible le samedi. Note 5/5 sur Google. Appelez le 06 14 38 13 02."
+    "seo_title": "Plombier Chauffagiste à Pont-de-l'Arche — DC Plomberie",
+    "meta_description": "DC Plomberie Chauffage à Pont-de-l'Arche (27340) : dépannage urgent, pose réducteur de pression, entretien chauffage. Réactif, honnête, 5/5 sur Google. Appelez le 06 14 38 13 02."
   },
   "reviews": [
     {
-      "author": "Marie-Claude D.",
+      "author": "Martine L.",
       "location": "Les Damps",
       "rating": 5,
       "text": "tous les ans je fesais appel, je n'est jamais rien eu à redire qu'elle dommage de l'arrêt d'activité"
     },
     {
-      "author": "François B.",
-      "location": "Igoville",
+      "author": "Sébastien P.",
+      "location": "Alizay",
       "rating": 5,
-      "text": "Intervention pour la pose d'un réducteur de pression sur l'arrivée d'eau. Rapidité, professionnel, agréable."
+      "text": "Intervention pour la pose d'un réducteur de pression sur l'arrivée d'eau. Rapidité, professionnel , agréable."
     },
     {
-      "author": "Stéphane M.",
-      "location": "Criquebeuf-sur-Seine",
+      "author": "Élodie M.",
+      "location": "Igoville",
       "rating": 5,
       "text": "Apeller un samedi matin en urgence, pour fuite sur compteur d eau. Dépannage rapide, malgré apelle à 11h un samedi matin. Tout s est déroulé parfaitement, et à un prix correct. Ils sont pro, aimable et honnête. Je recommande"
     }
