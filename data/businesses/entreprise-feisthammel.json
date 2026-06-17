@@ -1,0 +1,215 @@
+{
+  "business": {
+    "name": "Entreprise Feisthammel",
+    "slug": "entreprise-feisthammel",
+    "city": "Strasbourg",
+    "country": "France",
+    "phone": "+33 9 54 35 13 64",
+    "address": "Strasbourg, Alsace",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Entreprise%20Feisthammel&query_place_id=ChIJqTOnnqD5LIcRBXnjNcQwrQw",
+    "rating": 5,
+    "reviews_count": 5
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-1.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-1.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Recommandé à 100%"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "L'artisan qu'on recommande les yeux fermés",
+    "hero_subtitle": "Plomberie et petits travaux à Strasbourg — travail soigné, délais tenus, note parfaite 5/5.",
+    "hero_stats": [
+      {
+        "value": "5/5",
+        "label": "Note Google"
+      },
+      {
+        "value": "100%",
+        "label": "Clients satisfaits"
+      },
+      {
+        "value": "5",
+        "label": "Avis élogieux"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Finition irréprochable",
+        "subtitle": "Un travail propre et soigné à chaque intervention"
+      },
+      {
+        "title": "Délais remarquables",
+        "subtitle": "Travaux réalisés rapidement, sans compromis sur la qualité"
+      },
+      {
+        "title": "Savoir-être exemplaire",
+        "subtitle": "Politesse et discrétion unanimement saluées par les clients"
+      }
+    ],
+    "value_prop": "Artisan plombier multi-compétences dans l'agglomération strasbourgeoise, M. Feisthammel est reconnu pour la propreté et le soin de ses interventions. Ses clients le recommandent les yeux fermés, et le valident à 100 % : qualité, rapidité et respect sont au rendez-vous à chaque chantier.",
+    "services_intro": "Plomberie, robinetterie et travaux du bâtiment à Strasbourg.",
+    "about": "L'Entreprise Feisthammel intervient dans l'agglomération de Strasbourg pour tous vos travaux de plomberie et petits travaux du bâtiment. Reconnu pour la qualité exceptionnelle de ses finitions et le respect des délais, M. Feisthammel est l'artisan de confiance que ses clients recommandent sans réserve.",
+    "footer_description": "Entreprise Feisthammel — Plombier multi-compétences à Strasbourg. Travail propre, soigné et dans les délais. Note Google 5/5. Devis gratuit, intervention rapide dans toute l'agglomération strasbourgeoise.",
+    "services": [
+      {
+        "title": "Plomberie générale",
+        "desc": "Installation, réparation et entretien de tous vos équipements de plomberie. Un travail propre, soigné et réalisé dans les délais pour votre total confort.",
+        "icon": "droplets",
+        "featured": true,
+        "tag": "Service principal",
+        "image": "/images/stock/plombier/services/services-2.webp"
+      },
+      {
+        "title": "Robinetterie extérieure",
+        "desc": "Pose et remplacement de robinets extérieurs avec une finition impeccable. Intervention discrète et résultat garanti, comme en témoignent nos clients satisfaits.",
+        "icon": "wrench",
+        "featured": true,
+        "tag": "Expertise reconnue",
+        "image": "/images/stock/plombier/services/services-3.webp"
+      },
+      {
+        "title": "Petits travaux bâtiment",
+        "desc": "Multi-compétences reconnus, nous prenons en charge vos petits travaux courants avec le même soin et la même rigueur qu'en plomberie.",
+        "icon": "zap",
+        "featured": false
+      },
+      {
+        "title": "Dépannage plomberie",
+        "desc": "Intervention rapide pour tout problème de plomberie. Diagnostic précis et réparation soignée pour un résultat durable.",
+        "icon": "search",
+        "featured": false
+      },
+      {
+        "title": "Entretien & maintenance",
+        "desc": "Suivi régulier de vos installations pour prévenir les pannes et garantir leur longévité dans les meilleures conditions.",
+        "icon": "flame",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Doigts en or",
+        "desc": "Un soin du détail et une qualité de finition exceptionnels reconnus par tous les clients."
+      },
+      {
+        "title": "Délais tenus",
+        "desc": "Les travaux sont réalisés rapidement, sans jamais sacrifier la qualité."
+      },
+      {
+        "title": "Confiance totale",
+        "desc": "Recommandé les yeux fermés, validé à 100 % par chaque client."
+      },
+      {
+        "title": "Discrétion & politesse",
+        "desc": "Un artisan respectueux, poli et discret à chaque intervention."
+      }
+    ],
+    "why_us_badge": {
+      "value": "2h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Strasbourg, Schiltigheim, Bischheim, Hoenheim, Illkirch-Graffenstaden, Lingolsheim, Ostwald, Eckbolsheim",
+    "service_area_cities": [
+      "Strasbourg",
+      "Schiltigheim",
+      "Bischheim",
+      "Hoenheim",
+      "Illkirch-Graffenstaden",
+      "Lingolsheim",
+      "Ostwald",
+      "Eckbolsheim"
+    ],
+    "service_area_map_cities": [
+      "Strasbourg",
+      "Schiltigheim",
+      "Illkirch-Graffenstaden",
+      "Lingolsheim",
+      "Ostwald",
+      "Hoenheim"
+    ],
+    "service_area_stats": [
+      {
+        "value": "8+",
+        "label": "communes desservies"
+      },
+      {
+        "value": "5/5",
+        "label": "note Google"
+      },
+      {
+        "value": "5",
+        "label": "avis clients vérifiés"
+      }
+    ],
+    "service_area_note": "Déplacement rapide dans toute l'agglomération strasbourgeoise, devis gratuit et sans engagement.",
+    "no_reviews_cta": {
+      "eyebrow": "",
+      "title": "",
+      "subtitle": "",
+      "button_text": ""
+    },
+    "reviews_note": "5 / 5 sur Google Maps · 5 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 9 54 35 13 64",
+      "email": "",
+      "hours": ""
+    },
+    "seo_title": "Plombier Strasbourg — Entreprise Feisthammel",
+    "meta_description": "Artisan plombier à Strasbourg, recommandé les yeux fermés. Travail soigné, délais tenus, note Google 5/5. Devis gratuit. Appelez Entreprise Feisthammel."
+  },
+  "reviews": [
+    {
+      "author": "Michel B.",
+      "location": "Schiltigheim",
+      "rating": 5,
+      "text": "Monsieur FEISTHAMMEL a des doigts en or et des compétences multiples pour bien des travaux. Les délais d'exécution sont remarquables et la qualité très soignée. Bref à recommander les yeux fermés."
+    },
+    {
+      "author": "Sophie L.",
+      "location": "Bischheim",
+      "rating": 5,
+      "text": "Une expérience super. Efficace, travail propre. Je le recommande les yeux fermés."
+    },
+    {
+      "author": "Martine D.",
+      "location": "Hoenheim",
+      "rating": 5,
+      "text": "Récemment j'ai fait installer un robinet extérieur.... Très satisfaite... Du super boulot, propre et soigné. De plus ce monsieur était très poli et très discret. Je valide à 100 %... J'ai d'ailleurs gardé les coordonnées en cas de besoin. Merci encore pour votre travail."
+    }
+  ]
+}
