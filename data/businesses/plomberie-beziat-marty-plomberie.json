@@ -1,0 +1,195 @@
+{
+  "business": {
+    "name": "plomberie beziat marty plomberie",
+    "slug": "plomberie-beziat-marty-plomberie",
+    "city": "Paris",
+    "country": "France",
+    "phone": "+33 1 46 06 31 99",
+    "address": "107 Rue Caulaincourt, 75018 Paris",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=plomberie%20beziat%20marty%20plomberie&query_place_id=ChIJ80kRxmdv5kcRCvzu3A_FVnk",
+    "rating": null,
+    "reviews_count": null
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-3.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-5.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Adresse fixe vérifiable"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Votre plombier de quartier à Montmartre",
+    "hero_subtitle": "Plomberie artisanale rue Caulaincourt · Disponible du lundi au samedi",
+    "hero_stats": [
+      {
+        "value": "5j/7",
+        "label": "jours d'ouverture"
+      },
+      {
+        "value": "Sam.",
+        "label": "ouvert le samedi matin"
+      },
+      {
+        "value": "100%",
+        "label": "artisan local 18e"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Ancré dans le 18e arrondissement",
+        "subtitle": "Installé rue Caulaincourt, au cœur de Montmartre"
+      },
+      {
+        "title": "Horaires larges du lundi au samedi",
+        "subtitle": "Disponible 08h30–18h30 en semaine, samedi matin"
+      },
+      {
+        "title": "Structure artisanale à taille humaine",
+        "subtitle": "Un interlocuteur direct, réactif et de confiance"
+      }
+    ],
+    "value_prop": "Beziat Marty Plomberie est votre plombier de proximité dans le 18e arrondissement de Paris. Établis rue Caulaincourt au cœur de Montmartre, nous intervenons rapidement chez les particuliers pour tous travaux de plomberie, du dépannage à l'installation sanitaire.",
+    "services_intro": "Plomberie générale, dépannage et installation sanitaire dans le 18e",
+    "about": "Beziat Marty Plomberie est une entreprise artisanale implantée au 107 rue Caulaincourt, dans le 18e arrondissement de Paris. Spécialisée en plomberie générale, elle intervient pour les particuliers du quartier Montmartre et des environs. Son ancrage local et ses horaires étendus en font un partenaire fiable pour tous vos besoins en plomberie.",
+    "footer_description": "Beziat Marty Plomberie — Artisan plombier au 107 rue Caulaincourt, 75018 Paris. Intervention du lundi au vendredi 08h30–18h30 et le samedi matin. Votre plombier de quartier à Montmartre.",
+    "services": [
+      {
+        "title": "Plomberie générale",
+        "desc": "Installation, réparation et entretien de tous vos équipements de plomberie. Intervention soignée et durable chez les particuliers du 18e arrondissement.",
+        "icon": "wrench",
+        "featured": true,
+        "tag": "Service principal",
+        "image": "/images/stock/plombier/services/services-4.webp"
+      },
+      {
+        "title": "Dépannage plomberie",
+        "desc": "Fuite, canalisation bouchée, robinet défaillant : nous intervenons rapidement pour résoudre vos urgences plomberie dans Montmartre et alentours.",
+        "icon": "droplets",
+        "featured": true,
+        "tag": "Intervention rapide",
+        "image": "/images/stock/plombier/services/services-5.webp"
+      },
+      {
+        "title": "Installation sanitaire",
+        "desc": "Pose et remplacement de sanitaires : WC, lavabo, douche, baignoire. Travail soigné adapté aux logements parisiens.",
+        "icon": "zap",
+        "featured": false
+      },
+      {
+        "title": "Entretien & maintenance",
+        "desc": "Vérification régulière de vos installations pour prévenir les pannes et garantir leur bon fonctionnement.",
+        "icon": "search",
+        "featured": false
+      },
+      {
+        "title": "Réparation de fuites",
+        "desc": "Détection et réparation de fuites apparentes ou cachées, pour protéger votre logement et limiter les dégâts.",
+        "icon": "flame",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Plombier de quartier",
+        "desc": "Présents rue Caulaincourt, nous connaissons les logements du 18e"
+      },
+      {
+        "title": "Ouverts le samedi",
+        "desc": "Disponibles le matin pour s'adapter à votre emploi du temps"
+      },
+      {
+        "title": "Artisan à taille humaine",
+        "desc": "Un interlocuteur direct, sans sous-traitance, pour un suivi clair"
+      },
+      {
+        "title": "Téléphone fixe local",
+        "desc": "Un numéro en 01, gage de stabilité et d'ancrage parisien"
+      }
+    ],
+    "why_us_badge": {
+      "value": "2h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Paris 18e, Saint-Ouen-sur-Seine, Clichy, Levallois-Perret, Aubervilliers, Saint-Denis, Paris 17e, Paris 9e",
+    "service_area_cities": [
+      "Paris 18e",
+      "Saint-Ouen-sur-Seine",
+      "Clichy",
+      "Levallois-Perret",
+      "Aubervilliers",
+      "Saint-Denis",
+      "Paris 17e",
+      "Paris 9e"
+    ],
+    "service_area_map_cities": [
+      "Saint-Ouen-sur-Seine",
+      "Clichy",
+      "Levallois-Perret",
+      "Aubervilliers",
+      "Saint-Denis"
+    ],
+    "service_area_stats": [
+      {
+        "value": "8+",
+        "label": "communes desservies"
+      },
+      {
+        "value": "5j/7",
+        "label": "jours d'intervention"
+      },
+      {
+        "value": "18e",
+        "label": "arrondissement de Paris"
+      }
+    ],
+    "service_area_note": "Déplacement rapide depuis la rue Caulaincourt dans tout le nord de Paris et les communes limitrophes.",
+    "no_reviews_cta": {
+      "eyebrow": "PROXIMITÉ",
+      "title": "Un plombier artisanal ancré dans le 18e",
+      "subtitle": "Installés rue Caulaincourt, nous intervenons rapidement chez les particuliers de Montmartre et du nord de Paris du lundi au samedi.",
+      "button_text": "Demander un devis gratuit"
+    },
+    "reviews_note": "",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 1 46 06 31 99",
+      "email": "",
+      "hours": "Lun–Ven 08h30–18h30 · Sam 08h30–12h30"
+    },
+    "seo_title": "Plombier Paris 18e — Beziat Marty Plomberie",
+    "meta_description": "Beziat Marty Plomberie, votre plombier artisanal au 107 rue Caulaincourt, Paris 18e. Dépannage, installation sanitaire. Ouvert du lundi au samedi."
+  },
+  "reviews": []
+}
