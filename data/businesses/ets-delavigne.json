@@ -1,0 +1,210 @@
+{
+  "business": {
+    "name": "Ets Delavigne",
+    "slug": "ets-delavigne",
+    "city": "Lille",
+    "country": "France",
+    "phone": "+33 3 20 56 41 03",
+    "address": "31 Rue Porret, 59800 Lille",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Ets%20Delavigne&query_place_id=ChIJ_fgAp_vVwkcRdFNby-cWw5o",
+    "rating": 4.9,
+    "reviews_count": 11
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-2.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-4.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Devis gratuit"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Votre chauffagiste honnête à Lille",
+    "hero_subtitle": "Diagnostic fiable, travail soigné et accueil réactif — protégez-vous des mauvaises surprises.",
+    "hero_stats": [
+      {
+        "value": "4.9/5",
+        "label": "Note Google"
+      },
+      {
+        "value": "11",
+        "label": "Avis clients vérifiés"
+      },
+      {
+        "value": "100%",
+        "label": "Lieux laissés propres"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Diagnostic honnête garanti",
+        "subtitle": "Un second avis fiable qui vous protège des arnaques"
+      },
+      {
+        "title": "Accueil réactif & soigné",
+        "subtitle": "Prise en charge rapide, intervention propre et efficace"
+      },
+      {
+        "title": "Reprise qualité en 2025",
+        "subtitle": "Nouvel élan confirmé dès les premières interventions"
+      }
+    ],
+    "value_prop": "Ets Delavigne, c'est le plombier-chauffagiste lillois qui met l'honnêteté au cœur de chaque intervention. Diagnostic précis, réparation effective et respect de votre logement : un client a économisé plus de 4 000 € grâce à notre second avis impartial.",
+    "services_intro": "Dépannage, entretien et diagnostic chaudière et chauffe-eau à Lille.",
+    "about": "Ets Delavigne est un plombier-chauffagiste basé à Lille, 31 Rue Porret, repris en janvier 2025 avec un engagement fort pour la qualité et l'honnêteté. L'entreprise intervient pour le dépannage de chaudières gaz, l'entretien de chauffe-eau et la plomberie générale. Dès ses premières interventions sous sa nouvelle direction, elle a séduit ses clients par sa réactivité, son sérieux et son intégrité.",
+    "footer_description": "Ets Delavigne — Plombier-chauffagiste à Lille. Diagnostic chaudière gaz, détartrage et dépannage chauffe-eau. Intervention rapide, travail soigné, devis gratuit. 31 Rue Porret, 59800 Lille.",
+    "services": [
+      {
+        "title": "Réparation chaudière gaz",
+        "desc": "Diagnostic fiable et réparation complète de votre chaudière gaz en panne. Un second avis honnête pour vous protéger des devis abusifs.",
+        "icon": "flame",
+        "featured": true,
+        "tag": "Dépannage rapide",
+        "image": "/images/stock/plombier/services/services-5.webp"
+      },
+      {
+        "title": "Détartrage chauffe-eau",
+        "desc": "Détartrage et entretien de votre cumulus ou chauffe-eau. Intervention soignée, durée maîtrisée et logement laissé propre après passage.",
+        "icon": "droplets",
+        "featured": true,
+        "tag": "Entretien & longévité",
+        "image": "/images/stock/plombier/services/services-6.webp"
+      },
+      {
+        "title": "Vidange de cumulus",
+        "desc": "Vidange et remise en état de votre ballon d'eau chaude, même en cas d'impossibilité d'accès difficile.",
+        "icon": "wrench",
+        "featured": false
+      },
+      {
+        "title": "Diagnostic chauffage",
+        "desc": "Bilan complet de votre installation pour identifier la panne réelle et éviter les réparations inutiles.",
+        "icon": "search",
+        "featured": false
+      },
+      {
+        "title": "Dépannage plomberie",
+        "desc": "Intervention rapide sur vos problèmes de plomberie courante à Lille et ses environs.",
+        "icon": "zap",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Honnêteté exemplaire",
+        "desc": "Un second avis fiable qui vous a économisé jusqu'à 4 000 €"
+      },
+      {
+        "title": "Accueil téléphonique",
+        "desc": "Prise en charge rapide et écoute dès le premier appel"
+      },
+      {
+        "title": "Travail propre & soigné",
+        "desc": "L'intervenant laisse toujours les lieux en parfait état"
+      },
+      {
+        "title": "Diagnostic précis",
+        "desc": "Réparation effective incluse, sans mauvaise surprise"
+      }
+    ],
+    "why_us_badge": {
+      "value": "2h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Lille, Lambersart, La Madeleine, Marcq-en-Barœul, Roubaix, Villeneuve-d'Ascq, Lomme, Loos, Hellemmes",
+    "service_area_cities": [
+      "Lille",
+      "Lambersart",
+      "La Madeleine",
+      "Marcq-en-Barœul",
+      "Roubaix",
+      "Villeneuve-d'Ascq",
+      "Lomme",
+      "Loos",
+      "Hellemmes"
+    ],
+    "service_area_map_cities": [
+      "Lille",
+      "Roubaix",
+      "Villeneuve-d'Ascq",
+      "Marcq-en-Barœul",
+      "Lambersart",
+      "Lomme"
+    ],
+    "service_area_stats": [
+      {
+        "value": "9",
+        "label": "communes desservies"
+      },
+      {
+        "value": "4.9/5",
+        "label": "Note Google"
+      },
+      {
+        "value": "11",
+        "label": "Avis clients vérifiés"
+      }
+    ],
+    "service_area_note": "Intervention rapide sur Lille et toute la métropole lilloise, devis gratuit sans engagement.",
+    "no_reviews_cta": {
+      "eyebrow": "",
+      "title": "",
+      "subtitle": "",
+      "button_text": ""
+    },
+    "reviews_note": "4.9 / 5 sur Google Maps · 11 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 3 20 56 41 03",
+      "email": "",
+      "hours": "Lun–Ven 9h–17h"
+    },
+    "seo_title": "Plombier-Chauffagiste Lille | Ets Delavigne",
+    "meta_description": "Ets Delavigne, plombier-chauffagiste à Lille. Dépannage chaudière gaz, détartrage chauffe-eau, diagnostic fiable. Intervention rapide, devis gratuit. ☎ 03 20 56 41 03"
+  },
+  "reviews": [
+    {
+      "author": "Sophie L.",
+      "location": "Lambersart",
+      "rating": 5,
+      "text": "Contacté pour 2nd avis pour Chaudière gaz en panne, problème non résolu depuis près de 3 mois... Demande de diagnostic, au final, j'ai eu le diagnostic et la réparation, et Mr Citerne m'a évité une belle escroquerie à plus de 4000 euros. Une belle épine du pied sortie, mille merci!"
+    },
+    {
+      "author": "Marie-Claire D.",
+      "location": "La Madeleine",
+      "rating": 5,
+      "text": "Nous avons appelé l'entreprise Delavigne SAS pour le détartrage de notre chauffe-eau. Nous avons apprécié la qualité de l'accueil téléphonique, la rapidité pour trouver une solution et nous venir en aide, car nous étions dans l'impossibilité de vidanger le cumulus. L'intervenant a réalisé un travail de qualité et a pris soin de laisser l'endroit propre tout cela dans un temps correct. C'est la première fois que nous faisions à nouveau appel à cette entreprise depuis sa reprise en janvier 2025. Continuez ainsi"
+    }
+  ]
+}
