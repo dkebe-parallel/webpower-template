@@ -17,7 +17,7 @@
   },
   "badges": {
     "certifications": [],
-    "highlight": "Devis gratuit"
+    "highlight": "Prix avantageux"
   },
   "theme": {
     "palette": {
@@ -49,8 +49,8 @@
     "enabled_blocks": []
   },
   "content": {
-    "hero_title": "Votre plombier de confiance à Rennes",
-    "hero_subtitle": "Intervention rapide, travail soigné et tarifs avantageux — disponible 8h à 20h.",
+    "hero_title": "Plombier réactif à Rennes",
+    "hero_subtitle": "Intervention rapide, travail soigné et tarifs compétitifs pour tous vos travaux de plomberie.",
     "hero_stats": [
       {
         "value": "4.3/5",
@@ -61,87 +61,87 @@
         "label": "délai d'intervention"
       },
       {
-        "value": "8h–20h",
+        "value": "08h–20h",
         "label": "disponibilité"
       }
     ],
     "reassurance_items": [
       {
-        "title": "Rapport qualité-prix reconnu",
-        "subtitle": "Clients fidèles qui reviennent pour la qualité"
+        "title": "Qualité au juste prix",
+        "subtitle": "Travail soigné salué par des clients fidèles"
       },
       {
-        "title": "Intervention rapide sur Rennes",
-        "subtitle": "Dépannage réactif dès votre premier appel"
+        "title": "Intervention rapide",
+        "subtitle": "Déplacement rapide à Rennes et alentours"
       },
       {
-        "title": "Résultats soignés et durables",
-        "subtitle": "Un travail propre, visible et apprécié"
+        "title": "Artisan de proximité",
+        "subtitle": "Sympathique et professionnel sur le terrain"
       }
     ],
-    "value_prop": "Plobylec est votre artisan plombier à Rennes, reconnu pour la qualité de ses interventions et ses prix compétitifs. Disponible du lundi au vendredi de 8h à 20h, il intervient rapidement pour vos dépannages, entretiens de chaudière et travaux de plomberie.",
-    "services_intro": "Plomberie générale, dépannage et entretien à Rennes et alentours.",
-    "about": "Plobylec est un artisan plombier basé à Rennes, intervenant chez les particuliers pour des travaux de plomberie générale, dépannages et entretiens de chaudière. Reconnu pour sa réactivité et son soin du travail, il propose des tarifs justes et un service de proximité. Disponible 5 jours sur 7 de 8h à 20h, il s'adapte à vos contraintes.",
-    "footer_description": "Plobylec — Artisan plombier à Rennes. Dépannage, entretien chaudière gaz et travaux de plomberie générale. Intervention rapide, travail soigné, tarifs compétitifs. Disponible du lundi au vendredi de 8h à 20h.",
+    "value_prop": "Plobylec intervient rapidement chez vous à Rennes pour tous vos besoins en plomberie : entretien de chaudière gaz, dépannage sanitaire, réparations diverses. Un artisan de proximité reconnu pour la qualité de son travail et ses tarifs avantageux, qui fidélise ses clients intervention après intervention.",
+    "services_intro": "Plomberie générale et entretien chaudière à Rennes et environs.",
+    "about": "Plobylec est un artisan plombier basé à Rennes, intervenant rapidement chez les particuliers pour tous types de travaux de plomberie. Reconnu pour la qualité de ses interventions et ses tarifs compétitifs, il est l'artisan de confiance des Rennais.",
+    "footer_description": "Plobylec — Plombier artisan à Rennes (35000). Entretien chaudière gaz, dépannage plomberie, réparations sanitaires. Intervention rapide du lundi au vendredi de 08h à 20h. Tarifs avantageux, travail soigné.",
     "services": [
       {
         "title": "Entretien chaudière gaz",
         "desc": "Entretien annuel et vérification complète de votre chaudière gaz pour assurer sécurité et performance optimale de votre installation.",
         "icon": "flame",
         "featured": true,
-        "tag": "Entretien",
+        "tag": "Populaire",
         "image": "/images/stock/plombier/services/services-1.webp"
       },
       {
         "title": "Dépannage plomberie",
-        "desc": "Intervention rapide pour réparer fuites, éviers bouchés ou cassés et tout problème de plomberie urgente chez vous à Rennes.",
-        "icon": "wrench",
+        "desc": "Réparation rapide de vos éviers, robinets et équipements sanitaires. Intervention réactive pour remettre vos installations comme neuves.",
+        "icon": "droplets",
         "featured": true,
-        "tag": "Dépannage rapide",
+        "tag": "Intervention rapide",
         "image": "/images/stock/plombier/services/services-2.webp"
       },
       {
-        "title": "Plomberie générale",
-        "desc": "Pose, remplacement et rénovation de vos équipements sanitaires par un artisan qualifié et à l'écoute.",
-        "icon": "droplets",
+        "title": "Réparation sanitaires",
+        "desc": "Remplacement et réparation de vos équipements sanitaires : WC, lavabo, douche, baignoire.",
+        "icon": "wrench",
         "featured": false
       },
       {
-        "title": "Réparation évier & sanitaires",
-        "desc": "Remise en état complète de vos éviers, robinetteries et équipements sanitaires avec un résultat soigné.",
+        "title": "Plomberie générale",
+        "desc": "Tous travaux de plomberie à domicile : pose, remplacement et mise en conformité de vos installations.",
         "icon": "zap",
         "featured": false
       },
       {
         "title": "Diagnostic plomberie",
-        "desc": "Détection précise des anomalies sur vos installations pour un devis clair et une intervention ciblée.",
+        "desc": "Détection de pannes et fuites pour identifier rapidement l'origine du problème et y remédier.",
         "icon": "search",
         "featured": false
       }
     ],
     "why_us": [
       {
-        "title": "Prix avantageux",
-        "desc": "Tarifs compétitifs salués spontanément par les clients"
+        "title": "Tarifs compétitifs",
+        "desc": "Des prix avantageux salués par les clients, sans compromis sur la qualité."
       },
       {
-        "title": "Clients fidélisés",
-        "desc": "Des clients qui reviennent naturellement pour chaque besoin"
+        "title": "Clients fidèles",
+        "desc": "Des clients qui font appel à Plobylec à plusieurs reprises, signe de confiance."
       },
       {
-        "title": "Intervention rapide",
-        "desc": "Disponible 5j/7 dès 8h pour répondre vite"
+        "title": "Réactivité prouvée",
+        "desc": "Interventions rapides à Rennes reconnues dans les avis clients."
       },
       {
-        "title": "Travail soigné",
-        "desc": "Résultats visibles et durables à chaque intervention"
+        "title": "Horaires étendus",
+        "desc": "Disponible du lundi au vendredi de 08h à 20h pour vous servir."
       }
     ],
     "why_us_badge": {
       "value": "2h",
       "label": "délai d'intervention"
     },
-    "service_area": "Rennes, Saint-Grégoire, Cesson-Sévigné, Chantepie, Bruz, Saint-Jacques-de-la-Lande, Vezin-le-Coquet, Pacé, Betton",
+    "service_area": "Rennes, Saint-Grégoire, Cesson-Sévigné, Chantepie, Bruz, Saint-Jacques-de-la-Lande, Vezin-le-Coquet, Le Rheu, Pacé",
     "service_area_cities": [
       "Rennes",
       "Saint-Grégoire",
@@ -150,21 +150,21 @@
       "Bruz",
       "Saint-Jacques-de-la-Lande",
       "Vezin-le-Coquet",
-      "Pacé",
-      "Betton"
+      "Le Rheu",
+      "Pacé"
     ],
     "service_area_map_cities": [
       "Rennes",
       "Cesson-Sévigné",
-      "Saint-Grégoire",
       "Bruz",
-      "Pacé",
-      "Chantepie"
+      "Saint-Grégoire",
+      "Chantepie",
+      "Pacé"
     ],
     "service_area_stats": [
       {
         "value": "9",
-        "label": "communes couvertes"
+        "label": "communes desservies"
       },
       {
         "value": "4.3/5",
@@ -175,7 +175,7 @@
         "label": "avis clients"
       }
     ],
-    "service_area_note": "Déplacement rapide sur Rennes et communes voisines, devis gratuit sans engagement.",
+    "service_area_note": "Déplacement rapide à Rennes et dans tout le bassin rennais, devis gratuit sans engagement.",
     "no_reviews_cta": {
       "eyebrow": "",
       "title": "",
@@ -190,21 +190,21 @@
       "email": "",
       "hours": "Lun–Ven 8h–20h"
     },
-    "seo_title": "Plombier à Rennes — Plobylec | Dépannage & Entretien",
-    "meta_description": "Plobylec, artisan plombier à Rennes. Dépannage rapide, entretien chaudière gaz, plomberie générale. Disponible 8h–20h du lundi au vendredi. Devis gratuit."
+    "seo_title": "Plombier Rennes — Plobylec | Devis rapide",
+    "meta_description": "Plobylec, plombier artisan à Rennes. Entretien chaudière gaz, dépannage plomberie, intervention rapide. Tarifs compétitifs, disponible lun–ven 8h–20h."
   },
   "reviews": [
     {
-      "author": "Marie T.",
+      "author": "Michel T.",
       "location": "Cesson-Sévigné",
       "rating": 5,
       "text": "Travail de qualité pour un prix avantageux. J'ai sollicité l'entreprise Plobylec à plusieurs reprises et compte encore faire appel à cet artisan. Encore merci !"
     },
     {
-      "author": "Julien M.",
+      "author": "Sophie L.",
       "location": "Saint-Grégoire",
       "rating": 5,
-      "text": "Super boulot, il est intervenu très rapidement chez moi, très sympathique et professionnel.\nL'évier est comme neuf ! Encore un grand merci"
+      "text": "Super boulot, il est intervenu très rapidement chez moi, très sympathique et professionnel. L'évier est comme neuf ! Encore un grand merci"
     }
   ]
 }
