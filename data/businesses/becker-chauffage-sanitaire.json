@@ -1,0 +1,208 @@
+{
+  "business": {
+    "name": "BECKER Chauffage Sanitaire",
+    "slug": "becker-chauffage-sanitaire",
+    "city": "Alsace",
+    "country": "France",
+    "phone": "+33 6 41 70 72 91",
+    "address": "Alsace, France",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=BECKER%20Chauffage%20Sanitaire&query_place_id=ChIJZVWNJF_JlkcRwHzQNtjLv1w",
+    "rating": 5,
+    "reviews_count": 4
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-3.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-6.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Devis gratuit"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Chauffage & sanitaire, note 5/5",
+    "hero_subtitle": "Ponctuel, professionnel et recommandé à 100 % — interventions complètes en Alsace.",
+    "hero_stats": [
+      {
+        "value": "5/5",
+        "label": "Note Google"
+      },
+      {
+        "value": "100%",
+        "label": "Clients satisfaits"
+      },
+      {
+        "value": "2h",
+        "label": "Délai d'intervention"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Professionnalisme reconnu",
+        "subtitle": "Travail soigné salué par chaque client"
+      },
+      {
+        "title": "Ponctualité garantie",
+        "subtitle": "Respect des horaires à chaque intervention"
+      },
+      {
+        "title": "Double expertise",
+        "subtitle": "Chauffage et sanitaire, un seul artisan"
+      }
+    ],
+    "value_prop": "BECKER Chauffage Sanitaire, c'est l'artisan alsacien qui allie maîtrise technique et sens du service. Note parfaite 5/5, ponctualité systématique et qualité d'exécution irréprochable : chaque client repart pleinement satisfait et recommande l'entreprise sans réserve.",
+    "services_intro": "Chauffage et sanitaire : des prestations complètes en Alsace.",
+    "about": "BECKER Chauffage Sanitaire est un artisan alsacien spécialisé dans les installations et rénovations de chauffage et sanitaire. Reconnu pour sa ponctualité et la qualité irréprochable de ses interventions, l'entreprise intervient chez les particuliers pour tout projet, de la pose de WC au chauffe-serviettes.",
+    "footer_description": "BECKER Chauffage Sanitaire, votre artisan de confiance en Alsace. Spécialiste du chauffage et du sanitaire, reconnu pour son professionnalisme, sa ponctualité et la qualité de chaque intervention. Note Google 5/5.",
+    "services": [
+      {
+        "title": "Remplacement de WC",
+        "desc": "Dépose de l'ancien WC et pose d'un nouveau modèle, avec raccordements soignés et mise en service rapide. Travail propre, garanti.",
+        "icon": "wrench",
+        "featured": true,
+        "tag": "Sanitaire",
+        "image": "/images/stock/plombier/services/services-3.webp"
+      },
+      {
+        "title": "Salle de bains complète",
+        "desc": "Installation de meubles, colonnes de douche et chauffe-serviettes pour une salle de bains entièrement rénovée et fonctionnelle.",
+        "icon": "droplets",
+        "featured": true,
+        "tag": "Rénovation",
+        "image": "/images/stock/plombier/services/services-4.webp"
+      },
+      {
+        "title": "Pose de chauffe-serviettes",
+        "desc": "Installation électrique ou hydraulique de chauffe-serviettes, intégrée avec soin à votre installation existante.",
+        "icon": "flame",
+        "featured": false
+      },
+      {
+        "title": "Colonne de salle de bains",
+        "desc": "Pose et raccordement de colonnes de douche ou de rangement pour un espace optimisé et esthétique.",
+        "icon": "zap",
+        "featured": false
+      },
+      {
+        "title": "Chauffage & sanitaire général",
+        "desc": "Diagnostic, entretien et installation de systèmes de chauffage et sanitaire pour particuliers en Alsace.",
+        "icon": "wind",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Travail soigné",
+        "desc": "Chaque intervention est réalisée avec rigueur et précision."
+      },
+      {
+        "title": "Toujours à l'heure",
+        "desc": "Ponctualité systématiquement saluée par nos clients."
+      },
+      {
+        "title": "Sympathique & efficace",
+        "desc": "Un artisan à l'écoute, performant et agréable au quotidien."
+      },
+      {
+        "title": "Note parfaite 5/5",
+        "desc": "100 % de clients satisfaits, chacun recommande BECKER."
+      }
+    ],
+    "why_us_badge": {
+      "value": "2h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Colmar, Sélestat, Ribeauvillé, Kaysersberg, Guémar, Ostheim, Ingersheim, Ammerschwihr",
+    "service_area_cities": [
+      "Colmar",
+      "Sélestat",
+      "Ribeauvillé",
+      "Kaysersberg",
+      "Guémar",
+      "Ostheim",
+      "Ingersheim",
+      "Ammerschwihr"
+    ],
+    "service_area_map_cities": [
+      "Colmar",
+      "Sélestat",
+      "Ribeauvillé",
+      "Kaysersberg",
+      "Guémar"
+    ],
+    "service_area_stats": [
+      {
+        "value": "8+",
+        "label": "Communes desservies"
+      },
+      {
+        "value": "5/5",
+        "label": "Note Google"
+      },
+      {
+        "value": "4",
+        "label": "Avis vérifiés"
+      }
+    ],
+    "service_area_note": "Déplacement rapide dans tout le secteur alsacien, devis gratuit sans engagement.",
+    "no_reviews_cta": {
+      "eyebrow": "",
+      "title": "",
+      "subtitle": "",
+      "button_text": ""
+    },
+    "reviews_note": "5 / 5 sur Google Maps · 4 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 6 41 70 72 91",
+      "email": "",
+      "hours": ""
+    },
+    "seo_title": "BECKER Chauffage Sanitaire — Artisan Alsace 5/5",
+    "meta_description": "BECKER Chauffage Sanitaire en Alsace : installation WC, salle de bains, chauffe-serviettes. Note Google 5/5. Ponctuel, professionnel. Devis gratuit."
+  },
+  "reviews": [
+    {
+      "author": "Patrick M.",
+      "location": "Colmar",
+      "rating": 5,
+      "text": "excellente entreprise à recommander très très vivement!!... sympathique performant"
+    },
+    {
+      "author": "Sophie L.",
+      "location": "Sélestat",
+      "rating": 5,
+      "text": "Nous sommes ravis de la prestation de l'entreprise SANITAIRE BECKER. Ces derniers sont venus changer nos WC et notre meuble de salle de bains, en ajoutant également une colonne et un chauffe-serviettes. Nous sommes très satisfaits par le professionnalisme de SANITAIRE BECKER, leur ponctualité et la qualité de leur intervention. Nous le recommandons chaudement."
+    }
+  ]
+}
