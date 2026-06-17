@@ -28,7 +28,16 @@
     "imagery_mood": "professionnel, artisan parisien, confiance"
   },
   "layout": {
-    "sections_order": ["hero","value_prop","services","why_us","service_area","reviews","contact","footer"],
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
     "enabled_blocks": []
   },
   "content": {
@@ -37,12 +46,38 @@
     "value_prop": "Plus de 15 ans d'expérience au service des Parisiens",
     "about": "Plomberie Martin intervient sur tous vos travaux de plomberie, chauffage et sanitaire à Paris et en Île-de-France. Artisan indépendant, nous privilégions la qualité du travail et la transparence des tarifs.",
     "services": [
-      { "title": "Dépannage d'urgence", "desc": "Fuite, canalisation bouchée, coupure d'eau — on intervient en moins de 2h.", "icon": "zap" },
-      { "title": "Installation sanitaire", "desc": "Pose de baignoire, douche, WC, lavabo. Finitions soignées, garantie pièces et main-d'œuvre.", "icon": "droplets" },
-      { "title": "Chauffage & chaudière", "desc": "Entretien, dépannage et remplacement de chaudière gaz, fioul ou pompe à chaleur.", "icon": "flame" },
-      { "title": "Rénovation plomberie", "desc": "Refonte complète de réseaux d'eau pour rénovation d'appartement ou de maison.", "icon": "wrench" },
-      { "title": "Détection de fuite", "desc": "Recherche non destructive avec caméra thermique. Rapport écrit remis après intervention.", "icon": "search" },
-      { "title": "Entretien VMC", "desc": "Nettoyage et vérification de votre ventilation mécanique contrôlée.", "icon": "wind" }
+      {
+        "title": "Dépannage d'urgence",
+        "desc": "Fuite, canalisation bouchée, coupure d'eau — on intervient en moins de 2h.",
+        "icon": "zap",
+        "image": "/images/stock/plombier/services/services-6.webp"
+      },
+      {
+        "title": "Installation sanitaire",
+        "desc": "Pose de baignoire, douche, WC, lavabo. Finitions soignées, garantie pièces et main-d'œuvre.",
+        "icon": "droplets",
+        "image": "/images/stock/plombier/services/services-7.webp"
+      },
+      {
+        "title": "Chauffage & chaudière",
+        "desc": "Entretien, dépannage et remplacement de chaudière gaz, fioul ou pompe à chaleur.",
+        "icon": "flame"
+      },
+      {
+        "title": "Rénovation plomberie",
+        "desc": "Refonte complète de réseaux d'eau pour rénovation d'appartement ou de maison.",
+        "icon": "wrench"
+      },
+      {
+        "title": "Détection de fuite",
+        "desc": "Recherche non destructive avec caméra thermique. Rapport écrit remis après intervention.",
+        "icon": "search"
+      },
+      {
+        "title": "Entretien VMC",
+        "desc": "Nettoyage et vérification de votre ventilation mécanique contrôlée.",
+        "icon": "wind"
+      }
     ],
     "why_us": [
       "Artisan qualifié RGE, éligible aux aides de l'État",
@@ -82,5 +117,9 @@
       "rating": 5,
       "text": "Rénovation complète de la salle de bain. Finitions soignées, équipe ponctuelle et très à l'écoute. Un vrai professionnel de confiance."
     }
-  ]
+  ],
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-5.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-3.webp"
+  }
 }
