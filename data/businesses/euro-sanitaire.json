@@ -49,8 +49,8 @@
     "enabled_blocks": []
   },
   "content": {
-    "hero_title": "Plomberie & chauffage au Kochersberg",
-    "hero_subtitle": "Double compétence plomberie et chauffage, devis transparents et techniciens qualifiés à Wiwersheim.",
+    "hero_title": "Plomberie & chauffage à Wiwersheim",
+    "hero_subtitle": "Techniciens qualifiés, devis chiffré avant intervention, double compétence plomberie et chauffage.",
     "hero_stats": [
       {
         "value": "3.6/5",
@@ -61,110 +61,110 @@
         "label": "avis clients"
       },
       {
-        "value": "5j/7",
-        "label": "disponibilité semaine"
+        "value": "2",
+        "label": "métiers maîtrisés"
       }
     ],
     "reassurance_items": [
       {
-        "title": "Techniciens qualifiés",
-        "subtitle": "Compétences reconnues en chauffage et plomberie"
+        "title": "Techniciens qualifiés sur site",
+        "subtitle": "Une équipe dédiée, pas un artisan isolé"
       },
       {
-        "title": "Prix transparents",
-        "subtitle": "Devis formalisé avant chaque intervention"
+        "title": "Devis systématique & transparent",
+        "subtitle": "Prix chiffré avant toute intervention"
       },
       {
-        "title": "Accueil téléphonique",
-        "subtitle": "Un interlocuteur technique joignable facilement"
+        "title": "Plomberie et chauffage réunis",
+        "subtitle": "Un seul interlocuteur pour deux métiers"
       }
     ],
-    "value_prop": "Euro Sanitaire intervient en plomberie sanitaire et chauffage pour les particuliers de l'ouest strasbourgeois. Implantée à Wiwersheim au cœur du Kochersberg, l'entreprise propose des devis structurés, des techniciens reconnus pour leur compétence et un suivi rigoureux de chaque chantier.",
-    "services_intro": "Plomberie, chauffage, dépannage et conseil pour les particuliers du Kochersberg.",
-    "about": "Euro Sanitaire est une entreprise de plomberie et chauffage établie à Wiwersheim, dans le Kochersberg, à l'ouest de Strasbourg. Elle accompagne les particuliers pour l'installation, l'entretien et le dépannage de leurs équipements sanitaires et de chauffage. Son organisation structurée, avec devis formalisé et techniciens qualifiés, garantit un service fiable et transparent.",
-    "footer_description": "Euro Sanitaire — Plomberie & chauffage à Wiwersheim (67370). Intervention sur Truchtersheim, Mundolsheim, Lampertheim et tout le Kochersberg. Devis gratuit, techniciens qualifiés.",
+    "value_prop": "Euro Sanitaire est une entreprise structurée basée à Wiwersheim, spécialisée en plomberie sanitaire et chauffage. Elle envoie de vrais techniciens qualifiés, fournit un devis clair avant d'intervenir et couvre l'agglomération strasbourgeoise ouest avec des horaires professionnels réguliers.",
+    "services_intro": "Plomberie, chauffage et sanitaire par des techniciens qualifiés.",
+    "about": "Euro Sanitaire est une entreprise de plomberie et de chauffage établie à Wiwersheim, au cœur de l'agglomération strasbourgeoise. Elle intervient chez les particuliers avec une équipe de techniciens dédiés, une approche structurée et un devis systématique avant chaque chantier.",
+    "footer_description": "Euro Sanitaire — Entreprise de plomberie et chauffage à Wiwersheim (67370). Techniciens qualifiés, devis gratuit, intervention sur l'agglomération strasbourgeoise ouest. Tél. : +33 3 88 68 68 38.",
     "services": [
       {
-        "title": "Installation chauffage",
-        "desc": "Pose et mise en service de chaudières, radiateurs et systèmes de chauffage central pour votre confort thermique au quotidien.",
+        "title": "Chauffage",
+        "desc": "Installation, entretien et dépannage de systèmes de chauffage. Nos techniciens qualifiés interviennent pour assurer votre confort thermique toute l'année.",
         "icon": "flame",
         "featured": true,
-        "tag": "Expertise chauffage",
+        "tag": "Expertise technique",
         "image": "/images/stock/plombier/services/services-7.webp"
       },
       {
         "title": "Plomberie sanitaire",
-        "desc": "Installation et rénovation complète de salles de bain, cuisine et équipements sanitaires avec finitions soignées et matériaux durables.",
+        "desc": "Pose, remplacement et réparation de vos équipements sanitaires. Travail soigné, délai respecté et devis établi avant toute intervention.",
         "icon": "droplets",
         "featured": true,
-        "tag": "Installation & rénovation",
+        "tag": "Devis gratuit",
         "image": "/images/stock/plombier/services/services-8.webp"
       },
       {
-        "title": "Entretien & maintenance",
-        "desc": "Entretien régulier de vos équipements de chauffage pour garantir performance et longévité.",
+        "title": "Installation sanitaire",
+        "desc": "Mise en place complète d'équipements sanitaires neufs pour particuliers, dans le respect des normes en vigueur.",
         "icon": "wrench",
         "featured": false
       },
       {
-        "title": "Dépannage & réparation",
-        "desc": "Intervention rapide sur pannes et fuites pour limiter les dégâts et rétablir le confort.",
+        "title": "Dépannage & intervention",
+        "desc": "Intervention rapide sur panne ou fuite. Technicien envoyé sur place avec diagnostic et chiffrage préalable.",
         "icon": "zap",
         "featured": false
       },
       {
         "title": "Devis & conseil",
-        "desc": "Accompagnement téléphonique et devis détaillé avant chaque intervention, sans engagement.",
+        "desc": "Premier contact téléphonique réactif, devis clair et conseils personnalisés pour chaque projet.",
         "icon": "search",
         "featured": false
       }
     ],
     "why_us": [
       {
-        "title": "Techniciens compétents",
-        "desc": "Des professionnels qualifiés reconnus par les clients pour leur sérieux."
+        "title": "Équipe de techniciens",
+        "desc": "Structure professionnelle avec plusieurs techniciens qualifiés sur le terrain"
       },
       {
-        "title": "Prix transparents",
-        "desc": "Devis clair et détaillé avant chaque intervention, sans surprise."
+        "title": "Devis avant intervention",
+        "desc": "Transparence tarifaire systématique, sans surprise sur la facture finale"
       },
       {
         "title": "Double compétence",
-        "desc": "Plomberie et chauffage maîtrisés par une seule équipe de confiance."
+        "desc": "Plomberie et chauffage maîtrisés sous un même toit, un seul contact"
       },
       {
-        "title": "Ancrage local",
-        "desc": "Basés à Wiwersheim, proches de vous dans tout le Kochersberg."
+        "title": "Établissement stable",
+        "desc": "Adresse physique à Wiwersheim, horaires réguliers du lundi au vendredi"
       }
     ],
     "why_us_badge": {
       "value": "2h",
       "label": "délai d'intervention"
     },
-    "service_area": "Wiwersheim, Truchtersheim, Pfettisheim, Hurtigheim, Handschuheim, Ittenheim, Mundolsheim, Lampertheim, Oberhausbergen",
+    "service_area": "Wiwersheim, Truchtersheim, Pfettisheim, Hurtigheim, Ittenheim, Griesheim-sur-Souffel, Mundolsheim, Oberhausbergen, Lampertheim",
     "service_area_cities": [
       "Wiwersheim",
       "Truchtersheim",
       "Pfettisheim",
       "Hurtigheim",
-      "Handschuheim",
       "Ittenheim",
+      "Griesheim-sur-Souffel",
       "Mundolsheim",
-      "Lampertheim",
-      "Oberhausbergen"
+      "Oberhausbergen",
+      "Lampertheim"
     ],
     "service_area_map_cities": [
-      "Truchtersheim",
       "Mundolsheim",
-      "Lampertheim",
-      "Ittenheim",
       "Oberhausbergen",
-      "Hurtigheim"
+      "Truchtersheim",
+      "Ittenheim",
+      "Lampertheim",
+      "Griesheim-sur-Souffel"
     ],
     "service_area_stats": [
       {
         "value": "9",
-        "label": "communes desservies"
+        "label": "communes couvertes"
       },
       {
         "value": "3.6/5",
@@ -175,11 +175,11 @@
         "label": "avis clients"
       }
     ],
-    "service_area_note": "Déplacement rapide dans tout le Kochersberg et l'ouest strasbourgeois, devis gratuit sans engagement.",
+    "service_area_note": "Déplacement dans tout le secteur strasbourgeois ouest, devis gratuit sans engagement sur simple appel.",
     "no_reviews_cta": {
       "eyebrow": "CONFIANCE",
-      "title": "Un spécialiste chauffage & plomberie près de chez vous",
-      "subtitle": "Techniciens qualifiés, devis formalisé et interlocuteur technique disponible : Euro Sanitaire assure un service structuré dans tout le Kochersberg.",
+      "title": "Une entreprise structurée près de chez vous",
+      "subtitle": "Techniciens qualifiés, devis transparent et double compétence plomberie-chauffage pour les particuliers de l'agglomération strasbourgeoise.",
       "button_text": "Demander un devis gratuit"
     },
     "reviews_note": "3.6 / 5 sur Google Maps · 49 avis clients vérifiés",
@@ -190,8 +190,8 @@
       "email": "",
       "hours": "Lun–Ven 8h–12h · 13h–17h"
     },
-    "seo_title": "Plombier Chauffagiste Wiwersheim | Euro Sanitaire",
-    "meta_description": "Euro Sanitaire, plomberie et chauffage à Wiwersheim (67370). Installation, entretien, dépannage. Devis gratuit. Intervention sur tout le Kochersberg."
+    "seo_title": "Plombier Chauffagiste à Wiwersheim — Euro Sanitaire",
+    "meta_description": "Euro Sanitaire à Wiwersheim : plomberie sanitaire et chauffage par des techniciens qualifiés. Devis gratuit, intervention rapide sur l'agglomération strasbourgeoise."
   },
   "reviews": []
 }
