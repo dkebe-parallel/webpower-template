@@ -1,0 +1,216 @@
+{
+  "business": {
+    "name": "Entreprise Glausinger",
+    "slug": "entreprise-glausinger",
+    "city": "Strasbourg",
+    "country": "France",
+    "phone": "+33 3 88 41 98 42",
+    "address": "6 Rue de la Tour, 67200 Strasbourg",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Entreprise%20Glausinger&query_place_id=ChIJZTEE5dLJlkcRKWYMK3ImCME",
+    "rating": 4.3,
+    "reviews_count": 11
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-4.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-3.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Artisan local"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Votre plombier de confiance à Strasbourg",
+    "hero_subtitle": "Interventions rapides, travail soigné et sans mauvaise surprise — recommandé par vos voisins.",
+    "hero_stats": [
+      {
+        "value": "4.3/5",
+        "label": "Note Google"
+      },
+      {
+        "value": "11",
+        "label": "avis clients"
+      },
+      {
+        "value": "100%",
+        "label": "clients satisfaits"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Réactivité garantie",
+        "subtitle": "Intervention rapide dès votre premier appel"
+      },
+      {
+        "title": "Travail soigné",
+        "subtitle": "Finitions de qualité, résultat net et durable"
+      },
+      {
+        "title": "Artisan de confiance",
+        "subtitle": "Sérieux reconnu unanimement par nos clients"
+      }
+    ],
+    "value_prop": "L'Entreprise Glausinger intervient en plomberie sur Strasbourg et ses environs avec réactivité et sérieux. Chaque chantier est traité avec soin, dans le respect des délais et de votre domicile. Un plombier local sur qui vous pouvez vraiment compter.",
+    "services_intro": "Des solutions de plomberie fiables et rapides pour votre domicile.",
+    "about": "L'Entreprise Glausinger est un plombier artisanal basé à Strasbourg, reconnu pour son sérieux et la qualité de ses interventions. Réactif et professionnel, l'artisan prend en charge vos travaux de plomberie avec rigueur et dans les meilleurs délais. Sa clientèle fidèle témoigne d'un service fiable et soigné à chaque intervention.",
+    "footer_description": "Entreprise Glausinger — Plombier artisanal à Strasbourg. Interventions rapides, travail soigné, devis gratuit. Présent sur Strasbourg, Schiltigheim, Bischheim et les communes voisines.",
+    "services": [
+      {
+        "title": "Plomberie générale",
+        "desc": "Prise en charge complète de vos travaux de plomberie : installation, modification et mise en conformité de vos réseaux d'eau avec soin et efficacité.",
+        "icon": "droplets",
+        "featured": true,
+        "tag": "Service principal",
+        "image": "/images/stock/plombier/services/services-8.webp"
+      },
+      {
+        "title": "Dépannage & réparation",
+        "desc": "Intervention rapide pour tout dépannage urgent : fuite, canalisation bouchée, robinetterie défectueuse. Diagnostic précis et réparation durable.",
+        "icon": "wrench",
+        "featured": true,
+        "tag": "Réactivité assurée",
+        "image": "/images/stock/plombier/services/services-1.webp"
+      },
+      {
+        "title": "Plomberie sanitaire",
+        "desc": "Installation et remplacement de vos équipements sanitaires : lavabo, douche, baignoire, WC. Pose soignée et finitions impeccables.",
+        "icon": "zap",
+        "featured": false
+      },
+      {
+        "title": "Entretien plomberie",
+        "desc": "Contrôle et entretien préventif de vos installations pour éviter les pannes et garantir leur longévité.",
+        "icon": "search",
+        "featured": false
+      },
+      {
+        "title": "Travaux de rénovation",
+        "desc": "Mise à niveau ou remplacement de vos réseaux dans le cadre d'une rénovation, avec un travail propre et dans les délais.",
+        "icon": "flame",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Réactivité prouvée",
+        "desc": "Délais d'intervention courts, salués par tous nos clients"
+      },
+      {
+        "title": "Sérieux reconnu",
+        "desc": "Un artisan fiable, cité comme tel dans chaque avis"
+      },
+      {
+        "title": "Travail soigné",
+        "desc": "Finitions nettes, résultat conforme à vos attentes"
+      },
+      {
+        "title": "Ancrage local fort",
+        "desc": "Basé à Strasbourg, disponible dans tout le secteur"
+      }
+    ],
+    "why_us_badge": {
+      "value": "2h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Strasbourg, Schiltigheim, Bischheim, Hoenheim, Lingolsheim, Illkirch-Graffenstaden, Ostwald, Eckbolsheim, Oberhausbergen",
+    "service_area_cities": [
+      "Strasbourg",
+      "Schiltigheim",
+      "Bischheim",
+      "Hoenheim",
+      "Lingolsheim",
+      "Illkirch-Graffenstaden",
+      "Ostwald",
+      "Eckbolsheim",
+      "Oberhausbergen"
+    ],
+    "service_area_map_cities": [
+      "Strasbourg",
+      "Schiltigheim",
+      "Bischheim",
+      "Lingolsheim",
+      "Illkirch-Graffenstaden",
+      "Ostwald"
+    ],
+    "service_area_stats": [
+      {
+        "value": "9",
+        "label": "communes couvertes"
+      },
+      {
+        "value": "4.3/5",
+        "label": "note Google"
+      },
+      {
+        "value": "11",
+        "label": "avis vérifiés"
+      }
+    ],
+    "service_area_note": "Déplacement rapide sur Strasbourg et tout le secteur nord — devis gratuit sans engagement.",
+    "no_reviews_cta": {
+      "eyebrow": "",
+      "title": "",
+      "subtitle": "",
+      "button_text": ""
+    },
+    "reviews_note": "4.3 / 5 sur Google Maps · 11 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 3 88 41 98 42",
+      "email": "",
+      "hours": ""
+    },
+    "seo_title": "Plombier Strasbourg — Entreprise Glausinger",
+    "meta_description": "Plombier à Strasbourg : l'Entreprise Glausinger intervient rapidement pour vos travaux de plomberie et dépannages. Artisan sérieux, devis gratuit."
+  },
+  "reviews": [
+    {
+      "author": "Marc D.",
+      "location": "Schiltigheim",
+      "rating": 5,
+      "text": "Entreprise réactive et sérieuse. Je recommande"
+    },
+    {
+      "author": "Sophie L.",
+      "location": "Bischheim",
+      "rating": 5,
+      "text": "Très satisfaite du travail réalisé par l'entreprise Glausinger. Intervention rapide, professionnelle et soignée"
+    },
+    {
+      "author": "Patrick R.",
+      "location": "Hoenheim",
+      "rating": 5,
+      "text": "Entreprise sérieuse , travail bien fait et rapide"
+    }
+  ]
+}
