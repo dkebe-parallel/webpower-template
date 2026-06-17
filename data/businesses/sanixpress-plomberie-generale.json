@@ -50,7 +50,7 @@
   },
   "content": {
     "hero_title": "Votre plombier au cœur de Strasbourg",
-    "hero_subtitle": "Dépannage et installation sanitaire · Disponible 6j/7 de 9h à 20h · Centre-ville et alentours",
+    "hero_subtitle": "Disponible 6j/7 jusqu'à 20h · Intervention rapide en centre-ville · Contact direct",
     "hero_stats": [
       {
         "value": "5/5",
@@ -61,80 +61,80 @@
         "label": "Disponibilité"
       },
       {
-        "value": "9h–20h",
-        "label": "Horaires étendus"
+        "value": "20h",
+        "label": "Fermeture tardive"
       }
     ],
     "reassurance_items": [
       {
-        "title": "Horaires étendus jusqu'à 20h",
-        "subtitle": "Disponible du lundi au samedi, 9h à 20h"
+        "title": "Centre-ville de Strasbourg",
+        "subtitle": "Basé Quai Kléber, proche de vous"
       },
       {
-        "title": "Au cœur de Strasbourg",
-        "subtitle": "Quai Kléber, pour une réactivité maximale"
+        "title": "Disponible jusqu'à 20h",
+        "subtitle": "6 jours sur 7, samedi inclus"
       },
       {
-        "title": "Contact direct & rapide",
-        "subtitle": "Joignez votre plombier par téléphone mobile"
+        "title": "Contact mobile direct",
+        "subtitle": "Un artisan joignable sans intermédiaire"
       }
     ],
-    "value_prop": "Sanixpress intervient en plomberie générale à Strasbourg et ses environs avec des horaires étendus (9h–20h, 6j/7). Basé au Quai Kléber, en plein centre-ville, nous répondons rapidement à vos besoins : fuites, dépannages, installations sanitaires.",
-    "services_intro": "Dépannage, installation et réparation en plomberie à Strasbourg",
-    "about": "Sanixpress est un plombier de proximité établi au cœur de Strasbourg, Quai Kléber. Nous intervenons en plomberie générale pour particuliers et professionnels, avec des horaires élargis pour s'adapter à votre quotidien. Réactivité et sérieux sont au centre de notre engagement.",
-    "footer_description": "Sanixpress – Plomberie Générale · 3 Quai Kléber, 67000 Strasbourg · Interventions du lundi au samedi de 9h à 20h · Dépannage, installation sanitaire et réparation de fuites dans Strasbourg et ses environs.",
+    "value_prop": "Sanixpress intervient en plomberie générale au cœur de Strasbourg, du lundi au samedi jusqu'à 20h. Basé Quai Kléber, votre plombier de proximité répond rapidement par téléphone et se déplace dans tout le centre-ville et ses environs.",
+    "services_intro": "Interventions en plomberie générale à Strasbourg et alentours.",
+    "about": "Sanixpress est votre plombier de proximité installé en plein centre de Strasbourg, au 3 Quai Kléber. Disponible 6 jours sur 7 jusqu'à 20h, l'entreprise intervient rapidement pour tous vos besoins en plomberie générale. Un contact direct, une réactivité immédiate pour les particuliers et professionnels strasbourgois.",
+    "footer_description": "Sanixpress – Plomberie Générale · 3 Quai Kléber, 67000 Strasbourg · Disponible lun–sam de 9h à 20h · Interventions rapides en plomberie générale dans Strasbourg et ses environs.",
     "services": [
       {
         "title": "Plomberie générale",
-        "desc": "Installation, remplacement et entretien de tous vos équipements de plomberie, réalisés avec soin par un artisan local disponible 6 jours sur 7.",
+        "desc": "Tous travaux de plomberie pour particuliers et professionnels : installation, remplacement et mise aux normes de vos équipements sanitaires.",
         "icon": "wrench",
         "featured": true,
-        "tag": "Service principal",
+        "tag": "Expertise complète",
         "image": "/images/stock/plombier/services/services-3.webp"
       },
       {
         "title": "Dépannage plomberie",
-        "desc": "Intervention rapide sur pannes, fuites ou dysfonctionnements. Horaires étendus jusqu'à 20h pour répondre à vos urgences dans les meilleurs délais.",
+        "desc": "Intervention rapide pour tout dépannage plomberie en centre-ville de Strasbourg. Disponible jusqu'à 20h, 6 jours sur 7.",
         "icon": "zap",
         "featured": true,
-        "tag": "Intervention rapide",
+        "tag": "Réactivité garantie",
         "image": "/images/stock/plombier/services/services-4.webp"
       },
       {
         "title": "Installation sanitaire",
-        "desc": "Pose et raccordement de sanitaires : lavabos, WC, douches et baignoires, dans les règles de l'art.",
+        "desc": "Pose et raccordement de vos équipements sanitaires : lavabo, douche, baignoire, WC et robinetterie.",
         "icon": "droplets",
         "featured": false
       },
       {
         "title": "Réparation de fuites",
-        "desc": "Détection et réparation de fuites apparentes ou cachées pour préserver votre logement des dégâts des eaux.",
+        "desc": "Détection et réparation de fuites d'eau pour préserver vos installations et éviter les dégâts des eaux.",
         "icon": "search",
         "featured": false
       },
       {
-        "title": "Entretien & maintenance",
-        "desc": "Vérification régulière de vos installations pour anticiper les pannes et garantir leur bon fonctionnement.",
+        "title": "Entretien plomberie",
+        "desc": "Vérification et entretien régulier de vos canalisations et équipements pour prévenir les pannes.",
         "icon": "flame",
         "featured": false
       }
     ],
     "why_us": [
       {
-        "title": "Centre-ville de Strasbourg",
-        "desc": "Basé Quai Kléber pour une réactivité maximale sur tout le secteur"
+        "title": "Au cœur de Strasbourg",
+        "desc": "Basé Quai Kléber, idéalement situé pour intervenir vite."
       },
       {
-        "title": "Disponible 6 jours sur 7",
-        "desc": "Du lundi au samedi de 9h à 20h pour s'adapter à votre agenda"
+        "title": "Horaires étendus",
+        "desc": "Ouvert 6j/7 de 9h à 20h, samedi compris."
       },
       {
-        "title": "Note Google 5/5",
-        "desc": "Satisfaction client au cœur de notre démarche artisanale"
+        "title": "Note parfaite 5/5",
+        "desc": "Un service soigné salué par nos clients sur Google."
       },
       {
-        "title": "Contact direct par mobile",
-        "desc": "Joignez votre plombier sans intermédiaire, à tout moment"
+        "title": "Contact direct",
+        "desc": "Un numéro mobile pour joindre l'artisan sans délai."
       }
     ],
     "why_us_badge": {
@@ -164,22 +164,22 @@
     "service_area_stats": [
       {
         "value": "9",
-        "label": "communes desservies"
+        "label": "communes couvertes"
       },
       {
         "value": "5/5",
-        "label": "Note Google"
+        "label": "note Google"
       },
       {
         "value": "6j/7",
-        "label": "Disponibilité"
+        "label": "disponibilité"
       }
     ],
-    "service_area_note": "Déplacement rapide dans tout le secteur strasbourgeois, devis gratuit sans engagement.",
+    "service_area_note": "Déplacement rapide dans Strasbourg et ses communes voisines, devis gratuit sans engagement.",
     "no_reviews_cta": {
       "eyebrow": "CONFIANCE",
-      "title": "Un plombier fiable au cœur de Strasbourg",
-      "subtitle": "Disponible 6 jours sur 7 de 9h à 20h, Sanixpress intervient rapidement en plomberie générale depuis le centre de Strasbourg.",
+      "title": "Un plombier sérieux au cœur de Strasbourg",
+      "subtitle": "Disponible 6j/7 jusqu'à 20h, basé Quai Kléber, Sanixpress intervient rapidement pour tous vos besoins en plomberie.",
       "button_text": "Demander un devis gratuit"
     },
     "reviews_note": "5 / 5 sur Google Maps · 1 avis clients vérifiés",
@@ -190,8 +190,8 @@
       "email": "",
       "hours": "Lun–Sam 9h–20h"
     },
-    "seo_title": "Plombier Strasbourg · Sanixpress Plomberie Générale",
-    "meta_description": "Sanixpress, plombier à Strasbourg (67000) : dépannage, installation sanitaire, réparation de fuites. Disponible 6j/7 de 9h à 20h. Appelez le +33 6 20 93 85 21."
+    "seo_title": "Plombier Strasbourg – Sanixpress Plomberie",
+    "meta_description": "Sanixpress, votre plombier en centre-ville de Strasbourg. Disponible 6j/7 jusqu'à 20h pour dépannage, installation et réparation. Devis gratuit."
   },
   "reviews": []
 }
