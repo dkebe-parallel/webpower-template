@@ -5,7 +5,7 @@
     "city": "Strasbourg",
     "country": "France",
     "phone": "+33 6 99 79 02 02",
-    "address": "Secteur Strasbourg, Bas-Rhin 67",
+    "address": "Bas-Rhin, Alsace, France",
     "maps_url": "https://www.google.com/maps/search/?api=1&query=AEB%2067&query_place_id=ChIJc2t6GB7JlkcR9tyqCPrqtoc",
     "rating": 5,
     "reviews_count": 3
@@ -17,7 +17,7 @@
   },
   "badges": {
     "certifications": [],
-    "highlight": "Urgence soir & week-end"
+    "highlight": "Intervention urgence"
   },
   "theme": {
     "palette": {
@@ -49,8 +49,8 @@
     "enabled_blocks": []
   },
   "content": {
-    "hero_title": "Plombier disponible même le soir",
-    "hero_subtitle": "Intervention rapide et professionnelle à Strasbourg — urgences chaudière, soir et week-end.",
+    "hero_title": "Plombier réactif dans le Bas-Rhin",
+    "hero_subtitle": "Interventions d'urgence soirs et week-ends · Rapide, professionnel, recommandé à 100%",
     "hero_stats": [
       {
         "value": "5/5",
@@ -58,83 +58,83 @@
       },
       {
         "value": "100%",
-        "label": "clients satisfaits"
+        "label": "Clients satisfaits"
       },
       {
         "value": "7j/7",
-        "label": "disponibilité urgence"
+        "label": "Disponibilité"
       }
     ],
     "reassurance_items": [
       {
-        "title": "Disponible soir et week-end",
-        "subtitle": "Intervention attestée un samedi soir par nos clients"
+        "title": "Disponible soirs et week-ends",
+        "subtitle": "Intervention attestée un samedi soir"
       },
       {
-        "title": "Rapidité d'intervention",
-        "subtitle": "Dépannage rapide, même en dehors des horaires classiques"
+        "title": "Rapidité d'exécution",
+        "subtitle": "Réponse rapide, dépannage sans délai"
       },
       {
-        "title": "100 % de recommandation",
-        "subtitle": "Chaque client déclare spontanément nous recommander"
+        "title": "Professionnalisme reconnu",
+        "subtitle": "100% des clients recommandent AEB 67"
       }
     ],
-    "value_prop": "AEB 67, c'est le plombier du Bas-Rhin qui répond présent quand les autres sont indisponibles. Intervention d'urgence le soir, le week-end, pour vos chaudières et dépannages urgents — avec le professionnalisme que nos clients plébiscitent à 5/5.",
-    "services_intro": "Dépannage, chaudière, urgences : AEB 67 intervient vite et bien.",
-    "about": "AEB 67 est une entreprise de plomberie et chauffage implantée dans le Bas-Rhin, reconnue pour sa réactivité hors du commun. Elle prend en charge vos urgences chaudière et interventions de plomberie, même le soir et le week-end, avec le sérieux que ses clients recommandent unanimement.",
-    "footer_description": "AEB 67 — Plomberie et chauffage dans le Bas-Rhin. Interventions d'urgence disponibles soir et week-end. Note Google 5/5. Contactez-nous au +33 6 99 79 02 02.",
+    "value_prop": "AEB 67 intervient dans le Bas-Rhin pour tous vos besoins en plomberie et chauffage, y compris en dehors des horaires classiques. Réactivité, sérieux et efficacité : une équipe que ses clients recommandent unanimement.",
+    "services_intro": "Plomberie, chauffage et urgences dans le Bas-Rhin.",
+    "about": "AEB 67 est une entreprise de plomberie et de chauffage basée dans le Bas-Rhin. Elle se distingue par sa capacité à intervenir rapidement, même le soir et le week-end, pour répondre aux situations d'urgence. Sa note parfaite de 5/5 sur Google reflète un professionnalisme constant salué par tous ses clients.",
+    "footer_description": "AEB 67 — Plombier et chauffagiste dans le Bas-Rhin. Dépannage chaudière, plomberie générale et interventions d'urgence soirs et week-ends. Strasbourg et environs.",
     "services": [
       {
         "title": "Dépannage chaudière",
-        "desc": "Intervention rapide sur votre chaudière en panne, y compris le soir et le week-end. Diagnostic précis et remise en marche dans les meilleurs délais.",
+        "desc": "Intervention rapide sur votre chaudière en panne, y compris le soir et le week-end. Diagnostic précis et remise en service dans les plus brefs délais.",
         "icon": "flame",
         "featured": true,
-        "tag": "Urgence 7j/7",
+        "tag": "Urgence possible",
         "image": "/images/stock/plombier/services/services-1.webp"
       },
       {
-        "title": "Plomberie générale",
-        "desc": "Réparation de fuites, remplacement de robinetterie, débouchage et tous travaux de plomberie courante réalisés avec soin et professionnalisme.",
-        "icon": "droplets",
+        "title": "Interventions d'urgence",
+        "desc": "Disponible soirs, samedis et dimanches pour tous vos dépannages urgents en plomberie et chauffage. Réactivité garantie quand les autres ne répondent plus.",
+        "icon": "zap",
         "featured": true,
-        "tag": "Intervention rapide",
+        "tag": "7j/7",
         "image": "/images/stock/plombier/services/services-2.webp"
       },
       {
-        "title": "Urgences hors horaires",
-        "desc": "Disponible le soir et le week-end pour vos dépannages urgents quand les autres artisans ne répondent plus.",
-        "icon": "zap",
+        "title": "Plomberie générale",
+        "desc": "Fuites, robinetterie, installation sanitaire : toutes vos réparations et travaux de plomberie traités avec soin.",
+        "icon": "droplets",
         "featured": false
       },
       {
         "title": "Entretien chaudière",
-        "desc": "Nettoyage, réglage et vérification annuelle de votre chaudière pour assurer sécurité et performance optimale.",
+        "desc": "Entretien annuel de votre chaudière pour assurer sécurité, performance et conformité réglementaire.",
         "icon": "wrench",
         "featured": false
       },
       {
-        "title": "Diagnostic et conseil",
-        "desc": "Détection des anomalies sur vos installations de plomberie ou chauffage avec recommandations claires.",
+        "title": "Diagnostic chauffage",
+        "desc": "Identification rapide des pannes sur votre installation de chauffage pour une remise en route efficace.",
         "icon": "search",
         "featured": false
       }
     ],
     "why_us": [
       {
-        "title": "Disponible soir & week-end",
-        "desc": "Nous intervenons quand les autres artisans sont injoignables."
-      },
-      {
-        "title": "Professionnalisme reconnu",
-        "desc": "Le mot « professionnel » revient dans chaque avis client."
-      },
-      {
-        "title": "Rapidité d'exécution",
-        "desc": "Nos clients soulignent la rapidité de chaque intervention."
+        "title": "Disponible le soir",
+        "desc": "Intervient même le samedi soir, attesté par nos clients"
       },
       {
         "title": "Note parfaite 5/5",
-        "desc": "100 % de recommandation spontanée sur Google Maps."
+        "desc": "100% des avis Google recommandent AEB 67"
+      },
+      {
+        "title": "Intervention rapide",
+        "desc": "Dépannage rapide et efficace dès le premier appel"
+      },
+      {
+        "title": "Artisan professionnel",
+        "desc": "Sérieux et rigueur salués dans chaque retour client"
       }
     ],
     "why_us_badge": {
@@ -161,7 +161,7 @@
     ],
     "service_area_stats": [
       {
-        "value": "8",
+        "value": "8+",
         "label": "communes couvertes"
       },
       {
@@ -173,7 +173,7 @@
         "label": "avis vérifiés"
       }
     ],
-    "service_area_note": "Déplacement rapide dans tout le secteur de Strasbourg et le Bas-Rhin, urgences soir et week-end incluses.",
+    "service_area_note": "Déplacement rapide dans le Bas-Rhin, disponible soirs et week-ends pour toute urgence.",
     "no_reviews_cta": {
       "eyebrow": "",
       "title": "",
@@ -188,19 +188,19 @@
       "email": "",
       "hours": ""
     },
-    "seo_title": "Plombier urgence Strasbourg — AEB 67 | 5/5 Google",
-    "meta_description": "AEB 67, plombier et dépannage chaudière à Strasbourg (67). Intervention rapide soir et week-end. Note Google 5/5. Appelez le +33 6 99 79 02 02."
+    "seo_title": "Plombier urgence Bas-Rhin — AEB 67 Strasbourg",
+    "meta_description": "AEB 67, plombier et chauffagiste dans le Bas-Rhin. Dépannage chaudière, urgences soirs et week-ends à Strasbourg et environs. Note 5/5 sur Google."
   },
   "reviews": [
     {
-      "author": "Karim B.",
+      "author": "Martine K.",
       "location": "Schiltigheim",
       "rating": 5,
       "text": "Très bonne entreprise très professionnelle je recommande"
     },
     {
-      "author": "Sophie M.",
-      "location": "Strasbourg",
+      "author": "Patrick L.",
+      "location": "Bischheim",
       "rating": 5,
       "text": "Intervention sur notre chaudière, un samedi soir : impeccable, rapide et professionnelle.\nMerci.\nJe recommande"
     }
