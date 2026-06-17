@@ -49,11 +49,11 @@
     "enabled_blocks": []
   },
   "content": {
-    "hero_title": "Réparé une fois, réparé pour de bon",
-    "hero_subtitle": "Plombier-chauffagiste honnête à Strasbourg — interventions durables, conseils sincères, 4.9/5 client.",
+    "hero_title": "Plombier de confiance à Strasbourg",
+    "hero_subtitle": "Interventions durables, conseils honnêtes, zéro récidive — noté 4,9/5 par vos voisins.",
     "hero_stats": [
       {
-        "value": "4.9/5",
+        "value": "4,9/5",
         "label": "note Google"
       },
       {
@@ -62,79 +62,79 @@
       },
       {
         "value": "0",
-        "label": "récidive après intervention"
+        "label": "récidive sur interventions"
       }
     ],
     "reassurance_items": [
       {
-        "title": "Honnêteté garantie",
-        "subtitle": "Conseils vrais, sans pousser à la dépense inutile"
+        "title": "Réparations qui durent",
+        "subtitle": "Une fois réparé, c'est définitivement réglé."
       },
       {
-        "title": "Interventions durables",
-        "subtitle": "Zéro problème récurrent sur ce qui a été réparé"
+        "title": "Conseils sincères",
+        "subtitle": "Recommandations orientées durabilité, sans superflu."
       },
       {
-        "title": "Artisan de confiance",
-        "subtitle": "Clients fidèles qui font appel à lui régulièrement"
+        "title": "Artisan réactif & sérieux",
+        "subtitle": "Efficacité saluée même en cas d'urgence."
       }
     ],
-    "value_prop": "Histoires d'Eaux, c'est un plombier-chauffagiste strasbourgeois qui privilégie la durabilité des installations et l'honnêteté du diagnostic. Pas de réparation de surface : chaque intervention est pensée pour éliminer le problème une bonne fois pour toutes. Résultat : une clientèle fidèle et une note de 4.9/5.",
-    "services_intro": "Plomberie et chauffage à Strasbourg — du dépannage à l'installation complète.",
-    "about": "Histoires d'Eaux est un artisan plombier-chauffagiste installé à Strasbourg, reconnu pour la qualité et la durabilité de ses interventions. Honnête dans ses conseils et rigoureux dans son travail, il accompagne ses clients aussi bien pour des urgences que pour des projets d'installation ou de rénovation.",
-    "footer_description": "Histoires d'Eaux — Plombier-chauffagiste à Strasbourg. Interventions durables, conseils honnêtes et clientèle fidèle depuis la première visite. Devis gratuit, déplacement sur Strasbourg et ses environs.",
+    "value_prop": "Chez Histoires d'Eaux, chaque intervention est pensée pour durer. Plombier-chauffagiste à Strasbourg, Romain privilégie des solutions solides et des conseils honnêtes — ses clients reviennent par choix, jamais pour la même panne.",
+    "services_intro": "Plomberie et chauffage à Strasbourg : dépannage, installation et conseil.",
+    "about": "Histoires d'Eaux est un artisan plombier-chauffagiste basé à Strasbourg, reconnu pour la qualité durable de ses interventions. Que ce soit pour une urgence ou un projet d'installation, chaque client bénéficie d'un accompagnement honnête et de conseils orientés vers la longévité. Une relation de confiance qui fidélise naturellement.",
+    "footer_description": "Histoires d'Eaux — votre plombier-chauffagiste à Strasbourg. Réparations durables, conseils honnêtes et interventions soignées pour particuliers et professionnels du 67.",
     "services": [
       {
-        "title": "Dégâts des eaux",
+        "title": "Réparation dégât des eaux",
+        "desc": "Intervention rapide et efficace sur tout dégât des eaux : diagnostic précis, réparation durable et remise en état de vos installations pour éviter toute récidive.",
         "icon": "droplets",
-        "desc": "Intervention rapide et efficace pour stopper les fuites et réparer les dommages liés aux dégâts des eaux, avec un résultat durable.",
         "featured": true,
-        "tag": "Urgence & réparation",
+        "tag": "Urgence & sinistre",
         "image": "/images/stock/plombier/services/services-7.webp"
       },
       {
-        "title": "Installation plomberie",
+        "title": "Installation de plomberie",
+        "desc": "Remplacement et pose d'équipements sanitaires, tuyauteries et raccordements. Des installations pensées pour tenir dans le temps, avec les meilleurs produits.",
         "icon": "wrench",
-        "desc": "Remplacement et installation de tous vos équipements sanitaires, avec des finitions soignées et des matériaux fiables dans le temps.",
         "featured": true,
-        "tag": "Installation complète",
+        "tag": "Installation & rénovation",
         "image": "/images/stock/plombier/services/services-8.webp"
       },
       {
-        "title": "Dépannage plomberie",
+        "title": "Réparations courantes",
+        "desc": "Fuite, robinet, siphon, chasse d'eau : dépannage rapide de tous vos problèmes de plomberie quotidiens à Strasbourg.",
         "icon": "zap",
-        "desc": "Réparations courantes : robinets, chasses d'eau, canalisations — problème résolu sans retour.",
         "featured": false
       },
       {
-        "title": "Chauffage",
+        "title": "Chauffage & entretien",
+        "desc": "Installation, entretien et dépannage de vos équipements de chauffage pour un confort optimal tout au long de l'année.",
         "icon": "flame",
-        "desc": "Installation et entretien de systèmes de chauffage pour un confort optimal et des économies d'énergie.",
         "featured": false
       },
       {
-        "title": "Diagnostic & conseils",
+        "title": "Conseil & diagnostic",
+        "desc": "Audit de vos installations, conseils personnalisés et recommandations durables pour anticiper les pannes et optimiser vos équipements.",
         "icon": "search",
-        "desc": "Diagnostic précis et recommandations honnêtes pour guider vos choix sans superflu.",
         "featured": false
       }
     ],
     "why_us": [
       {
+        "title": "Zéro récidive",
+        "desc": "Une fois réparé, le problème ne revient plus — garanti par vos voisins."
+      },
+      {
         "title": "Honnêteté totale",
-        "desc": "Conseils transparents, sans surfacturation ni travaux inutiles"
+        "desc": "Des conseils vrais, sans pousser à des dépenses inutiles."
       },
       {
-        "title": "Durabilité prouvée",
-        "desc": "Installations qui tiennent — zéro rappel sur ce qui a été fait"
+        "title": "Clients fidèles",
+        "desc": "Ils font appel à nous régulièrement, par confiance installée."
       },
       {
-        "title": "Réactivité terrain",
-        "desc": "Intervention efficace, même sur les urgences type dégâts des eaux"
-      },
-      {
-        "title": "Relation de confiance",
-        "desc": "Des clients qui reviennent : le meilleur signe de sérieux"
+        "title": "Note 4,9/5",
+        "desc": "10 avis unanimement positifs, reflet d'un travail soigné."
       }
     ],
     "why_us_badge": {
@@ -154,7 +154,6 @@
       "Kehl"
     ],
     "service_area_map_cities": [
-      "Strasbourg",
       "Schiltigheim",
       "Illkirch-Graffenstaden",
       "Ostwald",
@@ -167,15 +166,15 @@
         "label": "communes desservies"
       },
       {
-        "value": "4.9/5",
+        "value": "4,9/5",
         "label": "note Google"
       },
       {
         "value": "10",
-        "label": "avis clients"
+        "label": "avis clients vérifiés"
       }
     ],
-    "service_area_note": "Déplacement rapide sur Strasbourg et ses communes voisines — devis gratuit, sans engagement.",
+    "service_area_note": "Déplacement rapide à Strasbourg et ses environs — devis gratuit sans engagement sur toute la zone.",
     "no_reviews_cta": {
       "eyebrow": "",
       "title": "",
@@ -191,7 +190,7 @@
       "hours": "Lun–Ven 9h–18h"
     },
     "seo_title": "Plombier Chauffagiste Strasbourg — Histoires d'Eaux",
-    "meta_description": "Plombier-chauffagiste à Strasbourg, noté 4.9/5. Dépannage, dégâts des eaux, installation et chauffage. Interventions durables, conseils honnêtes. Devis gratuit."
+    "meta_description": "Plombier-chauffagiste à Strasbourg, noté 4,9/5. Réparations durables, dégât des eaux, installation sanitaire. Devis gratuit — intervention rapide au 67."
   },
   "reviews": [
     {
@@ -201,13 +200,13 @@
       "text": "Plombier très sympathique et plein de bons conseils, honnête, je recommande :)"
     },
     {
-      "author": "Laurent B.",
+      "author": "Laurent D.",
       "location": "Illkirch-Graffenstaden",
       "rating": 5,
       "text": "Un grand merci pour votre efficacité et votre sérieux apportés lors de la réparation de notre dégât des eaux."
     },
     {
-      "author": "Claire D.",
+      "author": "Nathalie B.",
       "location": "Ostwald",
       "rating": 5,
       "text": "Excellent professionnel! Sérieux, compétent, aime le travail bien fait et de qualité ! Il pense à la durabilité des installations et prodigue de bons conseils. Nous faisons appel à lui régulièrement que ce soit pour des réparations ou des changements d'installations : TOUT est Nickel! Et une fois que l'intervention est faite: plus aucun problème sur ce qui a été modifié!\n\nBref je recommande fortement!"
