@@ -49,8 +49,8 @@
     "enabled_blocks": []
   },
   "content": {
-    "hero_title": "Chauffage & plomberie en Picardie",
-    "hero_subtitle": "Spécialiste poêles, plomberie et chauffage — entreprise structurée au service du Vimeu.",
+    "hero_title": "Plombier & poêles dans la Somme",
+    "hero_subtitle": "Spécialiste poêles, plomberie et chauffage au service du Vimeu et du Ponthieu.",
     "hero_stats": [
       {
         "value": "4/5",
@@ -62,59 +62,59 @@
       },
       {
         "value": "SAS",
-        "label": "entreprise établie"
+        "label": "structure professionnelle"
       }
     ],
     "reassurance_items": [
       {
         "title": "Expertise poêles reconnue",
-        "subtitle": "Compétence distinctive validée par les clients"
+        "subtitle": "Spécialité identifiée et saluée par nos clients"
       },
       {
-        "title": "Couverture locale Vimeu",
-        "subtitle": "Proximité sur un territoire rural peu desservi"
+        "title": "Structure SAS fiable",
+        "subtitle": "Solidité et capacité d'intervention supérieures"
       },
       {
-        "title": "Structure sérieuse et pérenne",
-        "subtitle": "SAS organisée, horaires clairs, engagement durable"
+        "title": "Ancrage rural picard",
+        "subtitle": "Proximité sur un territoire peu desservi"
       }
     ],
-    "value_prop": "SAS Deneux est votre artisan plombier-chauffagiste de proximité dans le Vimeu et la vallée de la Somme. Spécialisé dans l'installation de poêles, la plomberie générale et les solutions de chauffage, l'entreprise intervient avec sérieux et savoir-faire reconnu par ses clients.",
-    "services_intro": "Plomberie, chauffage et poêles : des solutions complètes près de chez vous.",
-    "about": "SAS Deneux est une entreprise artisanale implantée à Huchenneville, au cœur de la Picardie maritime. Elle intervient auprès des particuliers et professionnels du Vimeu pour tous leurs besoins en plomberie, chauffage et installation de poêles. Sa structure en SAS témoigne d'une organisation solide et d'un engagement durable sur le territoire.",
-    "footer_description": "SAS Deneux — Plombier-chauffagiste à Huchenneville (80132). Installation de poêles, plomberie générale et chauffage dans le Vimeu et la vallée de la Somme. Entreprise locale, sérieuse et reconnue.",
+    "value_prop": "SAS Deneux est votre artisan plombier-chauffagiste de proximité à Huchenneville. Spécialisé dans l'installation de poêles, la plomberie générale et le chauffage, nous intervenons au plus près des particuliers du Vimeu et du Ponthieu avec sérieux et réactivité.",
+    "services_intro": "Plomberie, chauffage et installation de poêles dans la Somme.",
+    "about": "SAS Deneux est une entreprise artisanale implantée à Huchenneville, dans la Somme, au cœur du Vimeu rural. Spécialisée dans l'installation de poêles, la plomberie générale et le chauffage, elle intervient au service des particuliers du secteur avec rigueur et professionnalisme. Sa structure en SAS témoigne d'une solidité et d'une organisation pensées pour répondre durablement aux besoins de sa clientèle locale.",
+    "footer_description": "SAS Deneux — Plombier-chauffagiste à Huchenneville (Somme). Spécialiste en installation de poêles, plomberie et chauffage pour les particuliers du Vimeu et du Ponthieu.",
     "services": [
       {
         "title": "Installation de poêles",
-        "desc": "Pose et mise en service de poêles à bois ou à granulés, avec un savoir-faire reconnu par les clients de la région du Vimeu.",
+        "desc": "Pose et mise en service de poêles à bois ou à granulés, avec conseils personnalisés pour un chauffage efficace et économique chez vous.",
         "icon": "flame",
         "featured": true,
-        "tag": "Spécialité",
+        "tag": "Spécialité maison",
         "image": "/images/stock/plombier/services/services-4.webp"
       },
       {
         "title": "Plomberie générale",
-        "desc": "Intervention complète sur vos installations sanitaires : dépannage, remplacement, rénovation et mise aux normes pour particuliers et professionnels.",
+        "desc": "Installation, réparation et remplacement de canalisations, robinetterie et équipements sanitaires pour particuliers de la Somme.",
         "icon": "droplets",
         "featured": true,
-        "tag": "Essentiel",
+        "tag": "Intervention rapide",
         "image": "/images/stock/plombier/services/services-5.webp"
       },
       {
         "title": "Chauffage",
-        "desc": "Installation et entretien de systèmes de chauffage adaptés à votre logement en milieu rural picard.",
+        "desc": "Installation et entretien de systèmes de chauffage pour assurer votre confort tout au long de l'année.",
         "icon": "zap",
         "featured": false
       },
       {
-        "title": "Dépannage plomberie",
-        "desc": "Intervention réactive pour fuite, canalisation ou panne sur votre réseau domestique.",
+        "title": "Entretien chaudière",
+        "desc": "Vérification et maintenance de vos équipements pour garantir sécurité et performance optimale.",
         "icon": "wrench",
         "featured": false
       },
       {
-        "title": "Entretien chauffage",
-        "desc": "Vérification et maintenance régulière de vos équipements pour garantir sécurité et performance.",
+        "title": "Diagnostic chauffage",
+        "desc": "Analyse de votre installation pour identifier pannes ou pertes d'efficacité et proposer des solutions adaptées.",
         "icon": "search",
         "featured": false
       }
@@ -122,43 +122,44 @@
     "why_us": [
       {
         "title": "Spécialiste poêles",
-        "desc": "Expertise en installation de poêles reconnue par les clients locaux."
+        "desc": "Une expertise en installation de poêles reconnue par nos clients"
       },
       {
-        "title": "Ancrage territorial",
-        "desc": "Présence locale à Huchenneville, au cœur du Vimeu picard."
+        "title": "Entreprise structurée",
+        "desc": "SAS sérieuse avec horaires réguliers et organisation fiable"
       },
       {
-        "title": "Entreprise organisée",
-        "desc": "Structure SAS sérieuse, horaires fixes, engagement professionnel."
+        "title": "Ancrage local fort",
+        "desc": "Basé à Huchenneville, proche de chaque client du secteur"
       },
       {
-        "title": "Note client solide",
-        "desc": "4/5 sur Google, 9 avis reflétant une satisfaction constante."
+        "title": "Note 4/5 sur Google",
+        "desc": "Satisfaction globale confirmée par 9 avis clients publiés"
       }
     ],
     "why_us_badge": {
       "value": "2h",
       "label": "délai d'intervention"
     },
-    "service_area": "Huchenneville, Abbeville, Moyenneville, Cahon, Cambron, Frucourt, Bellancourt, Arrest, Hallencourt",
+    "service_area": "Huchenneville, Abbeville, Hallencourt, Moyenneville, Tours-en-Vimeu, Pont-Remy, Ailly-le-Haut-Clocher, Liercourt, Cambron",
     "service_area_cities": [
       "Huchenneville",
       "Abbeville",
+      "Hallencourt",
       "Moyenneville",
-      "Cahon",
-      "Cambron",
-      "Frucourt",
-      "Bellancourt",
-      "Arrest",
-      "Hallencourt"
+      "Tours-en-Vimeu",
+      "Pont-Remy",
+      "Ailly-le-Haut-Clocher",
+      "Liercourt",
+      "Cambron"
     ],
     "service_area_map_cities": [
       "Abbeville",
-      "Moyenneville",
       "Hallencourt",
-      "Arrest",
-      "Cambron"
+      "Moyenneville",
+      "Tours-en-Vimeu",
+      "Pont-Remy",
+      "Ailly-le-Haut-Clocher"
     ],
     "service_area_stats": [
       {
@@ -171,14 +172,14 @@
       },
       {
         "value": "9",
-        "label": "avis vérifiés"
+        "label": "avis clients vérifiés"
       }
     ],
-    "service_area_note": "Déplacement rapide dans tout le Vimeu et la vallée de la Somme, devis gratuit sans engagement.",
+    "service_area_note": "Déplacement rapide dans tout le Vimeu et le Ponthieu, devis gratuit sans engagement.",
     "no_reviews_cta": {
       "eyebrow": "CONFIANCE",
-      "title": "Un artisan fiable au cœur du Vimeu",
-      "subtitle": "Entreprise structurée, horaires réguliers et expertise poêles reconnue — SAS Deneux intervient avec sérieux dans tout le secteur.",
+      "title": "Un artisan de confiance dans la Somme",
+      "subtitle": "Structure SAS sérieuse, spécialiste poêles et chauffage, présent au quotidien pour les particuliers du Vimeu et du Ponthieu.",
       "button_text": "Demander un devis gratuit"
     },
     "reviews_note": "4 / 5 sur Google Maps · 9 avis clients vérifiés",
@@ -189,8 +190,8 @@
       "email": "",
       "hours": "Lun–Jeu 8h30–12h15 · 13h30–17h30 · Ven 8h30–12h15 · 13h30–16h15"
     },
-    "seo_title": "Plombier chauffagiste Huchenneville — SAS Deneux",
-    "meta_description": "SAS Deneux, plombier-chauffagiste à Huchenneville (80132). Installation de poêles, plomberie et chauffage dans le Vimeu. Appelez le +33 3 22 32 68 09."
+    "seo_title": "Plombier chauffagiste poêles Huchenneville – SAS Deneux",
+    "meta_description": "SAS Deneux, plombier-chauffagiste à Huchenneville (Somme). Installation de poêles, plomberie et chauffage dans le Vimeu. Appelez le 03 22 32 68 09."
   },
   "reviews": []
 }
