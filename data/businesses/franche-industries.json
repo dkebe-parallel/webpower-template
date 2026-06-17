@@ -1,0 +1,216 @@
+{
+  "business": {
+    "name": "Franche Industries",
+    "slug": "franche-industries",
+    "city": "Paris",
+    "country": "France",
+    "phone": "+33 1 48 78 88 80",
+    "address": "69 Rue de Dunkerque, 75009 Paris",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Franche%20Industries&query_place_id=ChIJyVhjILVv5kcR5LhvMgtEXp8",
+    "rating": 4.1,
+    "reviews_count": 9
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-4.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-4.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Recommandé famille"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Le plombier que Paris recommande",
+    "hero_subtitle": "Interventions rapides, travail impeccable et explications claires à Paris 9e et 10e.",
+    "hero_stats": [
+      {
+        "value": "4.1/5",
+        "label": "Note Google"
+      },
+      {
+        "value": "9",
+        "label": "avis clients"
+      },
+      {
+        "value": "2h",
+        "label": "délai d'intervention"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Travail sérieux et impeccable",
+        "subtitle": "Qualité reconnue, recommandé de famille en famille"
+      },
+      {
+        "title": "Pédagogie et transparence",
+        "subtitle": "Explications claires sur chaque intervention"
+      },
+      {
+        "title": "Réactivité et ponctualité",
+        "subtitle": "Technicien ponctuel, conseils pertinents à chaque fois"
+      }
+    ],
+    "value_prop": "Franche Industries, c'est le plombier parisien que les familles se recommandent depuis des années. Interventions rapides, travail soigné et explications claires : chaque client repart avec la solution et les bons gestes pour l'avenir.",
+    "services_intro": "Plomberie générale, dépannage et entretien à Paris et alentours.",
+    "about": "Franche Industries est un plombier de confiance établi à Paris 9e, intervenant dans les 9e et 10e arrondissements et leurs environs. Reconnue pour la qualité irréprochable de ses prestations, l'entreprise accompagne ses clients avec sérieux, ponctualité et pédagogie à chaque intervention.",
+    "footer_description": "Franche Industries — Plombier à Paris 9e. Dépannage, entretien et intervention sur chauffe-eau. Travail sérieux, explications claires, recommandé par les familles parisiennes depuis des années.",
+    "services": [
+      {
+        "title": "Plomberie générale",
+        "desc": "Dépannage et entretien complet de vos installations de plomberie à Paris. Travail soigné, intervention rapide et conseils pour prévenir les pannes futures.",
+        "icon": "droplets",
+        "featured": true,
+        "tag": "Dépannage & entretien",
+        "image": "/images/stock/plombier/services/services-3.webp"
+      },
+      {
+        "title": "Intervention chauffe-eau",
+        "desc": "Remplacement de bloc secours, entretien et réparation de chauffe-eau. Technicien ponctuel qui vous explique chaque étape et les bons gestes d'entretien.",
+        "icon": "flame",
+        "featured": true,
+        "tag": "Chauffe-eau",
+        "image": "/images/stock/plombier/services/services-4.webp"
+      },
+      {
+        "title": "Diagnostic plomberie",
+        "desc": "Analyse précise de vos problématiques, conseils pertinents et solutions adaptées à votre installation.",
+        "icon": "search",
+        "featured": false
+      },
+      {
+        "title": "Dépannage urgent",
+        "desc": "Intervention rapide sur fuite, canalisation ou panne pour limiter les dégâts et retrouver confort rapidement.",
+        "icon": "zap",
+        "featured": false
+      },
+      {
+        "title": "Entretien & prévention",
+        "desc": "Suivi régulier de vos équipements et conseils d'entretien pour prolonger leur durée de vie.",
+        "icon": "wrench",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Qualité irréprochable",
+        "desc": "Un travail soigné, reconnu supérieur à la concurrence par nos clients."
+      },
+      {
+        "title": "Recommandé de famille",
+        "desc": "Fidélisation intergénérationnelle, confiance transmise depuis des années."
+      },
+      {
+        "title": "Pédagogie unique",
+        "desc": "Explications claires et conseils d'entretien après chaque intervention."
+      },
+      {
+        "title": "Ponctuel et réactif",
+        "desc": "Techniciens ponctuels, interventions rapides et efficaces à Paris."
+      }
+    ],
+    "why_us_badge": {
+      "value": "2h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Paris 9e, Paris 10e, Paris 18e, Paris 2e, Saint-Denis, Aubervilliers, Saint-Ouen, Pantin, Clichy",
+    "service_area_cities": [
+      "Paris 9e",
+      "Paris 10e",
+      "Paris 18e",
+      "Paris 2e",
+      "Saint-Denis",
+      "Aubervilliers",
+      "Saint-Ouen",
+      "Pantin",
+      "Clichy"
+    ],
+    "service_area_map_cities": [
+      "Paris 10e",
+      "Saint-Denis",
+      "Aubervilliers",
+      "Saint-Ouen",
+      "Pantin",
+      "Clichy"
+    ],
+    "service_area_stats": [
+      {
+        "value": "9",
+        "label": "communes desservies"
+      },
+      {
+        "value": "4.1/5",
+        "label": "note Google"
+      },
+      {
+        "value": "9",
+        "label": "avis clients"
+      }
+    ],
+    "service_area_note": "Déplacement rapide dans tout Paris et proche banlieue nord, devis gratuit sans engagement.",
+    "no_reviews_cta": {
+      "eyebrow": "",
+      "title": "",
+      "subtitle": "",
+      "button_text": ""
+    },
+    "reviews_note": "4.1 / 5 sur Google Maps · 9 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 1 48 78 88 80",
+      "email": "",
+      "hours": ""
+    },
+    "seo_title": "Plombier Paris 9e – Franche Industries",
+    "meta_description": "Franche Industries, plombier à Paris 9e et 10e. Dépannage, chauffe-eau, entretien. Interventions rapides, travail impeccable. Appelez au +33 1 48 78 88 80."
+  },
+  "reviews": [
+    {
+      "author": "Sophie M.",
+      "location": "Paris 10e",
+      "rating": 5,
+      "text": "Excellent plombier. Il m'a été recommandé par ma famille, dont il s'occupe depuis des années. Explication claire, son travail est sérieux et impeccable."
+    },
+    {
+      "author": "Thomas R.",
+      "location": "Paris 9e",
+      "rating": 5,
+      "text": "Une intervention rapide et efficace, assortie de conseils pertinents."
+    },
+    {
+      "author": "Claire D.",
+      "location": "Paris 10e",
+      "rating": 5,
+      "text": "Habitant le 10e, nous faisons appel à Franche Industries pour nos problématiques de plomberie. La dernière date, le changement d'un bloc secours sur notre chauffe-eau. Le technicien a été ponctuel et m'a donné toutes les informations dont j'avais besoin pour comprendre l'intervention et bien entretenir mon matériel à l'avenir. L'année dernière, nous étions passés par un autre plombier, qui n'avait ni le niveau de professionnalisme, ni la qualité de la prestation de Franche Industries. Dorénavant, nous préférons passer par Franche Industries : le travail est bien fait et c'est ce qui compte quand on a un problème de plomberie !"
+    }
+  ]
+}
