@@ -17,7 +17,7 @@
   },
   "badges": {
     "certifications": [],
-    "highlight": "Eau & gaz certifié"
+    "highlight": "Travail soigné"
   },
   "theme": {
     "palette": {
@@ -50,19 +50,19 @@
   },
   "content": {
     "hero_title": "Plombier fiable à Strasbourg",
-    "hero_subtitle": "Installations eau & gaz soignées, remplacement de chaudière — 100% de clients satisfaits.",
+    "hero_subtitle": "Installation eau & gaz, changement de chaudière — 5/5 Google, recommandé à 100% par nos clients.",
     "hero_stats": [
       {
         "value": "5/5",
-        "label": "note Google"
+        "label": "Note Google"
       },
       {
         "value": "100%",
-        "label": "clients satisfaits"
+        "label": "Clients satisfaits"
       },
       {
         "value": "2",
-        "label": "avis vérifiés"
+        "label": "Avis vérifiés"
       }
     ],
     "reassurance_items": [
@@ -71,30 +71,30 @@
         "subtitle": "Qualifié de « très fiable » par chaque client"
       },
       {
-        "title": "Interventions impeccables",
-        "subtitle": "Installations propres, parfaitement réalisées"
+        "title": "Installation impeccable",
+        "subtitle": "Travail propre, selon les plans techniques"
       },
       {
-        "title": "Conseil & coordination",
-        "subtitle": "Travail en accord avec vos autres artisans"
+        "title": "Conseil expert",
+        "subtitle": "Un plombier de bon conseil pour vos projets"
       }
     ],
-    "value_prop": "Zéro Zéro Fuite intervient à Strasbourg pour vos installations de plomberie eau et gaz, vos raccordements de cuisine et vos remplacements de chaudière. Fiabilité, propreté d'exécution et rigueur technique sont la signature de chaque chantier.",
-    "services_intro": "Plomberie eau & gaz, chaudière et rénovation à Strasbourg.",
-    "about": "Zéro Zéro Fuite est votre plombier de confiance à Strasbourg, spécialisé dans les installations soignées et les remplacements de chaudière en maison individuelle. Chaque intervention est réalisée avec rigueur, en coordination avec les autres corps de métier si nécessaire. Une adresse fiable pour tous vos projets de plomberie eau et gaz.",
-    "footer_description": "Zéro Zéro Fuite — Plombier à Strasbourg, spécialiste des installations eau & gaz et du remplacement de chaudière. Interventions soignées, fiables et coordonnées avec vos autres artisans.",
+    "value_prop": "Zéro Zéro Fuite intervient à Strasbourg pour vos installations de plomberie et de gaz, vos changements de chaudière et vos rénovations. Fiabilité, propreté d'exécution et qualité de conseil : une recommandation à 100% par nos clients.",
+    "services_intro": "Plomberie, gaz et chauffage pour particuliers et professionnels.",
+    "about": "Zéro Zéro Fuite est un artisan plombier basé à Strasbourg, reconnu pour la qualité et la propreté de ses installations en plomberie et en gaz. Intervenant aussi bien en neuf qu'en rénovation, il assure des travaux fiables, coordonnés avec les autres corps de métier selon vos plans techniques.",
+    "footer_description": "Zéro Zéro Fuite — Plombier artisan à Strasbourg. Installation eau & gaz, chaudière, rénovation. Fiable, soigné, recommandé à 100%. Strasbourg et agglomération.",
     "services": [
       {
         "title": "Installation cuisine eau & gaz",
-        "desc": "Raccordement eau et gaz selon les plans techniques de votre cuisiniste, pour une installation propre et conforme dès la première intervention.",
+        "desc": "Raccordements eau et gaz réalisés selon les plans techniques de votre cuisiniste, pour une installation propre et conforme.",
         "icon": "droplets",
         "featured": true,
-        "tag": "Cuisine & rénovation",
+        "tag": "Expertise technique",
         "image": "/images/stock/plombier/services/services-4.webp"
       },
       {
-        "title": "Remplacement de chaudière",
-        "desc": "Changement de chaudière en maison individuelle réalisé avec soin, dans le cadre de rénovations ou de mises à niveau de votre installation.",
+        "title": "Changement de chaudière",
+        "desc": "Remplacement et installation de chaudière en maison individuelle ou appartement, dans le cadre d'une rénovation ou d'un remplacement.",
         "icon": "flame",
         "featured": true,
         "tag": "Chauffage",
@@ -102,46 +102,46 @@
       },
       {
         "title": "Plomberie en rénovation",
-        "desc": "Mise en œuvre complète des réseaux eau et gaz lors de rénovations de logements individuels.",
+        "desc": "Mise aux normes et réfection des réseaux d'eau lors de vos travaux de rénovation.",
         "icon": "wrench",
         "featured": false
       },
       {
-        "title": "Raccordement sur plans",
-        "desc": "Réalisation des installations en stricte conformité avec les plans techniques fournis par vos prestataires.",
-        "icon": "search",
+        "title": "Raccordements techniques gaz",
+        "desc": "Pose et raccordements gaz selon plans, en coordination avec cuisinistes ou autres artisans.",
+        "icon": "zap",
         "featured": false
       },
       {
         "title": "Dépannage plomberie",
-        "desc": "Intervention rapide pour vos problèmes de fuite ou de panne sur vos installations eau et gaz.",
-        "icon": "zap",
+        "desc": "Intervention rapide pour tout problème de fuite ou de dysfonctionnement sur vos installations.",
+        "icon": "search",
         "featured": false
       }
     ],
     "why_us": [
       {
-        "title": "Fiabilité absolue",
-        "desc": "Chaque client souligne la fiabilité sans faille de nos interventions."
+        "title": "Fiabilité garantie",
+        "desc": "Un artisan qualifié de « très fiable » par chaque client."
       },
       {
-        "title": "Travail soigné",
-        "desc": "Des installations propres et parfaitement réalisées à chaque fois."
+        "title": "Installations soignées",
+        "desc": "Travail propre, précis, sans nuisances après chantier."
       },
       {
-        "title": "Double compétence",
-        "desc": "Eau et gaz maîtrisés pour des chantiers complets en une visite."
+        "title": "Conseil personnalisé",
+        "desc": "Recommandations claires pour orienter vos choix."
       },
       {
-        "title": "Bon conseil",
-        "desc": "Des recommandations claires pour guider vos choix techniques."
+        "title": "Coordination chantier",
+        "desc": "Intervient en lien avec cuisinistes et autres corps de métier."
       }
     ],
     "why_us_badge": {
       "value": "2h",
       "label": "délai d'intervention"
     },
-    "service_area": "Strasbourg, Schiltigheim, Illkirch-Graffenstaden, Lingolsheim, Ostwald, Bischheim, Hoenheim, Oberhausbergen, Eckbolsheim",
+    "service_area": "Strasbourg, Schiltigheim, Illkirch-Graffenstaden, Lingolsheim, Ostwald, Bischheim, Hoenheim, Eckbolsheim, Geispolsheim",
     "service_area_cities": [
       "Strasbourg",
       "Schiltigheim",
@@ -150,16 +150,15 @@
       "Ostwald",
       "Bischheim",
       "Hoenheim",
-      "Oberhausbergen",
-      "Eckbolsheim"
+      "Eckbolsheim",
+      "Geispolsheim"
     ],
     "service_area_map_cities": [
       "Schiltigheim",
       "Illkirch-Graffenstaden",
-      "Lingolsheim",
       "Ostwald",
       "Bischheim",
-      "Hoenheim"
+      "Geispolsheim"
     ],
     "service_area_stats": [
       {
@@ -175,7 +174,7 @@
         "label": "avis clients vérifiés"
       }
     ],
-    "service_area_note": "Déplacement rapide sur Strasbourg et ses communes voisines — devis gratuit sans engagement.",
+    "service_area_note": "Déplacement rapide dans toute l'agglomération strasbourgeoise, devis gratuit sans engagement.",
     "no_reviews_cta": {
       "eyebrow": "",
       "title": "",
@@ -190,18 +189,18 @@
       "email": "",
       "hours": ""
     },
-    "seo_title": "Plombier Strasbourg — Zéro Zéro Fuite",
-    "meta_description": "Plombier fiable à Strasbourg : installation eau & gaz, remplacement de chaudière, rénovation. Interventions soignées, note 5/5 Google. Devis gratuit."
+    "seo_title": "Plombier Strasbourg — Zéro Zéro Fuite | 5/5",
+    "meta_description": "Plombier artisan à Strasbourg : installation eau & gaz, chaudière, rénovation. Note 5/5 Google, recommandé à 100%. Devis gratuit — Zéro Zéro Fuite."
   },
   "reviews": [
     {
-      "author": "Marie L.",
+      "author": "Sophie D.",
       "location": "Schiltigheim",
       "rating": 5,
       "text": "Je recommande 100% cette entreprise : ils sont intervenus chez nous avant le cuisiniste et ils ont réalisé les installations d'eau et de gaz suivant les plans techniques du cuisiniste. Très fiable, sérieux. Installation très propre."
     },
     {
-      "author": "Thomas B.",
+      "author": "Marc L.",
       "location": "Illkirch-Graffenstaden",
       "rating": 5,
       "text": "Changement de chaudière en maison individuelle parfaitement réalisé dans le cadre d'une rénovation. Plombier très fiable et de très bon conseil. Chaudement recommandé !"
