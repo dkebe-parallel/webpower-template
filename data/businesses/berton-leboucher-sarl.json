@@ -50,121 +50,121 @@
   },
   "content": {
     "hero_title": "Votre plombier de confiance à Nantes",
-    "hero_subtitle": "Dépannage rapide, urgences fuites et pannes, clients fidèles depuis plus de 8 ans.",
+    "hero_subtitle": "Dépannage rapide, intervention pro, clients fidèles depuis des années.",
     "hero_stats": [
       {
         "value": "4.3/5",
-        "label": "note Google"
+        "label": "Note Google"
       },
       {
         "value": "8 ans",
-        "label": "de fidélité client"
+        "label": "Fidélité client"
       },
       {
-        "value": "1h",
-        "label": "délai d'intervention"
+        "value": "< 2h",
+        "label": "Délai d'intervention"
       }
     ],
     "reassurance_items": [
       {
-        "title": "Réactivité en urgence",
-        "subtitle": "Dépannage rapide fuites et pannes à Nantes"
+        "title": "Réactivité en toute urgence",
+        "subtitle": "Dépannage rapide fuites et pannes"
       },
       {
-        "title": "Clients fidèles depuis 8 ans",
-        "subtitle": "Une confiance durable attestée par nos clients"
+        "title": "Clients fidèles sur le long terme",
+        "subtitle": "Une confiance bâtie sur des années"
       },
       {
-        "title": "SARL sérieuse et pérenne",
-        "subtitle": "Structure établie, professionnalisme reconnu"
+        "title": "Structure sérieuse et pérenne",
+        "subtitle": "SARL établie, professionnalisme garanti"
       }
     ],
-    "value_prop": "Berton Leboucher SARL est votre plombier de référence à Nantes. Reconnus pour leur réactivité exceptionnelle en urgence, ils interviennent rapidement sur vos fuites et pannes. Leurs clients leur font confiance depuis plus de 8 ans.",
-    "services_intro": "Plomberie, dépannage urgence et entretien à Nantes et alentours.",
-    "about": "Berton Leboucher SARL est une entreprise de plomberie établie à Nantes, reconnue pour sa réactivité et son sérieux. Spécialisée dans le dépannage en urgence, l'installation et l'entretien, elle intervient rapidement chez ses clients particuliers et professionnels. Sa fidélisation client sur le long terme témoigne d'un savoir-faire solide et d'un engagement constant.",
-    "footer_description": "Berton Leboucher SARL — Plombier à Nantes. Dépannage urgence, installation et entretien plomberie. Intervention rapide sur fuites et pannes. 14 Rue du Moulin de la Garde, 44300 Nantes.",
+    "value_prop": "Berton Leboucher SARL intervient à Nantes pour tous vos besoins en plomberie : dépannage d'urgence, installation et entretien. Reconnus pour leur réactivité et leur sérieux, ils fidélisent leurs clients sur le long terme grâce à un service fiable et professionnel.",
+    "services_intro": "Plomberie complète à Nantes : urgence, installation et entretien.",
+    "about": "Berton Leboucher SARL est une entreprise de plomberie implantée à Nantes, reconnue pour sa réactivité et son professionnalisme. Spécialisée dans le dépannage d'urgence et la plomberie générale, elle intervient rapidement chez ses clients. Sa structure en SARL témoigne d'un engagement durable au service de la satisfaction client.",
+    "footer_description": "Berton Leboucher SARL — Plombier à Nantes. Dépannage d'urgence, installation et entretien. Réactivité et professionnalisme au service de vos projets plomberie à Nantes et alentours.",
     "services": [
       {
-        "title": "Dépannage urgence plomberie",
-        "desc": "Intervention rapide en cas de fuite ou panne, disponible dans les meilleurs délais à Nantes et dans tout le secteur pour limiter les dégâts.",
+        "title": "Dépannage plomberie urgence",
+        "desc": "Intervention rapide en cas de fuite ou de panne. Nous nous déplaçons en priorité pour limiter les dégâts et rétablir vos équipements dans les plus brefs délais.",
         "icon": "zap",
         "featured": true,
-        "tag": "Urgence",
+        "tag": "Urgence 24h",
         "image": "/images/stock/plombier/services/services-6.webp"
       },
       {
         "title": "Plomberie générale",
-        "desc": "Installation et réparation de tous vos équipements sanitaires et réseaux d'eau, réalisées avec soin et professionnalisme par nos équipes qualifiées.",
+        "desc": "Installation et réparation de tous vos équipements sanitaires et canalisations. Un service complet pour particuliers et professionnels à Nantes et ses environs.",
         "icon": "wrench",
         "featured": true,
-        "tag": "Installation",
+        "tag": "Installation & Réparation",
         "image": "/images/stock/plombier/services/services-7.webp"
       },
       {
         "title": "Entretien plomberie",
-        "desc": "Maintenance préventive de vos installations pour éviter les pannes et prolonger la durée de vie de vos équipements.",
+        "desc": "Maintenance régulière de vos installations pour prévenir les pannes et prolonger leur durée de vie.",
         "icon": "search",
         "featured": false
       },
       {
-        "title": "Détection de fuites",
-        "desc": "Localisation précise des fuites invisibles pour une réparation ciblée et efficace, sans travaux inutiles.",
+        "title": "Réparation de fuites",
+        "desc": "Détection et réparation de toutes fuites, qu'elles soient visibles ou dissimulées dans vos murs.",
         "icon": "droplets",
         "featured": false
       },
       {
-        "title": "Réparation canalisations",
-        "desc": "Réparation et remplacement de canalisations défectueuses pour un réseau fiable et durable.",
-        "icon": "wind",
+        "title": "Remplacement équipements",
+        "desc": "Remplacement de robinetterie, chauffe-eau et équipements sanitaires défectueux ou vétustes.",
+        "icon": "flame",
         "featured": false
       }
     ],
     "why_us": [
       {
         "title": "Réactivité prouvée",
-        "desc": "Dépannage rapide reconnu par nos clients en cas d'urgence"
+        "desc": "Dépannage rapide en cas de fuite ou de panne urgente"
       },
       {
-        "title": "Fidélité sur 8 ans",
-        "desc": "Des clients qui nous font confiance depuis plus de 8 ans"
+        "title": "Clients fidèles",
+        "desc": "Des clients qui font appel à nous depuis 8 ans"
       },
       {
         "title": "Professionnalisme reconnu",
         "desc": "Qualifiés de « très réactifs et pro » par nos clients"
       },
       {
-        "title": "Structure SARL solide",
-        "desc": "Une entreprise établie, sérieuse et durable à Nantes"
+        "title": "Entreprise de confiance",
+        "desc": "SARL établie, sérieuse et pérenne à Nantes"
       }
     ],
     "why_us_badge": {
-      "value": "1h",
+      "value": "2h",
       "label": "délai d'intervention"
     },
-    "service_area": "Nantes, Rezé, Saint-Herblain, Vertou, Orvault, Bouguenais, Carquefou, Sainte-Luce-sur-Loire, Thouaré-sur-Loire",
+    "service_area": "Nantes, Saint-Herblain, Rezé, Orvault, Vertou, Bouguenais, Carquefou, Sainte-Luce-sur-Loire, La Chapelle-sur-Erdre",
     "service_area_cities": [
       "Nantes",
-      "Rezé",
       "Saint-Herblain",
-      "Vertou",
+      "Rezé",
       "Orvault",
+      "Vertou",
       "Bouguenais",
       "Carquefou",
       "Sainte-Luce-sur-Loire",
-      "Thouaré-sur-Loire"
+      "La Chapelle-sur-Erdre"
     ],
     "service_area_map_cities": [
-      "Nantes",
       "Saint-Herblain",
       "Rezé",
       "Orvault",
+      "Vertou",
       "Carquefou",
-      "Vertou"
+      "La Chapelle-sur-Erdre"
     ],
     "service_area_stats": [
       {
         "value": "9",
-        "label": "communes desservies"
+        "label": "communes couvertes"
       },
       {
         "value": "4.3/5",
@@ -175,7 +175,7 @@
         "label": "avis clients"
       }
     ],
-    "service_area_note": "Intervention rapide à Nantes et dans tout le secteur, devis gratuit sans engagement.",
+    "service_area_note": "Déplacement rapide à Nantes et dans toute l'agglomération nantaise, devis gratuit sans engagement.",
     "no_reviews_cta": {
       "eyebrow": "",
       "title": "",
@@ -191,11 +191,11 @@
       "hours": "Lun–Jeu 8h–18h · Ven 8h–17h30"
     },
     "seo_title": "Plombier Nantes — Berton Leboucher SARL",
-    "meta_description": "Plombier à Nantes : dépannage urgence, fuites, pannes et installation. Berton Leboucher SARL, réactifs et professionnels. Appelez le +33 2 40 30 16 85."
+    "meta_description": "Plombier à Nantes : dépannage urgence, installation et entretien. Berton Leboucher SARL, réactifs et professionnels. Appelez le +33 2 40 30 16 85."
   },
   "reviews": [
     {
-      "author": "Martine L.",
+      "author": "Christine L.",
       "location": "Rezé",
       "rating": 5,
       "text": "8 ans que nous leur faisons appel, très réactifs et pro, dépannage rapide en cas de panne ou fuite, je recommande !"
