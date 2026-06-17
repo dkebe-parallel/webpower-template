@@ -17,7 +17,7 @@
   },
   "badges": {
     "certifications": [],
-    "highlight": "Artisan local"
+    "highlight": "Spécialiste chaudières"
   },
   "theme": {
     "palette": {
@@ -49,72 +49,72 @@
     "enabled_blocks": []
   },
   "content": {
-    "hero_title": "Spécialiste chaudière à Rennes",
-    "hero_subtitle": "Installation, entretien et dépannage de chaudières — votre expert local du lundi au vendredi.",
+    "hero_title": "Spécialiste chaudières à Rennes",
+    "hero_subtitle": "Installation, entretien et dépannage — un expert dédié, pas un généraliste.",
     "hero_stats": [
       {
         "value": "3.6/5",
-        "label": "Note Google"
+        "label": "note Google"
       },
       {
-        "value": "5j/5",
-        "label": "Disponibilité semaine"
+        "value": "12",
+        "label": "avis clients"
       },
       {
         "value": "2h",
-        "label": "Délai d'intervention"
+        "label": "délai d'intervention"
       }
     ],
     "reassurance_items": [
       {
-        "title": "Spécialiste chaudière",
-        "subtitle": "Niche technique rare, centrée sur le chauffage"
+        "title": "Spécialiste chaudières",
+        "subtitle": "Un expert dédié, pas un plombier généraliste"
       },
       {
         "title": "Présence locale à Rennes",
-        "subtitle": "Adresse physique au cœur de l'agglomération"
+        "subtitle": "Adresse physique dans votre quartier"
       },
       {
-        "title": "Horaires structurés & fiables",
-        "subtitle": "Lun–Ven 8h–12h et 14h–18h, sans interruption"
+        "title": "Horaires structurés",
+        "subtitle": "Du lundi au vendredi, 8h–12h et 14h–18h"
       }
     ],
-    "value_prop": "Pannetier HVE est votre interlocuteur unique pour la chaudière à Rennes : installation, entretien annuel et dépannage rapide. Spécialiste de proximité, l'entreprise intervient du lundi au vendredi avec des horaires clairs et un engagement technique sérieux.",
-    "services_intro": "Tous vos besoins chaudière et chauffage pris en charge à Rennes.",
-    "about": "Pannetier HVE est une entreprise artisanale rennaise spécialisée dans les chaudières et les systèmes de chauffage. Implantée au 5 Allée de la Bourgonnette à Rennes, elle accompagne particuliers et professionnels pour l'installation, l'entretien et le dépannage. Son positionnement de niche en fait un interlocuteur technique fiable dans l'agglomération rennaise.",
-    "footer_description": "Pannetier HVE – Spécialiste chaudière à Rennes. Installation, entretien et dépannage de systèmes de chauffage. Artisan local au 5 Allée de la Bourgonnette, 35000 Rennes.",
+    "value_prop": "Pannetier HVE est votre interlocuteur dédié pour tout ce qui concerne vos chaudières à Rennes. Installation, entretien annuel ou dépannage urgent : une spécialisation technique affirmée dès le nom, une adresse de proximité et des horaires clairs pour vous répondre.",
+    "services_intro": "Installation, entretien et dépannage de chaudières à Rennes.",
+    "about": "Pannetier HVE est un spécialiste des chaudières et du chauffage basé au cœur de Rennes. L'entreprise intervient pour l'installation, l'entretien et le remplacement de vos équipements de chauffage. Une approche de niche qui garantit une expertise technique ciblée pour chaque intervention.",
+    "footer_description": "Pannetier HVE — Spécialiste chaudières et chauffage à Rennes. Installation, entretien, dépannage et remplacement. 5 allée de la Bourgonnette, 35000 Rennes.",
     "services": [
       {
         "title": "Installation de chaudières",
-        "desc": "Pose et mise en service de chaudières neuves adaptées à votre logement, avec conseils personnalisés pour optimiser votre confort et votre consommation énergétique.",
+        "desc": "Pose et mise en service de chaudières neuves, adaptées à votre logement et à vos besoins énergétiques, par un spécialiste dédié à Rennes.",
         "icon": "flame",
         "featured": true,
-        "tag": "Service phare",
+        "tag": "Notre cœur de métier",
         "image": "/images/stock/plombier/services/services-2.webp"
       },
       {
         "title": "Entretien chaudière",
-        "desc": "Entretien annuel obligatoire de votre chaudière réalisé par un technicien spécialisé : nettoyage, réglages, vérification de sécurité et remise d'attestation.",
+        "desc": "Contrat d'entretien annuel pour garantir la performance, la sécurité et la longévité de votre chaudière tout au long de l'année.",
         "icon": "wrench",
         "featured": true,
-        "tag": "Obligatoire",
+        "tag": "Maintenance préventive",
         "image": "/images/stock/plombier/services/services-3.webp"
       },
       {
         "title": "Dépannage chauffage",
-        "desc": "Intervention rapide en cas de panne ou de dysfonctionnement de votre installation de chauffage à Rennes et environs.",
+        "desc": "Intervention rapide en cas de panne ou dysfonctionnement de votre système de chauffage à Rennes et alentours.",
         "icon": "zap",
         "featured": false
       },
       {
-        "title": "Remplacement de chaudière",
-        "desc": "Remplacement de votre ancienne chaudière par un modèle performant, avec dépose de l'existant et mise en conformité complète.",
+        "title": "Remplacement chaudières",
+        "desc": "Remplacement de votre ancienne chaudière par un modèle performant et économique, avec conseils personnalisés.",
         "icon": "search",
         "featured": false
       },
       {
         "title": "Plomberie générale",
-        "desc": "Interventions de plomberie courante en complément de vos travaux de chauffage : robinetterie, raccordements et canalisations.",
+        "desc": "Interventions de plomberie courante en complément de vos projets chauffage pour une prise en charge globale.",
         "icon": "droplets",
         "featured": false
       }
@@ -122,41 +122,41 @@
     "why_us": [
       {
         "title": "Spécialiste chaudières",
-        "desc": "Un savoir-faire centré sur les chaudières, au-delà du généraliste."
+        "desc": "Expert dédié, pas un généraliste dispersé sur tous les corps de métier."
       },
       {
         "title": "Ancrage local Rennes",
-        "desc": "Entreprise installée physiquement à Rennes, disponible en semaine."
+        "desc": "Adresse physique vérifiable, proche de vos besoins quotidiens."
       },
       {
-        "title": "Horaires réguliers",
-        "desc": "Du lundi au vendredi, 8h–12h et 14h–18h, sans exception."
+        "title": "Horaires professionnels",
+        "desc": "Du lundi au vendredi, sans interruption de service imprévue."
       },
       {
-        "title": "Interlocuteur unique",
-        "desc": "Un seul contact pour l'installation, l'entretien et le dépannage."
+        "title": "Activité cliente réelle",
+        "desc": "Présence Google avec avis et photos attestant d'interventions concrètes."
       }
     ],
     "why_us_badge": {
       "value": "2h",
       "label": "délai d'intervention"
     },
-    "service_area": "Rennes, Saint-Grégoire, Cesson-Sévigné, Chantepie, Saint-Jacques-de-la-Lande, Bruz, Vezin-le-Coquet, Pacé, Betton",
+    "service_area": "Rennes, Saint-Grégoire, Cesson-Sévigné, Chantepie, Bruz, Saint-Jacques-de-la-Lande, Vezin-le-Coquet, Pacé, Betton",
     "service_area_cities": [
       "Rennes",
       "Saint-Grégoire",
       "Cesson-Sévigné",
       "Chantepie",
-      "Saint-Jacques-de-la-Lande",
       "Bruz",
+      "Saint-Jacques-de-la-Lande",
       "Vezin-le-Coquet",
       "Pacé",
       "Betton"
     ],
     "service_area_map_cities": [
-      "Rennes",
-      "Cesson-Sévigné",
       "Saint-Grégoire",
+      "Cesson-Sévigné",
+      "Chantepie",
       "Bruz",
       "Pacé",
       "Betton"
@@ -175,11 +175,11 @@
         "label": "avis clients"
       }
     ],
-    "service_area_note": "Déplacement rapide à Rennes et dans toute l'agglomération, devis gratuit sans engagement.",
+    "service_area_note": "Déplacement rapide sur Rennes et communes voisines — devis gratuit sans engagement pour votre chaudière.",
     "no_reviews_cta": {
       "eyebrow": "CONFIANCE",
-      "title": "Un spécialiste chaudière à votre service",
-      "subtitle": "Entreprise locale à Rennes, disponible du lundi au vendredi pour tout besoin en installation, entretien ou dépannage de chaudière.",
+      "title": "Un spécialiste chaudières ancré à Rennes",
+      "subtitle": "Implantation locale, horaires structurés et expertise technique dédiée aux chaudières pour vous accompagner sereinement.",
       "button_text": "Demander un devis gratuit"
     },
     "reviews_note": "3.6 / 5 sur Google Maps · 12 avis clients vérifiés",
@@ -190,8 +190,8 @@
       "email": "",
       "hours": "Lun–Ven 8h–12h · 14h–18h"
     },
-    "seo_title": "Spécialiste Chaudière Rennes | Pannetier HVE",
-    "meta_description": "Pannetier HVE, spécialiste chaudière à Rennes : installation, entretien annuel et dépannage rapide. Artisan local disponible lun–ven. Devis gratuit."
+    "seo_title": "Spécialiste chaudières Rennes — Pannetier HVE",
+    "meta_description": "Pannetier HVE, spécialiste chaudières à Rennes : installation, entretien et dépannage. Intervention rapide, adresse locale. Appelez au 02 99 32 16 28."
   },
   "reviews": []
 }
