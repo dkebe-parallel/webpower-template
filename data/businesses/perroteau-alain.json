@@ -1,0 +1,204 @@
+{
+  "business": {
+    "name": "Perroteau Alain",
+    "slug": "perroteau-alain",
+    "city": "Saint-Jacques-de-la-Lande",
+    "country": "France",
+    "phone": "+33 2 99 65 10 28",
+    "address": "128 Rue du Temple de Blosne, 35136 Saint-Jacques-de-la-Lande",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Perroteau%20Alain&query_place_id=ChIJ97D4wAzgDkgRY_IjiXgAkHQ",
+    "rating": 2.5,
+    "reviews_count": 2
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-2.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-3.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "30 ans de métier"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Plombier à Saint-Jacques, 30 ans de métier",
+    "hero_subtitle": "Travail soigné, artisan indépendant, contact direct — à votre service depuis 30 ans.",
+    "hero_stats": [
+      {
+        "value": "30 ans",
+        "label": "d'expérience"
+      },
+      {
+        "value": "2.5/5",
+        "label": "note Google"
+      },
+      {
+        "value": "100%",
+        "label": "artisan indépendant"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Travail soigné et maîtrisé",
+        "subtitle": "Un savoir-faire reconnu par ses clients"
+      },
+      {
+        "title": "30 ans d'ancienneté",
+        "subtitle": "Une expérience éprouvée dans le métier"
+      },
+      {
+        "title": "Contact direct avec l'artisan",
+        "subtitle": "Pas d'intermédiaire, un seul interlocuteur"
+      }
+    ],
+    "value_prop": "Alain Perroteau est plombier indépendant à Saint-Jacques-de-la-Lande depuis 30 ans. Reconnu pour la qualité soignée de ses interventions et sa maîtrise du métier, il intervient en direct pour tous vos travaux de plomberie, sans intermédiaire.",
+    "services_intro": "Des prestations de plomberie soignées, assurées par un artisan expérimenté.",
+    "about": "Alain Perroteau est artisan plombier indépendant basé à Saint-Jacques-de-la-Lande, fort de 30 ans d'exercice dans le métier. Il assure lui-même chaque intervention, garantissant un contact direct et un travail reconnu pour son soin et sa qualité. Son ancienneté témoigne d'un savoir-faire solide au service de la clientèle locale.",
+    "footer_description": "Perroteau Alain — Artisan plombier indépendant à Saint-Jacques-de-la-Lande depuis 30 ans. Travail soigné, contact direct, interventions sur Saint-Jacques-de-la-Lande et communes voisines.",
+    "services": [
+      {
+        "title": "Plomberie générale",
+        "desc": "Installation, remplacement et entretien de tous vos équipements de plomberie, réalisés avec soin par un artisan expérimenté de 30 ans de métier.",
+        "icon": "droplets",
+        "featured": true,
+        "tag": "Savoir-faire reconnu",
+        "image": "/images/stock/plombier/services/services-6.webp"
+      },
+      {
+        "title": "Réparation plomberie",
+        "desc": "Diagnostic et réparation de fuites, canalisations et équipements défectueux. Un travail minutieux garanti par trois décennies de pratique artisanale.",
+        "icon": "wrench",
+        "featured": true,
+        "tag": "Travail soigné",
+        "image": "/images/stock/plombier/services/services-7.webp"
+      },
+      {
+        "title": "Installation sanitaires",
+        "desc": "Pose et raccordement de vos équipements sanitaires dans les règles de l'art.",
+        "icon": "zap",
+        "featured": false
+      },
+      {
+        "title": "Dépannage plomberie",
+        "desc": "Intervention rapide pour résoudre vos problèmes de plomberie du quotidien.",
+        "icon": "search",
+        "featured": false
+      },
+      {
+        "title": "Entretien canalisations",
+        "desc": "Vérification et entretien préventif de vos canalisations pour éviter les pannes.",
+        "icon": "wind",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "30 ans d'expérience",
+        "desc": "Trois décennies de pratique artisanale dans la plomberie."
+      },
+      {
+        "title": "Travail très soigné",
+        "desc": "Qualité reconnue par les clients, finitions impeccables."
+      },
+      {
+        "title": "Artisan indépendant",
+        "desc": "Un seul interlocuteur, un contact direct avec l'artisan."
+      },
+      {
+        "title": "Connaissance du métier",
+        "desc": "Maîtrise technique éprouvée sur tous types de chantiers."
+      }
+    ],
+    "why_us_badge": {
+      "value": "2h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Saint-Jacques-de-la-Lande, Rennes, Bruz, Chartres-de-Bretagne, Noyal-Châtillon-sur-Seiche, Vern-sur-Seiche, Pont-Péan, Chavagne, L'Hermitage",
+    "service_area_cities": [
+      "Saint-Jacques-de-la-Lande",
+      "Rennes",
+      "Bruz",
+      "Chartres-de-Bretagne",
+      "Noyal-Châtillon-sur-Seiche",
+      "Vern-sur-Seiche",
+      "Pont-Péan",
+      "Chavagne",
+      "L'Hermitage"
+    ],
+    "service_area_map_cities": [
+      "Rennes",
+      "Bruz",
+      "Chartres-de-Bretagne",
+      "Vern-sur-Seiche",
+      "Pont-Péan",
+      "Chavagne"
+    ],
+    "service_area_stats": [
+      {
+        "value": "9",
+        "label": "communes desservies"
+      },
+      {
+        "value": "2.5/5",
+        "label": "note Google"
+      },
+      {
+        "value": "2",
+        "label": "avis clients"
+      }
+    ],
+    "service_area_note": "Déplacement dans tout le secteur de Saint-Jacques-de-la-Lande et ses environs, devis sans engagement.",
+    "no_reviews_cta": {
+      "eyebrow": "CONFIANCE",
+      "title": "Un artisan de confiance près de chez vous",
+      "subtitle": "30 ans de plomberie artisanale à Saint-Jacques-de-la-Lande : un savoir-faire éprouvé, un travail soigné, un contact direct.",
+      "button_text": "Demander un devis gratuit"
+    },
+    "reviews_note": "2.5 / 5 sur Google Maps · 2 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 2 99 65 10 28",
+      "email": "",
+      "hours": "Lun–Jeu 8h–12h · 13h30–17h30 · Ven 8h–12h · 13h30–17h00"
+    },
+    "seo_title": "Plombier Saint-Jacques-de-la-Lande — Perroteau Alain",
+    "meta_description": "Artisan plombier indépendant à Saint-Jacques-de-la-Lande depuis 30 ans. Travail soigné, contact direct. Intervention sur Rennes et communes voisines."
+  },
+  "reviews": [
+    {
+      "author": "Michel T.",
+      "location": "Saint-Jacques-de-la-Lande",
+      "rating": 5,
+      "text": "Nous vous été très satisfait du travail de Monsieur Perroteau Alain franchement je vous le conseil car le travail est très soigné il connait bien son métier il fête ses 30 ans d'entreprise cette année Bonne Anniversaire."
+    }
+  ]
+}
