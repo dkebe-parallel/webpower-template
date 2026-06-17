@@ -1,0 +1,197 @@
+{
+  "business": {
+    "name": "Plomberie Chesnaie",
+    "slug": "plomberie-chesnaie",
+    "city": "Rennes",
+    "country": "France",
+    "phone": "+33 6 00 00 00 02",
+    "address": "23 Rue du Test, 35000 Rennes",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Plomberie%20Chesnaie&query_place_id=ChIJv5rcQTPeDkgRUlPDEY_u_4I",
+    "rating": null,
+    "reviews_count": null
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-5.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-4.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Devis gratuit"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Votre plombier de confiance à Rennes",
+    "hero_subtitle": "Artisan local joignable directement sur mobile · Devis gratuit · Intervention rapide à Rennes",
+    "hero_stats": [
+      {
+        "value": "Local",
+        "label": "Rennes centre"
+      },
+      {
+        "value": "< 2h",
+        "label": "délai d'intervention"
+      },
+      {
+        "value": "100%",
+        "label": "devis gratuit"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Artisan implanté à Rennes",
+        "subtitle": "Présence locale en centre-ville de Rennes"
+      },
+      {
+        "title": "Contact direct par mobile",
+        "subtitle": "Joignable sans intermédiaire, au plus vite"
+      },
+      {
+        "title": "Intervention rapide",
+        "subtitle": "Déplacement en moins de 2h sur Rennes"
+      }
+    ],
+    "value_prop": "Plomberie Chesnaie est votre artisan plombier de proximité à Rennes. Basé en centre-ville, joignable directement sur mobile, il intervient rapidement pour tous vos travaux de plomberie courante. Devis gratuit sans engagement.",
+    "services_intro": "Interventions de plomberie pour particuliers et professionnels à Rennes.",
+    "about": "Plomberie Chesnaie est un artisan plombier indépendant installé à Rennes, au cœur du quartier. Joignable directement par téléphone, il assure des interventions de plomberie générale avec réactivité et sérieux. Un interlocuteur unique pour tous vos besoins en plomberie sur Rennes et sa périphérie.",
+    "footer_description": "Plomberie Chesnaie — Artisan plombier à Rennes. Interventions de plomberie générale sur Rennes et communes voisines. Devis gratuit. Contact direct : +33 6 00 00 00 02.",
+    "services": [
+      {
+        "title": "Plomberie générale",
+        "desc": "Installation, réparation et entretien de tous vos équipements de plomberie. Intervention rapide et soignée pour particuliers et professionnels à Rennes.",
+        "icon": "droplets",
+        "featured": true,
+        "tag": "Essentiel",
+        "image": "/images/stock/plombier/services/services-7.webp"
+      },
+      {
+        "title": "Dépannage plomberie",
+        "desc": "Fuite, canalisation bouchée, robinetterie défectueuse — intervention rapide à Rennes pour résoudre vos problèmes de plomberie sans attendre.",
+        "icon": "wrench",
+        "featured": true,
+        "tag": "Réactif",
+        "image": "/images/stock/plombier/services/services-8.webp"
+      },
+      {
+        "title": "Remplacement robinetterie",
+        "desc": "Changement de robinets, mitigeurs et accessoires sanitaires. Pose soignée et matériel de qualité.",
+        "icon": "zap",
+        "featured": false
+      },
+      {
+        "title": "Détection de fuites",
+        "desc": "Localisation et réparation des fuites d'eau visibles ou cachées dans votre logement.",
+        "icon": "search",
+        "featured": false
+      },
+      {
+        "title": "Entretien sanitaires",
+        "desc": "Vérification et entretien de vos équipements sanitaires pour éviter les pannes.",
+        "icon": "wind",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Artisan local Rennes",
+        "desc": "Basé en centre-ville, proche de vous pour intervenir vite."
+      },
+      {
+        "title": "Contact direct mobile",
+        "desc": "Appelez directement sans standardiste ni attente."
+      },
+      {
+        "title": "Devis gratuit",
+        "desc": "Estimation claire et sans engagement avant tout travail."
+      },
+      {
+        "title": "Intervention rapide",
+        "desc": "Déplacement en moins de 2h sur Rennes et alentours."
+      }
+    ],
+    "why_us_badge": {
+      "value": "2h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Rennes, Saint-Grégoire, Cesson-Sévigné, Chantepie, Bruz, Saint-Jacques-de-la-Lande, Vezin-le-Coquet, Pacé, Betton",
+    "service_area_cities": [
+      "Rennes",
+      "Saint-Grégoire",
+      "Cesson-Sévigné",
+      "Chantepie",
+      "Bruz",
+      "Saint-Jacques-de-la-Lande",
+      "Vezin-le-Coquet",
+      "Pacé",
+      "Betton"
+    ],
+    "service_area_map_cities": [
+      "Rennes",
+      "Saint-Grégoire",
+      "Cesson-Sévigné",
+      "Bruz",
+      "Pacé",
+      "Betton"
+    ],
+    "service_area_stats": [
+      {
+        "value": "9",
+        "label": "communes couvertes"
+      },
+      {
+        "value": "< 2h",
+        "label": "délai d'intervention"
+      },
+      {
+        "value": "100%",
+        "label": "devis gratuit"
+      }
+    ],
+    "service_area_note": "Déplacement rapide sur Rennes et toute sa périphérie, devis gratuit sans engagement.",
+    "no_reviews_cta": {
+      "eyebrow": "PROXIMITÉ",
+      "title": "Un plombier local à votre écoute à Rennes",
+      "subtitle": "Artisan indépendant basé en centre-ville, joignable directement sur mobile pour toute intervention de plomberie à Rennes.",
+      "button_text": "Demander un devis gratuit"
+    },
+    "reviews_note": "",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 6 00 00 00 02",
+      "email": "",
+      "hours": ""
+    },
+    "seo_title": "Plombier à Rennes — Plomberie Chesnaie",
+    "meta_description": "Plomberie Chesnaie, artisan plombier à Rennes. Interventions rapides en plomberie générale. Devis gratuit. Appelez directement le +33 6 00 00 00 02."
+  },
+  "reviews": []
+}
