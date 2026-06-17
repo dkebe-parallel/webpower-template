@@ -1,0 +1,209 @@
+{
+  "business": {
+    "name": "Ludovic Chirol plombier chauffagiste à Willems",
+    "slug": "ludovic-chirol-plombier-chauffagiste-a-willems",
+    "city": "Willems",
+    "country": "France",
+    "phone": "+33 6 79 11 01 78",
+    "address": "Willems, 59780 Willems",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Ludovic%20Chirol%20plombier%20chauffagiste%20%C3%A0%20Willems&query_place_id=ChIJNYEMpxCB7KkRIkGt4IUMLOQ",
+    "rating": 5,
+    "reviews_count": 33
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-4.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-4.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Devis gratuit"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Plombier à Willems, 5/5 sur 33 avis",
+    "hero_subtitle": "Intervention rapide, travail soigné, solutions là où d'autres ont échoué.",
+    "hero_stats": [
+      {
+        "value": "5/5",
+        "label": "Note Google"
+      },
+      {
+        "value": "33",
+        "label": "Avis clients vérifiés"
+      },
+      {
+        "value": "2h",
+        "label": "Délai d'intervention"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Solutions là où d'autres abandonnent",
+        "subtitle": "Résout les pannes complexes que personne d'autre n'a pu régler"
+      },
+      {
+        "title": "Réactivité et disponibilité",
+        "subtitle": "Intervient rapidement, même pour les situations urgentes"
+      },
+      {
+        "title": "Travail propre et soigné",
+        "subtitle": "Chantiers nets, explications claires, clients pleinement satisfaits"
+      }
+    ],
+    "value_prop": "Ludovic Chirol est plombier-chauffagiste artisan à Willems, reconnu pour sa capacité à résoudre les problèmes les plus complexes avec efficacité et pédagogie. Note parfaite de 5/5 sur 33 avis Google : une satisfaction client sans compromis.",
+    "services_intro": "Plomberie, chauffage, dépannage urgent — artisan de proximité à Willems.",
+    "about": "Ludovic Chirol est plombier-chauffagiste artisan basé à Willems, dans le Nord. Il intervient rapidement chez les particuliers pour tous travaux de plomberie et de chauffage, avec un souci constant du détail et de la transparence. Sa réputation repose sur sa capacité à trouver des solutions là où d'autres professionnels n'ont pas réussi.",
+    "footer_description": "Ludovic Chirol, plombier-chauffagiste artisan à Willems (59). Dépannage, installation et entretien pour tous vos besoins en plomberie et chauffage. Note Google 5/5 sur 33 avis.",
+    "services": [
+      {
+        "title": "Plomberie & dépannage",
+        "desc": "Fuite, évier bouché, problème d'évacuation : Ludovic diagnostique et répare là où d'autres n'ont pas trouvé la solution.",
+        "icon": "droplets",
+        "featured": true,
+        "tag": "Intervention rapide",
+        "image": "/images/stock/plombier/services/services-1.webp"
+      },
+      {
+        "title": "Chauffage & installation",
+        "desc": "Installation, remplacement et mise en service de systèmes de chauffage pour votre confort toute l'année.",
+        "icon": "flame",
+        "featured": true,
+        "tag": "Artisan local",
+        "image": "/images/stock/plombier/services/services-2.webp"
+      },
+      {
+        "title": "Diagnostic & recherche de panne",
+        "desc": "Identification précise des pannes plomberie et chauffage, même les plus difficiles à localiser.",
+        "icon": "search",
+        "featured": false
+      },
+      {
+        "title": "Entretien chauffage",
+        "desc": "Entretien régulier de votre installation pour éviter les pannes et optimiser votre consommation.",
+        "icon": "wrench",
+        "featured": false
+      },
+      {
+        "title": "Urgence & dépannage rapide",
+        "desc": "Intervention rapide pour toute urgence plomberie ou chauffage dans le secteur de Willems.",
+        "icon": "zap",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Expertise reconnue",
+        "desc": "Résout des problèmes complexes que d'autres professionnels n'ont pu régler."
+      },
+      {
+        "title": "Réactivité maximale",
+        "desc": "Disponible rapidement, même pour les interventions urgentes."
+      },
+      {
+        "title": "Travail propre garanti",
+        "desc": "Chantiers soignés, sans mauvaise surprise après l'intervention."
+      },
+      {
+        "title": "Approche pédagogique",
+        "desc": "Explique chaque étape pour que vous compreniez ce qui est fait."
+      }
+    ],
+    "why_us_badge": {
+      "value": "2h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Willems, Sainghin-en-Mélantois, Hem, Baisieux, Lys-lez-Lannoy, Templeuve-en-Pévèle, Cysoing, Villeneuve-d'Ascq",
+    "service_area_cities": [
+      "Willems",
+      "Sainghin-en-Mélantois",
+      "Hem",
+      "Baisieux",
+      "Lys-lez-Lannoy",
+      "Templeuve-en-Pévèle",
+      "Cysoing",
+      "Villeneuve-d'Ascq"
+    ],
+    "service_area_map_cities": [
+      "Villeneuve-d'Ascq",
+      "Hem",
+      "Lys-lez-Lannoy",
+      "Baisieux",
+      "Cysoing",
+      "Templeuve-en-Pévèle"
+    ],
+    "service_area_stats": [
+      {
+        "value": "8+",
+        "label": "communes desservies"
+      },
+      {
+        "value": "5/5",
+        "label": "note Google"
+      },
+      {
+        "value": "33",
+        "label": "avis clients"
+      }
+    ],
+    "service_area_note": "Déplacement rapide dans tout le secteur de Willems et ses environs, devis gratuit sans engagement.",
+    "no_reviews_cta": {
+      "eyebrow": "",
+      "title": "",
+      "subtitle": "",
+      "button_text": ""
+    },
+    "reviews_note": "5 / 5 sur Google Maps · 33 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 6 79 11 01 78",
+      "email": "",
+      "hours": ""
+    },
+    "seo_title": "Plombier Chauffagiste Willems — Ludovic Chirol",
+    "meta_description": "Ludovic Chirol, plombier-chauffagiste à Willems (59). Dépannage rapide, installation chauffage, note 5/5 sur 33 avis Google. Devis gratuit, intervention rapide."
+  },
+  "reviews": [
+    {
+      "author": "Maxime B.",
+      "location": "Sainghin-en-Mélantois",
+      "rating": 5,
+      "text": "Intervention rapide et propre. A su trouver une solution à mon problème d'évacuation que personne d'autre n'y avait pensé. Je ne donne pas souvent mon avis mais là c'est vraiment avec plaisir que je prends 5 min pour le recommander"
+    },
+    {
+      "author": "Isabelle D.",
+      "location": "Hem",
+      "rating": 5,
+      "text": "Très bon travail, très disponible et très agréable.\nNous recommandons vivement et referons appel à ses services sans hésiter."
+    }
+  ]
+}
