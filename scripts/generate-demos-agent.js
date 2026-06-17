@@ -14,6 +14,13 @@ const path        = require('path')
 
 // ─── HELPERS ───────────────────────────────────────────────────────────────
 
+function withTimeout(promise, ms) {
+  return Promise.race([
+    promise,
+    new Promise((_, reject) => setTimeout(() => reject(new Error(`Request timed out.`)), ms)),
+  ])
+}
+
 function generateSlug(name) {
   return name
     .toLowerCase()
@@ -42,7 +49,7 @@ function extractJSON(raw) {
 
 // ─── CLIENTS ───────────────────────────────────────────────────────────────
 
-const anthropic = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY })
+const anthropic = new Anthropic({ apiKey: process.env.ANTHROPIC_API_KEY, maxRetries: 0 })
 
 const airtableBase = new Airtable({ apiKey: process.env.AIRTABLE_API_KEY })
   .base(process.env.AIRTABLE_BASE_ID)
@@ -135,12 +142,15 @@ JSON ATTENDU:
   "data_quality_notes": ""
 }`
 
-  const message = await anthropic.messages.create({
-    model: 'claude-opus-4-6',
-    max_tokens: 2000,
-    system: "Tu es un consultant expert en marketing local et en analyse d'entreprises artisanales françaises. Tu analyses en profondeur les données d'une entreprise pour en extraire l'essence commerciale. Tu produis uniquement du JSON valide.",
-    messages: [{ role: 'user', content: userPrompt }],
-  }, { timeout: 120_000 })
+  const message = await withTimeout(
+    anthropic.messages.create({
+      model: 'claude-opus-4-6',
+      max_tokens: 2000,
+      system: "Tu es un consultant expert en marketing local et en analyse d'entreprises artisanales françaises. Tu analyses en profondeur les données d'une entreprise pour en extraire l'essence commerciale. Tu produis uniquement du JSON valide.",
+      messages: [{ role: 'user', content: userPrompt }],
+    }),
+    120_000
+  )
 
   return JSON.parse(extractJSON(message.content[0].text))
 }
@@ -351,12 +361,15 @@ STRUCTURE JSON COMPLÈTE ATTENDUE:
   "reviews": []
 }`
 
-  const message = await anthropic.messages.create({
-    model: 'claude-sonnet-4-6',
-    max_tokens: 4000,
-    system: "Tu es un directeur artistique et copywriter expert en sites web pour artisans français. Tu génères des sites sur mesure, crédibles, qui respectent un cahier des charges strict. Tu produis UNIQUEMENT du JSON valide conforme au schéma fourni, sans texte avant ou après, sans backticks.",
-    messages: [{ role: 'user', content: userPrompt }],
-  }, { timeout: 180_000 })
+  const message = await withTimeout(
+    anthropic.messages.create({
+      model: 'claude-sonnet-4-6',
+      max_tokens: 4000,
+      system: "Tu es un directeur artistique et copywriter expert en sites web pour artisans français. Tu génères des sites sur mesure, crédibles, qui respectent un cahier des charges strict. Tu produis UNIQUEMENT du JSON valide conforme au schéma fourni, sans texte avant ou après, sans backticks.",
+      messages: [{ role: 'user', content: userPrompt }],
+    }),
+    180_000
+  )
 
   return JSON.parse(extractJSON(message.content[0].text))
 }
