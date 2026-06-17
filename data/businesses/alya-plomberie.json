@@ -1,0 +1,209 @@
+{
+  "business": {
+    "name": "Alya plomberie",
+    "slug": "alya-plomberie",
+    "city": "Nantes",
+    "country": "France",
+    "phone": "+33 6 75 86 88 69",
+    "address": "undefined, undefined undefined",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Alya%20plomberie&query_place_id=ChIJt5PvBb_oD4sRAq6ve-mqX4I",
+    "rating": 4,
+    "reviews_count": 4
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-2.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-5.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Artisan local"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Plombier réactif à Nantes",
+    "hero_subtitle": "Dépannage rapide, travail soigné · Sanitaires, joints, radiateurs · Artisan joignable directement",
+    "hero_stats": [
+      {
+        "value": "4/5",
+        "label": "Note Google"
+      },
+      {
+        "value": "< 2h",
+        "label": "délai d'intervention"
+      },
+      {
+        "value": "100%",
+        "label": "travail soigné"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Interventions rapides",
+        "subtitle": "Dépannage réalisé vite et efficacement"
+      },
+      {
+        "title": "Qualité technique reconnue",
+        "subtitle": "Travail soigné salué par nos clients"
+      },
+      {
+        "title": "Artisan polyvalent",
+        "subtitle": "Sanitaires, joints, radiateurs, compteurs"
+      }
+    ],
+    "value_prop": "Alya Plomberie intervient à Nantes et ses environs pour tous vos dépannages et petits travaux de plomberie. Remplacement de WC, réfection de joints, radiateurs, compteurs d'eau : un artisan local joignable directement, qui agit vite et bien.",
+    "services_intro": "Dépannage et travaux de plomberie courants à Nantes et environs.",
+    "about": "Alya Plomberie est un artisan plombier local intervenant à Nantes et dans les communes voisines. Spécialisé dans le dépannage rapide et les travaux courants de plomberie, il est joignable directement par téléphone pour répondre à vos besoins au plus vite. Qualité d'exécution et réactivité sont au cœur de chaque intervention.",
+    "footer_description": "Alya Plomberie — Artisan plombier à Nantes et environs. Dépannage, remplacement de sanitaires, joints, radiateurs et compteurs d'eau. Contactez-nous directement au +33 6 75 86 88 69.",
+    "services": [
+      {
+        "title": "Dépannage plomberie",
+        "desc": "Intervention rapide pour tous vos problèmes de plomberie urgents. Artisan joignable directement, déplacement rapide sur Nantes et environs.",
+        "icon": "zap",
+        "featured": true,
+        "tag": "Intervention rapide",
+        "image": "/images/stock/plombier/services/services-8.webp"
+      },
+      {
+        "title": "Remplacement WC & sanitaires",
+        "desc": "Pose et remplacement de toilettes et équipements sanitaires. Travail soigné, réalisé correctement dès la première intervention.",
+        "icon": "wrench",
+        "featured": true,
+        "tag": "Travail soigné",
+        "image": "/images/stock/plombier/services/services-1.webp"
+      },
+      {
+        "title": "Réfection de joints de douche",
+        "desc": "Remplacement des joints de douche pour éviter fuites et infiltrations. Pose propre et durable.",
+        "icon": "droplets",
+        "featured": false
+      },
+      {
+        "title": "Intervention sur radiateurs",
+        "desc": "Diagnostic et réparation de radiateurs défaillants pour retrouver votre confort thermique.",
+        "icon": "flame",
+        "featured": false
+      },
+      {
+        "title": "Vérification compteur d'eau",
+        "desc": "Contrôle et maintenance de votre compteur d'eau à la demande du propriétaire ou du locataire.",
+        "icon": "search",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Réactivité prouvée",
+        "desc": "Dépannage qualifié de rapide et efficace par nos clients"
+      },
+      {
+        "title": "Qualité d'exécution",
+        "desc": "Travail techniquement reconnu dès la première intervention"
+      },
+      {
+        "title": "Artisan joignable",
+        "desc": "Contact direct par téléphone, sans intermédiaire"
+      },
+      {
+        "title": "Polyvalence plomberie",
+        "desc": "Sanitaires, joints, radiateurs, compteurs : tout en un"
+      }
+    ],
+    "why_us_badge": {
+      "value": "2h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Nantes, Rezé, Saint-Herblain, Orvault, Vertou, Bouguenais, Couëron, Carquefou",
+    "service_area_cities": [
+      "Nantes",
+      "Rezé",
+      "Saint-Herblain",
+      "Orvault",
+      "Vertou",
+      "Bouguenais",
+      "Couëron",
+      "Carquefou"
+    ],
+    "service_area_map_cities": [
+      "Nantes",
+      "Rezé",
+      "Saint-Herblain",
+      "Orvault",
+      "Vertou",
+      "Carquefou"
+    ],
+    "service_area_stats": [
+      {
+        "value": "8",
+        "label": "communes desservies"
+      },
+      {
+        "value": "4/5",
+        "label": "note Google"
+      },
+      {
+        "value": "4",
+        "label": "avis clients"
+      }
+    ],
+    "service_area_note": "Déplacement rapide sur Nantes et ses communes voisines, devis gratuit sans engagement.",
+    "no_reviews_cta": {
+      "eyebrow": "",
+      "title": "",
+      "subtitle": "",
+      "button_text": ""
+    },
+    "reviews_note": "4 / 5 sur Google Maps · 4 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 6 75 86 88 69",
+      "email": "",
+      "hours": ""
+    },
+    "seo_title": "Plombier à Nantes — Alya Plomberie | Dépannage rapide",
+    "meta_description": "Alya Plomberie, artisan plombier à Nantes. Dépannage rapide, remplacement WC, joints de douche, radiateurs et compteurs d'eau. Appelez directement au +33 6 75 86 88 69."
+  },
+  "reviews": [
+    {
+      "author": "Sophie M.",
+      "location": "Rezé",
+      "rating": 5,
+      "text": "Au départ, tout s'était très bien passé. L'intervention pour le remplacement de mes toilettes ainsi que pour les joints de ma douche avait été réalisée rapidement et correctement. J'étais donc pleinement satisfaite et en confiance pour la suite."
+    },
+    {
+      "author": "Julien T.",
+      "location": "Saint-Herblain",
+      "rating": 5,
+      "text": "Très satisfait du dépannage réalisé par Alya Plomberie. Rapide, efficace et professionnel. Je recommande sans hésitation!"
+    }
+  ]
+}
