@@ -5,7 +5,7 @@
     "city": "Bordeaux",
     "country": "France",
     "phone": "+33 6 87 88 16 58",
-    "address": "Agglomération bordelaise, Bordeaux",
+    "address": "Secteur Bordeaux / Pessac, Gironde",
     "maps_url": "https://www.google.com/maps/search/?api=1&query=2Bplomberie&query_place_id=ChIJgWDWySnZVA0RPIpEEYMSUM8",
     "rating": 5,
     "reviews_count": 9
@@ -49,8 +49,8 @@
     "enabled_blocks": []
   },
   "content": {
-    "hero_title": "Plombier sérieux à Bordeaux",
-    "hero_subtitle": "Travail consciencieux, chantier rendu propre — recommandé par les particuliers et les syndics.",
+    "hero_title": "Plombier sérieux, humain & fiable",
+    "hero_subtitle": "Intervention soignée, chantier rendu propre — reconnu par particuliers et syndics.",
     "hero_stats": [
       {
         "value": "5/5",
@@ -68,73 +68,73 @@
     "reassurance_items": [
       {
         "title": "Chantier toujours rendu propre",
-        "subtitle": "Intervention soignée, sans laisser de traces"
+        "subtitle": "Chaque intervention laisse votre espace impeccable."
       },
       {
-        "title": "Artisan humain et à l'écoute",
-        "subtitle": "Un plombier proche, sérieux et bienveillant"
+        "title": "Reconnu par les professionnels",
+        "subtitle": "Confiance des syndics comme Foncia pour leurs copropriétés."
       },
       {
-        "title": "Confiance des syndics pro",
-        "subtitle": "Missionné par Foncia pour ses résidences"
+        "title": "Artisan pro, sérieux et humain",
+        "subtitle": "Qualité technique et bienveillance à chaque visite."
       }
     ],
-    "value_prop": "2Bplomberie, c'est l'artisan plombier bordelais que les clients recommandent sans hésiter et que les syndics rappellent. Note parfaite de 5/5, propreté de chantier systématique, professionnalisme reconnu et vraie dimension humaine.",
-    "services_intro": "Des interventions soignées pour particuliers et copropriétés.",
-    "about": "2Bplomberie est un artisan plombier de l'agglomération bordelaise reconnu pour la qualité de ses interventions et sa rigueur professionnelle. Aussi bien auprès des particuliers qu'auprès de gestionnaires immobiliers comme Foncia, il assure des travaux consciencieux avec un chantier toujours rendu propre. Sa note parfaite de 5/5 et les recommandations enthousiastes de ses clients témoignent d'un savoir-faire fiable et d'une approche résolument humaine.",
-    "footer_description": "2Bplomberie intervient dans l'agglomération bordelaise pour tous vos besoins en plomberie. Artisan sérieux, humain et consciencieux, recommandé par les particuliers et les syndics. Note Google 5/5.",
+    "value_prop": "2Bplomberie, c'est l'artisan plombier de la métropole bordelaise qui conjugue rigueur technique et qualité humaine. Chaque intervention est réalisée avec soin, le chantier rendu propre, et chaque client traité avec respect. Particuliers ou syndics, tous le recommandent.",
+    "services_intro": "Plomberie, chauffe-eau et dépannage — des solutions fiables près de chez vous.",
+    "about": "2Bplomberie est un artisan plombier basé dans la métropole bordelaise, reconnu pour la qualité de ses interventions et la propreté de ses chantiers. Il intervient aussi bien chez les particuliers que pour des syndics professionnels comme Foncia. Chaque client bénéficie d'un service consciencieux, efficace et réalisé dans le respect des lieux.",
+    "footer_description": "2Bplomberie — votre artisan plombier de confiance dans la métropole bordelaise. Remplacement de ballon d'eau chaude, installation, dépannage : un travail impeccable, un chantier propre, une vraie qualité humaine.",
     "services": [
       {
-        "title": "Pose de ballon d'eau chaude",
-        "desc": "Remplacement et installation de cumulus jusqu'à 200 L. Intervention propre, rapide et conforme aux normes, pour particuliers et copropriétés.",
+        "title": "Remplacement ballon eau chaude",
+        "desc": "Échange de votre cumulus ou chauffe-eau avec une pose soignée, un chantier propre et une mise en service rapide. Intervention possible en copropriété.",
         "icon": "flame",
         "featured": true,
-        "tag": "Spécialité",
+        "tag": "Intervention rapide",
         "image": "/images/stock/plombier/services/services-2.webp"
       },
       {
-        "title": "Plomberie générale",
-        "desc": "Réparations, installations et dépannages en plomberie pour tous types de logements. Travail soigné, chantier rendu propre à chaque intervention.",
-        "icon": "wrench",
+        "title": "Installation chauffe-eau",
+        "desc": "Pose de chauffe-eau neuf en remplacement ou première installation. Travail consciencieux, rendu propre, résultat durable garanti.",
+        "icon": "droplets",
         "featured": true,
-        "tag": "Particuliers & Pro",
+        "tag": "Qualité artisanale",
         "image": "/images/stock/plombier/services/services-3.webp"
       },
       {
-        "title": "Interventions pour syndics",
-        "desc": "Partenaire de confiance des syndics et gestionnaires immobiliers pour les interventions en copropriété.",
-        "icon": "droplets",
+        "title": "Dépannage plomberie",
+        "desc": "Intervention rapide pour tous vos problèmes de plomberie. Diagnostic précis et réparation efficace.",
+        "icon": "wrench",
         "featured": false
       },
       {
-        "title": "Dépannage plomberie",
-        "desc": "Intervention rapide pour fuite, canalisation bouchée ou panne sur votre installation sanitaire.",
+        "title": "Plomberie pour syndics",
+        "desc": "Interventions en copropriété pour syndics et gestionnaires. Fiabilité et sérieux reconnus.",
         "icon": "search",
         "featured": false
       },
       {
-        "title": "Installation sanitaire",
-        "desc": "Pose et remplacement d'équipements sanitaires avec finition soignée et rendu propre garanti.",
+        "title": "Pose & raccordement",
+        "desc": "Raccordement et pose d'équipements sanitaires dans les règles de l'art.",
         "icon": "zap",
         "featured": false
       }
     ],
     "why_us": [
       {
-        "title": "Propreté garantie",
-        "desc": "Chantier systématiquement rendu propre après chaque intervention."
+        "title": "Travail consciencieux",
+        "desc": "Chaque détail est soigné, du début à la fin du chantier."
       },
       {
-        "title": "Artisan consciencieux",
-        "desc": "Travail rigoureux, sérieux et réalisé dans les règles de l'art."
+        "title": "Chantier rendu propre",
+        "desc": "Votre espace est laissé net après chaque intervention."
       },
       {
-        "title": "Humain et à l'écoute",
-        "desc": "Un artisan proche de ses clients, bienveillant et disponible."
+        "title": "Note parfaite 5/5",
+        "desc": "Une excellence unanimement confirmée par tous les clients."
       },
       {
-        "title": "Confiance des pros",
-        "desc": "Recommandé par les syndics, dont Foncia, pour sa fiabilité."
+        "title": "Artisan pro et humain",
+        "desc": "Sérieux, à l'écoute et respectueux à chaque visite."
       }
     ],
     "why_us_badge": {
@@ -162,19 +162,19 @@
     ],
     "service_area_stats": [
       {
-        "value": "8+",
-        "label": "Communes desservies"
+        "value": "8",
+        "label": "communes desservies"
       },
       {
         "value": "5/5",
-        "label": "Note Google"
+        "label": "note Google"
       },
       {
         "value": "9",
-        "label": "Avis vérifiés"
+        "label": "avis vérifiés"
       }
     ],
-    "service_area_note": "Déplacement rapide dans toute l'agglomération bordelaise, devis gratuit sans engagement.",
+    "service_area_note": "Déplacement rapide dans toute la métropole bordelaise — devis gratuit, sans engagement.",
     "no_reviews_cta": {
       "eyebrow": "",
       "title": "",
@@ -189,25 +189,25 @@
       "email": "",
       "hours": ""
     },
-    "seo_title": "Plombier Bordeaux — 2Bplomberie, note 5/5",
-    "meta_description": "2Bplomberie, artisan plombier à Bordeaux : pose de ballon d'eau chaude, plomberie générale. Travail soigné, chantier propre. Note Google 5/5. Devis gratuit."
+    "seo_title": "Plombier Bordeaux & Pessac — 2Bplomberie | Note 5/5",
+    "meta_description": "2Bplomberie : artisan plombier 5/5 sur la métropole bordelaise. Remplacement ballon eau chaude, dépannage, installation. Chantier propre, intervention soignée."
   },
   "reviews": [
     {
-      "author": "Michel T.",
+      "author": "Pascal M.",
       "location": "Pessac",
       "rating": 5,
       "text": "Pose ce jour d'un cumulus de 200 l en remplacement, intervention de qualité, chantier, rendu propre et travail consciencieux. Je ne peux que vous recommander cette entreprise !"
     },
     {
       "author": "Sophie L.",
-      "location": "Talence",
+      "location": "Bordeaux",
       "rating": 5,
       "text": "Locataire chez FONCIA, le syndic a fait appel aux services de 2B Plomberie afin de procéder à l'échange de mon ballon d'eau chaude, j'ai été absolument ravie par le professionnalisme et l'efficacité de cet artisan, merci à lui, je lui souhaite de prospérer il le mérite !"
     },
     {
-      "author": "Julien M.",
-      "location": "Bègles",
+      "author": "Marc D.",
+      "location": "Talence",
       "rating": 5,
       "text": "Artisan pro, sérieux, humain. Travail impeccable, nous recommandons son équipe +++."
     }
