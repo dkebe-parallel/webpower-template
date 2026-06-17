@@ -49,8 +49,8 @@
     "enabled_blocks": []
   },
   "content": {
-    "hero_title": "Plombier réactif et soigné à Rennes",
-    "hero_subtitle": "Travail propre garanti, intervention rapide, note parfaite 5/5 sur Google.",
+    "hero_title": "Plombier soigné et réactif à Rennes",
+    "hero_subtitle": "Travail propre, intervention rapide, note 5/5 Google — votre plombier de confiance.",
     "hero_stats": [
       {
         "value": "5/5",
@@ -58,7 +58,7 @@
       },
       {
         "value": "100%",
-        "label": "Clients satisfaits"
+        "label": "Travail soigné"
       },
       {
         "value": "2h",
@@ -68,25 +68,25 @@
     "reassurance_items": [
       {
         "title": "Travail propre et soigné",
-        "subtitle": "Finitions impeccables à chaque intervention"
+        "subtitle": "Chantiers nets, respect de votre intérieur garanti"
       },
       {
-        "title": "Professionnel reconnu",
-        "subtitle": "Sérieux et fiabilité salués par les clients"
+        "title": "Artisan professionnel",
+        "subtitle": "Sérieux reconnu par chaque client satisfait"
       },
       {
-        "title": "Réactivité garantie",
-        "subtitle": "Intervention rapide pour limiter vos désagréments"
+        "title": "Réactivité sur le terrain",
+        "subtitle": "Intervention rapide pour limiter les désagréments"
       }
     ],
-    "value_prop": "CM Plomberie intervient à Rennes et ses alentours pour tous vos besoins en plomberie. Réactivité, soin du travail bien fait et professionnalisme : des qualités reconnues par nos clients et attestées par une note Google de 5/5.",
-    "services_intro": "Plomberie générale et dépannage rapide à Rennes et environs.",
-    "about": "CM Plomberie est un artisan plombier basé à Rennes, reconnu pour la qualité de ses interventions et sa réactivité. Chaque chantier est traité avec soin et professionnalisme, pour une satisfaction client sans compromis.",
-    "footer_description": "CM Plomberie — Artisan plombier à Rennes. Interventions soignées et réactives pour particuliers et professionnels. Note Google 5/5. Devis gratuit sans engagement.",
+    "value_prop": "CM Plomberie intervient à Rennes et ses environs pour tous vos travaux de plomberie. Réputé pour la propreté de ses chantiers et sa réactivité, cet artisan local vous garantit un travail soigné, sans mauvaise surprise.",
+    "services_intro": "Plomberie générale et dépannage rapide à Rennes et alentours.",
+    "about": "CM Plomberie est un artisan plombier basé à Rennes, reconnu par ses clients pour la qualité et la propreté de ses interventions. Professionnel et réactif, il prend en charge vos projets de plomberie avec soin et rigueur.",
+    "footer_description": "CM Plomberie — Artisan plombier à Rennes. Travail propre, réactivité et professionnalisme pour tous vos besoins en plomberie. Note 5/5 sur Google.",
     "services": [
       {
         "title": "Plomberie générale",
-        "desc": "Installation, remplacement et entretien de tous vos équipements de plomberie. Travail soigné, finitions propres et matériaux de qualité pour chaque intervention.",
+        "desc": "Installation, remplacement et réparation de canalisations, robinetterie et équipements sanitaires. Un travail soigné du début à la fin.",
         "icon": "droplets",
         "featured": true,
         "tag": "Expertise",
@@ -94,47 +94,47 @@
       },
       {
         "title": "Dépannage plomberie",
-        "desc": "Intervention rapide pour fuites, canalisations bouchées ou pannes. Diagnostic précis et réparation efficace pour rétablir votre confort dans les meilleurs délais.",
+        "desc": "Intervention rapide pour fuites, bouchons ou pannes. Artisan réactif, disponible pour résoudre vos urgences sans délai.",
         "icon": "wrench",
         "featured": true,
         "tag": "Réactivité",
         "image": "/images/stock/plombier/services/services-8.webp"
       },
       {
-        "title": "Détection de fuites",
-        "desc": "Repérage précis des fuites visibles ou cachées pour intervenir au bon endroit sans travaux inutiles.",
+        "title": "Fuite d'eau",
+        "desc": "Détection et réparation de fuites pour éviter tout dégât des eaux dans votre logement.",
         "icon": "search",
         "featured": false
       },
       {
-        "title": "Remplacement de robinetterie",
-        "desc": "Pose et remplacement de robinets, mitigeurs et accessoires sanitaires avec finitions soignées.",
+        "title": "Robinetterie & sanitaires",
+        "desc": "Pose et remplacement de robinets, mitigeurs, douches et lavabos selon vos besoins.",
         "icon": "zap",
         "featured": false
       },
       {
-        "title": "Entretien sanitaires",
-        "desc": "Vérification et entretien de vos installations sanitaires pour prévenir les pannes et prolonger leur durée de vie.",
+        "title": "Entretien plomberie",
+        "desc": "Vérification et maintenance de vos installations pour prévenir les pannes et assurer leur durabilité.",
         "icon": "wind",
         "featured": false
       }
     ],
     "why_us": [
       {
-        "title": "Travail soigné",
-        "desc": "Finitions propres et précises reconnues par nos clients"
+        "title": "Travail propre",
+        "desc": "Chantiers soignés, intérieur respecté à chaque intervention."
+      },
+      {
+        "title": "Artisan réactif",
+        "desc": "Interventions rapides pour limiter vos désagréments."
+      },
+      {
+        "title": "Professionnalisme",
+        "desc": "Sérieux et rigueur reconnus par tous les clients."
       },
       {
         "title": "Note 5/5 Google",
-        "desc": "Satisfaction client maximale attestée par les avis"
-      },
-      {
-        "title": "Réactivité terrain",
-        "desc": "Intervention rapide pour réduire vos désagréments"
-      },
-      {
-        "title": "Artisan professionnel",
-        "desc": "Sérieux et fiabilité à chaque étape du chantier"
+        "desc": "Satisfaction client maximale vérifiée sur Google Maps."
       }
     ],
     "why_us_badge": {
@@ -155,8 +155,8 @@
     "service_area_map_cities": [
       "Rennes",
       "Cesson-Sévigné",
-      "Bruz",
       "Saint-Grégoire",
+      "Bruz",
       "Pacé",
       "Chantepie"
     ],
@@ -174,7 +174,7 @@
         "label": "avis clients vérifiés"
       }
     ],
-    "service_area_note": "Déplacement rapide à Rennes et dans toute l'agglomération rennaise, devis gratuit sans engagement.",
+    "service_area_note": "Déplacement rapide à Rennes et dans tout le secteur, devis gratuit sans engagement.",
     "no_reviews_cta": {
       "eyebrow": "",
       "title": "",
@@ -190,14 +190,14 @@
       "hours": ""
     },
     "seo_title": "Plombier Rennes — CM Plomberie | 5/5 Google",
-    "meta_description": "CM Plomberie, artisan plombier à Rennes : dépannage rapide, travail soigné, note 5/5 Google. Devis gratuit. Intervention dans toute l'agglomération rennaise."
+    "meta_description": "CM Plomberie, artisan plombier à Rennes. Travail propre et soigné, réactivité, note 5/5 Google. Dépannage et plomberie générale. Devis gratuit."
   },
   "reviews": [
     {
-      "author": "Thomas R.",
+      "author": "Julien M.",
       "location": "Cesson-Sévigné",
       "rating": 5,
-      "text": "Travail propre et soigné. Professionnel et réactif."
+      "text": "Travail propre et soigné.\nProfessionnel et réactif."
     }
   ]
 }
