@@ -1,0 +1,197 @@
+{
+  "business": {
+    "name": "Sani-Doc",
+    "slug": "sani-doc",
+    "city": "Ostwald",
+    "country": "France",
+    "phone": "+33 6 71 62 72 53",
+    "address": "1 Rue Pasteur, 67540 Ostwald",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Sani-Doc&query_place_id=ChIJ__-r9uXJlkcRzmqtzWTfuCQ",
+    "rating": 5,
+    "reviews_count": 11
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-1.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-6.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Devis gratuit"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Plombier 5/5 à Ostwald",
+    "hero_subtitle": "Qualité reconnue, horaires étendus jusqu'à 20h30 — artisan joignable directement.",
+    "hero_stats": [
+      {
+        "value": "5/5",
+        "label": "note Google"
+      },
+      {
+        "value": "11",
+        "label": "avis clients"
+      },
+      {
+        "value": "6j/7",
+        "label": "jours de disponibilité"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Qualité irréprochable",
+        "subtitle": "Un travail soigné, durable et reconnu"
+      },
+      {
+        "title": "Horaires étendus",
+        "subtitle": "Ouvert jusqu'à 20h30, même le samedi"
+      },
+      {
+        "title": "Artisan de proximité",
+        "subtitle": "Basé à Ostwald, réactif et accessible"
+      }
+    ],
+    "value_prop": "Sani-Doc est votre plombier artisan de confiance à Ostwald et dans l'agglomération strasbourgeoise. Avec une note parfaite de 5/5 sur Google et des horaires élargis du lundi au samedi, Sani-Doc intervient rapidement pour tous vos travaux de plomberie et de sanitaire.",
+    "services_intro": "Plomberie, sanitaires et canalisations — des solutions fiables près de Strasbourg.",
+    "about": "Sani-Doc est un artisan plombier basé à Ostwald, au cœur de l'agglomération strasbourgeoise. Reconnu pour la qualité de ses interventions, il met son expertise au service des particuliers pour tous travaux de plomberie et d'installation sanitaire. Sa disponibilité étendue et sa réactivité font de lui un partenaire de confiance pour vos projets.",
+    "footer_description": "Sani-Doc — Plombier artisan à Ostwald (67540). Dépannage, installation et entretien de canalisations et équipements sanitaires dans l'agglomération strasbourgeoise. Joignable 6 jours sur 7.",
+    "services": [
+      {
+        "title": "Plomberie générale",
+        "desc": "Dépannage et installation pour tous vos besoins en plomberie, avec un travail soigné et des matériaux durables garantissant votre satisfaction.",
+        "icon": "wrench",
+        "featured": true,
+        "tag": "Essentiel",
+        "image": "/images/stock/plombier/services/services-5.webp"
+      },
+      {
+        "title": "Travaux sanitaires",
+        "desc": "Réalisation complète de vos travaux sanitaires : salle de bain, WC, douche — des installations propres et conformes aux normes en vigueur.",
+        "icon": "droplets",
+        "featured": true,
+        "tag": "Expertise",
+        "image": "/images/stock/plombier/services/services-6.webp"
+      },
+      {
+        "title": "Réparation canalisations",
+        "desc": "Détection et réparation rapide de fuites ou obstructions pour préserver vos installations.",
+        "icon": "search",
+        "featured": false
+      },
+      {
+        "title": "Entretien canalisations",
+        "desc": "Entretien préventif de vos canalisations pour éviter les pannes et prolonger leur durée de vie.",
+        "icon": "zap",
+        "featured": false
+      },
+      {
+        "title": "Équipements sanitaires",
+        "desc": "Installation et remplacement de vos équipements sanitaires, posés avec soin et précision.",
+        "icon": "flame",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Note parfaite 5/5",
+        "desc": "100 % de clients satisfaits sur l'ensemble des avis Google."
+      },
+      {
+        "title": "Qualité avant tout",
+        "desc": "Un travail soigné et durable, reconnu comme signature de Sani-Doc."
+      },
+      {
+        "title": "Horaires flexibles",
+        "desc": "Disponible jusqu'à 20h30 en semaine et le samedi matin."
+      },
+      {
+        "title": "Artisan de terrain",
+        "desc": "Joignable directement par téléphone, sans intermédiaire."
+      }
+    ],
+    "why_us_badge": {
+      "value": "2h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Ostwald, Strasbourg, Illkirch-Graffenstaden, Lingolsheim, Geispolsheim, Schiltigheim, Entzheim, Holtzheim, Wolfisheim",
+    "service_area_cities": [
+      "Ostwald",
+      "Strasbourg",
+      "Illkirch-Graffenstaden",
+      "Lingolsheim",
+      "Geispolsheim",
+      "Schiltigheim",
+      "Entzheim",
+      "Holtzheim",
+      "Wolfisheim"
+    ],
+    "service_area_map_cities": [
+      "Strasbourg",
+      "Illkirch-Graffenstaden",
+      "Lingolsheim",
+      "Schiltigheim",
+      "Geispolsheim",
+      "Entzheim"
+    ],
+    "service_area_stats": [
+      {
+        "value": "9",
+        "label": "communes desservies"
+      },
+      {
+        "value": "5/5",
+        "label": "note Google"
+      },
+      {
+        "value": "11",
+        "label": "avis clients vérifiés"
+      }
+    ],
+    "service_area_note": "Déplacement rapide dans tout le secteur d'Ostwald et l'agglomération strasbourgeoise — devis gratuit sans engagement.",
+    "no_reviews_cta": {
+      "eyebrow": "CONFIANCE",
+      "title": "Un artisan fiable au cœur d'Ostwald",
+      "subtitle": "Note parfaite 5/5, horaires étendus jusqu'à 20h30 et interventions soignées reconnues par tous les clients de l'agglomération strasbourgeoise.",
+      "button_text": "Demander un devis gratuit"
+    },
+    "reviews_note": "5 / 5 sur Google Maps · 11 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 6 71 62 72 53",
+      "email": "",
+      "hours": "Lun–Ven 8h–20h30 · Sam 8h–18h30"
+    },
+    "seo_title": "Plombier Ostwald — Sani-Doc | Note 5/5",
+    "meta_description": "Sani-Doc, plombier artisan à Ostwald (67540). Plomberie, sanitaires et canalisations. Note Google 5/5. Disponible jusqu'à 20h30, 6j/7. Devis gratuit."
+  },
+  "reviews": []
+}
