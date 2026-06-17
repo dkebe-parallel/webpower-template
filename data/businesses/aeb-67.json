@@ -5,10 +5,10 @@
     "city": "Strasbourg",
     "country": "France",
     "phone": "+33 6 99 79 02 02",
-    "address": "36 Rue du Ziegelfeld, 67100 Strasbourg",
-    "maps_url": "https://www.google.com/maps/search/?api=1&query=AEB%2067&query_place_id=ChIJ5yGzNNDJlkcRRhdatzyXaMk",
+    "address": "Secteur Strasbourg, Bas-Rhin 67",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=AEB%2067&query_place_id=ChIJc2t6GB7JlkcR9tyqCPrqtoc",
     "rating": 5,
-    "reviews_count": 4
+    "reviews_count": 3
   },
   "lang": "fr",
   "images": {
@@ -17,7 +17,7 @@
   },
   "badges": {
     "certifications": [],
-    "highlight": "Week-end & soirée"
+    "highlight": "Urgence soir & week-end"
   },
   "theme": {
     "palette": {
@@ -50,7 +50,7 @@
   },
   "content": {
     "hero_title": "Plombier disponible même le soir",
-    "hero_subtitle": "Intervention rapide à Strasbourg — urgence week-end et soirée, 5/5 sur Google.",
+    "hero_subtitle": "Intervention rapide et professionnelle à Strasbourg — urgences chaudière, soir et week-end.",
     "hero_stats": [
       {
         "value": "5/5",
@@ -58,35 +58,35 @@
       },
       {
         "value": "100%",
-        "label": "Clients satisfaits"
+        "label": "clients satisfaits"
       },
       {
         "value": "7j/7",
-        "label": "Disponibilité"
+        "label": "disponibilité urgence"
       }
     ],
     "reassurance_items": [
       {
-        "title": "Disponible soirs et week-ends",
-        "subtitle": "Interventions prouvées un samedi soir"
+        "title": "Disponible soir et week-end",
+        "subtitle": "Intervention attestée un samedi soir par nos clients"
       },
       {
         "title": "Rapidité d'intervention",
-        "subtitle": "Moins d'attente, problème résolu vite"
+        "subtitle": "Dépannage rapide, même en dehors des horaires classiques"
       },
       {
-        "title": "100 % professionnel",
-        "subtitle": "Chaque client souligne le sérieux du travail"
+        "title": "100 % de recommandation",
+        "subtitle": "Chaque client déclare spontanément nous recommander"
       }
     ],
-    "value_prop": "AEB 67 intervient à Strasbourg et ses alentours pour le dépannage de chaudière, la plomberie et les urgences — y compris le soir et le week-end. Une réactivité rare, un professionnalisme unanimement reconnu et une note parfaite de 5/5 sur Google.",
-    "services_intro": "Dépannage, entretien et plomberie à Strasbourg, 7j/7.",
-    "about": "AEB 67 est une entreprise de plomberie et chauffage basée à Strasbourg, reconnue pour sa réactivité et son sérieux. Elle se distingue par sa disponibilité exceptionnelle, y compris les soirs et week-ends, pour répondre aux urgences de ses clients. Chaque intervention est menée avec rapidité et professionnalisme, comme en témoignent les clients satisfaits.",
-    "footer_description": "AEB 67 — Plombier-chauffagiste à Strasbourg. Dépannage chaudière, plomberie générale et urgences 7j/7. Disponible soirs et week-ends. Note Google : 5/5.",
+    "value_prop": "AEB 67, c'est le plombier du Bas-Rhin qui répond présent quand les autres sont indisponibles. Intervention d'urgence le soir, le week-end, pour vos chaudières et dépannages urgents — avec le professionnalisme que nos clients plébiscitent à 5/5.",
+    "services_intro": "Dépannage, chaudière, urgences : AEB 67 intervient vite et bien.",
+    "about": "AEB 67 est une entreprise de plomberie et chauffage implantée dans le Bas-Rhin, reconnue pour sa réactivité hors du commun. Elle prend en charge vos urgences chaudière et interventions de plomberie, même le soir et le week-end, avec le sérieux que ses clients recommandent unanimement.",
+    "footer_description": "AEB 67 — Plomberie et chauffage dans le Bas-Rhin. Interventions d'urgence disponibles soir et week-end. Note Google 5/5. Contactez-nous au +33 6 99 79 02 02.",
     "services": [
       {
         "title": "Dépannage chaudière",
-        "desc": "Intervention rapide sur votre chaudière en panne, y compris le soir et le week-end. Diagnostic précis et remise en service dans les meilleurs délais.",
+        "desc": "Intervention rapide sur votre chaudière en panne, y compris le soir et le week-end. Diagnostic précis et remise en marche dans les meilleurs délais.",
         "icon": "flame",
         "featured": true,
         "tag": "Urgence 7j/7",
@@ -94,95 +94,93 @@
       },
       {
         "title": "Plomberie générale",
-        "desc": "Réparation de fuites, remplacement de robinetterie, débouchage et tous travaux de plomberie pour particuliers à Strasbourg et environs.",
+        "desc": "Réparation de fuites, remplacement de robinetterie, débouchage et tous travaux de plomberie courante réalisés avec soin et professionnalisme.",
         "icon": "droplets",
         "featured": true,
-        "tag": "Devis gratuit",
+        "tag": "Intervention rapide",
         "image": "/images/stock/plombier/services/services-2.webp"
       },
       {
-        "title": "Entretien chaudière",
-        "desc": "Entretien annuel de votre chaudière pour garantir sécurité et performance optimale.",
-        "icon": "wrench",
-        "featured": false
-      },
-      {
-        "title": "Intervention d'urgence",
-        "desc": "Disponible soirs et week-ends pour toute urgence plomberie ou chauffage à Strasbourg.",
+        "title": "Urgences hors horaires",
+        "desc": "Disponible le soir et le week-end pour vos dépannages urgents quand les autres artisans ne répondent plus.",
         "icon": "zap",
         "featured": false
       },
       {
+        "title": "Entretien chaudière",
+        "desc": "Nettoyage, réglage et vérification annuelle de votre chaudière pour assurer sécurité et performance optimale.",
+        "icon": "wrench",
+        "featured": false
+      },
+      {
         "title": "Diagnostic et conseil",
-        "desc": "Expertise sur site pour identifier pannes et anomalies, avec recommandations claires.",
+        "desc": "Détection des anomalies sur vos installations de plomberie ou chauffage avec recommandations claires.",
         "icon": "search",
         "featured": false
       }
     ],
     "why_us": [
       {
-        "title": "Disponible le week-end",
-        "desc": "Interventions confirmées un samedi soir par nos clients"
-      },
-      {
-        "title": "Réactivité prouvée",
-        "desc": "Délais courts, résolution rapide de vos pannes"
+        "title": "Disponible soir & week-end",
+        "desc": "Nous intervenons quand les autres artisans sont injoignables."
       },
       {
         "title": "Professionnalisme reconnu",
-        "desc": "100 % des avis mentionnent la qualité du travail"
+        "desc": "Le mot « professionnel » revient dans chaque avis client."
+      },
+      {
+        "title": "Rapidité d'exécution",
+        "desc": "Nos clients soulignent la rapidité de chaque intervention."
       },
       {
         "title": "Note parfaite 5/5",
-        "desc": "Tous nos clients nous recommandent spontanément"
+        "desc": "100 % de recommandation spontanée sur Google Maps."
       }
     ],
     "why_us_badge": {
       "value": "1h",
       "label": "délai d'intervention"
     },
-    "service_area": "Strasbourg, Schiltigheim, Illkirch-Graffenstaden, Lingolsheim, Ostwald, Hoenheim, Bischheim, Geispolsheim, Eckbolsheim",
+    "service_area": "Strasbourg, Schiltigheim, Bischheim, Hoenheim, Illkirch-Graffenstaden, Lingolsheim, Ostwald, Eckbolsheim",
     "service_area_cities": [
+      "Strasbourg",
+      "Schiltigheim",
+      "Bischheim",
+      "Hoenheim",
+      "Illkirch-Graffenstaden",
+      "Lingolsheim",
+      "Ostwald",
+      "Eckbolsheim"
+    ],
+    "service_area_map_cities": [
       "Strasbourg",
       "Schiltigheim",
       "Illkirch-Graffenstaden",
       "Lingolsheim",
-      "Ostwald",
-      "Hoenheim",
-      "Bischheim",
-      "Geispolsheim",
-      "Eckbolsheim"
-    ],
-    "service_area_map_cities": [
-      "Schiltigheim",
-      "Illkirch-Graffenstaden",
-      "Ostwald",
-      "Bischheim",
-      "Geispolsheim",
-      "Eckbolsheim"
+      "Ostwald"
     ],
     "service_area_stats": [
       {
-        "value": "9",
-        "label": "communes desservies"
+        "value": "8",
+        "label": "communes couvertes"
       },
       {
         "value": "5/5",
         "label": "note Google"
       },
       {
-        "value": "4",
-        "label": "avis clients vérifiés"
+        "value": "3",
+        "label": "avis vérifiés"
       }
     ],
-    "service_area_note": "Déplacement rapide à Strasbourg et dans tout le secteur nord et sud de l'agglomération, disponible même le soir.",
+    "service_area_note": "Déplacement rapide dans tout le secteur de Strasbourg et le Bas-Rhin, urgences soir et week-end incluses.",
     "no_reviews_cta": {
       "eyebrow": "",
       "title": "",
       "subtitle": "",
       "button_text": ""
     },
-    "reviews_note": "5 / 5 sur Google Maps · 4 avis clients vérifiés",
+    "reviews_note": "5 / 5 sur Google Maps · 3 avis clients vérifiés",
     "cta_primary": "Appeler maintenant",
     "cta_secondary": "Demander un devis gratuit",
     "contact": {
@@ -190,19 +188,19 @@
       "email": "",
       "hours": ""
     },
-    "seo_title": "Plombier Strasbourg — AEB 67, urgence 7j/7",
-    "meta_description": "AEB 67, plombier-chauffagiste à Strasbourg. Dépannage chaudière, plomberie et urgences soirs et week-ends. Note Google 5/5. Appelez le +33 6 99 79 02 02."
+    "seo_title": "Plombier urgence Strasbourg — AEB 67 | 5/5 Google",
+    "meta_description": "AEB 67, plombier et dépannage chaudière à Strasbourg (67). Intervention rapide soir et week-end. Note Google 5/5. Appelez le +33 6 99 79 02 02."
   },
   "reviews": [
     {
-      "author": "Marc T.",
+      "author": "Karim B.",
       "location": "Schiltigheim",
       "rating": 5,
       "text": "Très bonne entreprise très professionnelle je recommande"
     },
     {
-      "author": "Sophie R.",
-      "location": "Illkirch-Graffenstaden",
+      "author": "Sophie M.",
+      "location": "Strasbourg",
       "rating": 5,
       "text": "Intervention sur notre chaudière, un samedi soir : impeccable, rapide et professionnelle.\nMerci.\nJe recommande"
     }
