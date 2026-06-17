@@ -1,0 +1,197 @@
+{
+  "business": {
+    "name": "rénovation et dėpannage plomberie,électricité home service 66 barcarès",
+    "slug": "renovation-et-depannage-plomberieelectricite-home-service-66",
+    "city": "Le Barcarès",
+    "country": "France",
+    "phone": "+33 6 72 13 12 25",
+    "address": "75 Av. Annibal, 66420 Le Barcarès",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=r%C3%A9novation%20et%20d%C4%97pannage%20plomberie%2C%C3%A9lectricit%C3%A9%20home%20service%2066%20barcar%C3%A8s&query_place_id=ChIJ2wE8blVhsBIR5H5RuFdfjwE",
+    "rating": 4.9,
+    "reviews_count": 35
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-3.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-5.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Devis gratuit"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Plombier & électricien au Barcarès",
+    "hero_subtitle": "Dépannage réactif et rénovation — disponible 6j/7, note 4.9/5 sur 35 avis clients.",
+    "hero_stats": [
+      {
+        "value": "4.9/5",
+        "label": "Note Google vérifiée"
+      },
+      {
+        "value": "35",
+        "label": "Avis clients satisfaits"
+      },
+      {
+        "value": "6j/7",
+        "label": "Disponibilité hebdomadaire"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Réactivité sur le terrain",
+        "subtitle": "Intervention rapide pour vos urgences plomberie et électricité"
+      },
+      {
+        "title": "Double compétence unique",
+        "subtitle": "Un seul artisan pour la plomberie ET l'électricité"
+      },
+      {
+        "title": "Note quasi parfaite",
+        "subtitle": "4.9/5 sur 35 avis : une qualité régulière reconnue"
+      }
+    ],
+    "value_prop": "Home Service 66 intervient au Barcarès et sur la côte catalane pour tous vos besoins en plomberie et électricité. Dépannage d'urgence comme rénovation complète : un artisan polyvalent, réactif, disponible du lundi au samedi, avec une note de 4.9/5 sur Google.",
+    "services_intro": "Plomberie, électricité et rénovation : un artisan, toutes vos solutions.",
+    "about": "Home Service 66 est votre artisan de proximité au Barcarès, spécialisé en plomberie et électricité. Réactif et disponible 6 jours sur 7, il intervient aussi bien pour un dépannage urgent que pour vos projets de rénovation. Sa note de 4.9/5 reflète l'exigence et le sérieux apportés à chaque intervention.",
+    "footer_description": "Home Service 66 — Artisan plombier et électricien au Barcarès (66420). Dépannage rapide et rénovation sur la côte catalane. Disponible lun–ven 7h–19h et sam 8h30–16h. Tél. : +33 6 72 13 12 25.",
+    "services": [
+      {
+        "title": "Dépannage chauffe-eau",
+        "desc": "Installation, remplacement et réparation de chauffe-eau. Intervention rapide pour rétablir votre eau chaude sans délai, quel que soit le modèle.",
+        "icon": "flame",
+        "featured": true,
+        "tag": "Urgence & installation",
+        "image": "/images/stock/plombier/services/services-2.webp"
+      },
+      {
+        "title": "Plomberie générale",
+        "desc": "Réparation et installation de douche, baignoire, sanitaires et tuyauterie. Dépannage fuites, rénovation salle de bain, tout est pris en charge.",
+        "icon": "droplets",
+        "featured": true,
+        "tag": "Dépannage & rénovation",
+        "image": "/images/stock/plombier/services/services-3.webp"
+      },
+      {
+        "title": "Travaux d'électricité",
+        "desc": "Dépannage électrique, mise aux normes, installation de prises et tableaux électriques pour votre logement.",
+        "icon": "zap",
+        "featured": false
+      },
+      {
+        "title": "Ventilateurs de plafond",
+        "desc": "Pose et raccordement de ventilateurs de plafond, réalisation du câblage et vérification de la sécurité électrique.",
+        "icon": "wind",
+        "featured": false
+      },
+      {
+        "title": "Rénovation intérieure",
+        "desc": "Rénovation complète plomberie et électricité : idéal pour résidences principales, secondaires et locations saisonnières.",
+        "icon": "wrench",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Réactivité immédiate",
+        "desc": "Vos urgences traitées en priorité, 6 jours sur 7."
+      },
+      {
+        "title": "Plomberie & électricité",
+        "desc": "Deux corps de métier, un seul interlocuteur de confiance."
+      },
+      {
+        "title": "Note 4.9/5 Google",
+        "desc": "35 clients satisfaits attestent d'une qualité constante."
+      },
+      {
+        "title": "Artisan de proximité",
+        "desc": "Basé au Barcarès, il connaît le territoire et ses habitants."
+      }
+    ],
+    "why_us_badge": {
+      "value": "1h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Le Barcarès, Saint-Laurent-de-la-Salanque, Torreilles, Sainte-Marie-la-Mer, Saint-Hippolyte, Leucate, Canet-en-Roussillon, Rivesaltes, Perpignan",
+    "service_area_cities": [
+      "Le Barcarès",
+      "Saint-Laurent-de-la-Salanque",
+      "Torreilles",
+      "Sainte-Marie-la-Mer",
+      "Saint-Hippolyte",
+      "Leucate",
+      "Canet-en-Roussillon",
+      "Rivesaltes",
+      "Perpignan"
+    ],
+    "service_area_map_cities": [
+      "Perpignan",
+      "Canet-en-Roussillon",
+      "Leucate",
+      "Saint-Laurent-de-la-Salanque",
+      "Rivesaltes",
+      "Torreilles"
+    ],
+    "service_area_stats": [
+      {
+        "value": "9",
+        "label": "communes desservies"
+      },
+      {
+        "value": "4.9/5",
+        "label": "note Google"
+      },
+      {
+        "value": "35",
+        "label": "avis vérifiés"
+      }
+    ],
+    "service_area_note": "Déplacement rapide sur tout le littoral catalan et ses environs, devis gratuit sans engagement.",
+    "no_reviews_cta": {
+      "eyebrow": "CONFIANCE",
+      "title": "Un artisan fiable sur la côte catalane",
+      "subtitle": "Réactif, polyvalent et disponible 6j/7, Home Service 66 assure vos dépannages et rénovations avec sérieux au Barcarès et alentours.",
+      "button_text": "Demander un devis gratuit"
+    },
+    "reviews_note": "4.9 / 5 sur Google Maps · 35 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 6 72 13 12 25",
+      "email": "",
+      "hours": "Lun–Ven 7h–19h · Sam 8h30–16h"
+    },
+    "seo_title": "Plombier Électricien Le Barcarès — Home Service 66",
+    "meta_description": "Dépannage et rénovation plomberie & électricité au Barcarès (66420). Artisan réactif, disponible 6j/7, note 4.9/5 sur Google. Appelez le +33 6 72 13 12 25."
+  },
+  "reviews": []
+}
