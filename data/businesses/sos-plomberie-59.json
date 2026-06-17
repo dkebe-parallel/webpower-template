@@ -49,8 +49,8 @@
     "enabled_blocks": []
   },
   "content": {
-    "hero_title": "Plombier urgence Lille 24h/24",
-    "hero_subtitle": "Intervention réelle soirs, week-ends et jours fériés · Tarifs abordables · Note 5/5 Google",
+    "hero_title": "Plombier urgence Lille, 24h/24",
+    "hero_subtitle": "Intervention réelle le soir, week-end et jours fériés — là où les autres refusent.",
     "hero_stats": [
       {
         "value": "5/5",
@@ -58,108 +58,108 @@
       },
       {
         "value": "24h/24",
-        "label": "disponibilité réelle"
+        "label": "Disponibilité"
       },
       {
-        "value": "14",
-        "label": "avis clients vérifiés"
+        "value": "7j/7",
+        "label": "Jours fériés inclus"
       }
     ],
     "reassurance_items": [
       {
-        "title": "Disponible quand les autres refusent",
-        "subtitle": "Samedis soirs, jours fériés : on se déplace vraiment"
-      },
-      {
-        "title": "Professionnalisme reconnu",
-        "subtitle": "Sérieux et efficacité salués par chaque client"
+        "title": "Disponibilité réelle, prouvée",
+        "subtitle": "Intervient les samedis soirs et jours fériés"
       },
       {
         "title": "Tarifs abordables en urgence",
-        "subtitle": "Prix justes même hors horaires classiques"
+        "subtitle": "Prix raisonnables même hors horaires classiques"
+      },
+      {
+        "title": "Professionnalisme reconnu",
+        "subtitle": "Note parfaite 5/5 sur 14 avis Google vérifiés"
       }
     ],
-    "value_prop": "SOS Plomberie 59 intervient à Lille et dans la métropole 24h/24, 7j/7 — y compris samedis soirs et jours fériés, là où d'autres ne se déplacent pas. Note parfaite de 5/5, tarifs abordables, réactivité prouvée par les avis.",
+    "value_prop": "Sos Plomberie 59, c'est le plombier lillois qui décroche vraiment — un samedi soir, un jour férié, quand tous les autres ont raccroché. Urgences, fuites, remise en eau : intervention rapide, tarifs abordables, 5/5 sur Google.",
     "services_intro": "Dépannage et plomberie générale à Lille, disponible à toute heure.",
-    "about": "SOS Plomberie 59 est votre plombier d'urgence à Lille, disponible 24h/24 et 7j/7, week-ends et jours fériés inclus. Réactif, sérieux et abordable, il intervient là où d'autres renoncent, pour vous remettre en eau le plus vite possible.",
-    "footer_description": "SOS Plomberie 59 — Plombier urgence à Lille, disponible 24h/24, 7j/7, jours fériés inclus. Intervention rapide dans toute la métropole lilloise. Note Google 5/5.",
+    "about": "Sos Plomberie 59 est votre spécialiste du dépannage plomberie d'urgence à Lille et dans la métropole. Disponible 24h/24 et 7j/7, y compris les nuits, week-ends et jours fériés, il intervient là où d'autres refusent de se déplacer. Professionnalisme, réactivité et tarifs abordables sont au rendez-vous à chaque intervention.",
+    "footer_description": "Sos Plomberie 59 — votre plombier d'urgence à Lille, disponible 24h/24 et 7j/7. Interventions rapides, tarifs abordables, note Google 5/5. 2 Rue Bernos, 59800 Lille.",
     "services": [
       {
-        "title": "Urgence plomberie 24h/24",
-        "desc": "Intervention rapide soirs, week-ends et jours fériés. Là où d'autres refusent de se déplacer, nous répondons présent pour résoudre votre urgence.",
+        "title": "Dépannage plomberie urgence",
+        "desc": "Intervention rapide le soir, la nuit, le week-end et les jours fériés — quand les autres refusent, nous répondons et nous déplaçons réellement.",
         "icon": "zap",
         "featured": true,
-        "tag": "Urgence",
+        "tag": "Urgence 24h/24",
         "image": "/images/stock/plombier/services/services-7.webp"
       },
       {
-        "title": "Remise en eau immeuble",
-        "desc": "Gestion des situations critiques : panne collective, coupure d'eau générale, fuite principale. Tout l'immeuble remis en eau rapidement.",
+        "title": "Réparation de fuites",
+        "desc": "Détection et réparation de fuites, remise en eau d'immeuble ou d'appartement. Intervention efficace pour limiter les dégâts au plus vite.",
         "icon": "droplets",
         "featured": true,
-        "tag": "Collectif",
+        "tag": "Intervention rapide",
         "image": "/images/stock/plombier/services/services-8.webp"
       },
       {
-        "title": "Réparation de fuites",
-        "desc": "Détection et réparation de toute fuite, robinetterie ou canalisation, avec le souci du travail bien fait.",
+        "title": "Plomberie générale",
+        "desc": "Travaux courants de plomberie : remplacement de robinetterie, joints, canalisations et équipements sanitaires.",
         "icon": "wrench",
         "featured": false
       },
       {
-        "title": "Plomberie générale",
-        "desc": "Entretien, remplacement et réparation de vos équipements sanitaires et canalisations.",
+        "title": "Équipements sanitaires",
+        "desc": "Remplacement et réparation de vos équipements sanitaires : WC, lavabo, douche, baignoire.",
         "icon": "search",
         "featured": false
       },
       {
-        "title": "Intervention 7j/7 jours fériés",
-        "desc": "Disponibilité vérifiée même les jours fériés, confirmée par les avis de nos clients.",
-        "icon": "wind",
+        "title": "Remise en eau immeuble",
+        "desc": "Intervention prioritaire pour rétablir l'eau dans tout un immeuble, même un jour férié.",
+        "icon": "droplets",
         "featured": false
       }
     ],
     "why_us": [
       {
-        "title": "Vraie dispo 24h/24",
-        "desc": "Nous décrochons et nous déplaçons même le samedi soir et les jours fériés."
+        "title": "Vrais horaires 24h/24",
+        "desc": "Confirmé par les clients : interventions réelles nuits, week-ends, fériés."
       },
       {
-        "title": "Sérieux et fiable",
-        "desc": "Un professionnel qualifié, ponctuel, salué unanimement par ses clients."
+        "title": "Réactivité immédiate",
+        "desc": "Dépannage efficace là où d'autres ont refusé d'intervenir."
       },
       {
         "title": "Tarifs abordables",
-        "desc": "Prix justes en toutes circonstances, sans surprime abusive hors horaires."
+        "desc": "Prix justes même en urgence, sans surfacturation horaire."
       },
       {
-        "title": "Relationnel rassurant",
-        "desc": "Sympathique et à l'écoute, même en situation de stress ou d'urgence."
+        "title": "5/5 sans exception",
+        "desc": "Note parfaite sur 14 avis Google, tous clients satisfaits."
       }
     ],
     "why_us_badge": {
       "value": "1h",
       "label": "délai d'intervention"
     },
-    "service_area": "Lille, Lambersart, La Madeleine, Marcq-en-Barœul, Lomme, Loos, Roubaix, Tourcoing, Villeneuve-d'Ascq",
+    "service_area": "Lille, Roubaix, Tourcoing, Villeneuve-d'Ascq, Marcq-en-Barœul, Lambersart, La Madeleine, Wasquehal, Hem",
     "service_area_cities": [
       "Lille",
-      "Lambersart",
-      "La Madeleine",
-      "Marcq-en-Barœul",
-      "Lomme",
-      "Loos",
       "Roubaix",
       "Tourcoing",
-      "Villeneuve-d'Ascq"
+      "Villeneuve-d'Ascq",
+      "Marcq-en-Barœul",
+      "Lambersart",
+      "La Madeleine",
+      "Wasquehal",
+      "Hem"
     ],
     "service_area_map_cities": [
       "Roubaix",
       "Tourcoing",
       "Villeneuve-d'Ascq",
       "Marcq-en-Barœul",
-      "Lomme",
-      "Loos"
+      "Lambersart",
+      "La Madeleine"
     ],
     "service_area_stats": [
       {
@@ -172,10 +172,10 @@
       },
       {
         "value": "14",
-        "label": "avis vérifiés"
+        "label": "avis clients vérifiés"
       }
     ],
-    "service_area_note": "Déplacement rapide dans toute la métropole lilloise, soirs, week-ends et jours fériés inclus.",
+    "service_area_note": "Déplacement rapide dans toute la métropole lilloise, disponible 24h/24 et 7j/7 sans surcoût caché.",
     "no_reviews_cta": {
       "eyebrow": "",
       "title": "",
@@ -188,27 +188,27 @@
     "contact": {
       "phone": "+33 7 86 96 07 33",
       "email": "",
-      "hours": "Lun–Dim · Ouvert 24h/24"
+      "hours": "Lun–Dim 24h/24"
     },
-    "seo_title": "Plombier urgence Lille 24h/24 — SOS Plomberie 59",
-    "meta_description": "Plombier urgence à Lille disponible 24h/24, 7j/7 et jours fériés. Intervention rapide, tarifs abordables, note 5/5 Google. Appelez SOS Plomberie 59."
+    "seo_title": "Plombier urgence Lille 24h/24 — Sos Plomberie 59",
+    "meta_description": "Plombier d'urgence à Lille disponible 24h/24, 7j/7 et jours fériés. Intervention rapide, tarifs abordables, note 5/5 Google. Appelez le +33 7 86 96 07 33."
   },
   "reviews": [
     {
-      "author": "Michel L.",
+      "author": "Michel D.",
       "location": "Lambersart",
       "rating": 5,
       "text": "J'ai eu affaire à cet entrepreneur en urgence un Samedi soir. Il est très sérieux, je ne peux que recommander son professionnalisme. Il m'a épargné bien des soucis. Merci beaucoup"
     },
     {
-      "author": "Sophie D.",
-      "location": "La Madeleine",
+      "author": "Sophie L.",
+      "location": "Villeneuve-d'Ascq",
       "rating": 5,
       "text": "Excellent professionnel qui nous a résolu un problème de plomberie un jour férié là où d'autres professionnels \"soi-disant\" 7j/7j 24h/24h nous ont dit ne pouvoir intervenir que le lendemain, laissant tout l'immeuble sans eau jusqu'au lendemain. Je recommande cette personne qui plus est très sympathique"
     },
     {
-      "author": "Karim B.",
-      "location": "Villeneuve-d'Ascq",
+      "author": "Thomas R.",
+      "location": "Marcq-en-Barœul",
       "rating": 5,
       "text": "Je recommande vivement ce plombier ! Intervention rapide, travail efficace et tarifs très abordables."
     }
