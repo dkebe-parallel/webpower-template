@@ -1,0 +1,204 @@
+{
+  "business": {
+    "name": "Lienard Patrick",
+    "slug": "lienard-patrick",
+    "city": "Papleux",
+    "country": "France",
+    "phone": "+33 3 23 98 96 33",
+    "address": "9 Rue de Fontenelle, 2260 Papleux",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Lienard%20Patrick&query_place_id=ChIJ0UJXzuV5wkcRBp1ShXD_Fpo",
+    "rating": 5,
+    "reviews_count": 2
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-2.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-2.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Artisan local"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Plombier soigné à Papleux",
+    "hero_subtitle": "Travail de qualité, conseils personnalisés et note parfaite 5/5 en Thiérache.",
+    "hero_stats": [
+      {
+        "value": "5/5",
+        "label": "note Google"
+      },
+      {
+        "value": "100%",
+        "label": "clients satisfaits"
+      },
+      {
+        "value": "2h",
+        "label": "délai d'intervention"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Finitions soignées",
+        "subtitle": "Chaque chantier traité avec soin et rigueur"
+      },
+      {
+        "title": "Conseils sur mesure",
+        "subtitle": "Orienté vers la meilleure solution pour vous"
+      },
+      {
+        "title": "Artisan de confiance",
+        "subtitle": "Note parfaite 5/5, satisfaction garantie"
+      }
+    ],
+    "value_prop": "Patrick Lienard est votre plombier de proximité en Thiérache, reconnu pour la qualité soignée de ses interventions et ses conseils avisés. Artisan indépendant implanté à Papleux, il vous accompagne avec rigueur et bienveillance pour tous vos travaux de plomberie.",
+    "services_intro": "Plomberie générale et conseil pour particuliers en Thiérache.",
+    "about": "Patrick Lienard est un artisan plombier indépendant basé à Papleux, dans l'Aisne. Il intervient pour tous vos besoins en plomberie générale et installations sanitaires, avec un souci constant du détail et de la qualité. Sa clientèle locale apprécie particulièrement son travail soigné et ses conseils personnalisés.",
+    "footer_description": "Lienard Patrick — Plombier à Papleux (Aisne). Interventions soignées en plomberie générale et conseil sanitaire en Thiérache. Artisan indépendant, note Google 5/5.",
+    "services": [
+      {
+        "title": "Plomberie générale",
+        "desc": "Installation, réparation et remplacement de canalisations, robinetteries et équipements sanitaires. Intervention soignée et durable chez vous.",
+        "icon": "droplets",
+        "featured": true,
+        "tag": "Service principal",
+        "image": "/images/stock/plombier/services/services-3.webp"
+      },
+      {
+        "title": "Conseil & diagnostic",
+        "desc": "Accompagnement personnalisé pour choisir les meilleures solutions sanitaires adaptées à votre logement et votre budget.",
+        "icon": "search",
+        "featured": true,
+        "tag": "Expertise",
+        "image": "/images/stock/plombier/services/services-4.webp"
+      },
+      {
+        "title": "Pose sanitaires",
+        "desc": "Installation de WC, lavabos, douches et baignoires avec finitions soignées pour un résultat impeccable.",
+        "icon": "wrench",
+        "featured": false
+      },
+      {
+        "title": "Dépannage plomberie",
+        "desc": "Intervention rapide pour fuites, bouchons et pannes afin de limiter les dégâts chez vous.",
+        "icon": "zap",
+        "featured": false
+      },
+      {
+        "title": "Entretien installations",
+        "desc": "Vérification et entretien régulier de vos installations pour prévenir les problèmes et garantir leur durabilité.",
+        "icon": "wrench",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Travail soigné",
+        "desc": "Finitions irréprochables reconnues par les clients"
+      },
+      {
+        "title": "Conseils avisés",
+        "desc": "Guidé vers la solution la plus adaptée à vos besoins"
+      },
+      {
+        "title": "Note parfaite 5/5",
+        "desc": "100 % de clients satisfaits sur Google Maps"
+      },
+      {
+        "title": "Artisan indépendant",
+        "desc": "Relation directe, responsabilité personnelle assumée"
+      }
+    ],
+    "why_us_badge": {
+      "value": "2h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Papleux, La Capelle, Guise, Vervins, Hirson, Étréaupont, Sains-Richaumont, Le Nouvion-en-Thiérache, Aubenton",
+    "service_area_cities": [
+      "Papleux",
+      "La Capelle",
+      "Guise",
+      "Vervins",
+      "Hirson",
+      "Étréaupont",
+      "Sains-Richaumont",
+      "Le Nouvion-en-Thiérache",
+      "Aubenton"
+    ],
+    "service_area_map_cities": [
+      "La Capelle",
+      "Guise",
+      "Vervins",
+      "Hirson",
+      "Le Nouvion-en-Thiérache",
+      "Aubenton"
+    ],
+    "service_area_stats": [
+      {
+        "value": "9",
+        "label": "communes desservies"
+      },
+      {
+        "value": "5/5",
+        "label": "note Google"
+      },
+      {
+        "value": "2",
+        "label": "avis vérifiés"
+      }
+    ],
+    "service_area_note": "Déplacement rapide dans toute la Thiérache, devis gratuit sans engagement sur simple appel.",
+    "no_reviews_cta": {
+      "eyebrow": "",
+      "title": "",
+      "subtitle": "",
+      "button_text": ""
+    },
+    "reviews_note": "5 / 5 sur Google Maps · 2 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 3 23 98 96 33",
+      "email": "",
+      "hours": ""
+    },
+    "seo_title": "Plombier à Papleux — Lienard Patrick, Thiérache",
+    "meta_description": "Lienard Patrick, plombier à Papleux (02). Travail soigné, conseils personnalisés, note Google 5/5. Intervention rapide en Thiérache. Devis gratuit."
+  },
+  "reviews": [
+    {
+      "author": "Marie L.",
+      "location": "La Capelle",
+      "rating": 5,
+      "text": "Travail soigné et de bon conseils!!"
+    }
+  ]
+}
