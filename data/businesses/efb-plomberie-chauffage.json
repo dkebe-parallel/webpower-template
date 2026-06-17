@@ -17,7 +17,7 @@
   },
   "badges": {
     "certifications": [],
-    "highlight": "Ouvert le samedi"
+    "highlight": "Devis gratuit"
   },
   "theme": {
     "palette": {
@@ -49,8 +49,8 @@
     "enabled_blocks": []
   },
   "content": {
-    "hero_title": "Votre plombier-chauffagiste dans le 12e",
-    "hero_subtitle": "Plomberie et chauffage à Paris, disponible 6 jours sur 7 — note parfaite 5/5 sur Google.",
+    "hero_title": "Votre plombier du 12e, 6 jours/7",
+    "hero_subtitle": "Plomberie et chauffage à Paris 12e · Note parfaite 5/5 · Disponible du lundi au samedi",
     "hero_stats": [
       {
         "value": "5/5",
@@ -58,107 +58,108 @@
       },
       {
         "value": "6j/7",
-        "label": "Disponibilité"
+        "label": "Jours d'ouverture"
       },
       {
-        "value": "100%",
-        "label": "Clients satisfaits"
+        "value": "Samedi",
+        "label": "Ouverture jusqu'à 15h"
       }
     ],
     "reassurance_items": [
       {
-        "title": "Note Google parfaite 5/5",
-        "subtitle": "Un service soigné reconnu par chaque client"
+        "title": "Note parfaite 5/5 sur Google",
+        "subtitle": "Un service irréprochable, salué par nos clients"
       },
       {
-        "title": "Ouvert le samedi matin",
-        "subtitle": "Disponible jusqu'à 15h, même le week-end"
+        "title": "Ouvert le samedi jusqu'à 15h",
+        "subtitle": "Disponibilité rare chez les artisans parisiens"
       },
       {
         "title": "Ancré dans le 12e arrondissement",
-        "subtitle": "Adresse vérifiable, artisan de proximité"
+        "subtitle": "Intervention rapide depuis le Bd de Reuilly"
       }
     ],
-    "value_prop": "EFB Plomberie Chauffage intervient dans le 12e arrondissement de Paris et ses environs pour tous vos besoins en plomberie et chauffage. Disponible du lundi au samedi, l'entreprise allie réactivité, transparence et travail soigné pour particuliers comme professionnels.",
-    "services_intro": "Plomberie, chauffage et dépannage : des interventions fiables dans le 12e.",
-    "about": "EFB Plomberie Chauffage est un artisan de proximité installé au 23 Boulevard de Reuilly dans le 12e arrondissement de Paris. L'entreprise intervient sur tous types de travaux de plomberie et de chauffage, avec une disponibilité étendue du lundi au samedi. Sa note Google parfaite de 5/5 témoigne d'un engagement constant pour la qualité du service.",
-    "footer_description": "EFB Plomberie Chauffage — artisan plombier-chauffagiste au 23 Bd de Reuilly, 75012 Paris. Interventions du lundi au samedi, du 12e arrondissement à Vincennes, Charenton-le-Pont et alentours.",
+    "value_prop": "EFB Plomberie Chauffage intervient dans le 12e arrondissement de Paris et ses environs pour tous vos besoins en plomberie et chauffage. Avec une note Google de 5/5 et des horaires étendus du lundi au samedi, l'artisan s'engage pour un service soigné et réactif.",
+    "services_intro": "Plomberie, chauffage et dépannage dans le 12e arrondissement de Paris.",
+    "about": "EFB Plomberie Chauffage est un artisan établi au 23 Boulevard de Reuilly, dans le 12e arrondissement de Paris. Spécialisé en plomberie générale et en installation de chauffage, l'entreprise intervient 6 jours sur 7 pour les particuliers et professionnels du secteur. Sa note Google parfaite de 5/5 témoigne de l'exigence de qualité portée à chaque chantier.",
+    "footer_description": "EFB Plomberie Chauffage — Artisan plombier-chauffagiste au 23 Bd de Reuilly, Paris 12e. Disponible du lundi au samedi pour tous vos travaux de plomberie et de chauffage.",
     "services": [
       {
         "title": "Plomberie générale",
-        "desc": "Installation, réparation et remplacement de tous équipements sanitaires : robinetterie, canalisations, évacuations et alimentation en eau.",
+        "desc": "Installation, réparation et remplacement de tous vos équipements sanitaires. Intervention soignée et rapide dans le 12e arrondissement et ses environs.",
         "icon": "droplets",
         "featured": true,
-        "tag": "Intervention rapide",
+        "tag": "Expertise locale",
         "image": "/images/stock/plombier/services/services-7.webp"
       },
       {
-        "title": "Chauffage — installation & entretien",
-        "desc": "Pose et entretien de chaudières, radiateurs et systèmes de chauffage central pour un confort optimal tout au long de l'année.",
+        "title": "Chauffage",
+        "desc": "Installation et entretien de chaudières, radiateurs et systèmes de chauffage central. Un artisan qualifié pour assurer votre confort thermique toute l'année.",
         "icon": "flame",
         "featured": true,
-        "tag": "Sur devis",
+        "tag": "Installation & entretien",
         "image": "/images/stock/plombier/services/services-8.webp"
       },
       {
         "title": "Dépannage plomberie",
-        "desc": "Intervention rapide sur fuites, robinets défaillants ou canalisations bouchées. Diagnostic et réparation dans les meilleurs délais.",
+        "desc": "Fuite, canalisation bouchée, robinetterie défectueuse : intervention rapide pour rétablir votre confort au plus vite.",
         "icon": "wrench",
         "featured": false
       },
       {
         "title": "Détection de fuites",
-        "desc": "Localisation précise des fuites apparentes ou cachées pour limiter les dégâts et intervenir sans travaux inutiles.",
+        "desc": "Diagnostic précis pour localiser et stopper toute fuite, limitant dégâts et coûts de réparation.",
         "icon": "search",
         "featured": false
       },
       {
         "title": "Entretien chaudière",
-        "desc": "Vérification annuelle et maintenance préventive pour garantir la sécurité et la performance de votre installation.",
+        "desc": "Révision annuelle et maintenance préventive pour garantir performance et sécurité de votre installation.",
         "icon": "zap",
         "featured": false
       }
     ],
     "why_us": [
       {
-        "title": "Note parfaite 5/5",
-        "desc": "Chaque intervention est réalisée avec le plus grand soin."
+        "title": "Note Google 5/5",
+        "desc": "Un niveau d'exigence reconnu et salué par chaque client."
       },
       {
         "title": "Ouvert le samedi",
-        "desc": "Disponible jusqu'à 15h pour s'adapter à vos contraintes."
+        "desc": "Disponible jusqu'à 15h le samedi, une rareté à Paris."
       },
       {
-        "title": "Artisan ancré localement",
-        "desc": "Adresse physique dans le 12e, transparence garantie."
+        "title": "Artisan de quartier",
+        "desc": "Basé au cœur du 12e, intervention rapide et proximité."
       },
       {
-        "title": "Devis sans engagement",
-        "desc": "Estimation claire avant toute intervention sur site."
+        "title": "Travail soigné",
+        "desc": "Chaque intervention est réalisée avec rigueur et soin."
       }
     ],
     "why_us_badge": {
       "value": "2h",
       "label": "délai d'intervention"
     },
-    "service_area": "Paris 12e, Charenton-le-Pont, Saint-Mandé, Vincennes, Ivry-sur-Seine, Maisons-Alfort, Alfortville, Joinville-le-Pont, Nogent-sur-Marne",
+    "service_area": "Paris 12e, Charenton-le-Pont, Saint-Mandé, Vincennes, Ivry-sur-Seine, Alfortville, Maisons-Alfort, Nogent-sur-Marne, Joinville-le-Pont",
     "service_area_cities": [
       "Paris 12e",
       "Charenton-le-Pont",
       "Saint-Mandé",
       "Vincennes",
       "Ivry-sur-Seine",
-      "Maisons-Alfort",
       "Alfortville",
-      "Joinville-le-Pont",
-      "Nogent-sur-Marne"
+      "Maisons-Alfort",
+      "Nogent-sur-Marne",
+      "Joinville-le-Pont"
     ],
     "service_area_map_cities": [
       "Vincennes",
       "Charenton-le-Pont",
       "Ivry-sur-Seine",
       "Maisons-Alfort",
-      "Nogent-sur-Marne"
+      "Nogent-sur-Marne",
+      "Joinville-le-Pont"
     ],
     "service_area_stats": [
       {
@@ -174,11 +175,11 @@
         "label": "jours d'intervention"
       }
     ],
-    "service_area_note": "Déplacement rapide dans le 12e et les communes voisines — devis gratuit, sans engagement.",
+    "service_area_note": "Déplacement rapide dans le 12e et les communes voisines, devis gratuit sans engagement.",
     "no_reviews_cta": {
       "eyebrow": "CONFIANCE",
-      "title": "Un artisan fiable au cœur du 12e arrondissement",
-      "subtitle": "Disponible du lundi au samedi, EFB Plomberie Chauffage intervient avec réactivité et soin sur tous vos travaux.",
+      "title": "Un artisan de confiance dans le 12e",
+      "subtitle": "Disponible 6 jours sur 7 depuis le Boulevard de Reuilly, EFB Plomberie Chauffage intervient avec rigueur et réactivité.",
       "button_text": "Demander un devis gratuit"
     },
     "reviews_note": "5 / 5 sur Google Maps · 1 avis clients vérifiés",
@@ -190,7 +191,7 @@
       "hours": "Lun–Ven 8h–18h · Sam 8h–15h"
     },
     "seo_title": "Plombier Chauffagiste Paris 12e — EFB Plomberie",
-    "meta_description": "EFB Plomberie Chauffage intervient dans le 12e arrondissement de Paris et ses environs. Plomberie, chauffage, dépannage — disponible 6j/7. Devis gratuit."
+    "meta_description": "EFB Plomberie Chauffage, artisan plombier-chauffagiste au 23 Bd de Reuilly, Paris 12e. Note 5/5, disponible lun–sam. Devis gratuit, intervention rapide."
   },
   "reviews": []
 }
