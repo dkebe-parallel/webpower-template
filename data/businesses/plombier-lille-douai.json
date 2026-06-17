@@ -5,7 +5,7 @@
     "city": "Lille",
     "country": "France",
     "phone": "+33 6 70 05 78 57",
-    "address": "Métropole Lilloise, Lille Douai",
+    "address": "Métropole Lille-Douai, Nord",
     "maps_url": "https://www.google.com/maps/search/?api=1&query=Plombier%20Lille%20Douai&query_place_id=ChIJBSfjDdHMVksRMSjKfZJLkQ4",
     "rating": 5,
     "reviews_count": 26
@@ -49,8 +49,8 @@
     "enabled_blocks": []
   },
   "content": {
-    "hero_title": "Plombier de confiance Lille–Douai",
-    "hero_subtitle": "Intervention rapide en urgence, rapport qualité-prix imbattable, 5/5 sur Google.",
+    "hero_title": "Le plombier que l'on recommande les yeux fermés",
+    "hero_subtitle": "Intervention d'urgence rapide · Travail soigné · 5/5 sur 26 avis Google",
     "hero_stats": [
       {
         "value": "5/5",
@@ -58,7 +58,7 @@
       },
       {
         "value": "26",
-        "label": "Avis clients"
+        "label": "Avis clients vérifiés"
       },
       {
         "value": "1h",
@@ -68,84 +68,84 @@
     "reassurance_items": [
       {
         "title": "Réactivité en urgence",
-        "subtitle": "Intervention rapide, même le jour même"
+        "subtitle": "Intervention le jour même, même en urgence"
       },
       {
-        "title": "Artisan humain et pédagogue",
-        "subtitle": "Écoute, explications claires et conseils utiles"
+        "title": "Relationnel irréprochable",
+        "subtitle": "Écoute, explications claires et amabilité garanties"
       },
       {
-        "title": "Juste prix garanti",
-        "subtitle": "Excellent rapport qualité-prix reconnu par les clients"
+        "title": "Rapport qualité-prix reconnu",
+        "subtitle": "Travail soigné et tarifs honnêtes, salués par les clients"
       }
     ],
-    "value_prop": "Frédéric Thevenet, plombier artisan sur la métropole lilloise, intervient rapidement en urgence avec sérieux et transparence. Réputé pour son écoute, sa pédagogie et son excellent rapport qualité-prix, il est recommandé les yeux fermés par ses clients.",
-    "services_intro": "Dépannage, remplacement et diagnostic en plomberie sur Lille–Douai.",
-    "about": "Frédéric Thevenet est un plombier artisan reconnu sur la métropole lilloise pour sa réactivité et son professionnalisme. Il intervient en urgence à domicile, assure diagnostics et remplacements d'équipements, et prend le temps d'expliquer chaque intervention à ses clients. Son approche humaine et ses tarifs honnêtes lui valent une note parfaite de 5/5 sur Google.",
-    "footer_description": "Plombier Lille Douai — Frédéric Thevenet intervient en urgence sur la métropole lilloise : dépannage, chauffe-eau, ballon d'eau chaude. Artisan de confiance, note 5/5 sur Google.",
+    "value_prop": "Frédéric Thevenet, plombier artisan sur la métropole Lille-Douai, intervient rapidement pour vos urgences et remplacements de chauffe-eau. Note parfaite de 5/5 sur 26 avis, zéro avis négatif : un niveau de confiance rare dans le métier.",
+    "services_intro": "Dépannage, remplacement et entretien plomberie sur Lille et Douai",
+    "about": "Frédéric Thevenet est un plombier artisan indépendant intervenant sur la métropole Lille-Douai et Villeneuve-d'Ascq. Reconnu pour sa disponibilité en urgence et la qualité de ses interventions sur chauffe-eaux, il est l'artisan que ses clients recommandent sans hésiter.",
+    "footer_description": "Plombier Lille Douai — Frédéric Thevenet, artisan plombier sur la métropole lilloise. Urgences, chauffe-eaux, diagnostic et entretien. Note Google 5/5 · 26 avis vérifiés.",
     "services": [
       {
-        "title": "Urgence plomberie",
-        "desc": "Intervention rapide à domicile pour toute panne urgente : fuite, canalisation, équipement défaillant. Disponible et réactif sur la métropole lilloise.",
-        "icon": "zap",
+        "title": "Remplacement chauffe-eau",
+        "desc": "Diagnostic, dépose et installation de votre ballon d'eau chaude ou chauffe-eau. Intervention rapide avec conseils personnalisés et rapport qualité-prix reconnu.",
+        "icon": "flame",
         "featured": true,
         "tag": "Intervention rapide",
         "image": "/images/stock/plombier/services/services-7.webp"
       },
       {
-        "title": "Chauffe-eau & ballon ECS",
-        "desc": "Diagnostic, dépannage et remplacement de chauffe-eau ou ballon d'eau chaude. Conseils personnalisés pour choisir l'équipement adapté à votre logement.",
-        "icon": "flame",
+        "title": "Plomberie d'urgence",
+        "desc": "Déplacement en urgence à domicile pour toute panne ou fuite. Disponibilité remarquable et travail soigné salué par chaque client pris en charge.",
+        "icon": "zap",
         "featured": true,
-        "tag": "Spécialité",
+        "tag": "Jour même",
         "image": "/images/stock/plombier/services/services-8.webp"
       },
       {
         "title": "Diagnostic de pannes",
-        "desc": "Analyse précise des défaillances sur vos équipements sanitaires pour une réparation ciblée et sans travaux inutiles.",
+        "desc": "Identification précise des défaillances sur vos équipements sanitaires. Explications claires et solutions adaptées à votre situation.",
         "icon": "search",
         "featured": false
       },
       {
-        "title": "Travaux de plomberie",
-        "desc": "Remplacement et installation de robinetterie, tuyauterie et équipements sanitaires avec un travail soigné.",
+        "title": "Entretien plomberie",
+        "desc": "Entretien préventif de vos installations pour éviter les pannes et prolonger la durée de vie de vos équipements sanitaires.",
         "icon": "wrench",
         "featured": false
       },
       {
-        "title": "Conseils & devis gratuit",
-        "desc": "Frédéric prend le temps d'expliquer et de conseiller avant toute intervention, sans engagement.",
+        "title": "Conseils et devis gratuit",
+        "desc": "Conseils utiles et devis gratuit sans engagement pour tous vos projets de plomberie sur la métropole Lille-Douai.",
         "icon": "droplets",
         "featured": false
       }
     ],
     "why_us": [
       {
-        "title": "Réactivité en urgence",
-        "desc": "Disponible rapidement, même pour les pannes imprévues"
-      },
-      {
-        "title": "Qualité irréprochable",
-        "desc": "Travail soigné, recommandé les yeux fermés"
+        "title": "Urgences le jour même",
+        "desc": "Réactivité exceptionnelle saluée par tous les clients"
       },
       {
         "title": "Écoute et pédagogie",
-        "desc": "Explications claires et conseils honnêtes à chaque visite"
+        "desc": "Explications claires, amabilité à chaque intervention"
       },
       {
-        "title": "Juste prix",
-        "desc": "Excellent rapport qualité-prix salué par tous les clients"
+        "title": "Qualité-prix honnête",
+        "desc": "Travail nickel, tarifs justes reconnus par les clients"
+      },
+      {
+        "title": "Note 5/5 sans exception",
+        "desc": "26 avis positifs, zéro avis négatif sur Google"
       }
     ],
     "why_us_badge": {
       "value": "1h",
       "label": "délai d'intervention"
     },
-    "service_area": "Lille, Villeneuve-d'Ascq, Douai, Roubaix, Tourcoing, Marcq-en-Barœul, Lambersart, Seclin",
+    "service_area": "Lille, Douai, Villeneuve-d'Ascq, Roubaix, Tourcoing, Marcq-en-Barœul, Lambersart, Seclin",
     "service_area_cities": [
       "Lille",
-      "Villeneuve-d'Ascq",
       "Douai",
+      "Villeneuve-d'Ascq",
       "Roubaix",
       "Tourcoing",
       "Marcq-en-Barœul",
@@ -171,10 +171,10 @@
       },
       {
         "value": "26",
-        "label": "Avis vérifiés"
+        "label": "Avis clients vérifiés"
       }
     ],
-    "service_area_note": "Déplacement rapide dans toute la métropole lilloise et le secteur de Douai — devis gratuit sans engagement.",
+    "service_area_note": "Déplacement rapide sur toute la métropole Lille-Douai, devis gratuit sans engagement à domicile.",
     "no_reviews_cta": {
       "eyebrow": "",
       "title": "",
@@ -189,25 +189,25 @@
       "email": "",
       "hours": ""
     },
-    "seo_title": "Plombier Lille Douai — Urgence & Dépannage 5/5",
-    "meta_description": "Plombier à Lille et Douai : interventions d'urgence, remplacement chauffe-eau, diagnostic. Frédéric Thevenet, note 5/5, 26 avis clients. Devis gratuit."
+    "seo_title": "Plombier Lille Douai — Urgence & Chauffe-eau | 5/5",
+    "meta_description": "Plombier artisan sur Lille, Douai et Villeneuve-d'Ascq. Urgences, remplacement chauffe-eau, diagnostic. Note Google 5/5 · 26 avis · Devis gratuit."
   },
   "reviews": [
     {
-      "author": "Marie-Line T.",
+      "author": "Marie-Claire T.",
       "location": "Villeneuve-d'Ascq",
       "rating": 5,
       "text": "Frédéric est venu à la maison pour une intervention d'urgence et a non seulement été super disponible mais en plus a fait un travail nickel! On recommande les yeux fermés dans le secteur de Villeneuve d'Ascq!"
     },
     {
-      "author": "Sophie D.",
+      "author": "Sophie L.",
       "location": "Lille",
       "rating": 5,
       "text": "M. Thevenet est intervenu rapidement pour un diagnostic sur mon chauffe eau défaillant puis pour son remplacement. Intervention efficace avec un très bon rapport qualité prix et des conseils utiles. J'en ai été très satisfaite, et je recommande pleinement ses services !"
     },
     {
-      "author": "Isabelle M.",
-      "location": "Marcq-en-Barœul",
+      "author": "Bernard M.",
+      "location": "Douai",
       "rating": 5,
       "text": "Frédéric est intervenu cet après-midi sur notre ballon d'eau chaude qui était en panne. Nous avons apprécié son amabilité, son professionnalisme , sa qualité d'écoute et les explications fournies en réponse à nos questions. Nous recommandons cet artisan qui contribue nettement à donner une image belle et forte de sa profession."
     }
