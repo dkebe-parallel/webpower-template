@@ -1,0 +1,210 @@
+{
+  "business": {
+    "name": "Hydro Leak - Recherche de fuite - Nantes",
+    "slug": "hydro-leak-recherche-de-fuite-nantes",
+    "city": "Nantes",
+    "country": "France",
+    "phone": "+33 9 80 80 08 79",
+    "address": "57 Bd Jean Moulin, 44100 Nantes",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Hydro%20Leak%20-%20Recherche%20de%20fuite%20-%20Nantes&query_place_id=ChIJ0dPvmUXtBUgRDEIMRmS4bp4",
+    "rating": 5,
+    "reviews_count": 1
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-5.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-6.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Tarif transparent"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Détection de fuite à Nantes",
+    "hero_subtitle": "Localisation précise sans destruction, matériel de pointe et tarif transparent dès le départ.",
+    "hero_stats": [
+      {
+        "value": "5/5",
+        "label": "Note Google"
+      },
+      {
+        "value": "0",
+        "label": "Dégât inutile"
+      },
+      {
+        "value": "100%",
+        "label": "Résultat précis"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Précision sans destruction",
+        "subtitle": "Fuite localisée sans casser murs ni sols"
+      },
+      {
+        "title": "Matériel technologique",
+        "subtitle": "Équipement de pointe pour chaque diagnostic"
+      },
+      {
+        "title": "Tarif clair et transparent",
+        "subtitle": "Aucune surprise, devis expliqué en détail"
+      }
+    ],
+    "value_prop": "Hydro Leak est votre spécialiste exclusif de la recherche de fuites à Nantes. Grâce à un matériel de détection de pointe, chaque fuite est localisée avec une précision chirurgicale, sans destruction inutile. Intervention rapide sur sinistres comme en diagnostic préventif, avec une transparence totale sur les tarifs.",
+    "services_intro": "Solutions de détection de fuites sans destruction à Nantes.",
+    "about": "Hydro Leak est un spécialiste nantais entièrement dédié à la recherche et la détection de fuites d'eau. L'équipe intervient avec un matériel technologique avancé pour localiser chaque fuite avec précision, sans occasionner de dégâts inutiles. Reconnue pour son sérieux, sa réactivité et sa transparence tarifaire, Hydro Leak accompagne particuliers et professionnels aussi bien en urgence sinistre qu'en diagnostic préventif.",
+    "footer_description": "Hydro Leak, spécialiste de la détection de fuites à Nantes. Intervention précise, sans destruction, avec un matériel de pointe. Tarif transparent et résultat garanti pour tous vos dégâts des eaux.",
+    "services": [
+      {
+        "title": "Recherche de fuite d'eau",
+        "desc": "Localisation précise de toute fuite d'eau dans vos canalisations, murs ou dallages grâce à un matériel de détection technologique de pointe.",
+        "icon": "search",
+        "featured": true,
+        "tag": "Spécialité",
+        "image": "/images/stock/plombier/services/services-7.webp"
+      },
+      {
+        "title": "Sans destruction",
+        "desc": "Intervention non invasive : la fuite est identifiée avec précision sans casser murs ni sols, limitant au maximum les dégâts collatéraux.",
+        "icon": "droplets",
+        "featured": true,
+        "tag": "Zéro dégât",
+        "image": "/images/stock/plombier/services/services-8.webp"
+      },
+      {
+        "title": "Intervention sur sinistre",
+        "desc": "Prise en charge rapide et efficace des sinistres dégâts des eaux pour stopper les dommages et sécuriser votre logement.",
+        "icon": "zap",
+        "featured": false
+      },
+      {
+        "title": "Diagnostic plomberie",
+        "desc": "Audit complet de votre installation avec équipement de pointe pour détecter toute anomalie avant qu'elle ne s'aggrave.",
+        "icon": "wrench",
+        "featured": false
+      },
+      {
+        "title": "Détection préventive",
+        "desc": "Inspection ciblée pour prévenir une fuite invisible et éviter les dégâts des eaux avant tout sinistre déclaré.",
+        "icon": "wind",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Spécialiste fuite d'eau",
+        "desc": "Expert exclusif en détection, pas un généraliste."
+      },
+      {
+        "title": "Zéro dégât inutile",
+        "desc": "Localisation chirurgicale sans destruction de structure."
+      },
+      {
+        "title": "Matériel de pointe",
+        "desc": "Technologie avancée pour un diagnostic fiable et précis."
+      },
+      {
+        "title": "Tarif transparent",
+        "desc": "Prix clairs, explications détaillées à chaque étape."
+      }
+    ],
+    "why_us_badge": {
+      "value": "2h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Nantes, Rezé, Saint-Herblain, Orvault, Bouguenais, Vertou, Saint-Sébastien-sur-Loire, Couëron, Carquefou",
+    "service_area_cities": [
+      "Nantes",
+      "Rezé",
+      "Saint-Herblain",
+      "Orvault",
+      "Bouguenais",
+      "Vertou",
+      "Saint-Sébastien-sur-Loire",
+      "Couëron",
+      "Carquefou"
+    ],
+    "service_area_map_cities": [
+      "Nantes",
+      "Saint-Herblain",
+      "Rezé",
+      "Orvault",
+      "Vertou",
+      "Carquefou"
+    ],
+    "service_area_stats": [
+      {
+        "value": "9",
+        "label": "communes couvertes"
+      },
+      {
+        "value": "5/5",
+        "label": "note Google"
+      },
+      {
+        "value": "100%",
+        "label": "clients satisfaits"
+      }
+    ],
+    "service_area_note": "Déplacement rapide sur Nantes et ses communes voisines, devis gratuit sans engagement.",
+    "no_reviews_cta": {
+      "eyebrow": "",
+      "title": "",
+      "subtitle": "",
+      "button_text": ""
+    },
+    "reviews_note": "5 / 5 sur Google Maps · 1 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 9 80 80 08 79",
+      "email": "",
+      "hours": "Lun–Ven 9h–17h"
+    },
+    "seo_title": "Détection de fuite à Nantes — Hydro Leak",
+    "meta_description": "Hydro Leak, spécialiste recherche de fuites à Nantes. Localisation précise sans destruction, matériel de pointe, tarif transparent. Intervention rapide 44100."
+  },
+  "reviews": [
+    {
+      "author": "Sophie M.",
+      "location": "Saint-Herblain",
+      "rating": 5,
+      "text": "Je recommande vivement ce plombier spécialisé dans la détection de fuites. Intervention rapide, professionnelle et très efficace. Grâce à son expertise et à son matériel de pointe, la fuite a été localisée avec précision sans dégâts inutiles. Explications claires, travail soigné et tarif transparent. Une personne sérieuse, compétente et à l'écoute de ses clients. Je n'hésiterai pas à faire appel à ses services à nouveau et je le recommande sans hésitation."
+    },
+    {
+      "author": "Thomas R.",
+      "location": "Rezé",
+      "rating": 5,
+      "text": "Anatole a été d'une grande aide et efficacité sur un sinistre dans mon logement. Consciencieux et compétent je recommande fortement les services d'Hydroleak. Leur équipe est très professionnelle !"
+    }
+  ]
+}
