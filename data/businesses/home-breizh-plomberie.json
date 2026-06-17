@@ -5,7 +5,7 @@
     "city": "Rennes",
     "country": "France",
     "phone": "+33 6 60 79 85 92",
-    "address": "Rennes, 35000 Ille-et-Vilaine",
+    "address": "Agglomération de Rennes, Bretagne",
     "maps_url": "https://www.google.com/maps/search/?api=1&query=Home%20breizh%20plomberie&query_place_id=ChIJx2R20TtOGggR6Vtib2sNQRQ",
     "rating": 4.8,
     "reviews_count": 23
@@ -49,99 +49,99 @@
     "enabled_blocks": []
   },
   "content": {
-    "hero_title": "Le plombier qu'on recommande les yeux fermés",
-    "hero_subtitle": "Honnêteté, qualité irréprochable et respect des délais — en pays rennais.",
+    "hero_title": "Le plombier en qui vous avez confiance",
+    "hero_subtitle": "Honnête, réactif et de grande qualité — il répare aussi les erreurs des autres artisans.",
     "hero_stats": [
       {
         "value": "4.8/5",
-        "label": "note Google"
+        "label": "Note Google"
       },
       {
         "value": "23",
-        "label": "avis clients vérifiés"
+        "label": "avis clients"
       },
       {
         "value": "100%",
-        "label": "chantiers terminés dans les délais"
+        "label": "travaux dans les délais"
       }
     ],
     "reassurance_items": [
       {
-        "title": "Honnêteté avant tout",
-        "subtitle": "Un artisan transparent, recommandé les yeux fermés"
+        "title": "Honnêteté reconnue",
+        "subtitle": "Recommandé les yeux fermés par ses clients"
       },
       {
-        "title": "Qualité d'exécution",
-        "subtitle": "Reprend et corrige les chantiers mal réalisés"
+        "title": "Qualité irréprochable",
+        "subtitle": "Travail soigné, délais tenus à chaque chantier"
       },
       {
-        "title": "Réactif et ponctuel",
-        "subtitle": "Intervient vite et respecte toujours les délais"
+        "title": "Reprend les chantiers défaillants",
+        "subtitle": "Corrige les erreurs laissées par d'autres artisans"
       }
     ],
-    "value_prop": "Home Breizh Plomberie, c'est Abder : un artisan plombier reconnu dans le pays rennais pour son honnêteté, la qualité de son travail et sa réactivité. Plomberie, chauffage, cuisine ou reprise de chantiers défectueux — il intervient avec rigueur et vous conseille à chaque étape.",
-    "services_intro": "Plomberie, chauffage et aménagement — tout en un seul artisan de confiance.",
-    "about": "Home Breizh Plomberie est une entreprise artisanale opérant dans le pays rennais, portée par Abder, plombier reconnu pour son sérieux et son honnêteté. Qu'il s'agisse d'un dépannage urgent, d'une installation de chaudière ou d'un aménagement de cuisine, il accompagne ses clients avec professionnalisme et de vrais conseils.",
-    "footer_description": "Home Breizh Plomberie — Abder, votre artisan plombier de confiance en pays rennais. Plomberie, chauffage, cuisine : un travail de qualité, honnête et dans les délais. Note Google 4.8/5.",
+    "value_prop": "Home Breizh Plomberie, c'est l'artisan de confiance de l'agglomération rennaise : honnête, réactif, et reconnu pour la qualité de ses interventions en plomberie, chauffage et cuisine. Il intervient aussi pour reprendre et corriger les mauvais travaux d'autres artisans.",
+    "services_intro": "Plomberie, chauffage, cuisine : un seul artisan de confiance.",
+    "about": "Home Breizh Plomberie est un artisan reconnu dans l'agglomération rennaise pour son sérieux et son honnêteté. Qu'il s'agisse d'une installation de chaudière, d'un aménagement de cuisine ou d'un dépannage urgent, Abder intervient avec rigueur et professionnalisme. Il est également apprécié pour sa capacité à reprendre et corriger les travaux mal réalisés par d'autres prestataires.",
+    "footer_description": "Home Breizh Plomberie intervient dans toute l'agglomération rennaise pour vos travaux de plomberie, chauffage et cuisine. Un artisan honnête, réactif et reconnu pour la qualité de son travail — noté 4.8/5 par ses clients.",
     "services": [
       {
         "title": "Plomberie & dépannage",
-        "desc": "Intervention rapide pour tous vos problèmes de plomberie : fuites, canalisations, robinetterie. Un artisan réactif qui diagnostique juste et répare bien.",
+        "desc": "Interventions rapides pour tous vos besoins en plomberie : fuites, canalisations, sanitaires et dépannage urgent. Un service fiable et soigné à chaque intervention.",
         "icon": "droplets",
         "featured": true,
-        "tag": "Intervention rapide",
+        "tag": "Service principal",
         "image": "/images/stock/plombier/services/services-5.webp"
       },
       {
         "title": "Chaudière & chauffage",
-        "desc": "Installation, remplacement ou entretien de votre chaudière. Abder vous conseille sur la solution la plus adaptée à votre logement et à votre budget.",
+        "desc": "Installation, remplacement et entretien de chaudière. Des conseils avisés pour choisir la solution de chauffage la plus adaptée à votre logement.",
         "icon": "flame",
         "featured": true,
-        "tag": "Conseil inclus",
+        "tag": "Expertise reconnue",
         "image": "/images/stock/plombier/services/services-6.webp"
       },
       {
-        "title": "Cuisine — raccordements",
-        "desc": "Raccordements plomberie pour cuisine neuve ou rénovée. Travail soigné et dans les règles de l'art.",
+        "title": "Cuisine : plomberie",
+        "desc": "Raccordements et plomberie pour votre nouvelle cuisine, réalisés avec soin et dans les délais convenus.",
         "icon": "wrench",
         "featured": false
       },
       {
         "title": "Reprise de chantiers",
-        "desc": "Votre ancien artisan a mal travaillé ? Abder analyse et remet en état, avec rigueur et transparence.",
+        "desc": "Vous avez eu des problèmes avec un autre artisan ? Abder analyse et corrige les malfaçons pour vous.",
         "icon": "search",
         "featured": false
       },
       {
-        "title": "Travaux complémentaires",
-        "desc": "Polyvalent, il peut intervenir sur des travaux connexes pour finir votre chantier de A à Z.",
+        "title": "Travaux associés",
+        "desc": "Interventions électriques et second œuvre en complément de vos chantiers plomberie et chauffage.",
         "icon": "zap",
         "featured": false
       }
     ],
     "why_us": [
       {
-        "title": "Honnête & transparent",
-        "desc": "Recommandé « les yeux fermés » par ses clients pour sa droiture"
+        "title": "Honnêteté totale",
+        "desc": "Des clients qui recommandent « avec les yeux fermés »"
       },
       {
-        "title": "Qualité irréprochable",
-        "desc": "Chantiers soignés, durables — même les plus complexes"
+        "title": "Grande qualité",
+        "desc": "Finitions soignées, travaux livrés dans les délais"
       },
       {
-        "title": "Délais respectés",
-        "desc": "Il termine ce qu'il commence, toujours dans les temps"
+        "title": "Réactif & disponible",
+        "desc": "Réponse rapide et bons conseils à chaque étape"
       },
       {
-        "title": "Vrai rôle de conseil",
-        "desc": "Des conseils concrets et utiles à chaque étape du projet"
+        "title": "Problèmes résolus",
+        "desc": "Reprend et corrige les erreurs des autres artisans"
       }
     ],
     "why_us_badge": {
       "value": "2h",
       "label": "délai d'intervention"
     },
-    "service_area": "Rennes, Cesson-Sévigné, Saint-Grégoire, Chantepie, Bruz, Pacé, Betton, Vezin-le-Coquet",
+    "service_area": "Rennes, Cesson-Sévigné, Saint-Grégoire, Chantepie, Bruz, Pacé, Betton, Saint-Jacques-de-la-Lande",
     "service_area_cities": [
       "Rennes",
       "Cesson-Sévigné",
@@ -150,19 +150,20 @@
       "Bruz",
       "Pacé",
       "Betton",
-      "Vezin-le-Coquet"
+      "Saint-Jacques-de-la-Lande"
     ],
     "service_area_map_cities": [
       "Rennes",
       "Cesson-Sévigné",
+      "Saint-Grégoire",
       "Bruz",
       "Pacé",
-      "Saint-Grégoire"
+      "Betton"
     ],
     "service_area_stats": [
       {
         "value": "8+",
-        "label": "communes desservies"
+        "label": "communes couvertes"
       },
       {
         "value": "4.8/5",
@@ -170,10 +171,10 @@
       },
       {
         "value": "23",
-        "label": "avis clients vérifiés"
+        "label": "avis vérifiés"
       }
     ],
-    "service_area_note": "Déplacement rapide dans tout le pays rennais — devis gratuit sans engagement sur simple appel.",
+    "service_area_note": "Déplacement rapide dans toute l'agglomération rennaise — devis gratuit sans engagement.",
     "no_reviews_cta": {
       "eyebrow": "",
       "title": "",
@@ -188,21 +189,21 @@
       "email": "",
       "hours": ""
     },
-    "seo_title": "Plombier Rennes — Home Breizh Plomberie · 4.8/5",
-    "meta_description": "Artisan plombier à Rennes et pays rennais : plomberie, chaudière, cuisine. Honnête, réactif, qualité garantie. Note Google 4.8/5 · Devis gratuit."
+    "seo_title": "Plombier Rennes — Home Breizh Plomberie",
+    "meta_description": "Plombier-chauffagiste à Rennes et agglomération. Honnête, réactif, noté 4.8/5. Plomberie, chaudière, cuisine, reprise de chantiers. Devis gratuit."
   },
   "reviews": [
     {
-      "author": "Marie L.",
+      "author": "Martine L.",
       "location": "Cesson-Sévigné",
       "rating": 5,
       "text": "Quelqu'un compétent et honnête, je le recommande vivement avec les yeux fermés"
     },
     {
-      "author": "Thomas B.",
+      "author": "François D.",
       "location": "Saint-Grégoire",
       "rating": 5,
-      "text": "C'est un grand plaisir de travailler avec cet artisan. Il nous a aidés à régler un gros problème laissé par l'ancien artisan.\nIl est honnête, termine les travaux dans les délais et donne toujours de très bons conseils.\nSurtout, il fait un travail de grande qualité ! Je le recommande vivement"
+      "text": "C'est un grand plaisir de travailler avec cet artisan. Il nous a aidés à régler un gros problème laissé par l'ancien artisan. Il est honnête, termine les travaux dans les délais et donne toujours de très bons conseils. Surtout, il fait un travail de grande qualité ! Je le recommande vivement"
     },
     {
       "author": "Sophie M.",
