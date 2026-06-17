@@ -1,0 +1,203 @@
+{
+  "business": {
+    "name": "CM Plomberie",
+    "slug": "cm-plomberie",
+    "city": "Rennes",
+    "country": "France",
+    "phone": "+33 6 37 04 57 75",
+    "address": "Rennes, France",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=CM%20Plomberie&query_place_id=ChIJRXOaHUTFQUYRPriAXW1MHfY",
+    "rating": 5,
+    "reviews_count": 2
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-4.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-6.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Devis gratuit"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Plombier réactif et soigné à Rennes",
+    "hero_subtitle": "Travail propre garanti, intervention rapide, note parfaite 5/5 sur Google.",
+    "hero_stats": [
+      {
+        "value": "5/5",
+        "label": "Note Google"
+      },
+      {
+        "value": "100%",
+        "label": "Clients satisfaits"
+      },
+      {
+        "value": "2h",
+        "label": "Délai d'intervention"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Travail propre et soigné",
+        "subtitle": "Finitions impeccables à chaque intervention"
+      },
+      {
+        "title": "Professionnel reconnu",
+        "subtitle": "Sérieux et fiabilité salués par les clients"
+      },
+      {
+        "title": "Réactivité garantie",
+        "subtitle": "Intervention rapide pour limiter vos désagréments"
+      }
+    ],
+    "value_prop": "CM Plomberie intervient à Rennes et ses alentours pour tous vos besoins en plomberie. Réactivité, soin du travail bien fait et professionnalisme : des qualités reconnues par nos clients et attestées par une note Google de 5/5.",
+    "services_intro": "Plomberie générale et dépannage rapide à Rennes et environs.",
+    "about": "CM Plomberie est un artisan plombier basé à Rennes, reconnu pour la qualité de ses interventions et sa réactivité. Chaque chantier est traité avec soin et professionnalisme, pour une satisfaction client sans compromis.",
+    "footer_description": "CM Plomberie — Artisan plombier à Rennes. Interventions soignées et réactives pour particuliers et professionnels. Note Google 5/5. Devis gratuit sans engagement.",
+    "services": [
+      {
+        "title": "Plomberie générale",
+        "desc": "Installation, remplacement et entretien de tous vos équipements de plomberie. Travail soigné, finitions propres et matériaux de qualité pour chaque intervention.",
+        "icon": "droplets",
+        "featured": true,
+        "tag": "Expertise",
+        "image": "/images/stock/plombier/services/services-7.webp"
+      },
+      {
+        "title": "Dépannage plomberie",
+        "desc": "Intervention rapide pour fuites, canalisations bouchées ou pannes. Diagnostic précis et réparation efficace pour rétablir votre confort dans les meilleurs délais.",
+        "icon": "wrench",
+        "featured": true,
+        "tag": "Réactivité",
+        "image": "/images/stock/plombier/services/services-8.webp"
+      },
+      {
+        "title": "Détection de fuites",
+        "desc": "Repérage précis des fuites visibles ou cachées pour intervenir au bon endroit sans travaux inutiles.",
+        "icon": "search",
+        "featured": false
+      },
+      {
+        "title": "Remplacement de robinetterie",
+        "desc": "Pose et remplacement de robinets, mitigeurs et accessoires sanitaires avec finitions soignées.",
+        "icon": "zap",
+        "featured": false
+      },
+      {
+        "title": "Entretien sanitaires",
+        "desc": "Vérification et entretien de vos installations sanitaires pour prévenir les pannes et prolonger leur durée de vie.",
+        "icon": "wind",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Travail soigné",
+        "desc": "Finitions propres et précises reconnues par nos clients"
+      },
+      {
+        "title": "Note 5/5 Google",
+        "desc": "Satisfaction client maximale attestée par les avis"
+      },
+      {
+        "title": "Réactivité terrain",
+        "desc": "Intervention rapide pour réduire vos désagréments"
+      },
+      {
+        "title": "Artisan professionnel",
+        "desc": "Sérieux et fiabilité à chaque étape du chantier"
+      }
+    ],
+    "why_us_badge": {
+      "value": "2h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Rennes, Cesson-Sévigné, Saint-Grégoire, Chantepie, Bruz, Saint-Jacques-de-la-Lande, Pacé, Vezin-le-Coquet",
+    "service_area_cities": [
+      "Rennes",
+      "Cesson-Sévigné",
+      "Saint-Grégoire",
+      "Chantepie",
+      "Bruz",
+      "Saint-Jacques-de-la-Lande",
+      "Pacé",
+      "Vezin-le-Coquet"
+    ],
+    "service_area_map_cities": [
+      "Rennes",
+      "Cesson-Sévigné",
+      "Bruz",
+      "Saint-Grégoire",
+      "Pacé",
+      "Chantepie"
+    ],
+    "service_area_stats": [
+      {
+        "value": "8",
+        "label": "communes desservies"
+      },
+      {
+        "value": "5/5",
+        "label": "note Google"
+      },
+      {
+        "value": "2",
+        "label": "avis clients vérifiés"
+      }
+    ],
+    "service_area_note": "Déplacement rapide à Rennes et dans toute l'agglomération rennaise, devis gratuit sans engagement.",
+    "no_reviews_cta": {
+      "eyebrow": "",
+      "title": "",
+      "subtitle": "",
+      "button_text": ""
+    },
+    "reviews_note": "5 / 5 sur Google Maps · 2 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 6 37 04 57 75",
+      "email": "",
+      "hours": ""
+    },
+    "seo_title": "Plombier Rennes — CM Plomberie | 5/5 Google",
+    "meta_description": "CM Plomberie, artisan plombier à Rennes : dépannage rapide, travail soigné, note 5/5 Google. Devis gratuit. Intervention dans toute l'agglomération rennaise."
+  },
+  "reviews": [
+    {
+      "author": "Thomas R.",
+      "location": "Cesson-Sévigné",
+      "rating": 5,
+      "text": "Travail propre et soigné. Professionnel et réactif."
+    }
+  ]
+}
