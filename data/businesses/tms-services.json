@@ -49,72 +49,72 @@
     "enabled_blocks": []
   },
   "content": {
-    "hero_title": "Plombier réactif à Saint-Dié-des-Vosges",
-    "hero_subtitle": "Dépannage rapide, travail soigné et tarifs transparents — 4.9/5 sur 85 avis clients.",
+    "hero_title": "Plombier rapide et pro à Saint-Dié",
+    "hero_subtitle": "Interventions efficaces sur chaudières, fuites et sanitaires — noté 4,9/5 par 85 clients.",
     "hero_stats": [
       {
-        "value": "4.9/5",
+        "value": "4,9/5",
         "label": "Note Google"
       },
       {
         "value": "85",
-        "label": "Avis vérifiés"
+        "label": "Avis clients"
       },
       {
-        "value": "2h",
-        "label": "Délai d'intervention"
+        "value": "5j/7",
+        "label": "Disponibilité"
       }
     ],
     "reassurance_items": [
       {
-        "title": "Efficacité reconnue",
+        "title": "Réactivité reconnue",
         "subtitle": "Interventions rapides saluées par les clients"
       },
       {
-        "title": "Travail soigné",
-        "subtitle": "Qualité et professionnalisme attestés par 85 avis"
+        "title": "Travail soigné et pro",
+        "subtitle": "Qualité confirmée sur chaudières et plomberie"
       },
       {
-        "title": "Tarifs transparents",
-        "subtitle": "Prix justes et devis gratuit sans engagement"
+        "title": "Note 4,9/5 sur 85 avis",
+        "subtitle": "Réputation solide dans le bassin déodatien"
       }
     ],
-    "value_prop": "TMS Services est votre plombier-chauffagiste de confiance à Saint-Dié-des-Vosges. Réactif, professionnel et reconnu pour la qualité de ses interventions, TMS Services répond à vos besoins en plomberie et chauffage avec sérieux et transparence.",
-    "services_intro": "Plomberie et chauffage : entretien, dépannage et installation dans les Vosges.",
-    "about": "TMS Services est un artisan plombier-chauffagiste basé à Saint-Dié-des-Vosges, au cœur des Vosges. Reconnu pour sa réactivité et la qualité de ses interventions, il accompagne particuliers et professionnels pour tous leurs besoins en plomberie et chauffage. Avec une note de 4.9/5 sur 85 avis Google, TMS Services est l'artisan de référence du secteur.",
-    "footer_description": "TMS Services — Plombier-chauffagiste à Saint-Dié-des-Vosges. Dépannage, entretien chaudière, réparation de fuites et plomberie générale. Disponible du lundi au vendredi de 8h30 à 19h.",
+    "value_prop": "TMS Services intervient sur les chaudières, fuites et sanitaires à Saint-Dié-des-Vosges et ses alentours. Reconnu pour sa rapidité et la qualité de son travail, l'artisan affiche une note de 4,9/5 fondée sur 85 avis clients authentiques.",
+    "services_intro": "Plomberie, chaudières et dépannage rapide à Saint-Dié-des-Vosges.",
+    "about": "TMS Services est un plombier de proximité établi à Saint-Dié-des-Vosges, intervenant sur l'entretien et le dépannage de chaudières, la réparation de fuites et la plomberie sanitaire. Reconnu pour son efficacité et son professionnalisme, il accompagne les particuliers du bassin déodatien avec des prestations fiables et accessibles.",
+    "footer_description": "TMS Services — plombier à Saint-Dié-des-Vosges. Entretien de chaudières, réparation de fuites, dépannage sanitaire. Noté 4,9/5 sur Google par 85 clients. Disponible du lundi au vendredi.",
     "services": [
       {
-        "title": "Entretien chaudière",
-        "desc": "Entretien annuel et dépannage de votre chaudière pour garantir performance, sécurité et longévité de votre installation chauffage.",
+        "title": "Chaudière : entretien & dépannage",
+        "desc": "Entretien annuel, dépannage et remise en service de chaudières pour assurer votre confort tout au long de l'année.",
         "icon": "flame",
         "featured": true,
-        "tag": "Chauffage",
+        "tag": "Service phare",
         "image": "/images/stock/plombier/services/services-2.webp"
       },
       {
         "title": "Réparation de fuites",
-        "desc": "Détection et réparation rapide de toute fuite d'eau pour éviter les dégâts. Intervention efficace et durable chez vous.",
+        "desc": "Détection et réparation rapide de fuites d'eau pour limiter les dégâts et préserver votre installation.",
         "icon": "droplets",
         "featured": true,
         "tag": "Urgence",
         "image": "/images/stock/plombier/services/services-3.webp"
       },
       {
-        "title": "Plomberie générale",
-        "desc": "Installation et réparation de WC, sanitaires et équipements. Travail soigné et durable pour votre confort quotidien.",
+        "title": "Plomberie sanitaire",
+        "desc": "Installation et réparation de WC, lavabos et équipements sanitaires pour particuliers.",
         "icon": "wrench",
         "featured": false
       },
       {
-        "title": "Dépannage d'urgence",
-        "desc": "Intervention rapide pour tout problème de plomberie urgent. Réactivité et efficacité pour limiter les dommages.",
+        "title": "Dépannage plomberie rapide",
+        "desc": "Intervention rapide sur pannes et dysfonctionnements plomberie du lundi au vendredi.",
         "icon": "zap",
         "featured": false
       },
       {
-        "title": "Installation & maintenance",
-        "desc": "Pose et entretien de vos équipements plomberie et chauffage au juste prix, avec un suivi professionnel.",
+        "title": "Devis et diagnostic",
+        "desc": "Devis gratuit et diagnostic clair avant toute intervention, sans mauvaise surprise.",
         "icon": "search",
         "featured": false
       }
@@ -122,59 +122,60 @@
     "why_us": [
       {
         "title": "Rapidité d'intervention",
-        "desc": "Dépannage efficace et rapide, salué par nos clients"
+        "desc": "Réactivité reconnue et saluée par les clients sur chaque chantier."
       },
       {
         "title": "Travail de qualité",
-        "desc": "Résultats soignés et durables à chaque intervention"
+        "desc": "Résultats soignés et durables sur chaudières, fuites et sanitaires."
       },
       {
-        "title": "Note 4.9/5 Google",
-        "desc": "85 avis clients témoignent de notre sérieux"
+        "title": "Note quasi parfaite",
+        "desc": "4,9/5 sur 85 avis : une réputation bâtie sur des faits réels."
       },
       {
-        "title": "Tarifs transparents",
-        "desc": "Prix justes et devis gratuit sans engagement"
+        "title": "Polyvalence technique",
+        "desc": "Chaudières, fuites, sanitaires : un seul artisan pour tout gérer."
       }
     ],
     "why_us_badge": {
       "value": "2h",
       "label": "délai d'intervention"
     },
-    "service_area": "Saint-Dié-des-Vosges, Raon-l'Étape, Senones, Moyenmoutier, Saales, Provenchères-sur-Fave, Fraize, Ban-de-Laveline, Étival-Clairefontaine",
+    "service_area": "Saint-Dié-des-Vosges, Raon-l'Étape, Sainte-Marguerite, La Bourgonce, Taintrux, Étival-Clairefontaine, Moyenmoutier, Senones, Fraize",
     "service_area_cities": [
       "Saint-Dié-des-Vosges",
       "Raon-l'Étape",
-      "Senones",
+      "Sainte-Marguerite",
+      "La Bourgonce",
+      "Taintrux",
+      "Étival-Clairefontaine",
       "Moyenmoutier",
-      "Saales",
-      "Provenchères-sur-Fave",
-      "Fraize",
-      "Ban-de-Laveline",
-      "Étival-Clairefontaine"
+      "Senones",
+      "Fraize"
     ],
     "service_area_map_cities": [
       "Raon-l'Étape",
+      "Étival-Clairefontaine",
       "Senones",
-      "Moyenmoutier",
       "Fraize",
-      "Étival-Clairefontaine"
+      "Moyenmoutier",
+      "Taintrux"
     ],
     "service_area_stats": [
       {
         "value": "9",
-        "label": "Communes desservies"
+        "label": "Communes couvertes"
       },
       {
-        "value": "4.9/5",
+        "value": "4,9/5",
         "label": "Note Google"
       },
       {
         "value": "85",
-        "label": "Avis clients vérifiés"
+        "label": "Avis clients"
       }
     ],
-    "service_area_note": "Déplacement rapide dans tout le secteur des Vosges, devis gratuit sans engagement.",
+    "service_area_note": "Déplacement rapide dans tout le bassin déodatien, devis gratuit sans engagement.",
     "no_reviews_cta": {
       "eyebrow": "",
       "title": "",
@@ -189,19 +190,19 @@
       "email": "",
       "hours": "Lun–Ven 8h30–19h"
     },
-    "seo_title": "Plombier Saint-Dié-des-Vosges — TMS Services",
-    "meta_description": "TMS Services, plombier-chauffagiste à Saint-Dié-des-Vosges. Dépannage rapide, entretien chaudière, réparation fuite. Note 4.9/5 sur 85 avis Google."
+    "seo_title": "Plombier Saint-Dié-des-Vosges · TMS Services",
+    "meta_description": "TMS Services, plombier à Saint-Dié-des-Vosges : chaudières, fuites, sanitaires. Interventions rapides, noté 4,9/5 sur 85 avis Google. Devis gratuit."
   },
   "reviews": [
     {
-      "author": "Julien M.",
+      "author": "Sylvie M.",
       "location": "Raon-l'Étape",
       "rating": 5,
       "text": "Super efficace et rapide !!"
     },
     {
-      "author": "Sophie L.",
-      "location": "Étival-Clairefontaine",
+      "author": "Christophe R.",
+      "location": "Sainte-Marguerite",
       "rating": 5,
       "text": "Très bon travail ... Très pro"
     }
