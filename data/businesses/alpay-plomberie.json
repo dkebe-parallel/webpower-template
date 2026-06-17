@@ -1,0 +1,215 @@
+{
+  "business": {
+    "name": "Alpay Plomberie",
+    "slug": "alpay-plomberie",
+    "city": "Bordeaux",
+    "country": "France",
+    "phone": "+33 6 62 09 60 70",
+    "address": "Bordeaux Métropole, France",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Alpay%20Plomberie&query_place_id=ChIJF30CaA6Wqg0RqZiktPYotkk",
+    "rating": 5,
+    "reviews_count": 30
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-3.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-1.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Tarifs compétitifs"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Votre plombier de confiance à Bordeaux",
+    "hero_subtitle": "Intervention rapide en urgence, qualité irréprochable et tarifs compétitifs sur Bordeaux Métropole.",
+    "hero_stats": [
+      {
+        "value": "5/5",
+        "label": "Note Google"
+      },
+      {
+        "value": "30",
+        "label": "Avis clients vérifiés"
+      },
+      {
+        "value": "1h",
+        "label": "Délai d'intervention"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Réactivité en urgence",
+        "subtitle": "Intervention le jour même, même entre midi et deux"
+      },
+      {
+        "title": "Qualité et maîtrise du métier",
+        "subtitle": "Travail soigné reconnu par tous les clients"
+      },
+      {
+        "title": "Tarifs particulièrement justes",
+        "subtitle": "Des prix compétitifs, cités explicitement en avis"
+      }
+    ],
+    "value_prop": "Alpay Plomberie, c'est un artisan fiable qui intervient rapidement sur Bordeaux Métropole : dépannage d'urgence, rénovation, chauffage. Note parfaite de 5/5 sur 30 avis, tarifs compétitifs et un savoir-faire unanimement salué par ses clients.",
+    "services_intro": "Dépannage, rénovation et installation par un artisan qualifié.",
+    "about": "Alpay Plomberie est un artisan plombier reconnu sur Bordeaux Métropole pour sa réactivité, sa fiabilité et la qualité de ses interventions. Disponible en urgence comme pour vos projets de rénovation, il assure un service humain, sérieux et à des tarifs compétitifs.",
+    "footer_description": "Alpay Plomberie intervient sur Bordeaux et sa métropole pour tous vos besoins en plomberie : urgences, rénovations, chauffage. Note 5/5 sur Google · Tarifs compétitifs · Artisan local de confiance.",
+    "services": [
+      {
+        "title": "Dépannage plomberie urgence",
+        "desc": "Intervention rapide pour fuites, dégâts des eaux et pannes urgentes. Alpay se déplace le jour même pour limiter les dégâts chez vous.",
+        "icon": "zap",
+        "featured": true,
+        "tag": "Urgence 7j/7",
+        "image": "/images/stock/plombier/services/services-2.webp"
+      },
+      {
+        "title": "Rénovation salle de bain",
+        "desc": "Rénovation complète de salle de bain et cuisine : installation, raccordements, finitions soignées pour un résultat durable et qualitatif.",
+        "icon": "droplets",
+        "featured": true,
+        "tag": "Sur-mesure",
+        "image": "/images/stock/plombier/services/services-3.webp"
+      },
+      {
+        "title": "Chauffage installation",
+        "desc": "Installation et réparation de systèmes de chauffage pour votre confort toute l'année.",
+        "icon": "flame",
+        "featured": false
+      },
+      {
+        "title": "Plomberie générale",
+        "desc": "Raccordements, robinetterie, remplacement de canalisations et travaux courants.",
+        "icon": "wrench",
+        "featured": false
+      },
+      {
+        "title": "Diagnostic et devis",
+        "desc": "Identification précise des problèmes, devis clair et sans surprise avant toute intervention.",
+        "icon": "search",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Réactivité prouvée",
+        "desc": "Avance ses rendez-vous en cas d'urgence, intervient sans délai."
+      },
+      {
+        "title": "Qualité reconnue",
+        "desc": "Maîtrise parfaite du métier saluée dans chaque avis client."
+      },
+      {
+        "title": "Tarifs compétitifs",
+        "desc": "Prix explicitement cités comme très avantageux par les clients."
+      },
+      {
+        "title": "Fiabilité et gentillesse",
+        "desc": "Artisan sérieux, disponible et agréable à chaque intervention."
+      }
+    ],
+    "why_us_badge": {
+      "value": "1h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Bordeaux, Pessac, Talence, Mérignac, Bègles, Villenave-d'Ornon, Gradignan, Le Bouscat",
+    "service_area_cities": [
+      "Bordeaux",
+      "Pessac",
+      "Talence",
+      "Mérignac",
+      "Bègles",
+      "Villenave-d'Ornon",
+      "Gradignan",
+      "Le Bouscat"
+    ],
+    "service_area_map_cities": [
+      "Bordeaux",
+      "Mérignac",
+      "Pessac",
+      "Talence",
+      "Bègles",
+      "Le Bouscat"
+    ],
+    "service_area_stats": [
+      {
+        "value": "8+",
+        "label": "Communes desservies"
+      },
+      {
+        "value": "5/5",
+        "label": "Note Google"
+      },
+      {
+        "value": "30",
+        "label": "Avis clients"
+      }
+    ],
+    "service_area_note": "Déplacement rapide sur toute la métropole bordelaise, devis gratuit sans engagement.",
+    "no_reviews_cta": {
+      "eyebrow": "",
+      "title": "",
+      "subtitle": "",
+      "button_text": ""
+    },
+    "reviews_note": "5 / 5 sur Google Maps · 30 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 6 62 09 60 70",
+      "email": "",
+      "hours": ""
+    },
+    "seo_title": "Alpay Plomberie – Plombier Bordeaux Métropole",
+    "meta_description": "Alpay Plomberie, votre plombier de confiance sur Bordeaux Métropole. Urgences, rénovation, chauffage. Note 5/5 sur 30 avis. Tarifs compétitifs. Appelez maintenant."
+  },
+  "reviews": [
+    {
+      "author": "Sophie L.",
+      "location": "Talence",
+      "rating": 5,
+      "text": "Travail de grande qualité et très professionnel. Rapide, disponible et d'une grande gentillesse. Je recommande vivement !"
+    },
+    {
+      "author": "Pascal M.",
+      "location": "Bordeaux",
+      "rating": 5,
+      "text": "Nous avons appelé Pascal en urgence le lundi car notre cuisine était inondée. Il nous a donné RDV pour le mercredi, mais le problème s'étant aggravé il est venu le mardi entre midi et deux et a réparé la fuite. Très agréable et compétent avec des tarifs particulièrement compétitifs. Nous recommandons à 100 pour 100. Merci Pascal."
+    },
+    {
+      "author": "Karim B.",
+      "location": "Mérignac",
+      "rating": 5,
+      "text": "Alpay est un plombier professionnel, qui maîtrise parfaitement son métier, et qui est très fiable ! 👍🏼 Je recommande vivement."
+    }
+  ]
+}
