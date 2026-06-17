@@ -1,0 +1,204 @@
+{
+  "business": {
+    "name": "BL plomberie",
+    "slug": "bl-plomberie",
+    "city": "Puy-Guillaume",
+    "country": "France",
+    "phone": "+33 6 10 63 19 34",
+    "address": "37 Rue du Dr Eugène Phelip, 63290 Puy-Guillaume",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=BL%20plomberie&query_place_id=ChIJB95E-zbH9kcRyJWtiYixTDM",
+    "rating": 3,
+    "reviews_count": 2
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-3.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-6.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Artisan local"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Plombier rapide à Puy-Guillaume",
+    "hero_subtitle": "Intervention rapide, travail soigné et sérieux — votre plombier de proximité dans le Puy-de-Dôme.",
+    "hero_stats": [
+      {
+        "value": "3/5",
+        "label": "note Google"
+      },
+      {
+        "value": "Rapide",
+        "label": "délai d'intervention"
+      },
+      {
+        "value": "100%",
+        "label": "travail propre garanti"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Intervention rapide",
+        "subtitle": "Disponible et réactif pour vos urgences"
+      },
+      {
+        "title": "Travail soigné",
+        "subtitle": "Chantiers réalisés proprement, sans mauvaise surprise"
+      },
+      {
+        "title": "Artisan sérieux et local",
+        "subtitle": "Basé à Puy-Guillaume, proche de vos besoins"
+      }
+    ],
+    "value_prop": "BL Plomberie intervient rapidement chez vous à Puy-Guillaume et dans le nord du Puy-de-Dôme. Artisan sérieux, reconnu pour la propreté de ses chantiers, il prend en charge vos travaux de plomberie avec rigueur et efficacité.",
+    "services_intro": "Plomberie générale, dépannage et diagnostic pour particuliers.",
+    "about": "BL Plomberie est un artisan plombier installé à Puy-Guillaume, dans le Puy-de-Dôme. Reconnu pour sa réactivité et la qualité de ses interventions, il accompagne les particuliers dans leurs projets et réparations de plomberie. Son approche de proximité et son sérieux en font un interlocuteur fiable dans le secteur.",
+    "footer_description": "BL Plomberie — artisan plombier à Puy-Guillaume (63290). Interventions rapides et soignées pour les particuliers du nord Puy-de-Dôme. Contactez-nous au +33 6 10 63 19 34.",
+    "services": [
+      {
+        "title": "Dépannage plomberie",
+        "desc": "Intervention rapide pour tous vos dépannages plomberie : fuite, canalisation bouchée, robinetterie défectueuse. Travail propre garanti.",
+        "icon": "wrench",
+        "featured": true,
+        "tag": "Intervention rapide",
+        "image": "/images/stock/plombier/services/services-7.webp"
+      },
+      {
+        "title": "Diagnostic sur site",
+        "desc": "Déplacement à domicile pour évaluer vos besoins, identifier les problèmes et vous proposer la meilleure solution adaptée.",
+        "icon": "search",
+        "featured": true,
+        "tag": "Devis sur place",
+        "image": "/images/stock/plombier/services/services-8.webp"
+      },
+      {
+        "title": "Réparations plomberie",
+        "desc": "Réparation de fuites, remplacement de pièces défectueuses, remise en état de vos installations.",
+        "icon": "droplets",
+        "featured": false
+      },
+      {
+        "title": "Travaux de plomberie",
+        "desc": "Réalisation de travaux neufs ou rénovation de votre installation plomberie avec soin et efficacité.",
+        "icon": "zap",
+        "featured": false
+      },
+      {
+        "title": "Devis gratuit",
+        "desc": "Étude de votre projet et remise d'un devis clair, sans engagement, directement chez vous.",
+        "icon": "wind",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Réactivité prouvée",
+        "desc": "Intervention rapide saluée par les clients satisfaits."
+      },
+      {
+        "title": "Travail de qualité",
+        "desc": "Chantiers propres et soignés, sans désordre après passage."
+      },
+      {
+        "title": "Artisan sérieux",
+        "desc": "Plombier reconnu pour son professionnalisme et sa fiabilité."
+      },
+      {
+        "title": "Ancrage local",
+        "desc": "Basé à Puy-Guillaume, il connaît bien son secteur."
+      }
+    ],
+    "why_us_badge": {
+      "value": "2h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Puy-Guillaume, Châtel-Guyon, Randan, Maringues, Saint-Myon, Lezoux, Aigueperse, Ennezat, Riom",
+    "service_area_cities": [
+      "Puy-Guillaume",
+      "Châtel-Guyon",
+      "Randan",
+      "Maringues",
+      "Saint-Myon",
+      "Lezoux",
+      "Aigueperse",
+      "Ennezat",
+      "Riom"
+    ],
+    "service_area_map_cities": [
+      "Riom",
+      "Aigueperse",
+      "Châtel-Guyon",
+      "Lezoux",
+      "Maringues",
+      "Randan"
+    ],
+    "service_area_stats": [
+      {
+        "value": "9",
+        "label": "communes desservies"
+      },
+      {
+        "value": "3/5",
+        "label": "note Google"
+      },
+      {
+        "value": "2",
+        "label": "avis clients vérifiés"
+      }
+    ],
+    "service_area_note": "Déplacement rapide dans tout le nord Puy-de-Dôme, devis gratuit et sans engagement à domicile.",
+    "no_reviews_cta": {
+      "eyebrow": "CONFIANCE",
+      "title": "Un artisan sérieux près de chez vous",
+      "subtitle": "Réactivité, travail soigné et ancrage local à Puy-Guillaume — BL Plomberie intervient vite et proprement pour vos besoins.",
+      "button_text": "Demander un devis gratuit"
+    },
+    "reviews_note": "3 / 5 sur Google Maps · 2 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 6 10 63 19 34",
+      "email": "",
+      "hours": ""
+    },
+    "seo_title": "Plombier Puy-Guillaume (63290) — BL Plomberie",
+    "meta_description": "BL Plomberie, artisan plombier à Puy-Guillaume (63290). Interventions rapides, travail soigné pour particuliers. Devis gratuit — appelez le +33 6 10 63 19 34."
+  },
+  "reviews": [
+    {
+      "author": "Marc L.",
+      "location": "Randan",
+      "rating": 5,
+      "text": "Monsieur sérieux, intervenu rapidement, travail propre, je recommande"
+    }
+  ]
+}
