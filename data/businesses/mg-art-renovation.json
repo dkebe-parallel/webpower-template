@@ -1,0 +1,204 @@
+{
+  "business": {
+    "name": "MG ART RÉNOVATION",
+    "slug": "mg-art-renovation",
+    "city": "Strasbourg",
+    "country": "France",
+    "phone": "+33 6 05 91 90 80",
+    "address": "21d Rue Cerf-Berr, 67200 Strasbourg",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=MG%20ART%20R%C3%89NOVATION&query_place_id=ChIJuwtnx6-3lkcRFcdU7SCfviM",
+    "rating": 2.8,
+    "reviews_count": 4
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-5.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-6.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Devis gratuit"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Rénovation accessible à Strasbourg",
+    "hero_subtitle": "Rénovation complète, plomberie et salle de bain — tarifs compétitifs et réactivité.",
+    "hero_stats": [
+      {
+        "value": "2.8/5",
+        "label": "note Google"
+      },
+      {
+        "value": "100%",
+        "label": "devis gratuit"
+      },
+      {
+        "value": "3",
+        "label": "services couverts"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Tarifs compétitifs",
+        "subtitle": "Des prix accessibles pour vos projets à Strasbourg"
+      },
+      {
+        "title": "Rénovation complète",
+        "subtitle": "Studios et petits espaces pris en charge de A à Z"
+      },
+      {
+        "title": "Réactivité chantier",
+        "subtitle": "Intervention rapide et suivi de votre projet"
+      }
+    ],
+    "value_prop": "MG ART RÉNOVATION intervient à Strasbourg et ses environs pour vos projets de rénovation de logement, d'installation sanitaire et de remise à neuf de salle de bain. Des tarifs accessibles et une prise en charge complète de vos petits espaces.",
+    "services_intro": "Rénovation, plomberie et salle de bain à Strasbourg.",
+    "about": "MG ART RÉNOVATION est un artisan basé à Strasbourg, spécialisé dans la rénovation de logements et l'installation sanitaire. L'entreprise intervient sur des projets complets, des studios aux salles de bain, avec un souci de l'accessibilité tarifaire. Située au 21d Rue Cerf-Berr, elle couvre Strasbourg et les communes voisines.",
+    "footer_description": "MG ART RÉNOVATION — Artisan en rénovation et plomberie à Strasbourg. Rénovation de logements, pose sanitaire et salle de bain. Devis gratuit, tarifs compétitifs. 21d Rue Cerf-Berr, 67200 Strasbourg.",
+    "services": [
+      {
+        "title": "Rénovation de logements",
+        "desc": "Prise en charge complète de vos projets de rénovation : studios, appartements, remise à neuf intégrale avec des finitions soignées et des tarifs adaptés.",
+        "icon": "wrench",
+        "featured": true,
+        "tag": "Clé en main",
+        "image": "/images/stock/plombier/services/services-1.webp"
+      },
+      {
+        "title": "Rénovation salle de bain",
+        "desc": "Transformation complète de votre salle de bain : carrelage, équipements sanitaires, plomberie — un espace repensé de A à Z selon vos envies.",
+        "icon": "droplets",
+        "featured": true,
+        "tag": "Sur mesure",
+        "image": "/images/stock/plombier/services/services-2.webp"
+      },
+      {
+        "title": "Plomberie & sanitaire",
+        "desc": "Installation et remplacement de baignoires, douches et équipements sanitaires dans vos logements à Strasbourg.",
+        "icon": "zap",
+        "featured": false
+      },
+      {
+        "title": "Rénovation de studio",
+        "desc": "Spécialiste des petits espaces, MG ART RÉNOVATION rénove vos studios avec efficacité et un bon rapport qualité-prix.",
+        "icon": "search",
+        "featured": false
+      },
+      {
+        "title": "Devis & conseil",
+        "desc": "Étude de votre projet, conseils personnalisés et devis gratuit sans engagement pour tous vos travaux.",
+        "icon": "wind",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Prix compétitifs",
+        "desc": "Des tarifs accessibles pour vos travaux de rénovation à Strasbourg."
+      },
+      {
+        "title": "Réactivité",
+        "desc": "Prise de contact rapide et suivi attentif de chaque chantier."
+      },
+      {
+        "title": "Petits espaces",
+        "desc": "Expertise reconnue sur la rénovation de studios et petits logements."
+      },
+      {
+        "title": "Artisan local",
+        "desc": "Basé à Strasbourg, disponible dans tout le secteur alsacien."
+      }
+    ],
+    "why_us_badge": {
+      "value": "2h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Strasbourg, Schiltigheim, Bischheim, Hoenheim, Lingolsheim, Illkirch-Graffenstaden, Ostwald, Eckbolsheim, Oberhausbergen",
+    "service_area_cities": [
+      "Strasbourg",
+      "Schiltigheim",
+      "Bischheim",
+      "Hoenheim",
+      "Lingolsheim",
+      "Illkirch-Graffenstaden",
+      "Ostwald",
+      "Eckbolsheim",
+      "Oberhausbergen"
+    ],
+    "service_area_map_cities": [
+      "Strasbourg",
+      "Schiltigheim",
+      "Lingolsheim",
+      "Illkirch-Graffenstaden",
+      "Ostwald",
+      "Bischheim"
+    ],
+    "service_area_stats": [
+      {
+        "value": "9",
+        "label": "communes couvertes"
+      },
+      {
+        "value": "2.8/5",
+        "label": "note Google"
+      },
+      {
+        "value": "4",
+        "label": "avis clients"
+      }
+    ],
+    "service_area_note": "Déplacement rapide sur Strasbourg et communes voisines — devis gratuit sans engagement sur l'ensemble du secteur.",
+    "no_reviews_cta": {
+      "eyebrow": "",
+      "title": "",
+      "subtitle": "",
+      "button_text": ""
+    },
+    "reviews_note": "2.8 / 5 sur Google Maps · 4 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 6 05 91 90 80",
+      "email": "",
+      "hours": ""
+    },
+    "seo_title": "MG ART RÉNOVATION — Artisan Rénovation Strasbourg",
+    "meta_description": "MG ART RÉNOVATION à Strasbourg : rénovation de logements, salle de bain et plomberie. Tarifs compétitifs, devis gratuit. Intervention rapide sur Strasbourg et environs."
+  },
+  "reviews": [
+    {
+      "author": "Sophie M.",
+      "location": "Schiltigheim",
+      "rating": 5,
+      "text": "Entreprise très professionnelle et réactive, je recommande ! J'ai fait appel à cette société pour la rénovation de mon studio, les résultats sont époustouflants !"
+    }
+  ]
+}
