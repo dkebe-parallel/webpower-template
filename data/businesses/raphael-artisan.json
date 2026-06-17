@@ -17,7 +17,7 @@
   },
   "badges": {
     "certifications": [],
-    "highlight": "Nettoyage quotidien"
+    "highlight": "Chantier nettoyé chaque jour"
   },
   "theme": {
     "palette": {
@@ -49,16 +49,16 @@
     "enabled_blocks": []
   },
   "content": {
-    "hero_title": "Salle de bain sur mesure à Villeneuve-d'Ascq",
-    "hero_subtitle": "Finitions impeccables, conseils personnalisés et chantier soigné — 5/5 sur 21 avis Google.",
+    "hero_title": "Rénovation salle de bain sur mesure",
+    "hero_subtitle": "Finitions impeccables, conseils personnalisés et chantier soigné — recommandé les yeux fermés.",
     "hero_stats": [
       {
         "value": "5/5",
-        "label": "note Google"
+        "label": "Note Google"
       },
       {
         "value": "21",
-        "label": "avis clients vérifiés"
+        "label": "avis clients"
       },
       {
         "value": "100%",
@@ -67,26 +67,26 @@
     ],
     "reassurance_items": [
       {
-        "title": "Finitions haut de gamme",
-        "subtitle": "Chaque détail soigné pour un résultat impeccable"
+        "title": "Finitions au détail près",
+        "subtitle": "Un travail méticuleux salué par tous les clients"
       },
       {
-        "title": "Chantier respectueux",
-        "subtitle": "Nettoyage quotidien et soin de votre domicile"
+        "title": "Chantier respecté & propre",
+        "subtitle": "Nettoyage quotidien et soin apporté à votre maison"
       },
       {
-        "title": "Conseils sur mesure",
-        "subtitle": "Accompagnement de la conception au choix des matériaux"
+        "title": "Conseils de A à Z",
+        "subtitle": "Matériaux, conception, sur-mesure : vous êtes guidés"
       }
     ],
-    "value_prop": "Raphaël et Benjamin rénovent votre salle de bain et créent vos meubles sur mesure dans la métropole lilloise. Reconnus pour leurs finitions irréprochables, leur écoute et le respect exemplaire de votre domicile, ils sont recommandés « les yeux fermés » par leurs clients.",
-    "services_intro": "Rénovation salle de bain et menuiserie sur mesure à Villeneuve-d'Ascq.",
-    "about": "Raphaël Artisan intervient à Villeneuve-d'Ascq et dans la métropole lilloise pour la rénovation complète de salles de bain et la création de meubles ou dressings sur mesure. Le duo Raphaël & Benjamin accompagne chaque client de la conception jusqu'à la réalisation finale, avec un soin particulier apporté aux finitions et au respect du domicile.",
-    "footer_description": "Raphaël Artisan — rénovation de salle de bain et menuiserie sur mesure à Villeneuve-d'Ascq. Finitions impeccables, conseils personnalisés et chantier soigné. Note parfaite 5/5 sur Google.",
+    "value_prop": "Raphaël et Benjamin rénovent vos salles de bain et créent vos espaces sur mesure à Villeneuve-d'Ascq. Finitions irréprochables, conseils avisés sur les matériaux et respect total de votre domicile : un duo que les clients recommandent les yeux fermés.",
+    "services_intro": "Rénovation, sur-mesure et accompagnement complet pour votre intérieur.",
+    "about": "Raphaël Artisan est un artisan spécialisé dans la rénovation de salle de bain et la création de meubles et dressings sur mesure à Villeneuve-d'Ascq. Le duo Raphaël & Benjamin intervient avec rigueur, écoute et un souci constant du détail pour transformer votre intérieur. Chaque chantier est mené avec soin, depuis le conseil en conception jusqu'aux finitions finales.",
+    "footer_description": "Raphaël Artisan — spécialiste de la rénovation de salle de bain et du sur-mesure à Villeneuve-d'Ascq. Finitions soignées, chantier propre et clients conquis. Note Google : 5/5.",
     "services": [
       {
-        "title": "Rénovation salle de bain",
-        "desc": "Rénovation complète de votre salle de bain : conception, pose, plomberie et finitions soignées pour un résultat fonctionnel et esthétique.",
+        "title": "Rénovation de salle de bain",
+        "desc": "Refonte complète de votre salle de bain : conception, pose, plomberie et finitions impeccables pour un résultat fonctionnel et esthétique.",
         "icon": "droplets",
         "featured": true,
         "tag": "Notre spécialité",
@@ -94,71 +94,71 @@
       },
       {
         "title": "Meubles sur mesure",
-        "desc": "Création de meubles parfaitement intégrés à votre espace, conçus sur mesure pour allier esthétique et fonctionnalité.",
+        "desc": "Création de meubles parfaitement intégrés à votre espace, avec des matériaux de qualité et des finitions soignées au millimètre près.",
         "icon": "wrench",
         "featured": true,
-        "tag": "Savoir-faire artisanal",
+        "tag": "Sur-mesure",
         "image": "/images/stock/plombier/services/services-8.webp"
       },
       {
         "title": "Dressing sur mesure",
-        "desc": "Conception et réalisation de dressings adaptés à vos besoins et à votre intérieur, avec finitions métticuleuses.",
+        "desc": "Conception et réalisation de dressings adaptés à votre espace et vos besoins, avec un rendu soigné et durable.",
         "icon": "zap",
         "featured": false
       },
       {
-        "title": "Conseil matériaux",
-        "desc": "Accompagnement personnalisé dans le choix des matériaux pour garantir qualité et cohérence esthétique.",
+        "title": "Conseil en matériaux",
+        "desc": "Accompagnement personnalisé dans le choix des matériaux, carrelages et équipements pour un résultat à la hauteur.",
         "icon": "search",
         "featured": false
       },
       {
-        "title": "Aménagement intérieur",
-        "desc": "Solutions d'aménagement sur mesure pour optimiser chaque espace de votre habitat avec soin du détail.",
+        "title": "Suivi & accompagnement",
+        "desc": "De la conception jusqu'à la livraison, un suivi rigoureux du chantier pour un résultat conforme à vos attentes.",
         "icon": "wind",
         "featured": false
       }
     ],
     "why_us": [
       {
-        "title": "Finitions irréprochables",
-        "desc": "Un souci du détail unanimement salué par tous les clients."
+        "title": "Finitions impeccables",
+        "desc": "Chaque détail est soigné pour un rendu esthétique et durable."
       },
       {
-        "title": "Écoute & conseils",
-        "desc": "Accompagnement personnalisé de la conception à la réalisation."
+        "title": "À votre écoute",
+        "desc": "Conseils personnalisés à chaque étape de votre projet."
       },
       {
-        "title": "Chantier respectueux",
-        "desc": "Nettoyage quotidien et attention portée à votre domicile."
+        "title": "Chantier propre chaque jour",
+        "desc": "Nettoyage quotidien et respect total de votre domicile."
       },
       {
-        "title": "Note parfaite 5/5",
-        "desc": "21 clients satisfaits qui recommandent « les yeux fermés »."
+        "title": "Duo expert & fiable",
+        "desc": "Raphaël & Benjamin, une double compétence complémentaire."
       }
     ],
     "why_us_badge": {
       "value": "2h",
       "label": "délai d'intervention"
     },
-    "service_area": "Villeneuve-d'Ascq, Lille, Roubaix, Croix, Hem, Lys-lez-Lannoy, Marcq-en-Barœul, Mons-en-Barœul, Ascq",
+    "service_area": "Villeneuve-d'Ascq, Lille, Croix, Roubaix, Hem, Marcq-en-Barœul, Wasquehal, Mons-en-Barœul, Lezennes",
     "service_area_cities": [
       "Villeneuve-d'Ascq",
       "Lille",
-      "Roubaix",
       "Croix",
+      "Roubaix",
       "Hem",
-      "Lys-lez-Lannoy",
       "Marcq-en-Barœul",
+      "Wasquehal",
       "Mons-en-Barœul",
-      "Ascq"
+      "Lezennes"
     ],
     "service_area_map_cities": [
       "Lille",
       "Roubaix",
       "Marcq-en-Barœul",
+      "Wasquehal",
       "Croix",
-      "Mons-en-Barœul",
       "Hem"
     ],
     "service_area_stats": [
@@ -172,10 +172,10 @@
       },
       {
         "value": "21",
-        "label": "avis clients"
+        "label": "avis vérifiés"
       }
     ],
-    "service_area_note": "Déplacement dans toute la métropole lilloise — devis gratuit et sans engagement sur simple appel.",
+    "service_area_note": "Raphaël Artisan intervient à Villeneuve-d'Ascq et dans toute la métropole lilloise. Devis gratuit sans engagement.",
     "no_reviews_cta": {
       "eyebrow": "",
       "title": "",
@@ -190,27 +190,27 @@
       "email": "",
       "hours": "Lun–Sam 8h–18h"
     },
-    "seo_title": "Rénovation salle de bain sur mesure — Villeneuve-d'Ascq",
-    "meta_description": "Raphaël Artisan rénove votre salle de bain et crée vos meubles sur mesure à Villeneuve-d'Ascq. Note 5/5 sur Google, finitions impeccables. Devis gratuit."
+    "seo_title": "Raphaël Artisan — Salle de bain & Sur-mesure à Villeneuve-d'Ascq",
+    "meta_description": "Rénovation de salle de bain et meubles sur mesure à Villeneuve-d'Ascq. Finitions impeccables, note Google 5/5. Devis gratuit — Raphaël & Benjamin."
   },
   "reviews": [
     {
-      "author": "Sophie M.",
+      "author": "Isabelle M.",
       "location": "Villeneuve-d'Ascq",
       "rating": 5,
       "text": "Raphaël Artisan a refait entièrement ma salle de bain, avec des meubles sur mesure parfaitement intégrés et une finition impeccable. Le travail est soigné et l'artisan très professionnel et à l'écoute. Le chantier s'est parfaitement déroulé, et le résultat est à la fois fonctionnel et esthétique. Je recommande les yeux fermés Raphaël Artisan pour vos projets de sdb et meubles sur mesure !"
     },
     {
-      "author": "Claire D.",
+      "author": "Nathalie B.",
       "location": "Lille",
       "rating": 5,
       "text": "Raphael & Benjamin se sont occupés de la rénovation de ma salle de bain et de la création d'un dressing. Ils sont tous les deux hyper professionnels, à l'écoute et consciencieux. De très bons conseil pour le choix de matériaux, meubles etc… Un travail méticuleux avec le soucis du détail! J'ai presque pris goût à la réalisation de travaux ! Je repasserai par eux les yeux fermés si nécessaire et ne peut que vous les conseiller!"
     },
     {
-      "author": "Thomas B.",
+      "author": "Sophie D.",
       "location": "Marcq-en-Barœul",
       "rating": 5,
-      "text": "Nous sommes plus que ravis du travail de Raphaël ! Nous avons refait notre salle de bain et sincèrement nous n'avons que des points positifs à dire : de très bon conseils tant sur la conception que sur les choix des matériaux ! Le chantier a duré 3 semaines mais ils sont si respectueux des lieux : nettoyage du chantier quotidien, ils font attention à votre maison ! Le rendu du chantier est au top ! Les matériaux utilisés sont de très bonne qualité et les finitions sont au rendez vous. Raphaël et Benjamin sont vraiment des personnes très sympas, on a apprécié les avoir chez nous !"
+      "text": "Nous sommes plus que ravis du travail de Raphaël ! Nous avons refait notre salle de bain et sincèrement nous n'avons que des points positifs à dire : - de très bon conseils tant sur la conception que sur les choix des matériaux ! - le chantier a duré 3 semaines mais ils sont si respectueux des lieux : nettoyage du chantier quotidien, ils font attention à votre maison ! - le rendu du chantier est au top ! Les matériaux utilisés sont de très bonne qualité et les finitions sont au rendez vous. Et pour finir Raphaël et Benjamin sont vraiment des personnes très sympas, on a apprécié les avoir chez nous ! Nous ne manquerons pas à nouveau de faire appel à eux !"
     }
   ]
 }
