@@ -49,8 +49,8 @@
     "enabled_blocks": []
   },
   "content": {
-    "hero_title": "Plombier 5/5 à Paris 18, dispo 24h/24",
-    "hero_subtitle": "Interventions rapides dans le 18ᵉ — note parfaite sur 35 avis Google, disponible jour et nuit.",
+    "hero_title": "Plombier 5/5 dans le 18e, 24h/24",
+    "hero_subtitle": "Johan intervient jour et nuit à Paris 18e — note parfaite 5/5, travail soigné et résultat garanti.",
     "hero_stats": [
       {
         "value": "5/5",
@@ -67,104 +67,104 @@
     ],
     "reassurance_items": [
       {
-        "title": "Note parfaite sur Google",
-        "subtitle": "5/5 sur 35 avis — zéro insatisfaction"
-      },
-      {
-        "title": "Disponible 24h/24 et 7j/7",
-        "subtitle": "Urgences et planifiés, toujours joignable"
+        "title": "Travail soigné, résultat garanti",
+        "subtitle": "Chaque intervention est réussie du premier coup."
       },
       {
         "title": "Recommandé par ses clients",
-        "subtitle": "Bouche-à-oreille positif, travail soigné"
+        "subtitle": "35 avis positifs, note parfaite de 5/5 sur Google."
+      },
+      {
+        "title": "Disponible nuit et week-end",
+        "subtitle": "Joignable 24h/24, 7j/7, urgences comprises."
       }
     ],
-    "value_prop": "Johan est votre plombier de confiance dans le 18ᵉ arrondissement de Paris. Noté 5/5 sur Google par 35 clients satisfaits, il intervient 24h/24 et 7j/7 pour tous vos travaux de plomberie — urgences incluses — avec soin et efficacité.",
-    "services_intro": "Plomberie, robinetterie et dépannage 24h/24 dans le 18ᵉ.",
-    "about": "Johan est un plombier indépendant établi dans le 18ᵉ arrondissement de Paris, reconnu pour la qualité irréprochable de ses interventions. Disponible jour et nuit, il s'engage à résoudre chaque problème avec sérieux et efficacité. Sa note parfaite de 5/5 sur Google reflète la satisfaction constante de ses clients.",
-    "footer_description": "JOHAN Plombier Paris 18 — artisan plombier de confiance au 25 Rue Vauvenargues, 75018 Paris. Disponible 24h/24 et 7j/7 pour tous vos besoins en plomberie. Note Google : 5/5.",
+    "value_prop": "Johan est votre plombier de référence dans le 18e arrondissement de Paris. Noté 5/5 par 35 clients, il intervient 24h/24 et 7j/7 pour tous vos travaux de plomberie, avec un résultat soigné et reconnu.",
+    "services_intro": "Plomberie générale et dépannage urgence à Paris 18e, 24h/24.",
+    "about": "Johan est un plombier artisan basé rue Vauvenargues dans le 18e arrondissement de Paris. Reconnu pour la qualité irréprochable de ses interventions, il est noté 5/5 par l'ensemble de ses clients. Il assure des prestations de plomberie générale et de dépannage d'urgence, 24h/24 et 7j/7.",
+    "footer_description": "JOHAN Plombier Paris 18 — Artisan plombier de confiance au 25 Rue Vauvenargues, Paris 18e. Note Google 5/5 · 35 avis · Disponible 24h/24, 7j/7 pour tous vos besoins en plomberie.",
     "services": [
       {
         "title": "Remplacement robinetterie",
-        "desc": "Remplacement et installation de robinets, mitigeurs et accessoires de robinetterie. Travail soigné, résultat garanti — nos clients en témoignent.",
-        "icon": "droplets",
+        "desc": "Remplacement de robinets, mitigeurs et robinetterie sanitaire. Intervention soignée, résultat durable reconnu par vos voisins du 18e.",
+        "icon": "wrench",
         "featured": true,
         "tag": "Service phare",
         "image": "/images/stock/plombier/services/services-4.webp"
       },
       {
-        "title": "Dépannage plomberie 24h/24",
-        "desc": "Intervention rapide pour toute urgence plomberie, jour et nuit, 7j/7. Fuite, canalisation bouchée ou panne — Johan est disponible en permanence.",
+        "title": "Dépannage urgence",
+        "desc": "Fuite, canalisation bouchée, dégât des eaux : Johan intervient en urgence 24h/24 et 7j/7 à Paris 18e et alentours.",
         "icon": "zap",
         "featured": true,
-        "tag": "Urgence",
+        "tag": "Urgence 24h/24",
         "image": "/images/stock/plombier/services/services-5.webp"
       },
       {
         "title": "Plomberie générale",
-        "desc": "Travaux de plomberie courants : installation, réparation, remplacement de tuyauteries et équipements sanitaires.",
-        "icon": "wrench",
-        "featured": false
-      },
-      {
-        "title": "Détection de fuites",
-        "desc": "Localisation précise des fuites apparentes et cachées pour limiter les dégâts et intervenir efficacement.",
-        "icon": "search",
+        "desc": "Installation, rénovation et entretien de tous vos équipements sanitaires. Travail propre et fiable.",
+        "icon": "droplets",
         "featured": false
       },
       {
         "title": "Débouchage canalisation",
-        "desc": "Débouchage rapide des canalisations obstruées : évier, baignoire, WC ou tuyauterie principale.",
-        "icon": "wind",
+        "desc": "Débouchage rapide de canalisations, éviers, WC et baignoires. Intervention discrète et efficace.",
+        "icon": "search",
+        "featured": false
+      },
+      {
+        "title": "Détection de fuites",
+        "desc": "Localisation précise des fuites cachées pour intervenir vite et limiter les dégâts chez vous.",
+        "icon": "droplets",
         "featured": false
       }
     ],
     "why_us": [
       {
-        "title": "Note 5/5 sur Google",
-        "desc": "35 avis vérifiés, zéro insatisfaction client visible"
+        "title": "Note parfaite 5/5",
+        "desc": "35 clients satisfaits attestent de la constance et de la qualité de Johan."
       },
       {
-        "title": "Disponible 24h/24",
-        "desc": "7j/7 sans exception, même les jours fériés"
+        "title": "Interventions réussies",
+        "desc": "Chaque travail est accompli avec soin, du premier coup, sans retour nécessaire."
       },
       {
-        "title": "Ancrage local Paris 18ᵉ",
-        "desc": "Quartier Vauvenargues, réactivité maximale sur place"
+        "title": "Disponible à toute heure",
+        "desc": "Joignable 24h/24, 7j/7 pour répondre à chaque urgence sans délai."
       },
       {
-        "title": "Artisan de proximité",
-        "desc": "Johan intervient en nom propre, gage de sérieux"
+        "title": "Plombier de proximité",
+        "desc": "Ancré dans le 18e, Johan connaît parfaitement son secteur et ses habitants."
       }
     ],
     "why_us_badge": {
       "value": "1h",
       "label": "délai d'intervention"
     },
-    "service_area": "Paris 18ᵉ, Saint-Ouen-sur-Seine, Clichy, Paris 17ᵉ, Paris 19ᵉ, Levallois-Perret, Aubervilliers, Saint-Denis, Montmartre",
+    "service_area": "Paris 18e, Saint-Ouen-sur-Seine, Clichy, Montmartre, Saint-Denis, Aubervilliers, Épinay-sur-Seine, Levallois-Perret, Asnières-sur-Seine",
     "service_area_cities": [
-      "Paris 18ᵉ",
+      "Paris 18e",
       "Saint-Ouen-sur-Seine",
       "Clichy",
-      "Paris 17ᵉ",
-      "Paris 19ᵉ",
-      "Levallois-Perret",
-      "Aubervilliers",
+      "Montmartre",
       "Saint-Denis",
-      "Montmartre"
+      "Aubervilliers",
+      "Épinay-sur-Seine",
+      "Levallois-Perret",
+      "Asnières-sur-Seine"
     ],
     "service_area_map_cities": [
       "Saint-Ouen-sur-Seine",
       "Clichy",
-      "Levallois-Perret",
-      "Aubervilliers",
       "Saint-Denis",
-      "Paris 19ᵉ"
+      "Aubervilliers",
+      "Levallois-Perret",
+      "Asnières-sur-Seine"
     ],
     "service_area_stats": [
       {
         "value": "9",
-        "label": "Communes desservies"
+        "label": "Communes couvertes"
       },
       {
         "value": "5/5",
@@ -175,7 +175,7 @@
         "label": "Avis clients vérifiés"
       }
     ],
-    "service_area_note": "Déplacement rapide dans le 18ᵉ et ses environs, disponible 24h/24 sans supplément de déplacement.",
+    "service_area_note": "Déplacement rapide dans tout le nord de Paris et les communes limitrophes, devis gratuit sans engagement.",
     "no_reviews_cta": {
       "eyebrow": "",
       "title": "",
@@ -188,17 +188,17 @@
     "contact": {
       "phone": "+33 1 87 58 88 60",
       "email": "",
-      "hours": "Lun–Dim · Ouvert 24h/24"
+      "hours": "Lun–Dim · 24h/24"
     },
-    "seo_title": "JOHAN Plombier Paris 18 — Dépannage 24h/24",
-    "meta_description": "Plombier Paris 18 disponible 24h/24 et 7j/7. Note Google 5/5 sur 35 avis. Remplacement robinetterie, dépannage urgent, plomberie générale. Appelez Johan maintenant."
+    "seo_title": "Johan Plombier Paris 18 — Urgence 24h/24 · Note 5/5",
+    "meta_description": "Plombier à Paris 18e disponible 24h/24 et 7j/7. Johan intervient pour tout dépannage, remplacement de robinetterie et plomberie générale. Note Google 5/5 · 35 avis."
   },
   "reviews": [
     {
-      "author": "Marc D.",
-      "location": "Paris 18ᵉ",
+      "author": "Maxime L.",
+      "location": "Paris 18e",
       "rating": 5,
-      "text": "Satisfait du travail effectué. Remplacement robinet réussi.Je recommande"
+      "text": "Satisfait du travail effectué. Remplacement robinet réussi. Je recommande"
     }
   ]
 }
