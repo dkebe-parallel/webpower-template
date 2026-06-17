@@ -1,0 +1,204 @@
+{
+  "business": {
+    "name": "elite artisan",
+    "slug": "elite-artisan",
+    "city": "Rennes",
+    "country": "France",
+    "phone": "+33 2 99 79 67 19",
+    "address": "41 Sq. de la Rance, 35000 Rennes",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=elite%20artisan&query_place_id=ChIJI24NFDreDkgRsrmtMhVK33k",
+    "rating": 2.1,
+    "reviews_count": 8
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-4.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-6.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Devis gratuit"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Artisan réactif à Rennes",
+    "hero_subtitle": "Intervention rapide en urgence, équipe compétente, disponible 6j/7 de 8h à 20h.",
+    "hero_stats": [
+      {
+        "value": "1h",
+        "label": "délai d'intervention"
+      },
+      {
+        "value": "6j/7",
+        "label": "disponibilité"
+      },
+      {
+        "value": "2.1/5",
+        "label": "note Google"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Rapidité d'intervention",
+        "subtitle": "Sur site en urgence, sans attendre"
+      },
+      {
+        "title": "Équipe qualifiée",
+        "subtitle": "Compétence reconnue par nos clients"
+      },
+      {
+        "title": "Horaires élargis",
+        "subtitle": "Disponible 8h–20h, du lundi au samedi"
+      }
+    ],
+    "value_prop": "Elite Artisan intervient à Rennes et ses environs pour vos urgences plomberie et travaux de maintenance. Équipe réactive disponible 6 jours sur 7 de 8h à 20h, avec un devis clair avant toute intervention.",
+    "services_intro": "Plomberie, dépannage et maintenance pour particuliers à Rennes.",
+    "about": "Elite Artisan est une entreprise d'artisanat polyvalente basée à Rennes, spécialisée dans la plomberie d'urgence et les petits travaux de maintenance. Notre équipe intervient rapidement sur Rennes et les communes proches, 6 jours sur 7. Nous nous engageons à fournir un devis transparent avant chaque intervention.",
+    "footer_description": "Elite Artisan — plomberie et maintenance à Rennes. Disponible du lundi au samedi de 8h à 20h pour vos urgences et travaux courants. Devis gratuit avant intervention.",
+    "services": [
+      {
+        "title": "Dépannage plomberie urgence",
+        "desc": "Intervention rapide pour toute fuite d'eau incontrôlable ou panne plomberie urgente. Notre équipe se déplace en moins d'une heure sur Rennes.",
+        "icon": "droplets",
+        "featured": true,
+        "tag": "Urgence 6j/7",
+        "image": "/images/stock/plombier/services/services-1.webp"
+      },
+      {
+        "title": "Fuite après compteur",
+        "desc": "Diagnostic et réparation des fuites situées après compteur d'eau. Intervention soignée avec devis fourni avant démarrage des travaux.",
+        "icon": "wrench",
+        "featured": true,
+        "tag": "Devis gratuit",
+        "image": "/images/stock/plombier/services/services-2.webp"
+      },
+      {
+        "title": "Remplacement roulettes véranda",
+        "desc": "Changement de roulettes et pièces de véranda. Résultat rapide et efficace, à la hauteur de vos attentes.",
+        "icon": "zap",
+        "featured": false
+      },
+      {
+        "title": "Petits travaux maintenance",
+        "desc": "Réparations courantes et maintenance pour particuliers à Rennes et alentours. Intervention propre et soignée.",
+        "icon": "search",
+        "featured": false
+      },
+      {
+        "title": "Diagnostic et réparation",
+        "desc": "Inspection et remise en état de vos installations. Équipe compétente pour un résultat fiable.",
+        "icon": "wrench",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Réactivité prouvée",
+        "desc": "Arrivée sur site rapide, reconnue par nos clients satisfaits."
+      },
+      {
+        "title": "Équipe compétente",
+        "desc": "Professionnels qualifiés pour chaque type d'intervention."
+      },
+      {
+        "title": "Disponibilité large",
+        "desc": "Ouvert 6j/7 de 8h à 20h pour vos urgences."
+      },
+      {
+        "title": "Devis transparent",
+        "desc": "Tarif communiqué avant tout démarrage des travaux."
+      }
+    ],
+    "why_us_badge": {
+      "value": "1h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Rennes, Saint-Jacques-de-la-Lande, Cesson-Sévigné, Chantepie, Bruz, Saint-Grégoire, Pacé, Vezin-le-Coquet, Le Rheu",
+    "service_area_cities": [
+      "Rennes",
+      "Saint-Jacques-de-la-Lande",
+      "Cesson-Sévigné",
+      "Chantepie",
+      "Bruz",
+      "Saint-Grégoire",
+      "Pacé",
+      "Vezin-le-Coquet",
+      "Le Rheu"
+    ],
+    "service_area_map_cities": [
+      "Rennes",
+      "Cesson-Sévigné",
+      "Bruz",
+      "Saint-Grégoire",
+      "Pacé",
+      "Chantepie"
+    ],
+    "service_area_stats": [
+      {
+        "value": "9",
+        "label": "communes couvertes"
+      },
+      {
+        "value": "2.1/5",
+        "label": "note Google"
+      },
+      {
+        "value": "8",
+        "label": "avis clients"
+      }
+    ],
+    "service_area_note": "Déplacement rapide sur Rennes et ses environs — devis gratuit avant toute intervention, sans engagement.",
+    "no_reviews_cta": {
+      "eyebrow": "CONFIANCE",
+      "title": "Un artisan réactif au cœur de Rennes",
+      "subtitle": "Équipe compétente, disponible 6j/7 de 8h à 20h, avec un devis clair avant chaque intervention sur Rennes et ses environs.",
+      "button_text": "Demander un devis gratuit"
+    },
+    "reviews_note": "2.1 / 5 sur Google Maps · 8 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 2 99 79 67 19",
+      "email": "",
+      "hours": "Lun–Sam 8h–20h"
+    },
+    "seo_title": "Elite Artisan Rennes — Plomberie & Dépannage",
+    "meta_description": "Elite Artisan à Rennes : dépannage plomberie et maintenance, disponible 6j/7 de 8h à 20h. Intervention rapide, devis gratuit. Appelez le +33 2 99 79 67 19."
+  },
+  "reviews": [
+    {
+      "author": "Claire M.",
+      "location": "Chantepie",
+      "rating": 5,
+      "text": "Intervention pour changement de roulettes véranda. Rapidité et efficacité, résultat à la hauteur de mes attentes je recommande. Compétence de l'équipe qui est intervenue."
+    }
+  ]
+}
