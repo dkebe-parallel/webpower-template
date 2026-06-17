@@ -1,0 +1,216 @@
+{
+  "business": {
+    "name": "Legrand Jérôme",
+    "slug": "legrand-jerome",
+    "city": "Amfreville",
+    "country": "France",
+    "phone": "+33 2 31 83 80 22",
+    "address": "8 Rte de Cabourg, 14860 Amfreville",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Legrand%20J%C3%A9r%C3%B4me&query_place_id=ChIJ6V6MbDJkCkgRoOv5XCauFvM",
+    "rating": 5,
+    "reviews_count": 9
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-2.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-4.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Devis gratuit"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Plombier rénovation à Amfreville",
+    "hero_subtitle": "Spécialiste salle de bain, installations anciennes — ponctuel, soigné et au juste prix.",
+    "hero_stats": [
+      {
+        "value": "5/5",
+        "label": "Note Google"
+      },
+      {
+        "value": "9",
+        "label": "avis clients"
+      },
+      {
+        "value": "100%",
+        "label": "clients satisfaits"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Ponctualité exemplaire",
+        "subtitle": "Intervention à l'heure prévue, même en conditions difficiles"
+      },
+      {
+        "title": "Expertise installations anciennes",
+        "subtitle": "Adaptation sur mesure aux plomberies des années 60 et plus"
+      },
+      {
+        "title": "Prix juste et transparent",
+        "subtitle": "Tarifs corrects salués par l'ensemble des clients"
+      }
+    ],
+    "value_prop": "Jérôme Legrand est plombier artisan à Amfreville, spécialisé dans la rénovation de salles de bain et l'adaptation d'installations anciennes. Reconnu pour sa ponctualité, son savoir-faire technique et son excellent rapport qualité-prix, il réalise des transformations parfaites avec le sourire.",
+    "services_intro": "Rénovation, remplacement et conseil en plomberie pour particuliers.",
+    "about": "Jérôme Legrand est un plombier artisan basé à Amfreville, fort d'une grande expérience dans la rénovation de salles de bain et l'adaptation de plomberie ancienne. Il intervient avec rigueur et convivialité, en respectant les délais et les souhaits de chaque client pour un résultat toujours à la hauteur.",
+    "footer_description": "Legrand Jérôme — Plombier artisan à Amfreville. Rénovation salle de bain, remplacement de sanitaires et plomberie générale. Note Google 5/5. Intervention dans tout le secteur de Caen et alentours.",
+    "services": [
+      {
+        "title": "Rénovation de salle de bain",
+        "desc": "Transformation complète de votre salle de bain : optimisation de l'espace, choix des équipements et finitions soignées pour un rendu superbe.",
+        "icon": "droplets",
+        "featured": true,
+        "tag": "Spécialité",
+        "image": "/images/stock/plombier/services/services-3.webp"
+      },
+      {
+        "title": "Remplacement de sanitaires",
+        "desc": "Changement et adaptation de lavabos, baignoires et équipements vétustes, même sur des installations datant des années 1960.",
+        "icon": "wrench",
+        "featured": true,
+        "tag": "Expertise ancienne",
+        "image": "/images/stock/plombier/services/services-4.webp"
+      },
+      {
+        "title": "Plomberie générale",
+        "desc": "Dépannage et mise aux normes de votre installation pour un fonctionnement fiable au quotidien.",
+        "icon": "zap",
+        "featured": false
+      },
+      {
+        "title": "Optimisation sanitaire",
+        "desc": "Réaménagement intelligent de vos espaces sanitaires pour maximiser confort et praticité.",
+        "icon": "search",
+        "featured": false
+      },
+      {
+        "title": "Conseil en aménagement",
+        "desc": "Accompagnement personnalisé pour choisir les meilleures solutions adaptées à vos besoins.",
+        "icon": "wind",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Expérience technique",
+        "desc": "Adaptation maîtrisée aux installations les plus anciennes et complexes."
+      },
+      {
+        "title": "Toujours à l'heure",
+        "desc": "Ponctualité confirmée par tous les clients, quelles que soient les conditions."
+      },
+      {
+        "title": "Résultats parfaits",
+        "desc": "Finitions soignées et rénovations qualifiées de parfaites et superbes."
+      },
+      {
+        "title": "Tarifs honnêtes",
+        "desc": "Prix corrects et transparents, sans mauvaise surprise en fin de chantier."
+      }
+    ],
+    "why_us_badge": {
+      "value": "2h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Amfreville, Ranville, Hérouvillette, Bénouville, Ouistreham, Merville-Franceville-Plage, Sallenelles, Colombelles, Caen",
+    "service_area_cities": [
+      "Amfreville",
+      "Ranville",
+      "Hérouvillette",
+      "Bénouville",
+      "Ouistreham",
+      "Merville-Franceville-Plage",
+      "Sallenelles",
+      "Colombelles",
+      "Caen"
+    ],
+    "service_area_map_cities": [
+      "Caen",
+      "Ouistreham",
+      "Bénouville",
+      "Colombelles",
+      "Ranville",
+      "Merville-Franceville-Plage"
+    ],
+    "service_area_stats": [
+      {
+        "value": "9",
+        "label": "communes desservies"
+      },
+      {
+        "value": "5/5",
+        "label": "note Google"
+      },
+      {
+        "value": "9",
+        "label": "avis clients vérifiés"
+      }
+    ],
+    "service_area_note": "Déplacement rapide à Amfreville et dans tout le secteur de Caen, devis gratuit sans engagement.",
+    "no_reviews_cta": {
+      "eyebrow": "",
+      "title": "",
+      "subtitle": "",
+      "button_text": ""
+    },
+    "reviews_note": "5 / 5 sur Google Maps · 9 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 2 31 83 80 22",
+      "email": "",
+      "hours": "Lun–Mar 8h–18h · Mer 8h–12h / 13h30–18h · Jeu 8h–18h · Ven 8h–17h30"
+    },
+    "seo_title": "Plombier Amfreville — Legrand Jérôme, rénovation salle de bain",
+    "meta_description": "Plombier artisan à Amfreville (14860). Rénovation salle de bain, remplacement sanitaires, installations anciennes. Note 5/5. Devis gratuit."
+  },
+  "reviews": [
+    {
+      "author": "Michel B.",
+      "location": "Ranville",
+      "rating": 5,
+      "text": "Excellent travail. Il s'agissait de changer un lavabo de salle de bains qui datait de la construction de la maison, 1963, donc vétuste ce qui exigeait d'adapter le matériel. Mr Legrand a une grande expérience, le résultat est une rénovation parfaite. En plus des travaux de voirie importants devant la maison rendaient l'accès difficile. Mr Legrand est tout de même intervenu à l'heure prévue. Le tout a été effectué dans une sympathique ambiance pour un prix tout à fait correct. Je n'hésiterai pas à faire à nouveau appel à lui."
+    },
+    {
+      "author": "Sophie D.",
+      "location": "Bénouville",
+      "rating": 5,
+      "text": "Mr Legrand est un excellent professionnel et de bon conseil. Il a effectué la rénovation de notre salle de bain dans le respect des délais et de nos souhaits. L'espace a été optimisé au maximum et le rendu est superbe. Bravo!"
+    },
+    {
+      "author": "Nathalie M.",
+      "location": "Hérouvillette",
+      "rating": 5,
+      "text": "Très satisfaite du travail de M.Legrand. Ponctuel , efficace et très bon travail. Je le conseil vivement et n'hésiterai pas à refaire appel à ses services."
+    }
+  ]
+}
