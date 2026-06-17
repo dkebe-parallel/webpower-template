@@ -17,7 +17,7 @@
   },
   "badges": {
     "certifications": [],
-    "highlight": "Devis gratuit"
+    "highlight": "Artisan local"
   },
   "theme": {
     "palette": {
@@ -49,8 +49,8 @@
     "enabled_blocks": []
   },
   "content": {
-    "hero_title": "Sérieux et qualité à Orleix",
-    "hero_subtitle": "Climatisation, plomberie et chauffage — équipe sérieuse, produits de qualité, notée 4.7/5.",
+    "hero_title": "Plomberie & Climatisation à Orleix",
+    "hero_subtitle": "Équipe sérieuse, produits de qualité — installations durables dans le bassin de Tarbes.",
     "hero_stats": [
       {
         "value": "4.7/5",
@@ -58,63 +58,63 @@
       },
       {
         "value": "13",
-        "label": "avis clients vérifiés"
+        "label": "avis clients"
       },
       {
         "value": "100%",
-        "label": "clients recommandent"
+        "label": "satisfaction installation"
       }
     ],
     "reassurance_items": [
       {
-        "title": "Équipe sérieuse et fiable",
-        "subtitle": "Professionnalisme reconnu par nos clients"
+        "title": "Équipe sérieuse & fiable",
+        "subtitle": "Un professionnalisme reconnu par nos clients"
       },
       {
         "title": "Produits de qualité",
-        "subtitle": "Équipements sélectionnés pour leur durabilité"
+        "subtitle": "Des équipements durables pour votre confort"
       },
       {
-        "title": "Double expertise thermique",
-        "subtitle": "Climatisation et chauffage en un seul artisan"
+        "title": "Implantation locale",
+        "subtitle": "Basés à Orleix, au cœur du bassin de Tarbes"
       }
     ],
-    "value_prop": "Vedere SAS intervient à Orleix et dans le bassin tarbais pour vos projets de climatisation, plomberie et chauffage. Reconnue pour le sérieux de son équipe et la qualité de ses équipements, l'entreprise accompagne particuliers et professionnels avec rigueur.",
-    "services_intro": "Climatisation, plomberie et chauffage : une expertise complète près de Tarbes.",
-    "about": "Vedere SAS est une entreprise artisanale basée à Orleix, dans les Hautes-Pyrénées. Spécialisée en climatisation, plomberie et équipements thermiques, elle intervient auprès des particuliers et professionnels du secteur tarbais avec sérieux et exigence.",
-    "footer_description": "Vedere SAS — Spécialiste climatisation, plomberie et chauffage à Orleix (65800). Équipe sérieuse, produits de qualité, notée 4.7/5 sur Google. Intervention dans tout le bassin tarbais.",
+    "value_prop": "Vedere SAS installe et entretient vos équipements de climatisation, plomberie et chauffage depuis Orleix. Notre équipe, reconnue pour son sérieux et la qualité des produits posés, assure des installations fiables et durables pour les particuliers et professionnels du secteur de Tarbes.",
+    "services_intro": "Climatisation, plomberie et chauffage — des prestations complètes à Orleix.",
+    "about": "Vedere SAS est une entreprise spécialisée en plomberie, climatisation et chauffage, établie à Orleix au cœur du bassin de Tarbes. Reconnue pour le sérieux de son équipe et la qualité des équipements installés, elle intervient auprès des particuliers et professionnels des Hautes-Pyrénées. Sa note de 4.7/5 sur Google reflète un engagement constant envers la satisfaction client.",
+    "footer_description": "Vedere SAS — Plomberie, climatisation et chauffage à Orleix (65800). Équipe sérieuse, produits de qualité, interventions dans tout le secteur de Tarbes et alentours.",
     "services": [
       {
-        "title": "Installation climatisation",
-        "desc": "Pose et mise en service de systèmes de climatisation pour particuliers et professionnels. Équipements de qualité sélectionnés avec soin pour un confort optimal.",
+        "title": "Installation de climatisation",
+        "desc": "Pose et mise en service de systèmes de climatisation pour particuliers et professionnels. Équipements sélectionnés pour leur fiabilité et leur performance énergétique.",
         "icon": "wind",
         "featured": true,
-        "tag": "Notre spécialité",
+        "tag": "Expertise reconnue",
         "image": "/images/stock/plombier/services/services-4.webp"
       },
       {
         "title": "Plomberie générale",
-        "desc": "Installation, réparation et entretien de tous vos équipements sanitaires et réseaux de plomberie. Intervention soignée et durable pour votre habitat.",
+        "desc": "Travaux de plomberie, installation sanitaire et dépannage. Interventions soignées pour garantir des installations durables dans votre logement ou local professionnel.",
         "icon": "droplets",
         "featured": true,
-        "tag": "Savoir-faire",
+        "tag": "Tous travaux",
         "image": "/images/stock/plombier/services/services-5.webp"
       },
       {
-        "title": "Chauffage et thermique",
-        "desc": "Installation et entretien de systèmes de chauffage pour un confort thermique adapté à vos besoins.",
+        "title": "Chauffage & thermique",
+        "desc": "Installation et entretien de chaudières, pompes à chaleur et équipements thermiques pour votre confort toute l'année.",
         "icon": "flame",
         "featured": false
       },
       {
-        "title": "Dépannage plomberie",
-        "desc": "Intervention rapide pour toute urgence ou panne sur vos installations de plomberie.",
+        "title": "Dépannage & maintenance",
+        "desc": "Intervention rapide pour tout dysfonctionnement sur vos équipements de plomberie ou de climatisation.",
         "icon": "wrench",
         "featured": false
       },
       {
-        "title": "Maintenance équipements",
-        "desc": "Entretien régulier de vos installations climatisation et chauffage pour garantir leur longévité.",
+        "title": "Diagnostic & devis",
+        "desc": "Analyse de vos installations et établissement d'un devis clair et détaillé avant tout démarrage de chantier.",
         "icon": "search",
         "featured": false
       }
@@ -122,44 +122,44 @@
     "why_us": [
       {
         "title": "Équipe très sérieuse",
-        "desc": "Professionnalisme salué spontanément par nos clients satisfaits."
+        "desc": "Un professionnalisme salué spontanément par nos clients."
       },
       {
-        "title": "Produits haut de gamme",
-        "desc": "Équipements de qualité choisis pour leur fiabilité et durabilité."
+        "title": "Produits de qualité",
+        "desc": "Des équipements fiables sélectionnés avec soin."
       },
       {
-        "title": "Note Google 4.7/5",
-        "desc": "13 avis clients témoignent d'un haut niveau de satisfaction."
+        "title": "Note 4.7/5 sur Google",
+        "desc": "La preuve d'un service régulier et de confiance."
       },
       {
-        "title": "Double expertise",
-        "desc": "Climatisation et plomberie réunis en un seul interlocuteur."
+        "title": "Ancrage local fort",
+        "desc": "Basés à Orleix, nous connaissons le terrain."
       }
     ],
     "why_us_badge": {
       "value": "2h",
       "label": "délai d'intervention"
     },
-    "service_area": "Orleix, Tarbes, Aureilhan, Séméac, Rabastens-de-Bigorre, Bordères-sur-l'Échez, Ibos, Odos, Soues",
+    "service_area": "Orleix, Tarbes, Aureilhan, Séméac, Bordères-sur-l'Échez, Rabastens-de-Bigorre, Ibos, Soues, Barbazan-Debat",
     "service_area_cities": [
       "Orleix",
       "Tarbes",
       "Aureilhan",
       "Séméac",
-      "Rabastens-de-Bigorre",
       "Bordères-sur-l'Échez",
+      "Rabastens-de-Bigorre",
       "Ibos",
-      "Odos",
-      "Soues"
+      "Soues",
+      "Barbazan-Debat"
     ],
     "service_area_map_cities": [
       "Tarbes",
       "Aureilhan",
       "Séméac",
       "Ibos",
-      "Odos",
-      "Soues"
+      "Soues",
+      "Bordères-sur-l'Échez"
     ],
     "service_area_stats": [
       {
@@ -172,10 +172,10 @@
       },
       {
         "value": "13",
-        "label": "avis vérifiés"
+        "label": "avis clients vérifiés"
       }
     ],
-    "service_area_note": "Déplacement rapide dans tout le bassin tarbais — devis gratuit sans engagement pour chaque intervention.",
+    "service_area_note": "Déplacement dans tout le secteur de Tarbes et les Hautes-Pyrénées, devis gratuit sans engagement.",
     "no_reviews_cta": {
       "eyebrow": "",
       "title": "",
@@ -188,14 +188,14 @@
     "contact": {
       "phone": "+33 5 62 36 34 12",
       "email": "",
-      "hours": "Mar–Jeu 8h–12h · 14h–18h · Ven 8h–12h · 14h–17h · Lun 14h–18h"
+      "hours": "Mar–Mer–Jeu 8h–12h · 14h–18h · Ven 8h–12h · 14h–17h · Lun 14h–18h"
     },
-    "seo_title": "Vedere SAS — Climatisation & Plomberie à Orleix",
-    "meta_description": "Vedere SAS, spécialiste climatisation, plomberie et chauffage à Orleix (65800). Équipe sérieuse, produits de qualité, notée 4.7/5 sur Google. Devis gratuit."
+    "seo_title": "Plombier Climatisation Orleix & Tarbes — Vedere SAS",
+    "meta_description": "Vedere SAS, votre spécialiste plomberie et climatisation à Orleix (65800). Équipe sérieuse, produits de qualité, interventions dans le secteur de Tarbes. Note 4.7/5."
   },
   "reviews": [
     {
-      "author": "Marie L.",
+      "author": "Martine L.",
       "location": "Tarbes",
       "rating": 5,
       "text": "J'ai fait poser une climatisation par l'entreprise Vedere. Extrêmement satisfaite de leurs services. Equipe très sérieuse et produits de qualité ! Je recommande vivement cette entreprise !"
