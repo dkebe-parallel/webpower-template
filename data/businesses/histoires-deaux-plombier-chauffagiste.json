@@ -1,0 +1,216 @@
+{
+  "business": {
+    "name": "Histoires d'Eaux - Plombier - Chauffagiste",
+    "slug": "histoires-deaux-plombier-chauffagiste",
+    "city": "Strasbourg",
+    "country": "France",
+    "phone": "+33 6 26 93 17 61",
+    "address": "32 Av. de la Forêt-Noire, 67000 Strasbourg",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Histoires%20d'Eaux%20-%20Plombier%20-%20Chauffagiste&query_place_id=ChIJ4Voxme3JlkcRS0sggFQwCxM",
+    "rating": 4.9,
+    "reviews_count": 10
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-2.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-2.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Devis gratuit"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Réparé une fois, réparé pour de bon",
+    "hero_subtitle": "Plombier-chauffagiste honnête à Strasbourg — interventions durables, conseils sincères, 4.9/5 client.",
+    "hero_stats": [
+      {
+        "value": "4.9/5",
+        "label": "note Google"
+      },
+      {
+        "value": "10",
+        "label": "avis clients vérifiés"
+      },
+      {
+        "value": "0",
+        "label": "récidive après intervention"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Honnêteté garantie",
+        "subtitle": "Conseils vrais, sans pousser à la dépense inutile"
+      },
+      {
+        "title": "Interventions durables",
+        "subtitle": "Zéro problème récurrent sur ce qui a été réparé"
+      },
+      {
+        "title": "Artisan de confiance",
+        "subtitle": "Clients fidèles qui font appel à lui régulièrement"
+      }
+    ],
+    "value_prop": "Histoires d'Eaux, c'est un plombier-chauffagiste strasbourgeois qui privilégie la durabilité des installations et l'honnêteté du diagnostic. Pas de réparation de surface : chaque intervention est pensée pour éliminer le problème une bonne fois pour toutes. Résultat : une clientèle fidèle et une note de 4.9/5.",
+    "services_intro": "Plomberie et chauffage à Strasbourg — du dépannage à l'installation complète.",
+    "about": "Histoires d'Eaux est un artisan plombier-chauffagiste installé à Strasbourg, reconnu pour la qualité et la durabilité de ses interventions. Honnête dans ses conseils et rigoureux dans son travail, il accompagne ses clients aussi bien pour des urgences que pour des projets d'installation ou de rénovation.",
+    "footer_description": "Histoires d'Eaux — Plombier-chauffagiste à Strasbourg. Interventions durables, conseils honnêtes et clientèle fidèle depuis la première visite. Devis gratuit, déplacement sur Strasbourg et ses environs.",
+    "services": [
+      {
+        "title": "Dégâts des eaux",
+        "icon": "droplets",
+        "desc": "Intervention rapide et efficace pour stopper les fuites et réparer les dommages liés aux dégâts des eaux, avec un résultat durable.",
+        "featured": true,
+        "tag": "Urgence & réparation",
+        "image": "/images/stock/plombier/services/services-7.webp"
+      },
+      {
+        "title": "Installation plomberie",
+        "icon": "wrench",
+        "desc": "Remplacement et installation de tous vos équipements sanitaires, avec des finitions soignées et des matériaux fiables dans le temps.",
+        "featured": true,
+        "tag": "Installation complète",
+        "image": "/images/stock/plombier/services/services-8.webp"
+      },
+      {
+        "title": "Dépannage plomberie",
+        "icon": "zap",
+        "desc": "Réparations courantes : robinets, chasses d'eau, canalisations — problème résolu sans retour.",
+        "featured": false
+      },
+      {
+        "title": "Chauffage",
+        "icon": "flame",
+        "desc": "Installation et entretien de systèmes de chauffage pour un confort optimal et des économies d'énergie.",
+        "featured": false
+      },
+      {
+        "title": "Diagnostic & conseils",
+        "icon": "search",
+        "desc": "Diagnostic précis et recommandations honnêtes pour guider vos choix sans superflu.",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Honnêteté totale",
+        "desc": "Conseils transparents, sans surfacturation ni travaux inutiles"
+      },
+      {
+        "title": "Durabilité prouvée",
+        "desc": "Installations qui tiennent — zéro rappel sur ce qui a été fait"
+      },
+      {
+        "title": "Réactivité terrain",
+        "desc": "Intervention efficace, même sur les urgences type dégâts des eaux"
+      },
+      {
+        "title": "Relation de confiance",
+        "desc": "Des clients qui reviennent : le meilleur signe de sérieux"
+      }
+    ],
+    "why_us_badge": {
+      "value": "2h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Strasbourg, Schiltigheim, Illkirch-Graffenstaden, Lingolsheim, Ostwald, Bischheim, Hoenheim, Eckbolsheim, Kehl",
+    "service_area_cities": [
+      "Strasbourg",
+      "Schiltigheim",
+      "Illkirch-Graffenstaden",
+      "Lingolsheim",
+      "Ostwald",
+      "Bischheim",
+      "Hoenheim",
+      "Eckbolsheim",
+      "Kehl"
+    ],
+    "service_area_map_cities": [
+      "Strasbourg",
+      "Schiltigheim",
+      "Illkirch-Graffenstaden",
+      "Ostwald",
+      "Bischheim",
+      "Kehl"
+    ],
+    "service_area_stats": [
+      {
+        "value": "9",
+        "label": "communes desservies"
+      },
+      {
+        "value": "4.9/5",
+        "label": "note Google"
+      },
+      {
+        "value": "10",
+        "label": "avis clients"
+      }
+    ],
+    "service_area_note": "Déplacement rapide sur Strasbourg et ses communes voisines — devis gratuit, sans engagement.",
+    "no_reviews_cta": {
+      "eyebrow": "",
+      "title": "",
+      "subtitle": "",
+      "button_text": ""
+    },
+    "reviews_note": "4.9 / 5 sur Google Maps · 10 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 6 26 93 17 61",
+      "email": "",
+      "hours": "Lun–Ven 9h–18h"
+    },
+    "seo_title": "Plombier Chauffagiste Strasbourg — Histoires d'Eaux",
+    "meta_description": "Plombier-chauffagiste à Strasbourg, noté 4.9/5. Dépannage, dégâts des eaux, installation et chauffage. Interventions durables, conseils honnêtes. Devis gratuit."
+  },
+  "reviews": [
+    {
+      "author": "Sophie M.",
+      "location": "Schiltigheim",
+      "rating": 5,
+      "text": "Plombier très sympathique et plein de bons conseils, honnête, je recommande :)"
+    },
+    {
+      "author": "Laurent B.",
+      "location": "Illkirch-Graffenstaden",
+      "rating": 5,
+      "text": "Un grand merci pour votre efficacité et votre sérieux apportés lors de la réparation de notre dégât des eaux."
+    },
+    {
+      "author": "Claire D.",
+      "location": "Ostwald",
+      "rating": 5,
+      "text": "Excellent professionnel! Sérieux, compétent, aime le travail bien fait et de qualité ! Il pense à la durabilité des installations et prodigue de bons conseils. Nous faisons appel à lui régulièrement que ce soit pour des réparations ou des changements d'installations : TOUT est Nickel! Et une fois que l'intervention est faite: plus aucun problème sur ce qui a été modifié!\n\nBref je recommande fortement!"
+    }
+  ]
+}
