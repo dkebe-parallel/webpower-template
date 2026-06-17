@@ -49,44 +49,44 @@
     "enabled_blocks": []
   },
   "content": {
-    "hero_title": "On intervient vite, là où d'autres abandonnent",
-    "hero_subtitle": "Plomberie et chauffage à Neuville-Saint-Rémy — devis rapide, intervention le jour même, travail soigné.",
+    "hero_title": "Plomberie-chauffage à Neuville-Saint-Rémy",
+    "hero_subtitle": "Intervention le jour même, devis rapide et travail soigné — chauffage et sanitaire dans le Cambrésis.",
     "hero_stats": [
       {
         "value": "3.7/5",
-        "label": "note Google"
-      },
-      {
-        "value": "21",
-        "label": "avis clients vérifiés"
+        "label": "Note Google"
       },
       {
         "value": "J+0",
-        "label": "intervention possible"
+        "label": "Intervention le jour même"
+      },
+      {
+        "value": "21",
+        "label": "Avis clients vérifiés"
       }
     ],
     "reassurance_items": [
       {
-        "title": "Intervention le jour même",
-        "subtitle": "Nous répondons et agissons là où d'autres se taisent"
+        "title": "Réactivité prouvée",
+        "subtitle": "Devis envoyé rapidement, intervention dès le jour de l'appel"
       },
       {
         "title": "Travail propre et soigné",
-        "subtitle": "Chaque chantier est réalisé avec soin et méthode"
+        "subtitle": "Résultat nickel, techniciens qui expliquent chaque étape"
       },
       {
-        "title": "Équipe à l'écoute",
-        "subtitle": "Techniciens pédagogues, accueil téléphonique chaleureux"
+        "title": "Accueil humain et fiable",
+        "subtitle": "Secrétaire réactive, techniciens aimables et pédagogues"
       }
     ],
-    "value_prop": "Chez Services Thermi Sanit, la réactivité n'est pas un argument de vente, c'est une réalité : devis envoyé en quelques jours, dépannage le jour même. Une équipe chauffage et sanitaire qui explique, qui agit et qui va au bout.",
-    "services_intro": "Chauffage et plomberie sanitaire dans le Cambrésis, du dépannage à l'installation.",
-    "about": "Services Thermi Sanit est une entreprise de plomberie et de chauffage basée à Neuville-Saint-Rémy, au service des particuliers et professionnels du Cambrésis. Reconnue pour sa réactivité et la qualité de ses interventions, l'équipe prend en charge aussi bien le dépannage d'urgence que les installations complètes. La relation de confiance avec les clients est au cœur de la démarche, du premier appel à la fin du chantier.",
-    "footer_description": "Services Thermi Sanit — plomberie et chauffage à Neuville-Saint-Rémy. Interventions rapides, travail soigné, équipe à l'écoute dans tout le Cambrésis. Appelez-nous pour un devis gratuit.",
+    "value_prop": "Chez Services Thermi Sanit, on répond vraiment et on intervient vite — là où d'autres ne rappellent jamais. Plomberie sanitaire et chauffage pris en charge de A à Z, avec un devis clair et un résultat soigné à Neuville-Saint-Rémy et dans tout le Cambrésis.",
+    "services_intro": "Chauffage et plomberie sanitaire : une prise en charge complète.",
+    "about": "Services Thermi Sanit est une entreprise de plomberie et chauffage basée à Neuville-Saint-Rémy, au cœur du Cambrésis. Reconnue pour sa réactivité et la qualité de son accueil, elle intervient aussi bien pour des dépannages urgents que pour des travaux d'installation ou de rénovation sanitaire.",
+    "footer_description": "Services Thermi Sanit — Plomberie et chauffage à Neuville-Saint-Rémy. Dépannage, installation de thermostats, robinetterie et entretien chaudières dans le Cambrésis. Intervention rapide, devis gratuit.",
     "services": [
       {
-        "title": "Dépannage chaudière",
-        "desc": "Panne, fuite, pression anormale : nos techniciens interviennent rapidement pour diagnostiquer et résoudre le problème le jour même de votre appel.",
+        "title": "Dépannage chaudières",
+        "desc": "Intervention rapide pour diagnostiquer et résoudre toute panne de chaudière. Votre technicien se déplace le jour même pour rétablir votre chauffage.",
         "icon": "flame",
         "featured": true,
         "tag": "Urgence possible",
@@ -94,72 +94,72 @@
       },
       {
         "title": "Plomberie sanitaire",
-        "desc": "Remplacement de robinetterie, reprise de joints, rénovation de baignoire : un travail réalisé proprement par des techniciens expérimentés et à l'écoute.",
+        "desc": "Remplacement de robinetterie, réfection de joints, rénovation de baignoire et salle de bain. Un travail propre réalisé par des techniciens expérimentés.",
         "icon": "droplets",
         "featured": true,
-        "tag": "Sur devis gratuit",
+        "tag": "Travail soigné",
         "image": "/images/stock/plombier/services/services-4.webp"
       },
       {
         "title": "Thermostat programmable",
-        "desc": "Pose et réglage de thermostats d'ambiance programmables pour optimiser votre confort et réduire votre consommation de chauffage.",
+        "desc": "Installation et réglage de thermostats d'ambiance programmables pour optimiser votre confort et réduire votre consommation.",
         "icon": "zap",
         "featured": false
       },
       {
         "title": "Manomètre de pression",
-        "desc": "Remplacement de manomètre de pression d'eau défaillant, avec vérification du circuit et mise en service.",
+        "desc": "Remplacement de manomètre de pression d'eau défectueux pour garantir le bon fonctionnement de votre installation.",
         "icon": "wrench",
         "featured": false
       },
       {
         "title": "Dépannage plomberie urgence",
-        "desc": "Fuite, coupure d'eau, panne imprévue : intervention rapide pour limiter les dégâts et rétablir le service.",
+        "desc": "Fuite, canalisation bouchée ou panne imprévue : intervention le jour même pour limiter les dégâts.",
         "icon": "search",
         "featured": false
       }
     ],
     "why_us": [
       {
-        "title": "Réactivité immédiate",
-        "desc": "Devis en quelques jours, intervention possible le jour même de l'appel."
+        "title": "Intervention le jour même",
+        "desc": "Votre appel pris en compte immédiatement, technicien sur place le jour même."
       },
       {
-        "title": "Travail nickel garanti",
-        "desc": "Chaque intervention est réalisée soigneusement, sans mauvaise surprise."
+        "title": "Devis rapide et clair",
+        "desc": "Devis envoyé en quelques jours là où d'autres ne donnent jamais suite."
       },
       {
-        "title": "Techniciens pédagogues",
-        "desc": "Nos équipes expliquent clairement les travaux réalisés à chaque client."
+        "title": "Travail propre garanti",
+        "desc": "Résultat soigné, techniciens minutieux et pédagogues à chaque visite."
       },
       {
-        "title": "Double compétence",
-        "desc": "Chauffage et sanitaire pris en charge par une seule et même équipe."
+        "title": "Équipe agréable",
+        "desc": "Secrétaire réactive, techniciens aimables : une expérience client complète."
       }
     ],
     "why_us_badge": {
       "value": "1h",
       "label": "délai d'intervention"
     },
-    "service_area": "Neuville-Saint-Rémy, Cambrai, Raillencourt-Sainte-Olle, Ramillies, Tilloy-lez-Cambrai, Escaudœuvres, Proville, Niergnies, Awoingt",
+    "service_area": "Neuville-Saint-Rémy, Cambrai, Escaudœuvres, Proville, Tilloy-lez-Cambrai, Raillencourt-Sainte-Olle, Ramillies, Niergnies, Iwuy",
     "service_area_cities": [
       "Neuville-Saint-Rémy",
       "Cambrai",
-      "Raillencourt-Sainte-Olle",
-      "Ramillies",
-      "Tilloy-lez-Cambrai",
       "Escaudœuvres",
       "Proville",
+      "Tilloy-lez-Cambrai",
+      "Raillencourt-Sainte-Olle",
+      "Ramillies",
       "Niergnies",
-      "Awoingt"
+      "Iwuy"
     ],
     "service_area_map_cities": [
       "Cambrai",
       "Escaudœuvres",
-      "Tilloy-lez-Cambrai",
       "Proville",
+      "Tilloy-lez-Cambrai",
       "Niergnies",
-      "Awoingt"
+      "Iwuy"
     ],
     "service_area_stats": [
       {
@@ -175,7 +175,7 @@
         "label": "avis clients"
       }
     ],
-    "service_area_note": "Déplacement rapide dans tout le Cambrésis — devis gratuit, sans engagement, pour chaque intervention.",
+    "service_area_note": "Déplacement rapide dans tout le Cambrésis, devis gratuit sans engagement dès votre premier appel.",
     "no_reviews_cta": {
       "eyebrow": "",
       "title": "",
@@ -191,26 +191,26 @@
       "hours": ""
     },
     "seo_title": "Plombier Chauffagiste Neuville-Saint-Rémy | STS",
-    "meta_description": "Services Thermi Sanit : plomberie et chauffage à Neuville-Saint-Rémy. Dépannage rapide, pose de thermostat, sanitaire. Devis gratuit — intervention le jour même."
+    "meta_description": "Services Thermi Sanit : plomberie et chauffage à Neuville-Saint-Rémy. Dépannage le jour même, devis gratuit. Intervention dans tout le Cambrésis. ☎ 03 27 82 95 02"
   },
   "reviews": [
     {
-      "author": "Marie-Claude D.",
+      "author": "Marie-Claire D.",
       "location": "Cambrai",
       "rating": 5,
-      "text": "J'ai demandé à plusieurs personnes un devis pour la pose d'un thermostat d'ambiance programmable ainsi que le changement de manomètre de pression d'eau, 2 sont venus voir mais pas de devis; sur conseil d'un ami j'ai téléphoné à STS en quelques jours j'ai reçu le devis et le travail a été fait. L'employé qui est venu est aimable, explique bien et travaille proprement, je recommande cette entreprise."
+      "text": "J'ai demandé à plusieurs personnes un devis pour la pose d'un thermostat d'ambiance programmable ainsi que le changement de manomètre de pression d'eau, 2 sont venus voir mais pas de devis; sur conseil d'un ami j'ai téléphoné à STS en quelques jours j'ai reçu le devis et le travail a été fait. L'employé qui est venu est aimable, explique bien et travaille proprement, je recommande cette entreprise"
     },
     {
-      "author": "Thierry B.",
+      "author": "Stéphane B.",
       "location": "Escaudœuvres",
       "rating": 5,
-      "text": "Au top du top toujours rapide et travaille bien fait nickel je recommande à 100% n'hésitez pas 👌secrétaire tres gentille récemment ont ma changer tout le robinet ect.. de ma baignoire refait les joints ect... ceci a était fait par Laurent nickel."
+      "text": "Au top du top toujours rapide et travaille bien fait nickel je recommande à 100% n'hésitez pas 👌secrétaire tres gentille récemment ont ma changer tout le robinet ect.. de ma baignoire refait les joints ect... ceci a était fait par Laurent nickel"
     },
     {
-      "author": "Sandrine V.",
+      "author": "Françoise M.",
       "location": "Proville",
       "rating": 5,
-      "text": "Personnel très agréable réactif le dépanneur est venu le jour même de l appel a trouvé la panne qui est résolue je recommande."
+      "text": "Personnel très agréable réactif le dépanneur est venu le jour même de l appel a trouvé la panne qui est résolue je recommande"
     }
   ]
 }
