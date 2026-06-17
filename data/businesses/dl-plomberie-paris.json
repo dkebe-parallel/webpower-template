@@ -1,0 +1,210 @@
+{
+  "business": {
+    "name": "DL PLOMBERIE PARIS",
+    "slug": "dl-plomberie-paris",
+    "city": "Paris",
+    "country": "France",
+    "phone": "+33 7 69 01 45 46",
+    "address": "38 Rue Saint-Sébastien, 75011 Paris",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=DL%20PLOMBERIE%20PARIS&query_place_id=ChIJO_oGiA1t5kcRRxIfj08XUBI",
+    "rating": 5,
+    "reviews_count": 45
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-2.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-6.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "6j/7 · 9h–20h"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Votre plombier de confiance à Paris",
+    "hero_subtitle": "Réactif, soigné et disponible 6j/7 — 5/5 sur Google pour 45 clients satisfaits.",
+    "hero_stats": [
+      {
+        "value": "5/5",
+        "label": "Note Google"
+      },
+      {
+        "value": "45",
+        "label": "Avis clients"
+      },
+      {
+        "value": "6j/7",
+        "label": "Disponibilité"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Réactivité garantie",
+        "subtitle": "Interventions rapides, même sur des tâches délicates"
+      },
+      {
+        "title": "Travail habile et soigné",
+        "subtitle": "Résultats jugés très satisfaisants par les clients"
+      },
+      {
+        "title": "Artisan sympathique",
+        "subtitle": "Un contact chaleureux et un relationnel de qualité"
+      }
+    ],
+    "value_prop": "DL Plomberie Paris intervient au cœur du 11e arrondissement avec réactivité et soin. Plomberie générale, rénovation de salle de bain, petits travaux : chaque intervention est réalisée avec habileté, et 45 clients lui attribuent un sans-faute de 5/5.",
+    "services_intro": "Plomberie, salle de bain, dépannage et petits travaux à Paris.",
+    "about": "DL Plomberie Paris est un artisan de proximité basé au 38 Rue Saint-Sébastien dans le 11e arrondissement. Reconnu pour son efficacité, sa disponibilité et la qualité de ses finitions, il intervient sur tous types de travaux de plomberie avec soin et bienveillance.",
+    "footer_description": "DL Plomberie Paris — artisan plombier du 11e, disponible 6j/7 de 9h à 20h. Plomberie, salle de bain, dépannage et petits travaux. Note parfaite 5/5 sur 45 avis Google.",
+    "services": [
+      {
+        "title": "Plomberie générale",
+        "desc": "Installation, remplacement et réparation de tous vos équipements de plomberie. Interventions soignées et durables pour votre logement parisien.",
+        "icon": "droplets",
+        "featured": true,
+        "tag": "Expertise",
+        "image": "/images/stock/plombier/services/services-3.webp"
+      },
+      {
+        "title": "Salle de bain",
+        "desc": "Aménagement, rénovation et mise aux normes de votre salle de bain. Un travail précis et habile pour un résultat qui vous satisfera pleinement.",
+        "icon": "wrench",
+        "featured": true,
+        "tag": "Rénovation",
+        "image": "/images/stock/plombier/services/services-4.webp"
+      },
+      {
+        "title": "Dépannage plomberie",
+        "desc": "Intervention rapide pour fuites, canalisations bouchées ou pannes urgentes. Disponible 6 jours sur 7 jusqu'à 20h.",
+        "icon": "zap",
+        "featured": false
+      },
+      {
+        "title": "Petits travaux & bricolage",
+        "desc": "Accrochage, pose d'équipements, fixations délicates : chaque petit chantier est traité avec autant de soin que les grands.",
+        "icon": "search",
+        "featured": false
+      },
+      {
+        "title": "Pose d'équipements",
+        "desc": "Installation de suspensions, luminaires, accessoires sanitaires et autres éléments avec précision et méthode.",
+        "icon": "flame",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Efficace et disponible",
+        "desc": "Réactivité saluée par les clients, même en semaine et le samedi"
+      },
+      {
+        "title": "Travail très soigné",
+        "desc": "Finitions précises et résultat jugé « habile et judicieux »"
+      },
+      {
+        "title": "Excellent contact",
+        "desc": "Artisan sympathique, facile à joindre et agréable au quotidien"
+      },
+      {
+        "title": "Note parfaite 5/5",
+        "desc": "45 avis clients sans la moindre insatisfaction recensée"
+      }
+    ],
+    "why_us_badge": {
+      "value": "1h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Paris 11e, Paris 3e, Paris 4e, Paris 10e, Paris 12e, Paris 20e, Paris 5e, Montreuil, Bagnolet",
+    "service_area_cities": [
+      "Paris 11e",
+      "Paris 3e (Le Marais)",
+      "Paris 4e (Bastille)",
+      "Paris 10e (République)",
+      "Paris 12e (Nation)",
+      "Paris 20e (Ménilmontant)",
+      "Paris 5e (Quartier Latin)",
+      "Montreuil",
+      "Bagnolet"
+    ],
+    "service_area_map_cities": [
+      "Paris 3e",
+      "Paris 4e",
+      "Paris 10e",
+      "Paris 12e",
+      "Montreuil",
+      "Bagnolet"
+    ],
+    "service_area_stats": [
+      {
+        "value": "9",
+        "label": "Communes desservies"
+      },
+      {
+        "value": "5/5",
+        "label": "Note Google"
+      },
+      {
+        "value": "45",
+        "label": "Avis vérifiés"
+      }
+    ],
+    "service_area_note": "Déplacement rapide dans le 11e et arrondissements voisins — devis gratuit sans engagement.",
+    "no_reviews_cta": {
+      "eyebrow": "",
+      "title": "",
+      "subtitle": "",
+      "button_text": ""
+    },
+    "reviews_note": "5 / 5 sur Google Maps · 45 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 7 69 01 45 46",
+      "email": "",
+      "hours": "Lun–Sam 9h–20h"
+    },
+    "seo_title": "Plombier Paris 11e — DL Plomberie Paris",
+    "meta_description": "DL Plomberie Paris, votre plombier de confiance dans le 11e. Plomberie, salle de bain, dépannage. Disponible 6j/7 · Note 5/5 sur 45 avis Google."
+  },
+  "reviews": [
+    {
+      "author": "Marc T.",
+      "location": "Paris 11e",
+      "rating": 5,
+      "text": "Efficace disponible et sympathique"
+    },
+    {
+      "author": "Sophie L.",
+      "location": "Paris 4e",
+      "rating": 5,
+      "text": "Nous avons fait appel à DL pour l'accrochage d'une suspension. Le travail, délicat à réaliser, a été fait avec habilité et de manière judicieuse. Nous sommes très satisfaits du résultat."
+    }
+  ]
+}
