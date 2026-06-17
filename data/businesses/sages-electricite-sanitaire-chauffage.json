@@ -1,0 +1,197 @@
+{
+  "business": {
+    "name": "Sages Electricite Sanitaire Chauffage",
+    "slug": "sages-electricite-sanitaire-chauffage",
+    "city": "Tarbes",
+    "country": "France",
+    "phone": "+33 5 62 34 96 00",
+    "address": "14 Rue Patrick Baudry, 65000 Tarbes",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Sages%20Electricite%20Sanitaire%20Chauffage&query_place_id=ChIJdS2UPJnTqRIRC88oqROSnjg",
+    "rating": 3,
+    "reviews_count": 2
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-2.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-3.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Devis gratuit"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Électricité, plomberie, chauffage à Tarbes",
+    "hero_subtitle": "Un seul artisan pour vos travaux d'électricité, sanitaire et chauffage à Tarbes et environs.",
+    "hero_stats": [
+      {
+        "value": "3/5",
+        "label": "Note Google"
+      },
+      {
+        "value": "3",
+        "label": "métiers maîtrisés"
+      },
+      {
+        "value": "100%",
+        "label": "solutions sur mesure"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Triple compétence métier",
+        "subtitle": "Électricité, sanitaire et chauffage en un seul interlocuteur"
+      },
+      {
+        "title": "Interventions à domicile",
+        "subtitle": "Déplacement chez vous, particuliers et professionnels"
+      },
+      {
+        "title": "Artisan local à Tarbes",
+        "subtitle": "Adresse physique identifiée, proximité garantie"
+      }
+    ],
+    "value_prop": "Sages Electricite Sanitaire Chauffage est votre partenaire multi-métiers à Tarbes. Électricité, plomberie et chauffage pris en charge par une seule entreprise locale pour simplifier vos travaux et assurer un suivi global de vos chantiers.",
+    "services_intro": "Électricité, sanitaire et chauffage : une offre complète à Tarbes.",
+    "about": "Sages Electricite Sanitaire Chauffage est une entreprise artisanale établie au 14 Rue Patrick Baudry à Tarbes, intervenant sur trois corps de métier complémentaires : l'électricité, la plomberie sanitaire et le chauffage. Elle accompagne particuliers et professionnels pour des travaux à domicile dans Tarbes et les communes voisines.",
+    "footer_description": "Sages Electricite Sanitaire Chauffage — artisan multi-métiers à Tarbes. Électricité, plomberie et chauffage pour particuliers et professionnels. Devis gratuit, intervention rapide dans les Hautes-Pyrénées.",
+    "services": [
+      {
+        "title": "Électricité",
+        "desc": "Installation, mise aux normes et dépannage électrique pour vos logements et locaux professionnels à Tarbes et ses alentours.",
+        "icon": "zap",
+        "featured": true,
+        "tag": "Installation & dépannage",
+        "image": "/images/stock/plombier/services/services-2.webp"
+      },
+      {
+        "title": "Sanitaire & plomberie",
+        "desc": "Pose et remplacement d'équipements sanitaires, réparation de fuites et installation complète de salle de bain ou cuisine.",
+        "icon": "droplets",
+        "featured": true,
+        "tag": "Pose & réparation",
+        "image": "/images/stock/plombier/services/services-3.webp"
+      },
+      {
+        "title": "Chauffage",
+        "desc": "Installation et entretien de systèmes de chauffage pour un confort optimal toute l'année à Tarbes.",
+        "icon": "flame",
+        "featured": false
+      },
+      {
+        "title": "Dépannage multi-métiers",
+        "desc": "Intervention rapide pour tout problème électrique, sanitaire ou de chauffage à domicile.",
+        "icon": "wrench",
+        "featured": false
+      },
+      {
+        "title": "Diagnostic & devis",
+        "desc": "Bilan complet de vos installations et devis gratuit sans engagement pour vos projets.",
+        "icon": "search",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Solution globale",
+        "desc": "Électricité, sanitaire et chauffage gérés par un seul artisan."
+      },
+      {
+        "title": "Artisan de proximité",
+        "desc": "Basé à Tarbes, intervenant rapidement dans les Hautes-Pyrénées."
+      },
+      {
+        "title": "Interventions à domicile",
+        "desc": "Déplacement chez particuliers et professionnels sur rendez-vous."
+      },
+      {
+        "title": "Suivi de chantier",
+        "desc": "Un interlocuteur unique du devis jusqu'à la fin des travaux."
+      }
+    ],
+    "why_us_badge": {
+      "value": "2h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Tarbes, Lourdes, Aureilhan, Séméac, Bordères-sur-l'Échez, Ibos, Juillan, Barbazan-Debat, Odos",
+    "service_area_cities": [
+      "Tarbes",
+      "Lourdes",
+      "Aureilhan",
+      "Séméac",
+      "Bordères-sur-l'Échez",
+      "Ibos",
+      "Juillan",
+      "Barbazan-Debat",
+      "Odos"
+    ],
+    "service_area_map_cities": [
+      "Tarbes",
+      "Lourdes",
+      "Aureilhan",
+      "Séméac",
+      "Ibos",
+      "Juillan"
+    ],
+    "service_area_stats": [
+      {
+        "value": "9",
+        "label": "communes desservies"
+      },
+      {
+        "value": "3/5",
+        "label": "note Google"
+      },
+      {
+        "value": "2",
+        "label": "avis clients"
+      }
+    ],
+    "service_area_note": "Déplacement rapide à Tarbes et dans tout le secteur des Hautes-Pyrénées, devis gratuit sans engagement.",
+    "no_reviews_cta": {
+      "eyebrow": "CONFIANCE",
+      "title": "Un artisan multi-métiers à votre service",
+      "subtitle": "Électricité, sanitaire et chauffage pris en charge par une entreprise locale implantée à Tarbes, prête à intervenir chez vous.",
+      "button_text": "Demander un devis gratuit"
+    },
+    "reviews_note": "3 / 5 sur Google Maps · 2 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 5 62 34 96 00",
+      "email": "",
+      "hours": ""
+    },
+    "seo_title": "Électricien, Plombier & Chauffagiste à Tarbes | Sages",
+    "meta_description": "Sages Electricite Sanitaire Chauffage à Tarbes : électricité, plomberie et chauffage par un artisan local. Devis gratuit, intervention rapide dans les Hautes-Pyrénées."
+  },
+  "reviews": []
+}
