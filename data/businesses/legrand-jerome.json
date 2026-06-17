@@ -17,7 +17,7 @@
   },
   "badges": {
     "certifications": [],
-    "highlight": "Devis gratuit"
+    "highlight": "Prix juste garanti"
   },
   "theme": {
     "palette": {
@@ -49,8 +49,8 @@
     "enabled_blocks": []
   },
   "content": {
-    "hero_title": "Plombier rénovation à Amfreville",
-    "hero_subtitle": "Spécialiste salle de bain, installations anciennes — ponctuel, soigné et au juste prix.",
+    "hero_title": "Plombier fiable à Amfreville",
+    "hero_subtitle": "Rénovation salle de bain, ponctualité garantie et prix honnête dans le Calvados.",
     "hero_stats": [
       {
         "value": "5/5",
@@ -58,107 +58,107 @@
       },
       {
         "value": "9",
-        "label": "avis clients"
+        "label": "Avis clients vérifiés"
       },
       {
         "value": "100%",
-        "label": "clients satisfaits"
+        "label": "Clients satisfaits"
       }
     ],
     "reassurance_items": [
       {
-        "title": "Ponctualité exemplaire",
-        "subtitle": "Intervention à l'heure prévue, même en conditions difficiles"
+        "title": "Ponctualité irréprochable",
+        "subtitle": "Intervient à l'heure, même en conditions difficiles"
       },
       {
-        "title": "Expertise installations anciennes",
-        "subtitle": "Adaptation sur mesure aux plomberies des années 60 et plus"
+        "title": "Expertise sur installations anciennes",
+        "subtitle": "Adapte le matériel moderne aux logements d'époque"
       },
       {
-        "title": "Prix juste et transparent",
-        "subtitle": "Tarifs corrects salués par l'ensemble des clients"
+        "title": "Rapport qualité-prix reconnu",
+        "subtitle": "Un tarif juste salué par tous les clients"
       }
     ],
-    "value_prop": "Jérôme Legrand est plombier artisan à Amfreville, spécialisé dans la rénovation de salles de bain et l'adaptation d'installations anciennes. Reconnu pour sa ponctualité, son savoir-faire technique et son excellent rapport qualité-prix, il réalise des transformations parfaites avec le sourire.",
-    "services_intro": "Rénovation, remplacement et conseil en plomberie pour particuliers.",
-    "about": "Jérôme Legrand est un plombier artisan basé à Amfreville, fort d'une grande expérience dans la rénovation de salles de bain et l'adaptation de plomberie ancienne. Il intervient avec rigueur et convivialité, en respectant les délais et les souhaits de chaque client pour un résultat toujours à la hauteur.",
-    "footer_description": "Legrand Jérôme — Plombier artisan à Amfreville. Rénovation salle de bain, remplacement de sanitaires et plomberie générale. Note Google 5/5. Intervention dans tout le secteur de Caen et alentours.",
+    "value_prop": "Jérôme Legrand, plombier expérimenté du Calvados, transforme vos salles de bain vétustes en espaces modernes et optimisés. Ponctuel, rigoureux et de bon conseil, il adapte chaque intervention à vos contraintes — avec un résultat qualifié de parfait par ses clients.",
+    "services_intro": "Du remplacement de sanitaires à la rénovation complète de salle de bain.",
+    "about": "Jérôme Legrand est plombier artisan basé à Amfreville, dans le Calvados. Fort d'une grande expérience, il intervient aussi bien sur des installations récentes que sur des logements anciens, avec le souci constant de respecter les délais et les souhaits de ses clients. Sa note parfaite de 5/5 sur Google reflète un engagement constant pour la qualité et la satisfaction.",
+    "footer_description": "Legrand Jérôme — Plombier artisan à Amfreville (14860). Rénovation de salle de bain, remplacement de sanitaires et conseil personnalisé dans le Calvados. Note Google 5/5.",
     "services": [
       {
         "title": "Rénovation de salle de bain",
-        "desc": "Transformation complète de votre salle de bain : optimisation de l'espace, choix des équipements et finitions soignées pour un rendu superbe.",
-        "icon": "droplets",
+        "desc": "Transformation complète de votre salle de bain, de la conception à la finition, avec optimisation de l'espace et respect de vos souhaits.",
+        "icon": "wrench",
         "featured": true,
         "tag": "Spécialité",
         "image": "/images/stock/plombier/services/services-3.webp"
       },
       {
         "title": "Remplacement de sanitaires",
-        "desc": "Changement et adaptation de lavabos, baignoires et équipements vétustes, même sur des installations datant des années 1960.",
-        "icon": "wrench",
+        "desc": "Changement et adaptation de lavabos, baignoires et équipements anciens — même sur des installations datant des années 1960.",
+        "icon": "droplets",
         "featured": true,
-        "tag": "Expertise ancienne",
+        "tag": "Savoir-faire",
         "image": "/images/stock/plombier/services/services-4.webp"
       },
       {
         "title": "Plomberie générale",
-        "desc": "Dépannage et mise aux normes de votre installation pour un fonctionnement fiable au quotidien.",
-        "icon": "zap",
-        "featured": false
-      },
-      {
-        "title": "Optimisation sanitaire",
-        "desc": "Réaménagement intelligent de vos espaces sanitaires pour maximiser confort et praticité.",
+        "desc": "Interventions courantes de plomberie : robinetterie, tuyauterie, détection et réparation de fuites.",
         "icon": "search",
         "featured": false
       },
       {
-        "title": "Conseil en aménagement",
-        "desc": "Accompagnement personnalisé pour choisir les meilleures solutions adaptées à vos besoins.",
-        "icon": "wind",
+        "title": "Conseil et optimisation",
+        "desc": "Accompagnement personnalisé pour optimiser votre espace sanitaire et choisir les équipements adaptés.",
+        "icon": "zap",
+        "featured": false
+      },
+      {
+        "title": "Adaptation installations anciennes",
+        "desc": "Mise aux normes et modernisation de plomberies vétustes avec du matériel actuel compatible.",
+        "icon": "flame",
         "featured": false
       }
     ],
     "why_us": [
       {
         "title": "Expérience technique",
-        "desc": "Adaptation maîtrisée aux installations les plus anciennes et complexes."
+        "desc": "Savoir-faire reconnu sur tout type d'installation, ancienne ou récente."
       },
       {
-        "title": "Toujours à l'heure",
-        "desc": "Ponctualité confirmée par tous les clients, quelles que soient les conditions."
+        "title": "Respect des délais",
+        "desc": "Ponctuel et fiable, même quand l'accès est compliqué."
       },
       {
-        "title": "Résultats parfaits",
-        "desc": "Finitions soignées et rénovations qualifiées de parfaites et superbes."
+        "title": "Prix juste et transparent",
+        "desc": "Tarif correct reconnu par l'ensemble des clients."
       },
       {
-        "title": "Tarifs honnêtes",
-        "desc": "Prix corrects et transparents, sans mauvaise surprise en fin de chantier."
+        "title": "Résultat impeccable",
+        "desc": "Finitions soignées et espace optimisé à chaque chantier."
       }
     ],
     "why_us_badge": {
       "value": "2h",
       "label": "délai d'intervention"
     },
-    "service_area": "Amfreville, Ranville, Hérouvillette, Bénouville, Ouistreham, Merville-Franceville-Plage, Sallenelles, Colombelles, Caen",
+    "service_area": "Amfreville, Ranville, Hérouvillette, Bénouville, Merville-Franceville-Plage, Ouistreham, Colombelles, Caen, Cabourg",
     "service_area_cities": [
       "Amfreville",
       "Ranville",
       "Hérouvillette",
       "Bénouville",
-      "Ouistreham",
       "Merville-Franceville-Plage",
-      "Sallenelles",
+      "Ouistreham",
       "Colombelles",
-      "Caen"
+      "Caen",
+      "Cabourg"
     ],
     "service_area_map_cities": [
       "Caen",
       "Ouistreham",
-      "Bénouville",
+      "Cabourg",
       "Colombelles",
-      "Ranville",
+      "Bénouville",
       "Merville-Franceville-Plage"
     ],
     "service_area_stats": [
@@ -168,14 +168,14 @@
       },
       {
         "value": "5/5",
-        "label": "note Google"
+        "label": "Note Google"
       },
       {
         "value": "9",
-        "label": "avis clients vérifiés"
+        "label": "Avis vérifiés"
       }
     ],
-    "service_area_note": "Déplacement rapide à Amfreville et dans tout le secteur de Caen, devis gratuit sans engagement.",
+    "service_area_note": "Déplacement rapide sur Amfreville et tout le secteur du Calvados, devis gratuit sans engagement.",
     "no_reviews_cta": {
       "eyebrow": "",
       "title": "",
@@ -190,8 +190,8 @@
       "email": "",
       "hours": "Lun–Mar 8h–18h · Mer 8h–12h / 13h30–18h · Jeu 8h–18h · Ven 8h–17h30"
     },
-    "seo_title": "Plombier Amfreville — Legrand Jérôme, rénovation salle de bain",
-    "meta_description": "Plombier artisan à Amfreville (14860). Rénovation salle de bain, remplacement sanitaires, installations anciennes. Note 5/5. Devis gratuit."
+    "seo_title": "Plombier Amfreville – Legrand Jérôme, Rénovation Salle de Bain",
+    "meta_description": "Plombier à Amfreville (14860) — Legrand Jérôme, spécialiste rénovation salle de bain dans le Calvados. Note Google 5/5. Ponctuel, prix juste. Devis gratuit."
   },
   "reviews": [
     {
@@ -201,16 +201,16 @@
       "text": "Excellent travail. Il s'agissait de changer un lavabo de salle de bains qui datait de la construction de la maison, 1963, donc vétuste ce qui exigeait d'adapter le matériel. Mr Legrand a une grande expérience, le résultat est une rénovation parfaite. En plus des travaux de voirie importants devant la maison rendaient l'accès difficile. Mr Legrand est tout de même intervenu à l'heure prévue. Le tout a été effectué dans une sympathique ambiance pour un prix tout à fait correct. Je n'hésiterai pas à faire à nouveau appel à lui."
     },
     {
-      "author": "Sophie D.",
-      "location": "Bénouville",
+      "author": "Sophie M.",
+      "location": "Hérouvillette",
       "rating": 5,
       "text": "Mr Legrand est un excellent professionnel et de bon conseil. Il a effectué la rénovation de notre salle de bain dans le respect des délais et de nos souhaits. L'espace a été optimisé au maximum et le rendu est superbe. Bravo!"
     },
     {
-      "author": "Nathalie M.",
-      "location": "Hérouvillette",
+      "author": "Isabelle C.",
+      "location": "Bénouville",
       "rating": 5,
-      "text": "Très satisfaite du travail de M.Legrand. Ponctuel , efficace et très bon travail. Je le conseil vivement et n'hésiterai pas à refaire appel à ses services."
+      "text": "Très satisfaite du travail de M.Legrand. Ponctuel, efficace et très bon travail. Je le conseil vivement et n'hésiterai pas à refaire appel à ses services."
     }
   ]
 }
