@@ -1,0 +1,204 @@
+{
+  "business": {
+    "name": "Ets Jacquier",
+    "slug": "ets-jacquier",
+    "city": "Paris",
+    "country": "France",
+    "phone": "+33 1 46 06 02 94",
+    "address": "69B Rue Damrémont, 75018 Paris",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Ets%20Jacquier&query_place_id=ChIJ3zjFRFdu5kcR3Oy8D-DmPX4",
+    "rating": 3.8,
+    "reviews_count": 62
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-3.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-1.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Horaires étendus"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Votre plombier du 18ème à Paris",
+    "hero_subtitle": "Dépannage, rénovation salle de bain et plomberie générale — ouvert jusqu'à 20h, 6j/7.",
+    "hero_stats": [
+      {
+        "value": "3.8/5",
+        "label": "note Google"
+      },
+      {
+        "value": "6j/7",
+        "label": "jours d'intervention"
+      },
+      {
+        "value": "20h",
+        "label": "heure de fermeture"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Disponible jusqu'à 20h",
+        "subtitle": "Interventions en soirée pour s'adapter à vos horaires"
+      },
+      {
+        "title": "Artisan de quartier",
+        "subtitle": "Implanté rue Damrémont au cœur du 18ème arrondissement"
+      },
+      {
+        "title": "Services variés",
+        "subtitle": "Du dépannage fuite à la rénovation complète de salle de bain"
+      }
+    ],
+    "value_prop": "Ets Jacquier, plombier de proximité dans le 18ème arrondissement de Paris, intervient sur tous vos besoins en plomberie : dépannage urgent, installation, raccordement et rénovation de salle de bain. Ouvert 6 jours sur 7 jusqu'à 20h.",
+    "services_intro": "Plomberie, dépannage et rénovation dans le 18ème arrondissement.",
+    "about": "Ets Jacquier est un plombier de proximité installé au 69B Rue Damrémont dans le 18ème arrondissement de Paris. L'entreprise intervient aussi bien pour des dépannages urgents (fuites, chauffe-eau) que pour des travaux de rénovation de salle de bain. Ses horaires étendus jusqu'à 20h, 6 jours sur 7, permettent de s'adapter aux contraintes des particuliers du quartier.",
+    "footer_description": "Ets Jacquier — Plombier au 69B Rue Damrémont, 75018 Paris. Dépannage, installation et rénovation salle de bain dans le 18ème et ses environs. Ouvert du lundi au samedi jusqu'à 20h.",
+    "services": [
+      {
+        "title": "Rénovation de salle de bain",
+        "desc": "Conception et réalisation complète de votre salle de bain : remplacement des équipements, carrelage, plomberie encastrée et finitions soignées.",
+        "icon": "wrench",
+        "featured": true,
+        "tag": "Travaux complets",
+        "image": "/images/stock/plombier/services/services-8.webp"
+      },
+      {
+        "title": "Dépannage fuite & urgence",
+        "desc": "Intervention rapide pour tout type de fuite ou dépannage plomberie. Disponible jusqu'à 20h pour limiter les dégâts des eaux.",
+        "icon": "droplets",
+        "featured": true,
+        "tag": "Intervention rapide",
+        "image": "/images/stock/plombier/services/services-1.webp"
+      },
+      {
+        "title": "Chauffe-eau & ballon",
+        "desc": "Installation, remplacement et dépannage de chauffe-eau électriques ou gaz dans le 18ème et environs.",
+        "icon": "flame",
+        "featured": false
+      },
+      {
+        "title": "Raccordement machine à laver",
+        "desc": "Installation et raccordement plomberie pour machine à laver, lave-vaisselle et électroménager.",
+        "icon": "zap",
+        "featured": false
+      },
+      {
+        "title": "Plomberie générale",
+        "desc": "Remplacement de robinetterie, réparation canalisation et travaux de plomberie courants pour particuliers.",
+        "icon": "search",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Ouvert jusqu'à 20h",
+        "desc": "Des horaires étendus 6j/7 pour intervenir même en soirée."
+      },
+      {
+        "title": "Artisan de quartier",
+        "desc": "Ancré rue Damrémont, au cœur du 18ème depuis des années."
+      },
+      {
+        "title": "Services complets",
+        "desc": "Du petit dépannage à la rénovation totale de salle de bain."
+      },
+      {
+        "title": "62 avis clients",
+        "desc": "Une activité soutenue et une présence locale reconnue."
+      }
+    ],
+    "why_us_badge": {
+      "value": "2h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Paris 18ème, Saint-Ouen-sur-Seine, Clichy, Saint-Denis, Montmartre, Aubervilliers, Levallois-Perret, Épinay-sur-Seine, L'Île-Saint-Denis",
+    "service_area_cities": [
+      "Paris 18ème",
+      "Saint-Ouen-sur-Seine",
+      "Clichy",
+      "Saint-Denis",
+      "Aubervilliers",
+      "Levallois-Perret",
+      "Épinay-sur-Seine",
+      "L'Île-Saint-Denis",
+      "Montmartre"
+    ],
+    "service_area_map_cities": [
+      "Saint-Ouen-sur-Seine",
+      "Clichy",
+      "Saint-Denis",
+      "Aubervilliers",
+      "Levallois-Perret",
+      "Épinay-sur-Seine"
+    ],
+    "service_area_stats": [
+      {
+        "value": "9",
+        "label": "communes couvertes"
+      },
+      {
+        "value": "3.8/5",
+        "label": "note Google"
+      },
+      {
+        "value": "62",
+        "label": "avis clients"
+      }
+    ],
+    "service_area_note": "Déplacement dans le 18ème et les communes voisines, avec des horaires étendus jusqu'à 20h pour intervenir au plus vite.",
+    "no_reviews_cta": {
+      "eyebrow": "",
+      "title": "",
+      "subtitle": "",
+      "button_text": ""
+    },
+    "reviews_note": "3.8 / 5 sur Google Maps · 62 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 1 46 06 02 94",
+      "email": "",
+      "hours": "Lun–Sam 8h30–20h"
+    },
+    "seo_title": "Plombier Paris 18ème — Ets Jacquier",
+    "meta_description": "Ets Jacquier, plombier au 69B Rue Damrémont Paris 18ème. Dépannage, rénovation salle de bain, chauffe-eau. Ouvert jusqu'à 20h, 6j/7. Appelez au 01 46 06 02 94."
+  },
+  "reviews": [
+    {
+      "author": "Sophie M.",
+      "location": "Paris 18ème",
+      "rating": 5,
+      "text": "Rénovation de salle de bain"
+    }
+  ]
+}
