@@ -17,7 +17,7 @@
   },
   "badges": {
     "certifications": [],
-    "highlight": "Artisan local"
+    "highlight": "Double expertise"
   },
   "theme": {
     "palette": {
@@ -49,8 +49,8 @@
     "enabled_blocks": []
   },
   "content": {
-    "hero_title": "Plomberie & clim en Guadeloupe",
-    "hero_subtitle": "Interventions rapides et professionnelles à Baillif — climatisation, plomberie, dépannage.",
+    "hero_title": "Plombier & climatisation à Baillif",
+    "hero_subtitle": "Intervention rapide en Guadeloupe · Techniciens qualifiés · Note 4.7/5 sur 43 avis",
     "hero_stats": [
       {
         "value": "4.7/5",
@@ -61,110 +61,110 @@
         "label": "Avis clients"
       },
       {
-        "value": "2",
-        "label": "Métiers maîtrisés"
+        "value": "2h",
+        "label": "Délai d'intervention"
       }
     ],
     "reassurance_items": [
       {
-        "title": "Rapidité d'intervention",
-        "subtitle": "Techniciens réactifs, résultats rapides et efficaces"
+        "title": "Rapidité d'exécution",
+        "subtitle": "Intervention efficace dès le premier passage"
       },
       {
-        "title": "Double expertise reconnue",
-        "subtitle": "Plomberie et climatisation, deux spécialités en une"
+        "title": "Double compétence",
+        "subtitle": "Plomberie et climatisation en un seul prestataire"
       },
       {
-        "title": "Structure professionnelle établie",
-        "subtitle": "Implantée en zone d'activité à Baillif, Guadeloupe"
+        "title": "Structure professionnelle",
+        "subtitle": "Basé en zone d'activité, organisé et fiable"
       }
     ],
-    "value_prop": "RTN Plomberie et Climatisation intervient à Baillif et dans tout le sud de la Guadeloupe. Reconnu pour sa réactivité et son sérieux, l'entreprise répond aux exigences du climat tropical avec des techniciens qualifiés en plomberie et climatisation.",
-    "services_intro": "Plomberie, climatisation et dépannage en Guadeloupe.",
-    "about": "RTN Plomberie et Climatisation est une entreprise spécialisée en plomberie générale et climatisation, implantée à Baillif en Guadeloupe. L'équipe intervient rapidement pour des installations, entretiens et dépannages, répondant aux besoins spécifiques du climat tropical guadeloupéen. Avec une note de 4,7/5 sur 43 avis, le sérieux et le professionnalisme de l'entreprise sont reconnus par ses clients.",
-    "footer_description": "RTN Plomberie et Climatisation — Expert en plomberie et climatisation à Baillif, Guadeloupe. Interventions rapides, techniciens qualifiés, au service des particuliers et professionnels du sud de la Guadeloupe.",
+    "value_prop": "RTN Plomberie et Climatisation intervient rapidement en Guadeloupe côté Basse-Terre, avec une double compétence plomberie et climatisation rare dans le secteur. Techniciens efficaces, 4.7/5 sur 43 avis clients.",
+    "services_intro": "Plomberie et climatisation pour particuliers et professionnels en Guadeloupe.",
+    "about": "RTN Plomberie et Climatisation est une entreprise spécialisée dans la plomberie générale et la climatisation, implantée à Baillif au sein de la zone d'activité Les Pères Blancs. Elle intervient rapidement auprès des particuliers et professionnels en Guadeloupe côté Basse-Terre. Reconnue pour le professionnalisme de ses techniciens, l'entreprise affiche une note de 4.7/5 sur 43 avis Google.",
+    "footer_description": "RTN Plomberie et Climatisation — Spécialiste plomberie et climatisation à Baillif, Guadeloupe. Intervention rapide sur Basse-Terre et communes voisines. ZA Les Pères Blancs, 97123 Baillif.",
     "services": [
       {
-        "title": "Installation climatisation",
-        "desc": "Pose et mise en service de climatiseurs adaptés au climat tropical guadeloupéen, pour particuliers et professionnels.",
+        "title": "Installation de climatisation",
+        "desc": "Pose et mise en service de climatiseurs pour particuliers et professionnels en Guadeloupe. Travail soigné et rapide pour votre confort thermique.",
         "icon": "wind",
         "featured": true,
-        "tag": "Service phare",
+        "tag": "Confort thermique",
         "image": "/images/stock/plombier/services/services-3.webp"
       },
       {
         "title": "Plomberie générale",
-        "desc": "Installation, réparation et rénovation de tous vos équipements sanitaires et canalisations à Baillif et alentours.",
+        "desc": "Installations sanitaires, canalisations, robinetterie et réseaux d'eau. Interventions rigoureuses pour vos besoins en plomberie à Baillif et alentours.",
         "icon": "droplets",
         "featured": true,
-        "tag": "Tous travaux",
+        "tag": "Habitat & pro",
         "image": "/images/stock/plombier/services/services-4.webp"
       },
       {
-        "title": "Dépannage climatiseurs",
-        "desc": "Diagnostic et réparation rapide de vos climatiseurs en panne, pour retrouver votre confort au plus vite.",
+        "title": "Dépannage climatisation",
+        "desc": "Diagnostic et réparation de climatiseurs en panne. Intervention rapide pour rétablir votre confort sans délai.",
         "icon": "wrench",
         "featured": false
       },
       {
-        "title": "Maintenance climatisation",
-        "desc": "Entretien régulier de vos équipements pour garantir performance et longévité en milieu tropical.",
+        "title": "Entretien climatisation",
+        "desc": "Nettoyage, vérification et maintenance préventive de vos équipements climatiques pour une durée de vie prolongée.",
         "icon": "search",
         "featured": false
       },
       {
-        "title": "Dépannage plomberie",
-        "desc": "Intervention rapide pour fuites, canalisations bouchées et pannes sanitaires urgentes.",
+        "title": "Interventions techniques",
+        "desc": "Diagnostics et travaux techniques sur site pour tout problème plomberie ou climatisation détecté chez vous.",
         "icon": "zap",
         "featured": false
       }
     ],
     "why_us": [
       {
-        "title": "Réactivité prouvée",
-        "desc": "Interventions rapides saluées par les clients : « Rapide et efficace »"
+        "title": "Rapidité d'intervention",
+        "desc": "Des techniciens qui se déplacent vite et résolvent efficacement."
       },
       {
         "title": "Professionnalisme reconnu",
-        "desc": "Le sérieux des techniciens mis en avant dans les avis clients"
+        "desc": "4.7/5 sur Google, cité spontanément par nos clients."
       },
       {
-        "title": "Double compétence",
-        "desc": "Plomberie et climatisation : un seul interlocuteur pour tout"
+        "title": "Double expertise",
+        "desc": "Plomberie et climatisation : un seul interlocuteur fiable."
       },
       {
         "title": "Ancrage local fort",
-        "desc": "Basé en ZA à Baillif, au cœur de la Guadeloupe"
+        "desc": "Basé à Baillif, nous connaissons le terrain en Basse-Terre."
       }
     ],
     "why_us_badge": {
       "value": "2h",
       "label": "délai d'intervention"
     },
-    "service_area": "Baillif, Basse-Terre, Saint-Claude, Vieux-Habitants, Bouillante, Gourbeyre, Trois-Rivières, Vieux-Fort, Petit-Bourg",
+    "service_area": "Baillif, Basse-Terre, Saint-Claude, Gourbeyre, Trois-Rivières, Vieux-Habitants, Bouillante, Vieux-Fort, Petit-Bourg",
     "service_area_cities": [
       "Baillif",
       "Basse-Terre",
       "Saint-Claude",
-      "Vieux-Habitants",
-      "Bouillante",
       "Gourbeyre",
       "Trois-Rivières",
+      "Vieux-Habitants",
+      "Bouillante",
       "Vieux-Fort",
       "Petit-Bourg"
     ],
     "service_area_map_cities": [
       "Basse-Terre",
       "Saint-Claude",
-      "Bouillante",
       "Gourbeyre",
       "Trois-Rivières",
+      "Bouillante",
       "Petit-Bourg"
     ],
     "service_area_stats": [
       {
         "value": "9",
-        "label": "communes desservies"
+        "label": "Communes desservies"
       },
       {
         "value": "4.7/5",
@@ -172,10 +172,10 @@
       },
       {
         "value": "43",
-        "label": "avis clients vérifiés"
+        "label": "Avis clients"
       }
     ],
-    "service_area_note": "Déplacement rapide dans tout le sud de la Guadeloupe, devis gratuit sans engagement.",
+    "service_area_note": "Déplacement rapide sur Basse-Terre et ses communes, devis gratuit sans engagement pour tout projet.",
     "no_reviews_cta": {
       "eyebrow": "",
       "title": "",
@@ -190,12 +190,12 @@
       "email": "",
       "hours": "Lun–Mar 8h30–12h30 · 14h–16h · Jeu–Ven 8h30–12h30 · 14h–16h · Mer 8h30–12h30"
     },
-    "seo_title": "RTN Plomberie et Climatisation — Baillif, Guadeloupe",
-    "meta_description": "Plomberie et climatisation à Baillif en Guadeloupe. Installation, dépannage, maintenance — interventions rapides. Note 4,7/5 sur Google. Appelez le +590 690 92 75 15."
+    "seo_title": "Plombier Climatisation Baillif · RTN Plomberie",
+    "meta_description": "RTN Plomberie et Climatisation à Baillif (97123) — Installation, dépannage et entretien climatisation, plomberie générale. Intervention rapide en Guadeloupe. ☎ +590 690 92 75 15"
   },
   "reviews": [
     {
-      "author": "Kévin M.",
+      "author": "Sébastien M.",
       "location": "Basse-Terre",
       "rating": 5,
       "text": "Rapide et efficace, on veut que des professionnels comme ça. Parfait"
