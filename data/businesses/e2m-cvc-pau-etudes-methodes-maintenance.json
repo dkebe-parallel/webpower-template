@@ -1,0 +1,197 @@
+{
+  "business": {
+    "name": "E2M CVC PAU - Etudes Méthodes Maintenance",
+    "slug": "e2m-cvc-pau-etudes-methodes-maintenance",
+    "city": "Lons",
+    "country": "France",
+    "phone": "+33 5 56 26 79 17",
+    "address": "8 Av. Barthélémy Thimonnier, 64140 Lons",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=E2M%20CVC%20PAU%20-%20Etudes%20M%C3%A9thodes%20Maintenance&query_place_id=ChIJr-kcRuZPVg0RWYrn_FQerKo",
+    "rating": 5,
+    "reviews_count": 2
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-1.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-5.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Devis gratuit"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Expert CVC à Pau — études & maintenance",
+    "hero_subtitle": "De l'étude à la maintenance, une expertise CVC complète et rigoureuse à Lons et dans le Béarn.",
+    "hero_stats": [
+      {
+        "value": "5/5",
+        "label": "Note Google"
+      },
+      {
+        "value": "3",
+        "label": "expertises réunies"
+      },
+      {
+        "value": "5j/7",
+        "label": "disponibilité en semaine"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Triple expertise CVC",
+        "subtitle": "Études, méthodes et maintenance en une seule structure"
+      },
+      {
+        "title": "Note Google parfaite 5/5",
+        "subtitle": "Satisfaction client totale, travail sans compromis"
+      },
+      {
+        "title": "Disponible lundi au vendredi",
+        "subtitle": "Ouvert de 08h à 18h pour vos projets CVC"
+      }
+    ],
+    "value_prop": "E2M CVC PAU réunit sous un même toit l'étude, les méthodes et la maintenance de vos installations de chauffage, ventilation et climatisation. Une approche technique structurée, des résultats irréprochables et une présence locale au cœur du Béarn pour les professionnels et particuliers.",
+    "services_intro": "Solutions CVC complètes : de la conception à l'entretien de vos installations.",
+    "about": "E2M CVC PAU est une entreprise spécialisée dans les études, méthodes et la maintenance des systèmes CVC, implantée à Lons près de Pau. Elle accompagne ses clients à chaque étape de leurs projets, de la conception technique à l'entretien durable des installations. Son approche méthodique et rigoureuse garantit des résultats fiables et durables.",
+    "footer_description": "E2M CVC PAU — spécialiste en études, méthodes et maintenance CVC à Lons (64140). Chauffage, ventilation, climatisation et plomberie pour professionnels et particuliers dans le Béarn.",
+    "services": [
+      {
+        "title": "Études & conception CVC",
+        "desc": "Analyse technique, dimensionnement et conception de vos systèmes de chauffage, ventilation et climatisation pour des installations performantes et durables.",
+        "icon": "search",
+        "featured": true,
+        "tag": "Expertise technique",
+        "image": "/images/stock/plombier/services/services-4.webp"
+      },
+      {
+        "title": "Maintenance CVC",
+        "desc": "Entretien régulier et maintenance préventive ou curative de vos installations CVC pour garantir leur bon fonctionnement et leur longévité.",
+        "icon": "wrench",
+        "featured": true,
+        "tag": "Suivi & pérennité",
+        "image": "/images/stock/plombier/services/services-5.webp"
+      },
+      {
+        "title": "Plomberie générale",
+        "desc": "Interventions de plomberie pour particuliers et professionnels, en lien avec vos équipements CVC ou en toute indépendance.",
+        "icon": "droplets",
+        "featured": false
+      },
+      {
+        "title": "Chauffage & ventilation",
+        "desc": "Installation et réglage de systèmes de chauffage et ventilation adaptés à vos besoins et à votre bâtiment.",
+        "icon": "flame",
+        "featured": false
+      },
+      {
+        "title": "Suivi technique de chantier",
+        "desc": "Méthodes et pilotage technique de vos chantiers CVC pour un résultat conforme aux exigences du projet.",
+        "icon": "zap",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Note Google 5/5",
+        "desc": "Chaque mission réalisée avec une exigence de résultat total."
+      },
+      {
+        "title": "Études & méthodes intégrées",
+        "desc": "De la conception au suivi, une expertise rare réunie en une structure."
+      },
+      {
+        "title": "Horaires étendus",
+        "desc": "Disponible du lundi au vendredi de 08h à 18h sans interruption."
+      },
+      {
+        "title": "Ancrage local à Lons",
+        "desc": "Entreprise établie en zone économique active près de Pau."
+      }
+    ],
+    "why_us_badge": {
+      "value": "2h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Lons, Pau, Billère, Lescar, Jurançon, Idron, Bizanos, Gan, Ousse",
+    "service_area_cities": [
+      "Lons",
+      "Pau",
+      "Billère",
+      "Lescar",
+      "Jurançon",
+      "Idron",
+      "Bizanos",
+      "Gan",
+      "Ousse"
+    ],
+    "service_area_map_cities": [
+      "Pau",
+      "Billère",
+      "Lescar",
+      "Jurançon",
+      "Bizanos",
+      "Gan"
+    ],
+    "service_area_stats": [
+      {
+        "value": "9",
+        "label": "communes couvertes"
+      },
+      {
+        "value": "5/5",
+        "label": "note Google"
+      },
+      {
+        "value": "2",
+        "label": "avis clients vérifiés"
+      }
+    ],
+    "service_area_note": "Déplacement rapide sur Pau et le Béarn, devis gratuit sans engagement pour tout projet CVC.",
+    "no_reviews_cta": {
+      "eyebrow": "CONFIANCE",
+      "title": "Un expert CVC reconnu dans le Béarn",
+      "subtitle": "Rigueur technique, triple compétence études-méthodes-maintenance et disponibilité du lundi au vendredi pour tous vos projets CVC.",
+      "button_text": "Demander un devis gratuit"
+    },
+    "reviews_note": "5 / 5 sur Google Maps · 2 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 5 56 26 79 17",
+      "email": "",
+      "hours": "Lun–Ven 8h–18h"
+    },
+    "seo_title": "Expert CVC Lons-Pau | E2M CVC — Études & Maintenance",
+    "meta_description": "E2M CVC PAU à Lons (64140) : études, méthodes et maintenance CVC. Chauffage, ventilation, climatisation et plomberie pour professionnels et particuliers dans le Béarn."
+  },
+  "reviews": []
+}
