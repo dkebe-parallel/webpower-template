@@ -1,0 +1,204 @@
+{
+  "business": {
+    "name": "Berton Leboucher SARL",
+    "slug": "berton-leboucher-sarl",
+    "city": "Nantes",
+    "country": "France",
+    "phone": "+33 2 40 30 16 85",
+    "address": "14 Rue du Moulin de la Garde, 44300 Nantes",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Berton%20Leboucher%20SARL&query_place_id=ChIJlVN3RLjvBUgRvihCxQO266k",
+    "rating": 4.3,
+    "reviews_count": 11
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-1.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-1.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "SARL établie"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Votre plombier de confiance à Nantes",
+    "hero_subtitle": "Dépannage rapide, urgences fuites et pannes, clients fidèles depuis plus de 8 ans.",
+    "hero_stats": [
+      {
+        "value": "4.3/5",
+        "label": "note Google"
+      },
+      {
+        "value": "8 ans",
+        "label": "de fidélité client"
+      },
+      {
+        "value": "1h",
+        "label": "délai d'intervention"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Réactivité en urgence",
+        "subtitle": "Dépannage rapide fuites et pannes à Nantes"
+      },
+      {
+        "title": "Clients fidèles depuis 8 ans",
+        "subtitle": "Une confiance durable attestée par nos clients"
+      },
+      {
+        "title": "SARL sérieuse et pérenne",
+        "subtitle": "Structure établie, professionnalisme reconnu"
+      }
+    ],
+    "value_prop": "Berton Leboucher SARL est votre plombier de référence à Nantes. Reconnus pour leur réactivité exceptionnelle en urgence, ils interviennent rapidement sur vos fuites et pannes. Leurs clients leur font confiance depuis plus de 8 ans.",
+    "services_intro": "Plomberie, dépannage urgence et entretien à Nantes et alentours.",
+    "about": "Berton Leboucher SARL est une entreprise de plomberie établie à Nantes, reconnue pour sa réactivité et son sérieux. Spécialisée dans le dépannage en urgence, l'installation et l'entretien, elle intervient rapidement chez ses clients particuliers et professionnels. Sa fidélisation client sur le long terme témoigne d'un savoir-faire solide et d'un engagement constant.",
+    "footer_description": "Berton Leboucher SARL — Plombier à Nantes. Dépannage urgence, installation et entretien plomberie. Intervention rapide sur fuites et pannes. 14 Rue du Moulin de la Garde, 44300 Nantes.",
+    "services": [
+      {
+        "title": "Dépannage urgence plomberie",
+        "desc": "Intervention rapide en cas de fuite ou panne, disponible dans les meilleurs délais à Nantes et dans tout le secteur pour limiter les dégâts.",
+        "icon": "zap",
+        "featured": true,
+        "tag": "Urgence",
+        "image": "/images/stock/plombier/services/services-6.webp"
+      },
+      {
+        "title": "Plomberie générale",
+        "desc": "Installation et réparation de tous vos équipements sanitaires et réseaux d'eau, réalisées avec soin et professionnalisme par nos équipes qualifiées.",
+        "icon": "wrench",
+        "featured": true,
+        "tag": "Installation",
+        "image": "/images/stock/plombier/services/services-7.webp"
+      },
+      {
+        "title": "Entretien plomberie",
+        "desc": "Maintenance préventive de vos installations pour éviter les pannes et prolonger la durée de vie de vos équipements.",
+        "icon": "search",
+        "featured": false
+      },
+      {
+        "title": "Détection de fuites",
+        "desc": "Localisation précise des fuites invisibles pour une réparation ciblée et efficace, sans travaux inutiles.",
+        "icon": "droplets",
+        "featured": false
+      },
+      {
+        "title": "Réparation canalisations",
+        "desc": "Réparation et remplacement de canalisations défectueuses pour un réseau fiable et durable.",
+        "icon": "wind",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Réactivité prouvée",
+        "desc": "Dépannage rapide reconnu par nos clients en cas d'urgence"
+      },
+      {
+        "title": "Fidélité sur 8 ans",
+        "desc": "Des clients qui nous font confiance depuis plus de 8 ans"
+      },
+      {
+        "title": "Professionnalisme reconnu",
+        "desc": "Qualifiés de « très réactifs et pro » par nos clients"
+      },
+      {
+        "title": "Structure SARL solide",
+        "desc": "Une entreprise établie, sérieuse et durable à Nantes"
+      }
+    ],
+    "why_us_badge": {
+      "value": "1h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Nantes, Rezé, Saint-Herblain, Vertou, Orvault, Bouguenais, Carquefou, Sainte-Luce-sur-Loire, Thouaré-sur-Loire",
+    "service_area_cities": [
+      "Nantes",
+      "Rezé",
+      "Saint-Herblain",
+      "Vertou",
+      "Orvault",
+      "Bouguenais",
+      "Carquefou",
+      "Sainte-Luce-sur-Loire",
+      "Thouaré-sur-Loire"
+    ],
+    "service_area_map_cities": [
+      "Nantes",
+      "Saint-Herblain",
+      "Rezé",
+      "Orvault",
+      "Carquefou",
+      "Vertou"
+    ],
+    "service_area_stats": [
+      {
+        "value": "9",
+        "label": "communes desservies"
+      },
+      {
+        "value": "4.3/5",
+        "label": "note Google"
+      },
+      {
+        "value": "11",
+        "label": "avis clients"
+      }
+    ],
+    "service_area_note": "Intervention rapide à Nantes et dans tout le secteur, devis gratuit sans engagement.",
+    "no_reviews_cta": {
+      "eyebrow": "",
+      "title": "",
+      "subtitle": "",
+      "button_text": ""
+    },
+    "reviews_note": "4.3 / 5 sur Google Maps · 11 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 2 40 30 16 85",
+      "email": "",
+      "hours": "Lun–Jeu 8h–18h · Ven 8h–17h30"
+    },
+    "seo_title": "Plombier Nantes — Berton Leboucher SARL",
+    "meta_description": "Plombier à Nantes : dépannage urgence, fuites, pannes et installation. Berton Leboucher SARL, réactifs et professionnels. Appelez le +33 2 40 30 16 85."
+  },
+  "reviews": [
+    {
+      "author": "Martine L.",
+      "location": "Rezé",
+      "rating": 5,
+      "text": "8 ans que nous leur faisons appel, très réactifs et pro, dépannage rapide en cas de panne ou fuite, je recommande !"
+    }
+  ]
+}
