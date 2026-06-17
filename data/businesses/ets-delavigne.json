@@ -49,117 +49,117 @@
     "enabled_blocks": []
   },
   "content": {
-    "hero_title": "Votre chauffagiste honnête à Lille",
-    "hero_subtitle": "Diagnostic fiable, travail soigné et accueil réactif — protégez-vous des mauvaises surprises.",
+    "hero_title": "Le diagnostic honnête à Lille",
+    "hero_subtitle": "Chaudière, chauffe-eau, dépannage : un artisan fiable qui protège votre budget et règle les pannes durables.",
     "hero_stats": [
       {
         "value": "4.9/5",
-        "label": "Note Google"
+        "label": "note Google"
       },
       {
         "value": "11",
-        "label": "Avis clients vérifiés"
+        "label": "avis vérifiés"
       },
       {
-        "value": "100%",
-        "label": "Lieux laissés propres"
+        "value": "4000 €",
+        "label": "d'escroquerie évitée"
       }
     ],
     "reassurance_items": [
       {
-        "title": "Diagnostic honnête garanti",
-        "subtitle": "Un second avis fiable qui vous protège des arnaques"
+        "title": "Diagnostic fiable et transparent",
+        "subtitle": "Vous protège des surfacturations et mauvais devis"
       },
       {
-        "title": "Accueil réactif & soigné",
-        "subtitle": "Prise en charge rapide, intervention propre et efficace"
+        "title": "Accueil rapide et solution trouvée",
+        "subtitle": "Réponse téléphonique soignée, prise en charge rapide"
       },
       {
-        "title": "Reprise qualité en 2025",
-        "subtitle": "Nouvel élan confirmé dès les premières interventions"
+        "title": "Intervention propre et soignée",
+        "subtitle": "L'endroit est laissé propre après chaque passage"
       }
     ],
-    "value_prop": "Ets Delavigne, c'est le plombier-chauffagiste lillois qui met l'honnêteté au cœur de chaque intervention. Diagnostic précis, réparation effective et respect de votre logement : un client a économisé plus de 4 000 € grâce à notre second avis impartial.",
-    "services_intro": "Dépannage, entretien et diagnostic chaudière et chauffe-eau à Lille.",
-    "about": "Ets Delavigne est un plombier-chauffagiste basé à Lille, 31 Rue Porret, repris en janvier 2025 avec un engagement fort pour la qualité et l'honnêteté. L'entreprise intervient pour le dépannage de chaudières gaz, l'entretien de chauffe-eau et la plomberie générale. Dès ses premières interventions sous sa nouvelle direction, elle a séduit ses clients par sa réactivité, son sérieux et son intégrité.",
-    "footer_description": "Ets Delavigne — Plombier-chauffagiste à Lille. Diagnostic chaudière gaz, détartrage et dépannage chauffe-eau. Intervention rapide, travail soigné, devis gratuit. 31 Rue Porret, 59800 Lille.",
+    "value_prop": "Ets Delavigne intervient à Lille pour vos chaudières gaz, chauffe-eau et dépannages plomberie. Là où d'autres échouent, notre diagnostic honnête et rigoureux résout la panne — et vous évite les mauvaises surprises tarifaires.",
+    "services_intro": "Chauffage, eau chaude et plomberie : des solutions fiables à Lille.",
+    "about": "Reprise en janvier 2025, l'entreprise Delavigne poursuit une activité de plomberie-chauffagerie à Lille avec un engagement fort sur la qualité et l'honnêteté. Chaque intervention est menée avec soin, du diagnostic à la remise en état, dans le respect du logement et du budget du client.",
+    "footer_description": "Ets Delavigne — Plombier-chauffagiste à Lille. Spécialiste du diagnostic chaudière gaz et de l'entretien chauffe-eau. Honnêteté, réactivité et travail soigné au service des habitants de Lille et de ses environs.",
     "services": [
       {
         "title": "Réparation chaudière gaz",
-        "desc": "Diagnostic fiable et réparation complète de votre chaudière gaz en panne. Un second avis honnête pour vous protéger des devis abusifs.",
+        "desc": "Diagnostic précis et réparation de votre chaudière en panne, même lorsque d'autres n'ont pas su identifier le problème après plusieurs mois.",
         "icon": "flame",
         "featured": true,
-        "tag": "Dépannage rapide",
+        "tag": "Expertise",
         "image": "/images/stock/plombier/services/services-5.webp"
       },
       {
         "title": "Détartrage chauffe-eau",
-        "desc": "Détartrage et entretien de votre cumulus ou chauffe-eau. Intervention soignée, durée maîtrisée et logement laissé propre après passage.",
+        "desc": "Détartrage et vidange de cumulus réalisés avec soin, même dans les situations difficiles d'accès. Intervention propre et rapide.",
         "icon": "droplets",
         "featured": true,
-        "tag": "Entretien & longévité",
+        "tag": "Entretien",
         "image": "/images/stock/plombier/services/services-6.webp"
       },
       {
         "title": "Vidange de cumulus",
-        "desc": "Vidange et remise en état de votre ballon d'eau chaude, même en cas d'impossibilité d'accès difficile.",
+        "desc": "Vidange complète du ballon d'eau chaude, y compris en cas de panne d'évacuation ou de difficultés techniques.",
         "icon": "wrench",
         "featured": false
       },
       {
-        "title": "Diagnostic chauffage",
-        "desc": "Bilan complet de votre installation pour identifier la panne réelle et éviter les réparations inutiles.",
-        "icon": "search",
+        "title": "Dépannage plomberie",
+        "desc": "Intervention rapide pour tous vos problèmes de plomberie courante à Lille et dans les communes proches.",
+        "icon": "zap",
         "featured": false
       },
       {
-        "title": "Dépannage plomberie",
-        "desc": "Intervention rapide sur vos problèmes de plomberie courante à Lille et ses environs.",
-        "icon": "zap",
+        "title": "Second avis chauffage",
+        "desc": "Vous avez un devis qui vous semble excessif ? Demandez un second avis fiable avant d'engager des frais importants.",
+        "icon": "search",
         "featured": false
       }
     ],
     "why_us": [
       {
-        "title": "Honnêteté exemplaire",
-        "desc": "Un second avis fiable qui vous a économisé jusqu'à 4 000 €"
+        "title": "Honnêteté prouvée",
+        "desc": "Un client a évité 4000 € de surfacturation grâce à notre diagnostic."
       },
       {
-        "title": "Accueil téléphonique",
-        "desc": "Prise en charge rapide et écoute dès le premier appel"
+        "title": "Pannes complexes résolues",
+        "desc": "Nous traitons les cas que d'autres n'ont pas su régler."
       },
       {
-        "title": "Travail propre & soigné",
-        "desc": "L'intervenant laisse toujours les lieux en parfait état"
+        "title": "Accueil téléphonique soigné",
+        "desc": "Une prise en charge rapide et humaine dès le premier appel."
       },
       {
-        "title": "Diagnostic précis",
-        "desc": "Réparation effective incluse, sans mauvaise surprise"
+        "title": "Chantier propre garanti",
+        "desc": "L'intervenant laisse toujours l'endroit propre après son passage."
       }
     ],
     "why_us_badge": {
       "value": "2h",
       "label": "délai d'intervention"
     },
-    "service_area": "Lille, Lambersart, La Madeleine, Marcq-en-Barœul, Roubaix, Villeneuve-d'Ascq, Lomme, Loos, Hellemmes",
+    "service_area": "Lille, Lambersart, La Madeleine, Marcq-en-Barœul, Roubaix, Lomme, Loos, Hellemmes, Villeneuve-d'Ascq",
     "service_area_cities": [
       "Lille",
       "Lambersart",
       "La Madeleine",
       "Marcq-en-Barœul",
       "Roubaix",
-      "Villeneuve-d'Ascq",
       "Lomme",
       "Loos",
-      "Hellemmes"
+      "Hellemmes",
+      "Villeneuve-d'Ascq"
     ],
     "service_area_map_cities": [
-      "Lille",
       "Roubaix",
       "Villeneuve-d'Ascq",
       "Marcq-en-Barœul",
-      "Lambersart",
-      "Lomme"
+      "Lomme",
+      "La Madeleine",
+      "Lambersart"
     ],
     "service_area_stats": [
       {
@@ -168,14 +168,14 @@
       },
       {
         "value": "4.9/5",
-        "label": "Note Google"
+        "label": "note Google"
       },
       {
         "value": "11",
-        "label": "Avis clients vérifiés"
+        "label": "avis clients"
       }
     ],
-    "service_area_note": "Intervention rapide sur Lille et toute la métropole lilloise, devis gratuit sans engagement.",
+    "service_area_note": "Déplacement rapide à Lille et dans toute la métropole lilloise — devis gratuit sans engagement.",
     "no_reviews_cta": {
       "eyebrow": "",
       "title": "",
@@ -190,19 +190,19 @@
       "email": "",
       "hours": "Lun–Ven 9h–17h"
     },
-    "seo_title": "Plombier-Chauffagiste Lille | Ets Delavigne",
-    "meta_description": "Ets Delavigne, plombier-chauffagiste à Lille. Dépannage chaudière gaz, détartrage chauffe-eau, diagnostic fiable. Intervention rapide, devis gratuit. ☎ 03 20 56 41 03"
+    "seo_title": "Plombier-chauffagiste Lille — Ets Delavigne",
+    "meta_description": "Ets Delavigne, plombier-chauffagiste à Lille : réparation chaudière gaz, détartrage chauffe-eau, dépannage plomberie. Diagnostic honnête, 4.9/5 sur Google."
   },
   "reviews": [
     {
-      "author": "Sophie L.",
-      "location": "Lambersart",
+      "author": "Marc C.",
+      "location": "La Madeleine",
       "rating": 5,
       "text": "Contacté pour 2nd avis pour Chaudière gaz en panne, problème non résolu depuis près de 3 mois... Demande de diagnostic, au final, j'ai eu le diagnostic et la réparation, et Mr Citerne m'a évité une belle escroquerie à plus de 4000 euros. Une belle épine du pied sortie, mille merci!"
     },
     {
-      "author": "Marie-Claire D.",
-      "location": "La Madeleine",
+      "author": "Sophie L.",
+      "location": "Lambersart",
       "rating": 5,
       "text": "Nous avons appelé l'entreprise Delavigne SAS pour le détartrage de notre chauffe-eau. Nous avons apprécié la qualité de l'accueil téléphonique, la rapidité pour trouver une solution et nous venir en aide, car nous étions dans l'impossibilité de vidanger le cumulus. L'intervenant a réalisé un travail de qualité et a pris soin de laisser l'endroit propre tout cela dans un temps correct. C'est la première fois que nous faisions à nouveau appel à cette entreprise depuis sa reprise en janvier 2025. Continuez ainsi"
     }
