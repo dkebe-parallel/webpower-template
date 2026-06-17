@@ -50,7 +50,7 @@
   },
   "content": {
     "hero_title": "Votre plombier de confiance à Bordeaux",
-    "hero_subtitle": "Professionnel, ponctuel et réactif — travail soigné, disponible 6j/7 de 8h à 21h.",
+    "hero_subtitle": "Professionnel, ponctuel et disponible 6j/7 — un travail soigné garanti à chaque intervention.",
     "hero_stats": [
       {
         "value": "5/5",
@@ -61,121 +61,121 @@
         "label": "Clients satisfaits"
       },
       {
-        "value": "6j/7",
-        "label": "Disponibilité"
+        "value": "8h–21h",
+        "label": "Disponibilité 6j/7"
       }
     ],
     "reassurance_items": [
       {
-        "title": "Professionnalisme reconnu",
-        "subtitle": "Unanimement salué par tous les clients"
+        "title": "Travail soigné et rigoureux",
+        "subtitle": "Finitions impeccables, unanimement saluées."
       },
       {
         "title": "Ponctuel et réactif",
-        "subtitle": "Intervient vite, respecte vos horaires"
+        "subtitle": "Intervient vite, respecte les horaires convenus."
       },
       {
-        "title": "Travail soigné garanti",
-        "subtitle": "Chaque chantier réalisé avec soin"
+        "title": "Disponible 6 jours sur 7",
+        "subtitle": "Du lundi au samedi, de 8h à 21h."
       }
     ],
-    "value_prop": "SCC 33 est votre plombier de confiance au cœur de Bordeaux. Professionnel, ponctuel et disponible du lundi au samedi de 8h à 21h, chaque intervention est réalisée avec le plus grand soin. Note parfaite 5/5 — 100% de clients satisfaits.",
-    "services_intro": "Interventions de plomberie soignées à Bordeaux et ses environs.",
-    "about": "SCC 33 est un artisan plombier installé au cœur de Bordeaux, aux Allées de Chartres. Reconnu pour son professionnalisme, sa ponctualité et la qualité de ses interventions, SCC 33 intervient 6 jours sur 7 de 8h à 21h pour répondre à tous vos besoins en plomberie.",
-    "footer_description": "SCC 33 — Plombier professionnel à Bordeaux. Disponible du lundi au samedi de 8h à 21h, au 7 Allées de Chartres, 33000 Bordeaux. Note Google 5/5.",
+    "value_prop": "SCC 33 est votre plombier de proximité au cœur de Bordeaux. Reconnu pour son sérieux, sa ponctualité et la qualité soignée de ses réalisations, il intervient 6 jours sur 7 de 8h à 21h pour tous vos travaux de plomberie.",
+    "services_intro": "Plomberie générale à Bordeaux — installation, réparation et entretien.",
+    "about": "SCC 33 est un plombier professionnel basé à Bordeaux, au 7 Allées de Chartres. Reconnu par ses clients pour sa réactivité, sa ponctualité et la qualité soignée de chaque intervention, il est disponible du lundi au samedi de 8h à 21h pour répondre à tous vos besoins en plomberie.",
+    "footer_description": "SCC 33 — Plombier professionnel à Bordeaux. Interventions soignées, devis gratuit, disponible 6j/7 de 8h à 21h. Secteur Bordeaux et communes voisines.",
     "services": [
       {
         "title": "Plomberie générale",
-        "desc": "Installation, réparation et entretien de vos équipements de plomberie. Intervention soignée et professionnelle à chaque étape du chantier.",
+        "desc": "Installation et réparation de tous équipements de plomberie. Travail soigné, matériaux de qualité et finitions irréprochables pour chaque chantier à Bordeaux.",
         "icon": "droplets",
         "featured": true,
         "tag": "Service principal",
         "image": "/images/stock/plombier/services/services-3.webp"
       },
       {
-        "title": "Réparation & dépannage",
-        "desc": "Intervention rapide pour tout dépannage plomberie. Réactivité et soin du travail pour remettre vos installations en état au plus vite.",
+        "title": "Installation sanitaire",
+        "desc": "Pose et remplacement de sanitaires, robinetterie et équipements de salle de bain. Intervention propre et précise, du démontage à la mise en service.",
         "icon": "wrench",
         "featured": true,
-        "tag": "Réactif",
+        "tag": "Sur mesure",
         "image": "/images/stock/plombier/services/services-4.webp"
       },
       {
-        "title": "Installation sanitaire",
-        "desc": "Pose et raccordement de vos équipements sanitaires avec rigueur et précision.",
+        "title": "Réparation & dépannage",
+        "desc": "Fuite, canalisation bouchée, pression insuffisante — diagnostic rapide et réparation efficace pour rétablir le confort chez vous.",
         "icon": "zap",
         "featured": false
       },
       {
-        "title": "Détection de fuites",
-        "desc": "Repérage et traitement des fuites pour protéger votre logement.",
+        "title": "Entretien plomberie",
+        "desc": "Vérification et entretien préventif de vos installations pour éviter les pannes et prolonger la durée de vie de vos équipements.",
         "icon": "search",
         "featured": false
       },
       {
-        "title": "Entretien plomberie",
-        "desc": "Maintenance régulière de vos installations pour prévenir les pannes.",
+        "title": "Remplacement chauffe-eau",
+        "desc": "Dépose de l'ancien appareil et pose d'un nouveau chauffe-eau. Mise en service complète avec vérification des raccordements.",
         "icon": "flame",
         "featured": false
       }
     ],
     "why_us": [
       {
-        "title": "100% professionnel",
-        "desc": "Chaque client souligne le sérieux et le savoir-faire de SCC 33."
+        "title": "Professionnalisme reconnu",
+        "desc": "Unanimement salué par chaque client pour son sérieux."
       },
       {
-        "title": "Ponctuel à chaque fois",
-        "desc": "Respect de vos horaires, intervention dans les délais annoncés."
+        "title": "Ponctualité garantie",
+        "desc": "Respecte scrupuleusement les horaires de rendez-vous."
       },
       {
-        "title": "Disponible 6j/7",
-        "desc": "De 8h à 21h du lundi au samedi pour s'adapter à votre agenda."
+        "title": "Réactivité immédiate",
+        "desc": "Disponible rapidement pour toute demande urgente."
       },
       {
-        "title": "Travail soigné",
-        "desc": "Finitions impeccables et installations durables à chaque chantier."
+        "title": "Finitions soignées",
+        "desc": "Chaque détail compte pour un résultat impeccable."
       }
     ],
     "why_us_badge": {
-      "value": "2h",
+      "value": "1h",
       "label": "délai d'intervention"
     },
-    "service_area": "Bordeaux, Le Bouscat, Mérignac, Talence, Pessac, Bègles, Cenon, Lormont, Bruges",
+    "service_area": "Bordeaux, Le Bouscat, Talence, Mérignac, Pessac, Bègles, Cenon, Lormont, Blanquefort",
     "service_area_cities": [
       "Bordeaux",
       "Le Bouscat",
-      "Mérignac",
       "Talence",
+      "Mérignac",
       "Pessac",
       "Bègles",
       "Cenon",
       "Lormont",
-      "Bruges"
+      "Blanquefort"
     ],
     "service_area_map_cities": [
+      "Le Bouscat",
       "Mérignac",
       "Pessac",
       "Talence",
       "Bègles",
-      "Cenon",
-      "Lormont"
+      "Cenon"
     ],
     "service_area_stats": [
       {
         "value": "9",
-        "label": "Communes desservies"
+        "label": "communes desservies"
       },
       {
         "value": "5/5",
-        "label": "Note Google"
+        "label": "note Google"
       },
       {
         "value": "3",
-        "label": "Avis vérifiés"
+        "label": "avis clients vérifiés"
       }
     ],
-    "service_area_note": "Déplacement rapide à Bordeaux et dans toute l'agglomération girondine, devis gratuit sans engagement.",
+    "service_area_note": "Déplacement rapide à Bordeaux et dans toutes les communes voisines — devis gratuit sans engagement.",
     "no_reviews_cta": {
       "eyebrow": "",
       "title": "",
@@ -190,21 +190,21 @@
       "email": "",
       "hours": "Lun–Sam 8h–21h"
     },
-    "seo_title": "Plombier Bordeaux — SCC 33 · 5/5 sur Google",
-    "meta_description": "SCC 33, plombier professionnel à Bordeaux. Ponctuel, réactif et travail soigné. Disponible lun–sam 8h–21h. Note Google 5/5. Devis gratuit."
+    "seo_title": "Plombier Bordeaux — SCC 33 | Devis gratuit",
+    "meta_description": "SCC 33, plombier professionnel à Bordeaux. Disponible 6j/7 de 8h à 21h, travail soigné, ponctuel et réactif. Note 5/5 sur Google. Devis gratuit."
   },
   "reviews": [
     {
-      "author": "Matthieu L.",
+      "author": "Élodie M.",
       "location": "Bordeaux",
       "rating": 5,
       "text": "Très professionnel et réactif. Travail soigné."
     },
     {
-      "author": "Sophie R.",
-      "location": "Mérignac",
+      "author": "Thomas R.",
+      "location": "Le Bouscat",
       "rating": 5,
-      "text": "Je recommande SCC33.:professionnel, ponctuel, disponible et travail réalisé avec soins."
+      "text": "Je recommande SCC33. : professionnel, ponctuel, disponible et travail réalisé avec soins."
     }
   ]
 }
