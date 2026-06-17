@@ -50,136 +50,135 @@
   },
   "content": {
     "hero_title": "Plombier rapide à Puy-Guillaume",
-    "hero_subtitle": "Intervention rapide, travail soigné et sérieux — votre plombier de proximité dans le Puy-de-Dôme.",
+    "hero_subtitle": "Intervention rapide, travail propre et soigné — votre plombier de proximité en Limagne.",
     "hero_stats": [
       {
         "value": "3/5",
-        "label": "note Google"
+        "label": "Note Google"
       },
       {
         "value": "Rapide",
-        "label": "délai d'intervention"
+        "label": "Délai d'intervention"
       },
       {
         "value": "100%",
-        "label": "travail propre garanti"
+        "label": "Travail propre garanti"
       }
     ],
     "reassurance_items": [
       {
         "title": "Intervention rapide",
-        "subtitle": "Disponible et réactif pour vos urgences"
+        "subtitle": "Déplacement rapide sur Puy-Guillaume et environs"
       },
       {
-        "title": "Travail soigné",
-        "subtitle": "Chantiers réalisés proprement, sans mauvaise surprise"
+        "title": "Travail soigné et propre",
+        "subtitle": "Chantier respecté, finitions nettes à chaque fois"
       },
       {
-        "title": "Artisan sérieux et local",
-        "subtitle": "Basé à Puy-Guillaume, proche de vos besoins"
+        "title": "Artisan sérieux de proximité",
+        "subtitle": "Un plombier local fiable, recommandé par ses clients"
       }
     ],
-    "value_prop": "BL Plomberie intervient rapidement chez vous à Puy-Guillaume et dans le nord du Puy-de-Dôme. Artisan sérieux, reconnu pour la propreté de ses chantiers, il prend en charge vos travaux de plomberie avec rigueur et efficacité.",
-    "services_intro": "Plomberie générale, dépannage et diagnostic pour particuliers.",
-    "about": "BL Plomberie est un artisan plombier installé à Puy-Guillaume, dans le Puy-de-Dôme. Reconnu pour sa réactivité et la qualité de ses interventions, il accompagne les particuliers dans leurs projets et réparations de plomberie. Son approche de proximité et son sérieux en font un interlocuteur fiable dans le secteur.",
-    "footer_description": "BL Plomberie — artisan plombier à Puy-Guillaume (63290). Interventions rapides et soignées pour les particuliers du nord Puy-de-Dôme. Contactez-nous au +33 6 10 63 19 34.",
+    "value_prop": "BL plomberie intervient rapidement chez vous à Puy-Guillaume et dans tout le bassin de la Limagne. Artisan sérieux, reconnu pour la propreté de ses chantiers et sa réactivité, il prend en charge vos travaux de plomberie avec soin et professionnalisme.",
+    "services_intro": "Plomberie générale, dépannage et réparations pour les particuliers.",
+    "about": "BL plomberie est un artisan plombier installé à Puy-Guillaume, au cœur de la Limagne. Reconnu pour sa réactivité et la propreté de ses interventions, il accompagne les particuliers dans tous leurs besoins en plomberie. Devis réalisé sur place, travail soigné et respect du domicile du client.",
+    "footer_description": "BL plomberie — Artisan plombier à Puy-Guillaume (63290). Interventions rapides, travail propre et sérieux pour les particuliers du secteur de la Limagne. Contactez-nous pour un devis gratuit.",
     "services": [
       {
-        "title": "Dépannage plomberie",
-        "desc": "Intervention rapide pour tous vos dépannages plomberie : fuite, canalisation bouchée, robinetterie défectueuse. Travail propre garanti.",
+        "title": "Plomberie générale",
+        "desc": "Installation, remplacement et entretien de vos équipements de plomberie. Intervention soignée et rapide pour tous vos besoins courants.",
         "icon": "wrench",
         "featured": true,
-        "tag": "Intervention rapide",
+        "tag": "Essentiel",
         "image": "/images/stock/plombier/services/services-7.webp"
       },
       {
-        "title": "Diagnostic sur site",
-        "desc": "Déplacement à domicile pour évaluer vos besoins, identifier les problèmes et vous proposer la meilleure solution adaptée.",
-        "icon": "search",
+        "title": "Dépannage plomberie",
+        "desc": "Intervention rapide en cas de fuite, canalisation bouchée ou panne. Votre artisan local se déplace vite pour limiter les dégâts.",
+        "icon": "droplets",
         "featured": true,
-        "tag": "Devis sur place",
+        "tag": "Réactivité",
         "image": "/images/stock/plombier/services/services-8.webp"
       },
       {
-        "title": "Réparations plomberie",
-        "desc": "Réparation de fuites, remplacement de pièces défectueuses, remise en état de vos installations.",
-        "icon": "droplets",
+        "title": "Diagnostic sur site",
+        "desc": "Visite et évaluation complète de votre installation pour un devis précis et personnalisé.",
+        "icon": "search",
         "featured": false
       },
       {
-        "title": "Travaux de plomberie",
-        "desc": "Réalisation de travaux neufs ou rénovation de votre installation plomberie avec soin et efficacité.",
+        "title": "Réparations plomberie",
+        "desc": "Remplacement de robinetterie, joints, tuyaux — réparations durables réalisées avec soin.",
         "icon": "zap",
         "featured": false
       },
       {
         "title": "Devis gratuit",
-        "desc": "Étude de votre projet et remise d'un devis clair, sans engagement, directement chez vous.",
-        "icon": "wind",
+        "desc": "Déplacement sur place pour chiffrage précis, sans engagement de votre part.",
+        "icon": "flame",
         "featured": false
       }
     ],
     "why_us": [
       {
         "title": "Réactivité prouvée",
-        "desc": "Intervention rapide saluée par les clients satisfaits."
-      },
-      {
-        "title": "Travail de qualité",
-        "desc": "Chantiers propres et soignés, sans désordre après passage."
+        "desc": "Intervention rapide reconnue par les clients du secteur."
       },
       {
         "title": "Artisan sérieux",
-        "desc": "Plombier reconnu pour son professionnalisme et sa fiabilité."
+        "desc": "Fiabilité et sérieux salués par les clients satisfaits."
       },
       {
-        "title": "Ancrage local",
-        "desc": "Basé à Puy-Guillaume, il connaît bien son secteur."
+        "title": "Travail propre",
+        "desc": "Chantiers nets, domicile respecté à chaque intervention."
+      },
+      {
+        "title": "Plombier local",
+        "desc": "Implanté à Puy-Guillaume, proche de vous en Limagne."
       }
     ],
     "why_us_badge": {
       "value": "2h",
       "label": "délai d'intervention"
     },
-    "service_area": "Puy-Guillaume, Châtel-Guyon, Randan, Maringues, Saint-Myon, Lezoux, Aigueperse, Ennezat, Riom",
+    "service_area": "Puy-Guillaume, Châteldon, Randan, Lezoux, Maringues, Saint-Myon, Ris, Thuret, Noalhat",
     "service_area_cities": [
       "Puy-Guillaume",
-      "Châtel-Guyon",
+      "Châteldon",
       "Randan",
+      "Lezoux",
       "Maringues",
       "Saint-Myon",
-      "Lezoux",
-      "Aigueperse",
-      "Ennezat",
-      "Riom"
+      "Ris",
+      "Thuret",
+      "Noalhat"
     ],
     "service_area_map_cities": [
-      "Riom",
-      "Aigueperse",
-      "Châtel-Guyon",
+      "Châteldon",
+      "Randan",
       "Lezoux",
       "Maringues",
-      "Randan"
+      "Thuret"
     ],
     "service_area_stats": [
       {
         "value": "9",
-        "label": "communes desservies"
+        "label": "Communes desservies"
       },
       {
         "value": "3/5",
-        "label": "note Google"
+        "label": "Note Google"
       },
       {
         "value": "2",
-        "label": "avis clients vérifiés"
+        "label": "Avis clients"
       }
     ],
-    "service_area_note": "Déplacement rapide dans tout le nord Puy-de-Dôme, devis gratuit et sans engagement à domicile.",
+    "service_area_note": "Déplacement rapide dans tout le secteur de la Limagne, devis gratuit sans engagement.",
     "no_reviews_cta": {
       "eyebrow": "CONFIANCE",
-      "title": "Un artisan sérieux près de chez vous",
-      "subtitle": "Réactivité, travail soigné et ancrage local à Puy-Guillaume — BL Plomberie intervient vite et proprement pour vos besoins.",
+      "title": "Un plombier sérieux près de chez vous",
+      "subtitle": "Réactivité, travail propre et proximité : BL plomberie intervient rapidement sur Puy-Guillaume et le bassin de la Limagne.",
       "button_text": "Demander un devis gratuit"
     },
     "reviews_note": "3 / 5 sur Google Maps · 2 avis clients vérifiés",
@@ -190,13 +189,13 @@
       "email": "",
       "hours": ""
     },
-    "seo_title": "Plombier Puy-Guillaume (63290) — BL Plomberie",
-    "meta_description": "BL Plomberie, artisan plombier à Puy-Guillaume (63290). Interventions rapides, travail soigné pour particuliers. Devis gratuit — appelez le +33 6 10 63 19 34."
+    "seo_title": "Plombier Puy-Guillaume (63290) — BL plomberie",
+    "meta_description": "BL plomberie, votre artisan plombier à Puy-Guillaume (63290). Intervention rapide, travail propre, devis gratuit. Secteur Limagne : Châteldon, Randan, Lezoux."
   },
   "reviews": [
     {
-      "author": "Marc L.",
-      "location": "Randan",
+      "author": "Marc D.",
+      "location": "Châteldon",
       "rating": 5,
       "text": "Monsieur sérieux, intervenu rapidement, travail propre, je recommande"
     }
