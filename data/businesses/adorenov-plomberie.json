@@ -1,0 +1,210 @@
+{
+  "business": {
+    "name": "ADORÉNOV PLOMBERIE",
+    "slug": "adorenov-plomberie",
+    "city": "Nantes",
+    "country": "France",
+    "phone": "+33 6 67 51 51 97",
+    "address": "2 Rue Sarrazin, 44000 Nantes",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=ADOR%C3%89NOV%20PLOMBERIE&query_place_id=ChIJr9yahaDuBUgR7Wj9OTrKmsA",
+    "rating": 4.4,
+    "reviews_count": 47
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-1.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-6.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Devis gratuit"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Votre plombier réactif à Nantes",
+    "hero_subtitle": "Intervention en moins de 24h, conseil transparent sur les options et tarifs honnêtes.",
+    "hero_stats": [
+      {
+        "value": "4.4/5",
+        "label": "Note Google"
+      },
+      {
+        "value": "47",
+        "label": "avis clients"
+      },
+      {
+        "value": "<24h",
+        "label": "délai d'intervention"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Intervention rapide garantie",
+        "subtitle": "Ballon changé en moins de 24h, disponible vite"
+      },
+      {
+        "title": "Conseil et transparence",
+        "subtitle": "Toutes les options présentées avant chaque travail"
+      },
+      {
+        "title": "Artisan de confiance local",
+        "subtitle": "Recommandé par vos voisins nantais, 4.4/5 Google"
+      }
+    ],
+    "value_prop": "Adorénov Plomberie intervient à Nantes et ses environs avec réactivité et rigueur. Remplacement de ballon d'eau chaude en moins de 24h, dépannage rapide et accompagnement transparent : chaque client repart avec le choix éclairé qui lui convient.",
+    "services_intro": "Dépannage, installation et entretien plomberie à Nantes et alentours.",
+    "about": "Adorénov Plomberie est un artisan plombier basé au cœur de Nantes, reconnu pour sa réactivité et la qualité de son travail. Disponible du lundi au vendredi de 7h30 à 20h, il intervient rapidement pour tout dépannage ou installation. Professionnel de confiance, il prend le temps d'exposer les options disponibles avant chaque intervention.",
+    "footer_description": "Adorénov Plomberie — Artisan plombier à Nantes (44000). Dépannage rapide, remplacement de ballon d'eau chaude, plomberie générale. Disponible du lun. au ven. de 7h30 à 20h. Note Google : 4.4/5.",
+    "services": [
+      {
+        "title": "Ballon d'eau chaude",
+        "desc": "Remplacement et installation de votre ballon d'eau chaude en moins de 24h, avec présentation des options adaptées à votre logement et votre budget.",
+        "icon": "flame",
+        "featured": true,
+        "tag": "Intervention rapide",
+        "image": "/images/stock/plombier/services/services-3.webp"
+      },
+      {
+        "title": "Dépannage plomberie",
+        "desc": "Intervention d'urgence rapide pour toute fuite, canalisation bouchée ou panne. Diagnostic précis et résolution efficace pour limiter les dégâts.",
+        "icon": "wrench",
+        "featured": true,
+        "tag": "Disponible rapidement",
+        "image": "/images/stock/plombier/services/services-4.webp"
+      },
+      {
+        "title": "Chauffe-eau : entretien",
+        "desc": "Réparation et entretien de chauffe-eau pour prolonger leur durée de vie et garantir votre confort au quotidien.",
+        "icon": "droplets",
+        "featured": false
+      },
+      {
+        "title": "Diagnostic plomberie",
+        "desc": "Inspection complète de votre installation, identification des anomalies et devis détaillé avant toute intervention.",
+        "icon": "search",
+        "featured": false
+      },
+      {
+        "title": "Plomberie générale",
+        "desc": "Installation, modification ou rénovation de vos équipements sanitaires par un artisan sérieux et de confiance.",
+        "icon": "zap",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Réactivité en moins de 24h",
+        "desc": "Intervention rapide confirmée par plusieurs clients satisfaits."
+      },
+      {
+        "title": "Travail sérieux et soigné",
+        "desc": "Chaque chantier réalisé avec rigueur et professionnalisme."
+      },
+      {
+        "title": "Conseil transparent",
+        "desc": "Les options sont expliquées clairement avant d'intervenir."
+      },
+      {
+        "title": "Artisan sympa et flexible",
+        "desc": "Contact humain apprécié, disponible en horaires étendus."
+      }
+    ],
+    "why_us_badge": {
+      "value": "1h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Nantes, Rezé, Saint-Herblain, Orvault, Vertou, Bouguenais, Carquefou, Sainte-Luce-sur-Loire, La Chapelle-sur-Erdre",
+    "service_area_cities": [
+      "Nantes",
+      "Rezé",
+      "Saint-Herblain",
+      "Orvault",
+      "Vertou",
+      "Bouguenais",
+      "Carquefou",
+      "Sainte-Luce-sur-Loire",
+      "La Chapelle-sur-Erdre"
+    ],
+    "service_area_map_cities": [
+      "Nantes",
+      "Saint-Herblain",
+      "Rezé",
+      "Orvault",
+      "Vertou",
+      "Carquefou"
+    ],
+    "service_area_stats": [
+      {
+        "value": "9",
+        "label": "communes desservies"
+      },
+      {
+        "value": "4.4/5",
+        "label": "note Google"
+      },
+      {
+        "value": "47",
+        "label": "avis clients"
+      }
+    ],
+    "service_area_note": "Déplacement rapide à Nantes et dans toute l'agglomération nantaise, devis gratuit sans engagement.",
+    "no_reviews_cta": {
+      "eyebrow": "",
+      "title": "",
+      "subtitle": "",
+      "button_text": ""
+    },
+    "reviews_note": "4.4 / 5 sur Google Maps · 47 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 6 67 51 51 97",
+      "email": "",
+      "hours": "Lun–Ven 7h30–20h"
+    },
+    "seo_title": "Plombier Nantes — Adorénov Plomberie | Devis gratuit",
+    "meta_description": "Adorénov Plomberie, votre plombier réactif à Nantes. Dépannage rapide, remplacement de ballon d'eau chaude en moins de 24h. Note 4.4/5 · Devis gratuit."
+  },
+  "reviews": [
+    {
+      "author": "Marc T.",
+      "location": "Rezé",
+      "rating": 5,
+      "text": "Très bon contact, disponible rapidement. Travail sérieux. Je recommande"
+    },
+    {
+      "author": "Sophie L.",
+      "location": "Saint-Herblain",
+      "rating": 5,
+      "text": "Réactivité, professionnalisme, flexibilité et sympathie, je recommande vivement Adorenov. Ballon d'eau chaude changé en moins de 24h avec évaluation des différentes options qui s'offraient à moi. Professionnel de confiance. Merci Adorenov!"
+    }
+  ]
+}
