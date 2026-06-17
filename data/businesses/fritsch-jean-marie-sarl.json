@@ -1,0 +1,216 @@
+{
+  "business": {
+    "name": "Fritsch Jean-Marie Sarl",
+    "slug": "fritsch-jean-marie-sarl",
+    "city": "Mittelhausbergen",
+    "country": "France",
+    "phone": "+33 3 88 56 04 55",
+    "address": "59 Rue Principale, 67206 Mittelhausbergen",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Fritsch%20Jean-Marie%20Sarl&query_place_id=ChIJm2qlSI23lkcR3mCgoX24wFg",
+    "rating": 4,
+    "reviews_count": 32
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-5.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-2.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Entreprise familiale"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Plomberie-chauffage à Mittelhausbergen",
+    "hero_subtitle": "Entreprise familiale — intervention sous 24h, installations dans les règles de l'art.",
+    "hero_stats": [
+      {
+        "value": "4/5",
+        "label": "Note Google"
+      },
+      {
+        "value": "32",
+        "label": "avis clients"
+      },
+      {
+        "value": "24h",
+        "label": "délai d'intervention"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Réactivité en urgence",
+        "subtitle": "Intervention sous 24h, même quand les autres ne rappellent pas"
+      },
+      {
+        "title": "Travail soigné, règles de l'art",
+        "subtitle": "Installations qualifiées de « top » par nos clients satisfaits"
+      },
+      {
+        "title": "Frères artisans, suivi direct",
+        "subtitle": "Un interlocuteur familial du devis jusqu'à la réception"
+      }
+    ],
+    "value_prop": "Fritsch Jean-Marie Sarl, c'est une entreprise familiale de plomberie-chauffage ancrée à Mittelhausbergen. Les deux frères interviennent personnellement pour chaque chantier — urgence fuite d'eau, remplacement de chaudière ou rénovation de salle de bain — avec un soin reconnu par leurs clients.",
+    "services_intro": "Plomberie, chauffage et sanitaire pour particuliers sur le secteur de Strasbourg.",
+    "about": "Fritsch Jean-Marie Sarl est une entreprise familiale de plomberie et chauffage établie à Mittelhausbergen, au cœur de l'agglomération strasbourgeoise. Les deux frères Fritsch assurent personnellement les interventions, de l'urgence fuite d'eau à la rénovation complète de salle de bain, en passant par l'installation et le remplacement de chaudières. Leur engagement : réactivité, qualité d'exécution et accompagnement de la conception à la réalisation.",
+    "footer_description": "Fritsch Jean-Marie Sarl — entreprise familiale de plomberie et chauffage à Mittelhausbergen. Interventions rapides, installations soignées et suivi personnalisé pour les particuliers du secteur strasbourgeois.",
+    "services": [
+      {
+        "title": "Remplacement de chaudière",
+        "desc": "Installation et remplacement de chaudières réalisés dans les règles de l'art par les frères Fritsch, pour un chauffage fiable et performant.",
+        "icon": "flame",
+        "featured": true,
+        "tag": "Chauffage",
+        "image": "/images/stock/plombier/services/services-5.webp"
+      },
+      {
+        "title": "Rénovation de salle de bain",
+        "desc": "Transformation complète de votre salle de bain en salle d'eau : conception, réalisation soignée et finitions professionnelles.",
+        "icon": "droplets",
+        "featured": true,
+        "tag": "Sanitaire",
+        "image": "/images/stock/plombier/services/services-6.webp"
+      },
+      {
+        "title": "Urgence fuite d'eau",
+        "desc": "Intervention rapide sous 24h pour toute fuite en cuisine, salle de bain ou réseau intérieur.",
+        "icon": "zap",
+        "featured": false
+      },
+      {
+        "title": "Entretien chauffage",
+        "desc": "Maintenance et dépannage de vos installations de chauffage pour éviter les pannes au mauvais moment.",
+        "icon": "wrench",
+        "featured": false
+      },
+      {
+        "title": "Sanitaire & plomberie",
+        "desc": "Pose, remplacement et dépannage de tous équipements sanitaires et réseaux de plomberie.",
+        "icon": "droplets",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Réactivité prouvée",
+        "desc": "Seule entreprise sur 5 à rappeler et intervenir en 24h lors d'une urgence."
+      },
+      {
+        "title": "Qualité artisanale",
+        "desc": "Installations saluées « dans les règles de l'art » par nos clients."
+      },
+      {
+        "title": "Frères artisans",
+        "desc": "Un binôme familial impliqué personnellement sur chaque chantier."
+      },
+      {
+        "title": "Ancrage local fort",
+        "desc": "Entreprise enracinée à Mittelhausbergen, connue et recommandée localement."
+      }
+    ],
+    "why_us_badge": {
+      "value": "24h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Mittelhausbergen, Strasbourg, Oberhausbergen, Niederhausbergen, Schiltigheim, Mundolsheim, Eckbolsheim, Wolfisheim, Cronenbourg",
+    "service_area_cities": [
+      "Mittelhausbergen",
+      "Strasbourg",
+      "Oberhausbergen",
+      "Niederhausbergen",
+      "Schiltigheim",
+      "Mundolsheim",
+      "Eckbolsheim",
+      "Wolfisheim",
+      "Cronenbourg"
+    ],
+    "service_area_map_cities": [
+      "Strasbourg",
+      "Schiltigheim",
+      "Mundolsheim",
+      "Eckbolsheim",
+      "Wolfisheim",
+      "Oberhausbergen"
+    ],
+    "service_area_stats": [
+      {
+        "value": "9",
+        "label": "communes desservies"
+      },
+      {
+        "value": "4/5",
+        "label": "note Google"
+      },
+      {
+        "value": "32",
+        "label": "avis clients vérifiés"
+      }
+    ],
+    "service_area_note": "Déplacement rapide sur Mittelhausbergen et tout le secteur de l'agglomération strasbourgeoise, devis gratuit.",
+    "no_reviews_cta": {
+      "eyebrow": "",
+      "title": "",
+      "subtitle": "",
+      "button_text": ""
+    },
+    "reviews_note": "4 / 5 sur Google Maps · 32 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 3 88 56 04 55",
+      "email": "",
+      "hours": "Lun–Mar 8h–12h · 13h30–17h30 · Mer 8h–12h · 14h–17h30 · Jeu 8h–12h · 13h30–17h30 · Ven 9h–12h · 14h–17h"
+    },
+    "seo_title": "Plombier Chauffagiste Mittelhausbergen | Fritsch",
+    "meta_description": "Fritsch Jean-Marie Sarl, entreprise familiale de plomberie et chauffage à Mittelhausbergen. Intervention urgence sous 24h, remplacement chaudière, rénovation salle de bain. ☎ 03 88 56 04 55"
+  },
+  "reviews": [
+    {
+      "author": "Marie V.",
+      "location": "Mittelhausbergen",
+      "rating": 5,
+      "review_text": "J'ai récemment fait appel à l'Entreprise Fritsch pour la transformation de ma salle de bain en salle d'eau et j'en suis très satisfaite. Tant au niveau de l'accueil : collaboratrice à l'écoute, dévouée. Qu'au niveau de la conception et de la réalisation des travaux : travail soigné, qualité professionnelle. Je recommande vivement l'entr. sanitaire-chauffage Fritsch -entreprise familiale et locale- pour son excellent travail."
+    },
+    {
+      "author": "Client A.",
+      "location": "Oberhausbergen",
+      "rating": 5,
+      "review_text": "En février 2024, j'ai contacté 5 entreprises/plomberie pour une urgence/fuite d'eau dans la cuisine. Seule la secrétaire de l'Entreprise Fritsch m'a rappelée. Le plombier est intervenu dans les 24h. Encore merci."
+    },
+    {
+      "author": "Thomas R.",
+      "location": "Schiltigheim",
+      "rating": 5,
+      "review_text": "Dans le cadre du remplacement de ma chaudière, j'ai fait appel à la société Fritsch pour la réalisation des travaux. Ma conjointe et moi même sommes très satisfait de la prestation des deux frères. L'installation a été réalisée dans les règles de l'état de l'art. La qualité d'installation et de montage est top. Merci a vous."
+    }
+  ]
+}
