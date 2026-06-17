@@ -1,0 +1,216 @@
+{
+  "business": {
+    "name": "Raphael Artisan",
+    "slug": "raphael-artisan",
+    "city": "Villeneuve-d'Ascq",
+    "country": "France",
+    "phone": "+33 6 47 06 59 95",
+    "address": "35 Rue de l'Abbé Lemire, 59493 Villeneuve-d'Ascq",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Raphael%20Artisan&query_place_id=ChIJi0G_F_wQdmQRg2cXw6isQVo",
+    "rating": 5,
+    "reviews_count": 21
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-4.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-2.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Nettoyage quotidien"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Salle de bain sur mesure à Villeneuve-d'Ascq",
+    "hero_subtitle": "Finitions impeccables, conseils personnalisés et chantier soigné — 5/5 sur 21 avis Google.",
+    "hero_stats": [
+      {
+        "value": "5/5",
+        "label": "note Google"
+      },
+      {
+        "value": "21",
+        "label": "avis clients vérifiés"
+      },
+      {
+        "value": "100%",
+        "label": "clients satisfaits"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Finitions haut de gamme",
+        "subtitle": "Chaque détail soigné pour un résultat impeccable"
+      },
+      {
+        "title": "Chantier respectueux",
+        "subtitle": "Nettoyage quotidien et soin de votre domicile"
+      },
+      {
+        "title": "Conseils sur mesure",
+        "subtitle": "Accompagnement de la conception au choix des matériaux"
+      }
+    ],
+    "value_prop": "Raphaël et Benjamin rénovent votre salle de bain et créent vos meubles sur mesure dans la métropole lilloise. Reconnus pour leurs finitions irréprochables, leur écoute et le respect exemplaire de votre domicile, ils sont recommandés « les yeux fermés » par leurs clients.",
+    "services_intro": "Rénovation salle de bain et menuiserie sur mesure à Villeneuve-d'Ascq.",
+    "about": "Raphaël Artisan intervient à Villeneuve-d'Ascq et dans la métropole lilloise pour la rénovation complète de salles de bain et la création de meubles ou dressings sur mesure. Le duo Raphaël & Benjamin accompagne chaque client de la conception jusqu'à la réalisation finale, avec un soin particulier apporté aux finitions et au respect du domicile.",
+    "footer_description": "Raphaël Artisan — rénovation de salle de bain et menuiserie sur mesure à Villeneuve-d'Ascq. Finitions impeccables, conseils personnalisés et chantier soigné. Note parfaite 5/5 sur Google.",
+    "services": [
+      {
+        "title": "Rénovation salle de bain",
+        "desc": "Rénovation complète de votre salle de bain : conception, pose, plomberie et finitions soignées pour un résultat fonctionnel et esthétique.",
+        "icon": "droplets",
+        "featured": true,
+        "tag": "Notre spécialité",
+        "image": "/images/stock/plombier/services/services-7.webp"
+      },
+      {
+        "title": "Meubles sur mesure",
+        "desc": "Création de meubles parfaitement intégrés à votre espace, conçus sur mesure pour allier esthétique et fonctionnalité.",
+        "icon": "wrench",
+        "featured": true,
+        "tag": "Savoir-faire artisanal",
+        "image": "/images/stock/plombier/services/services-8.webp"
+      },
+      {
+        "title": "Dressing sur mesure",
+        "desc": "Conception et réalisation de dressings adaptés à vos besoins et à votre intérieur, avec finitions métticuleuses.",
+        "icon": "zap",
+        "featured": false
+      },
+      {
+        "title": "Conseil matériaux",
+        "desc": "Accompagnement personnalisé dans le choix des matériaux pour garantir qualité et cohérence esthétique.",
+        "icon": "search",
+        "featured": false
+      },
+      {
+        "title": "Aménagement intérieur",
+        "desc": "Solutions d'aménagement sur mesure pour optimiser chaque espace de votre habitat avec soin du détail.",
+        "icon": "wind",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Finitions irréprochables",
+        "desc": "Un souci du détail unanimement salué par tous les clients."
+      },
+      {
+        "title": "Écoute & conseils",
+        "desc": "Accompagnement personnalisé de la conception à la réalisation."
+      },
+      {
+        "title": "Chantier respectueux",
+        "desc": "Nettoyage quotidien et attention portée à votre domicile."
+      },
+      {
+        "title": "Note parfaite 5/5",
+        "desc": "21 clients satisfaits qui recommandent « les yeux fermés »."
+      }
+    ],
+    "why_us_badge": {
+      "value": "2h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Villeneuve-d'Ascq, Lille, Roubaix, Croix, Hem, Lys-lez-Lannoy, Marcq-en-Barœul, Mons-en-Barœul, Ascq",
+    "service_area_cities": [
+      "Villeneuve-d'Ascq",
+      "Lille",
+      "Roubaix",
+      "Croix",
+      "Hem",
+      "Lys-lez-Lannoy",
+      "Marcq-en-Barœul",
+      "Mons-en-Barœul",
+      "Ascq"
+    ],
+    "service_area_map_cities": [
+      "Lille",
+      "Roubaix",
+      "Marcq-en-Barœul",
+      "Croix",
+      "Mons-en-Barœul",
+      "Hem"
+    ],
+    "service_area_stats": [
+      {
+        "value": "9",
+        "label": "communes desservies"
+      },
+      {
+        "value": "5/5",
+        "label": "note Google"
+      },
+      {
+        "value": "21",
+        "label": "avis clients"
+      }
+    ],
+    "service_area_note": "Déplacement dans toute la métropole lilloise — devis gratuit et sans engagement sur simple appel.",
+    "no_reviews_cta": {
+      "eyebrow": "",
+      "title": "",
+      "subtitle": "",
+      "button_text": ""
+    },
+    "reviews_note": "5 / 5 sur Google Maps · 21 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 6 47 06 59 95",
+      "email": "",
+      "hours": "Lun–Sam 8h–18h"
+    },
+    "seo_title": "Rénovation salle de bain sur mesure — Villeneuve-d'Ascq",
+    "meta_description": "Raphaël Artisan rénove votre salle de bain et crée vos meubles sur mesure à Villeneuve-d'Ascq. Note 5/5 sur Google, finitions impeccables. Devis gratuit."
+  },
+  "reviews": [
+    {
+      "author": "Sophie M.",
+      "location": "Villeneuve-d'Ascq",
+      "rating": 5,
+      "text": "Raphaël Artisan a refait entièrement ma salle de bain, avec des meubles sur mesure parfaitement intégrés et une finition impeccable. Le travail est soigné et l'artisan très professionnel et à l'écoute. Le chantier s'est parfaitement déroulé, et le résultat est à la fois fonctionnel et esthétique. Je recommande les yeux fermés Raphaël Artisan pour vos projets de sdb et meubles sur mesure !"
+    },
+    {
+      "author": "Claire D.",
+      "location": "Lille",
+      "rating": 5,
+      "text": "Raphael & Benjamin se sont occupés de la rénovation de ma salle de bain et de la création d'un dressing. Ils sont tous les deux hyper professionnels, à l'écoute et consciencieux. De très bons conseil pour le choix de matériaux, meubles etc… Un travail méticuleux avec le soucis du détail! J'ai presque pris goût à la réalisation de travaux ! Je repasserai par eux les yeux fermés si nécessaire et ne peut que vous les conseiller!"
+    },
+    {
+      "author": "Thomas B.",
+      "location": "Marcq-en-Barœul",
+      "rating": 5,
+      "text": "Nous sommes plus que ravis du travail de Raphaël ! Nous avons refait notre salle de bain et sincèrement nous n'avons que des points positifs à dire : de très bon conseils tant sur la conception que sur les choix des matériaux ! Le chantier a duré 3 semaines mais ils sont si respectueux des lieux : nettoyage du chantier quotidien, ils font attention à votre maison ! Le rendu du chantier est au top ! Les matériaux utilisés sont de très bonne qualité et les finitions sont au rendez vous. Raphaël et Benjamin sont vraiment des personnes très sympas, on a apprécié les avoir chez nous !"
+    }
+  ]
+}
