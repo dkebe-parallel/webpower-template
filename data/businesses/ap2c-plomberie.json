@@ -1,0 +1,216 @@
+{
+  "business": {
+    "name": "AP2C Plomberie",
+    "slug": "ap2c-plomberie",
+    "city": "Le Haillan",
+    "country": "France",
+    "phone": "+33 6 73 63 06 48",
+    "address": "16 A Rue de Los Héros, 33185 Le Haillan",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=AP2C%20Plomberie&query_place_id=ChIJgc1Tj0vXVA0RqangZ5R_L3M",
+    "rating": 4.8,
+    "reviews_count": 22
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-5.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-2.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Tarifs transparents"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Votre plombier de confiance au Haillan",
+    "hero_subtitle": "Réactif, ponctuel et à prix juste — un artisan que vos voisins recommandent.",
+    "hero_stats": [
+      {
+        "value": "4.8/5",
+        "label": "Note Google"
+      },
+      {
+        "value": "22",
+        "label": "avis clients"
+      },
+      {
+        "value": "100%",
+        "label": "clients satisfaits"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Réactivité garantie",
+        "subtitle": "Interventions rapides, sans délai inutile"
+      },
+      {
+        "title": "Tarifs extrêmement raisonnables",
+        "subtitle": "Un rapport qualité/prix salué par vos voisins"
+      },
+      {
+        "title": "Ponctuel et professionnel",
+        "subtitle": "Respect de vos horaires, travail impeccable"
+      }
+    ],
+    "value_prop": "AP2C Plomberie intervient au Haillan et dans toute l'agglomération bordelaise rive gauche. Réactivité, ponctualité et tarifs honnêtes : trois engagements unanimement confirmés par les clients. Enfin un plombier compétent et abordable.",
+    "services_intro": "Dépannage, installation et maintenance : AP2C gère tous vos besoins.",
+    "about": "AP2C Plomberie est un artisan indépendant basé au Haillan, au service des particuliers et professionnels de la rive gauche bordelaise. Reconnu pour sa réactivité et ses tarifs transparents, il intervient rapidement pour tout dépannage ou installation sanitaire. Contactez-le directement par téléphone pour un devis sans engagement.",
+    "footer_description": "AP2C Plomberie — artisan plombier basé au Haillan (33185). Dépannage, réparation et installation sanitaire sur Le Haillan, Mérignac, Eysines, Bordeaux et environs. Note Google : 4.8/5.",
+    "services": [
+      {
+        "title": "Dépannage plomberie",
+        "icon": "wrench",
+        "desc": "Intervention rapide pour toute fuite, canalisation bouchée ou panne sanitaire urgente. Réactivité et efficacité garanties.",
+        "featured": true,
+        "tag": "Intervention rapide",
+        "image": "/images/stock/plombier/services/services-5.webp"
+      },
+      {
+        "title": "Réparation & maintenance",
+        "icon": "droplets",
+        "desc": "Diagnostic précis, réparation durable et entretien de vos installations de plomberie pour éviter les mauvaises surprises.",
+        "featured": true,
+        "tag": "Tarif juste",
+        "image": "/images/stock/plombier/services/services-6.webp"
+      },
+      {
+        "title": "Installation sanitaire",
+        "icon": "zap",
+        "desc": "Pose et remplacement de lavabo, WC, douche ou baignoire. Travail soigné et dans les règles de l'art.",
+        "featured": false
+      },
+      {
+        "title": "Remplacement d'équipements",
+        "icon": "search",
+        "desc": "Remplacement de robinetterie, mitigeur, chasse d'eau ou tout équipement sanitaire défectueux.",
+        "featured": false
+      },
+      {
+        "title": "Devis & conseil",
+        "icon": "wind",
+        "desc": "Étude de vos besoins, conseils personnalisés et devis gratuit sans engagement par téléphone.",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Réactivité immédiate",
+        "desc": "Interventions rapides saluées unanimement par les clients"
+      },
+      {
+        "title": "Prix honnêtes",
+        "desc": "Tarifs qualifiés d'extrêmement raisonnables"
+      },
+      {
+        "title": "Toujours ponctuel",
+        "desc": "Respect des horaires convenus à chaque intervention"
+      },
+      {
+        "title": "Artisan sympathique",
+        "desc": "Contact direct, personnalisé et agréable au quotidien"
+      }
+    ],
+    "why_us_badge": {
+      "value": "2h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Le Haillan, Mérignac, Eysines, Bordeaux, Le Bouscat, Blanquefort, Saint-Médard-en-Jalles, Le Taillan-Médoc, Bruges",
+    "service_area_cities": [
+      "Le Haillan",
+      "Mérignac",
+      "Eysines",
+      "Bordeaux",
+      "Le Bouscat",
+      "Blanquefort",
+      "Saint-Médard-en-Jalles",
+      "Le Taillan-Médoc",
+      "Bruges"
+    ],
+    "service_area_map_cities": [
+      "Bordeaux",
+      "Mérignac",
+      "Eysines",
+      "Blanquefort",
+      "Saint-Médard-en-Jalles",
+      "Le Bouscat"
+    ],
+    "service_area_stats": [
+      {
+        "value": "9",
+        "label": "communes desservies"
+      },
+      {
+        "value": "4.8/5",
+        "label": "note Google"
+      },
+      {
+        "value": "22",
+        "label": "avis vérifiés"
+      }
+    ],
+    "service_area_note": "Déplacement rapide sur Le Haillan et toute la rive gauche bordelaise — devis gratuit sans engagement.",
+    "no_reviews_cta": {
+      "eyebrow": "",
+      "title": "",
+      "subtitle": "",
+      "button_text": ""
+    },
+    "reviews_note": "4.8 / 5 sur Google Maps · 22 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 6 73 63 06 48",
+      "email": "",
+      "hours": "Lun–Ven 8h00–17h30"
+    },
+    "seo_title": "Plombier au Haillan – AP2C Plomberie | 4.8/5",
+    "meta_description": "AP2C Plomberie, votre plombier au Haillan (33185). Dépannage rapide, tarifs transparents, note 4.8/5 sur Google. Devis gratuit : +33 6 73 63 06 48."
+  },
+  "reviews": [
+    {
+      "author": "Thierry M.",
+      "location": "Mérignac",
+      "rating": 5,
+      "text": "Plombier très sympathique, très réactif, très efficace, prix extrêmement raisonnable. Enfin un artisan compétent! Ça fait plaisir."
+    },
+    {
+      "author": "Sophie L.",
+      "location": "Eysines",
+      "rating": 5,
+      "text": "Ponctualité, sympathie et professionnalisme. Artisan au top !"
+    },
+    {
+      "author": "Marc D.",
+      "location": "Le Haillan",
+      "rating": 5,
+      "text": "Prestataire au top. Réactif et professionnel. Impeccable"
+    }
+  ]
+}
