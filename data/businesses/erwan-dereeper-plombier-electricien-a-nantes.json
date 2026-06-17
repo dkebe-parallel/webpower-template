@@ -5,7 +5,7 @@
     "city": "Nantes",
     "country": "France",
     "phone": "+33 6 63 89 14 68",
-    "address": "Nantes, Loire-Atlantique",
+    "address": "Nantes, 44000 Nantes",
     "maps_url": "https://www.google.com/maps/search/?api=1&query=Erwan%20Dereeper%20Plombier%20Electricien%20%C3%A0%20Nantes&query_place_id=ChIJzer2Mp95MGwRYf2k7_OrA1w",
     "rating": 4.9,
     "reviews_count": 53
@@ -49,99 +49,99 @@
     "enabled_blocks": []
   },
   "content": {
-    "hero_title": "Plombier-Électricien réactif à Nantes",
-    "hero_subtitle": "Intervention le jour même · Prix honnêtes · Travail soigné et propre garanti",
+    "hero_title": "Plombier-Électricien à Nantes",
+    "hero_subtitle": "Intervention rapide, travail soigné, prix honnêtes — recommandé sans hésitation.",
     "hero_stats": [
       {
         "value": "4.9/5",
-        "label": "Note Google"
+        "label": "Note Google vérifiée"
       },
       {
         "value": "53",
-        "label": "avis clients vérifiés"
+        "label": "avis clients"
       },
       {
-        "value": "1j/j",
-        "label": "intervention le jour même"
+        "value": "1h",
+        "label": "délai d'intervention"
       }
     ],
     "reassurance_items": [
       {
         "title": "Réactivité immédiate",
-        "subtitle": "Réponse rapide et intervention le jour même"
+        "subtitle": "Intervention sur place dans la journée."
       },
       {
         "title": "Travail propre & efficace",
-        "subtitle": "Chantier soigné, résultat impeccable à chaque fois"
+        "subtitle": "Chantier soigné, résultat durable."
       },
       {
-        "title": "Prix corrects et transparents",
-        "subtitle": "Tarifs honnêtes, sans mauvaise surprise"
+        "title": "Prix corrects, sans surprise",
+        "subtitle": "Devis honnête avant toute intervention."
       }
     ],
-    "value_prop": "Erwan Dereeper est votre artisan plombier-électricien à Nantes : une double compétence en un seul intervenant, une réactivité exemplaire reconnue par 53 clients satisfaits, des prix honnêtes et un travail toujours propre et efficace.",
-    "services_intro": "Plomberie et électricité réunies en un seul artisan de confiance.",
-    "about": "Erwan Dereeper est un artisan indépendant basé à Nantes, spécialisé en plomberie et électricité. Reconnu pour sa réactivité hors pair et la qualité irréprochable de ses interventions, il intervient directement chez vous, sans intermédiaire. Ses clients apprécient ses prix corrects et son professionnalisme constant, confirmés par une note de 4.9/5 sur Google.",
-    "footer_description": "Erwan Dereeper, plombier-électricien indépendant à Nantes. Interventions rapides en plomberie et électricité sur Nantes et communes voisines. Travail soigné, prix transparents, 4.9/5 sur 53 avis Google.",
+    "value_prop": "Erwan Dereeper est votre artisan plombier-électricien indépendant à Nantes. Double compétence, un seul interlocuteur, un contact direct sans intermédiaire. Réactivité, sérieux et tarifs justes : ses clients le recommandent à chaque fois.",
+    "services_intro": "Plomberie et électricité réunies chez un seul artisan à Nantes.",
+    "about": "Erwan Dereeper est artisan plombier-électricien indépendant intervenant à Nantes et ses environs. Reconnu pour sa réactivité, la qualité soignée de ses interventions et son honnêteté tarifaire, il est recommandé sans réserve par ses clients. Un seul numéro, un seul artisan, du devis à la réalisation.",
+    "footer_description": "Erwan Dereeper — Plombier-Électricien indépendant à Nantes. Intervention rapide, travail propre, prix honnêtes. Note Google 4.9/5 sur 53 avis. Contactez-le directement au +33 6 63 89 14 68.",
     "services": [
       {
-        "title": "Plomberie & réparations",
-        "desc": "Remplacement de chauffe-eau, réparations sanitaires, dépannage fuites et installations : un travail propre et durable réalisé le jour même de votre demande.",
+        "title": "Plomberie & Sanitaires",
+        "desc": "Remplacement de chauffe-eau, réparation de fuites, installation sanitaire : des interventions rapides et soignées pour votre confort au quotidien.",
         "icon": "droplets",
         "featured": true,
         "tag": "Intervention rapide",
         "image": "/images/stock/plombier/services/services-8.webp"
       },
       {
-        "title": "Électricité & dépannage",
-        "desc": "Travaux électriques, dépannage panne, mise aux normes : l'artisan intervient rapidement pour sécuriser votre installation avec soin et efficacité.",
+        "title": "Électricité & Dépannage",
+        "desc": "Travaux et dépannage électrique à domicile : mise en sécurité, remplacement de tableau, installations et réparations réalisés avec soin.",
         "icon": "zap",
         "featured": true,
         "tag": "Double compétence",
         "image": "/images/stock/plombier/services/services-1.webp"
       },
       {
-        "title": "Dépannage d'urgence",
-        "desc": "Réponse immédiate à vos urgences plomberie ou électricité, intervention le jour même sur Nantes et environs.",
+        "title": "Dépannage urgent",
+        "desc": "Panne, fuite ou coupure : Erwan intervient rapidement pour rétablir la situation sans attendre.",
         "icon": "wrench",
         "featured": false
       },
       {
         "title": "Remplacement chauffe-eau",
-        "desc": "Pose et remplacement de chauffe-eau sous évier ou ballon, avec finition soignée et prix honnêtes.",
+        "desc": "Pose et remplacement de chauffe-eau sous évier ou classique, avec mise en service incluse.",
         "icon": "flame",
         "featured": false
       },
       {
-        "title": "Devis & conseil à domicile",
-        "desc": "Diagnostic gratuit, conseils personnalisés et devis clair sans engagement directement chez vous.",
+        "title": "Devis & Conseil gratuit",
+        "desc": "Devis transparent et sans engagement avant toute intervention, avec conseil personnalisé.",
         "icon": "search",
         "featured": false
       }
     ],
     "why_us": [
       {
-        "title": "Réactivité immédiate",
-        "desc": "Intervention le jour même, souvent dans l'heure suivant votre appel."
+        "title": "Réactivité record",
+        "desc": "Intervention dans l'heure, même en urgence."
       },
       {
-        "title": "Double compétence",
-        "desc": "Plomberie et électricité : un seul artisan pour tous vos besoins."
+        "title": "Travail impeccable",
+        "desc": "Chaque chantier livré propre et durable."
       },
       {
-        "title": "Travail propre garanti",
-        "desc": "Chantier rangé, finitions soignées, satisfaction assurée à chaque fois."
+        "title": "Prix justes & clairs",
+        "desc": "Devis honnête, aucune mauvaise surprise."
       },
       {
-        "title": "Prix honnêtes",
-        "desc": "Tarifs clairs et corrects, sans frais cachés ni mauvaise surprise."
+        "title": "Artisan de confiance",
+        "desc": "4.9/5 sur 53 avis, recommandé sans réserve."
       }
     ],
     "why_us_badge": {
       "value": "1h",
       "label": "délai d'intervention"
     },
-    "service_area": "Nantes, Rezé, Saint-Herblain, Orvault, Vertou, Bouguenais, Carquefou, Couëron, Sainte-Luce-sur-Loire",
+    "service_area": "Nantes, Rezé, Saint-Herblain, Orvault, Vertou, Bouguenais, Carquefou, Sainte-Luce-sur-Loire, La Chapelle-sur-Erdre",
     "service_area_cities": [
       "Nantes",
       "Rezé",
@@ -150,16 +150,16 @@
       "Vertou",
       "Bouguenais",
       "Carquefou",
-      "Couëron",
-      "Sainte-Luce-sur-Loire"
+      "Sainte-Luce-sur-Loire",
+      "La Chapelle-sur-Erdre"
     ],
     "service_area_map_cities": [
       "Nantes",
       "Saint-Herblain",
       "Rezé",
-      "Orvault",
       "Vertou",
-      "Carquefou"
+      "Carquefou",
+      "Orvault"
     ],
     "service_area_stats": [
       {
@@ -175,7 +175,7 @@
         "label": "avis vérifiés"
       }
     ],
-    "service_area_note": "Déplacement rapide sur Nantes et toutes les communes de l'agglomération, devis gratuit sans engagement.",
+    "service_area_note": "Déplacement rapide à Nantes et dans toute l'agglomération — devis gratuit sans engagement.",
     "no_reviews_cta": {
       "eyebrow": "",
       "title": "",
@@ -191,26 +191,26 @@
       "hours": ""
     },
     "seo_title": "Plombier Électricien Nantes — Erwan Dereeper",
-    "meta_description": "Plombier-électricien à Nantes : Erwan Dereeper intervient rapidement pour vos urgences plomberie et électricité. Note 4.9/5 · Prix honnêtes · Devis gratuit."
+    "meta_description": "Plombier-électricien à Nantes : Erwan Dereeper intervient rapidement, travail soigné, prix honnêtes. Note 4.9/5 sur 53 avis Google. Appelez le +33 6 63 89 14 68."
   },
   "reviews": [
     {
-      "author": "Philippe M.",
+      "author": "Patrick M.",
       "location": "Rezé",
       "rating": 5,
       "text": "Erwan Dereeper très professionnel est intervenu très rapidement à ma demande et a présenté un travail efficace et propre qui me satisfait complètement, je le recommande sans hésitation."
     },
     {
-      "author": "Isabelle L.",
+      "author": "Sophie L.",
       "location": "Saint-Herblain",
       "rating": 5,
       "text": "Travail propre, très efficace. Rapidité dans la réponse à ma demande et intervention aussi rapide. Je recommande car très satisfaite."
     },
     {
       "author": "Xavier B.",
-      "location": "Orvault",
+      "location": "Vertou",
       "rating": 5,
-      "text": "J'ai fait appel à Monsieur Dereeper pour changer un chauffe eau sous évier dans la cuisine. Il est venu de suite et a réparé. Ses prix son corrects et il est très professionnel. Je le recommande chaudement."
+      "text": "J'ai fait appel à Monsieur Dereeper pour changer un chauffe eau sous évier dans la cuisine. Il est venu de suite et a réparé. Ses prix sont corrects et il est très professionnel. Je le recommande chaudement."
     }
   ]
 }
