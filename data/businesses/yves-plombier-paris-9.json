@@ -49,8 +49,8 @@
     "enabled_blocks": []
   },
   "content": {
-    "hero_title": "Votre plombier de confiance Paris 9",
-    "hero_subtitle": "Disponible 24h/24 · Intervention rapide et propre · Note parfaite 5/5 Google",
+    "hero_title": "Plombier Paris 9 · Disponible 24h/24",
+    "hero_subtitle": "Intervention rapide, travail soigné, diagnostic expliqué avant chaque chantier.",
     "hero_stats": [
       {
         "value": "5/5",
@@ -67,81 +67,81 @@
     ],
     "reassurance_items": [
       {
-        "title": "Intervention rapide et soignée",
-        "subtitle": "Travail propre, chantier laissé impeccable"
+        "title": "Réactivité immédiate",
+        "subtitle": "Intervention rapide jour et nuit, 7j/7"
       },
       {
-        "title": "Transparent avant d'agir",
-        "subtitle": "Explication du problème et solution avant travaux"
+        "title": "Travail propre et soigné",
+        "subtitle": "Chantier laissé impeccable après chaque intervention"
       },
       {
-        "title": "Disponible nuit et jour",
-        "subtitle": "Urgences prises en charge 7j/7, 24h/24"
+        "title": "Diagnostic transparent",
+        "subtitle": "Tout vous est expliqué avant le début des travaux"
       }
     ],
-    "value_prop": "Yves est votre plombier de quartier dans le 9e arrondissement de Paris : réactif, pédagogue et méticuleux. Que ce soit pour une urgence en pleine nuit ou la rénovation complète de votre salle de bain, il intervient proprement et vous explique chaque étape avant de commencer.",
-    "services_intro": "Dépannage urgent, rénovation ou diagnostic — une seule adresse dans le 9e.",
-    "about": "Yves est un plombier indépendant installé dans le 9e arrondissement de Paris, reconnu par ses clients pour sa réactivité, son sérieux et la propreté irréprochable de ses interventions. Disponible 24h/24 et 7j/7, il prend le temps d'expliquer chaque problème avant d'intervenir, pour une totale transparence.",
-    "footer_description": "YVES Plombier Paris 9 — Artisan plombier disponible 24h/24 au 15 Rue Duperré, 75009 Paris. Dépannage urgent, rénovation salle de bain, diagnostic. Note 5/5 sur Google.",
+    "value_prop": "Yves, plombier indépendant dans le 9e arrondissement de Paris, intervient 24h/24 pour tous vos besoins en plomberie. Réactivité, propreté et pédagogie : il explique chaque diagnostic avant d'agir, sans mauvaise surprise.",
+    "services_intro": "Du dépannage urgent à la rénovation complète de salle de bain.",
+    "about": "Yves est un plombier professionnel basé dans le 9e arrondissement de Paris, reconnu pour sa réactivité et la qualité de ses interventions. Disponible 24h/24 et 7j/7, il prend soin d'expliquer chaque problème et chaque solution avant de commencer, pour une totale transparence. Sa note parfaite de 5/5 sur Google témoigne de la satisfaction constante de ses clients.",
+    "footer_description": "Yves Plombier Paris 9 — Artisan plombier disponible 24h/24 dans le 9e arrondissement et ses alentours. Dépannage, rénovation et diagnostic : intervention rapide, travail soigné.",
     "services": [
       {
         "title": "Dépannage plomberie urgent",
-        "desc": "Fuite, canalisation bouchée, panne soudaine : Yves intervient rapidement, jour et nuit, pour résoudre votre problème sans attendre.",
+        "desc": "Intervention rapide disponible 24h/24 et 7j/7 pour toutes pannes, fuites ou urgences plomberie dans le 9e arrondissement de Paris.",
         "icon": "zap",
         "featured": true,
-        "tag": "Urgence 24h/24",
+        "tag": "Disponible 24h/24",
         "image": "/images/stock/plombier/services/services-3.webp"
       },
       {
         "title": "Rénovation salle de bain",
-        "desc": "De la conception à la finition, Yves prend en charge la rénovation complète de votre salle de bain avec un souci constant de propreté et de qualité.",
+        "desc": "Conception et réalisation complète de votre salle de bain, travail soigné et chantier propre du début à la fin de la prestation.",
         "icon": "droplets",
         "featured": true,
-        "tag": "Clé en main",
+        "tag": "Sur mesure",
         "image": "/images/stock/plombier/services/services-4.webp"
       },
       {
         "title": "Diagnostic de panne",
-        "desc": "Identification précise de l'origine du problème, explication claire et solution adaptée avant toute intervention.",
+        "desc": "Identification précise de l'origine du problème, explications claires avant toute intervention.",
         "icon": "search",
         "featured": false
       },
       {
-        "title": "Remplacement robinetterie",
-        "desc": "Installation et remplacement de robinets, mitigeurs et équipements sanitaires dans les règles de l'art.",
+        "title": "Réparation et remplacement",
+        "desc": "Remplacement de robinets, chauffe-eau, canalisations et équipements sanitaires.",
         "icon": "wrench",
         "featured": false
       },
       {
-        "title": "Entretien canalisations",
-        "desc": "Détartrage, débouchage et entretien préventif pour éviter les mauvaises surprises et préserver vos installations.",
-        "icon": "wind",
+        "title": "Entretien plomberie",
+        "desc": "Vérification et entretien préventif de vos installations pour éviter les pannes.",
+        "icon": "flame",
         "featured": false
       }
     ],
     "why_us": [
       {
-        "title": "Réactivité immédiate",
-        "desc": "Intervention rapide, même en urgence nocturne ou le week-end"
+        "title": "Réactivité prouvée",
+        "desc": "Disponible jour et nuit, intervention dans les plus brefs délais"
       },
       {
-        "title": "Travail soigné",
-        "desc": "Chantier propre, finitions nettes, aucun désordre laissé sur place"
+        "title": "Chantier toujours propre",
+        "desc": "Propreté du chantier garantie, mentionnée par tous les clients"
       },
       {
-        "title": "Pédagogie transparente",
-        "desc": "Problème expliqué et solution validée avant chaque intervention"
+        "title": "Pédagogie et clarté",
+        "desc": "Diagnostic expliqué avant chaque intervention, sans surprise"
       },
       {
-        "title": "Professionnalisme reconnu",
-        "desc": "Note 5/5 et recommandé unanimement par tous ses clients"
+        "title": "Sérieux reconnu",
+        "desc": "Note parfaite 5/5 sur Google, clients unanimement satisfaits"
       }
     ],
     "why_us_badge": {
       "value": "1h",
       "label": "délai d'intervention"
     },
-    "service_area": "Paris 9e, Paris 8e, Paris 10e, Paris 18e, Paris 2e, Paris 17e, Clichy, Saint-Ouen, Levallois-Perret",
+    "service_area": "Paris 9e, Paris 8e, Paris 10e, Paris 18e, Paris 2e, Paris 17e, Saint-Ouen-sur-Seine, Clichy, Levallois-Perret",
     "service_area_cities": [
       "Paris 9e",
       "Paris 8e",
@@ -149,8 +149,8 @@
       "Paris 18e",
       "Paris 2e",
       "Paris 17e",
+      "Saint-Ouen-sur-Seine",
       "Clichy",
-      "Saint-Ouen",
       "Levallois-Perret"
     ],
     "service_area_map_cities": [
@@ -158,24 +158,24 @@
       "Paris 10e",
       "Paris 18e",
       "Paris 17e",
-      "Clichy",
+      "Saint-Ouen-sur-Seine",
       "Levallois-Perret"
     ],
     "service_area_stats": [
       {
         "value": "9",
-        "label": "Communes desservies"
+        "label": "communes couvertes"
       },
       {
         "value": "5/5",
-        "label": "Note Google"
+        "label": "note Google"
       },
       {
         "value": "12",
-        "label": "Avis vérifiés"
+        "label": "avis vérifiés"
       }
     ],
-    "service_area_note": "Déplacement rapide dans tout le nord de Paris et les communes limitrophes, devis gratuit sans engagement.",
+    "service_area_note": "Déplacement rapide dans tout le 9e et les arrondissements voisins — devis gratuit sans engagement.",
     "no_reviews_cta": {
       "eyebrow": "",
       "title": "",
@@ -190,24 +190,24 @@
       "email": "",
       "hours": "Lun–Dim · Ouvert 24h/24"
     },
-    "seo_title": "Plombier Paris 9 — YVES, disponible 24h/24",
-    "meta_description": "Plombier à Paris 9e disponible 24h/24. Dépannage urgent, rénovation salle de bain, diagnostic. Intervention rapide, travail propre. Note 5/5 sur Google."
+    "seo_title": "Plombier Paris 9 · Disponible 24h/24 | Yves",
+    "meta_description": "Plombier Paris 9e disponible 24h/24 et 7j/7. Dépannage urgent, rénovation salle de bain, note Google 5/5. Intervention rapide, travail soigné, devis gratuit."
   },
   "reviews": [
     {
-      "author": "Laurent M.",
+      "author": "Sophie M.",
       "location": "Paris 9e",
       "rating": 5,
       "text": "Excellent plombier, très professionnel et réactif. Intervention rapide, travail propre et soigné. Il a pris le temps d'expliquer le problème et la solution avant de commencer. Je recommande vivement ses services !"
     },
     {
-      "author": "Sophie D.",
+      "author": "Thomas R.",
       "location": "Paris 10e",
       "rating": 5,
       "text": "Super plombier.  Tres réactif et professionnel.  Je recommande"
     },
     {
-      "author": "Frédéric B.",
+      "author": "Nathalie B.",
       "location": "Paris 18e",
       "rating": 5,
       "text": "Plombier sérieux. On a confié la rénovation de notre salle de bain. Très propre , satisfait"
