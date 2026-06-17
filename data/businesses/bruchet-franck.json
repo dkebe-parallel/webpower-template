@@ -17,7 +17,7 @@
   },
   "badges": {
     "certifications": [],
-    "highlight": "Expertise PMR"
+    "highlight": "Devis gratuit"
   },
   "theme": {
     "palette": {
@@ -49,8 +49,8 @@
     "enabled_blocks": []
   },
   "content": {
-    "hero_title": "Plombier à Nantes, travail qui dure",
-    "hero_subtitle": "Rénovation salle de bain, dépannage chauffage et fuites — qualité confirmée après 1 an d'usage.",
+    "hero_title": "Plombier à Nantes, qualité durable",
+    "hero_subtitle": "Rénovation salle de bain, dépannage urgent et fuites — travail soigné validé à l'usage.",
     "hero_stats": [
       {
         "value": "4.8/5",
@@ -58,43 +58,43 @@
       },
       {
         "value": "20",
-        "label": "avis clients"
+        "label": "Avis clients vérifiés"
       },
       {
-        "value": "PMR",
-        "label": "Mise aux normes"
+        "value": "1h",
+        "label": "Délai d'intervention"
       }
     ],
     "reassurance_items": [
       {
-        "title": "Qualité durable et vérifiée",
-        "subtitle": "Travaux confirmés parfaits après 1 an d'utilisation"
+        "title": "Qualité prouvée dans le temps",
+        "subtitle": "Résultats encore parfaits après 1 an d'usage"
       },
       {
         "title": "Réactivité en urgence",
-        "subtitle": "Intervention très rapide sur panne chauffage et fuites"
+        "subtitle": "Intervention rapide pour pannes et fuites"
       },
       {
-        "title": "Double expertise reconnue",
-        "subtitle": "Rénovation soignée et dépannage d'urgence efficace"
+        "title": "Double expertise confirmée",
+        "subtitle": "Rénovation complète et dépannage en un seul artisan"
       }
     ],
-    "value_prop": "Bruchet Franck est votre plombier artisan à Nantes : rénovation complète de salle de bain aux normes PMR, dépannage chauffage et recherche de fuites. Une qualité de travail qui résiste à l'épreuve du temps, et une réactivité exemplaire quand l'urgence s'impose.",
-    "services_intro": "Plomberie, rénovation salle de bain et dépannage à Nantes.",
-    "about": "Bruchet Franck est un plombier artisan basé à Nantes, reconnu pour la qualité durable de ses réalisations et sa rapidité d'intervention en situation d'urgence. Il intervient aussi bien pour des projets de rénovation soignée que pour des dépannages imprévus, toujours avec le même professionnalisme.",
-    "footer_description": "Bruchet Franck — Plombier artisan à Nantes. Spécialiste de la rénovation de salle de bain PMR, du dépannage chauffage et de la réparation de fuites. Qualité prouvée, réactivité exemplaire.",
+    "value_prop": "Bruchet Franck est votre plombier artisan à Nantes : rénovation de salle de bain PMR, dépannage de chauffage et réparation de fuites. Un travail reconnu par ses clients pour sa durabilité et sa rigueur, avec une réactivité prouvée en situation d'urgence.",
+    "services_intro": "Plomberie, rénovation et dépannage à Nantes et ses environs.",
+    "about": "Bruchet Franck est un plombier artisan établi à Nantes, spécialisé dans la rénovation de salles de bain et le dépannage d'urgence. Il intervient avec méthode et réactivité, aussi bien pour des projets de rénovation complets que pour des pannes ou fuites à résoudre rapidement.",
+    "footer_description": "Bruchet Franck — Plombier artisan à Nantes. Rénovation de salle de bain, mise aux normes PMR, dépannage chauffage et fuites. Note Google 4.8/5. Intervention rapide sur Nantes et ses environs.",
     "services": [
       {
         "title": "Rénovation salle de bain",
-        "desc": "Rénovation complète de votre salle de bain, mise aux normes PMR incluse. Un travail soigné, conçu pour durer des années dans les meilleures conditions.",
+        "desc": "Rénovation complète de votre salle de bain, y compris mise aux normes PMR pour une accessibilité durable et un résultat impeccable.",
         "icon": "wrench",
         "featured": true,
-        "tag": "Rénovation",
+        "tag": "Spécialité PMR",
         "image": "/images/stock/plombier/services/services-6.webp"
       },
       {
-        "title": "Dépannage chauffage",
-        "desc": "Intervention rapide en cas de panne de chauffage. Diagnostic précis et remise en service efficace pour retrouver le confort chez vous sans délai.",
+        "title": "Dépannage chauffage urgent",
+        "desc": "Intervention rapide en cas de panne de chauffage : diagnostic précis et remise en service par un professionnel reconnu.",
         "icon": "flame",
         "featured": true,
         "tag": "Urgence",
@@ -102,19 +102,19 @@
       },
       {
         "title": "Recherche et réparation de fuites",
-        "desc": "Détection et réparation de fuites, même les plus discrètes. Intervention rapide pour limiter les dégâts et sécuriser votre installation.",
+        "desc": "Détection et réparation de fuites efficaces pour stopper rapidement les dégâts et sécuriser votre installation.",
         "icon": "droplets",
         "featured": false
       },
       {
         "title": "Plomberie générale",
-        "desc": "Installation, remplacement et entretien de tous équipements de plomberie. Travail propre et finitions soignées garanties.",
+        "desc": "Remplacement, installation et entretien de tous équipements de plomberie chez vous, du robinet aux canalisations.",
         "icon": "zap",
         "featured": false
       },
       {
-        "title": "Mise aux normes PMR",
-        "desc": "Adaptation de salle de bain aux normes d'accessibilité PMR pour plus d'autonomie et de sécurité au quotidien.",
+        "title": "Mise aux normes installations",
+        "desc": "Contrôle et mise en conformité de vos installations sanitaires pour garantir sécurité et durabilité.",
         "icon": "search",
         "featured": false
       }
@@ -122,30 +122,30 @@
     "why_us": [
       {
         "title": "Qualité qui dure",
-        "desc": "Travaux validés parfaits après 1 an d'usage quotidien par nos clients."
+        "desc": "Un client confirme la perfection du résultat après 1 an d'utilisation quotidienne."
       },
       {
-        "title": "Urgences traitées vite",
-        "desc": "Intervention très rapide sur pannes chauffage et fuites urgentes."
+        "title": "Réactivité en urgence",
+        "desc": "Intervention très rapide en cas de panne ou de fuite, attestée par les clients."
       },
       {
-        "title": "Maîtrise des normes PMR",
-        "desc": "Rénovations aux normes d'accessibilité réalisées de A à Z."
+        "title": "Expertise PMR reconnue",
+        "desc": "Savoir-faire spécifique en adaptation de salles de bain aux normes d'accessibilité."
       },
       {
-        "title": "Vrai professionnel",
-        "desc": "Reconnu comme un « vrai pro » par les clients les plus exigeants."
+        "title": "Note 4.8/5 sur Google",
+        "desc": "20 avis clients vérifiés témoignent d'une satisfaction quasi unanime."
       }
     ],
     "why_us_badge": {
       "value": "1h",
       "label": "délai d'intervention"
     },
-    "service_area": "Nantes, Saint-Herblain, Rezé, Orvault, Vertou, Bouguenais, Carquefou, Sainte-Luce-sur-Loire, La Chapelle-sur-Erdre",
+    "service_area": "Nantes, Rezé, Saint-Herblain, Orvault, Vertou, Bouguenais, Carquefou, Sainte-Luce-sur-Loire, La Chapelle-sur-Erdre",
     "service_area_cities": [
       "Nantes",
-      "Saint-Herblain",
       "Rezé",
+      "Saint-Herblain",
       "Orvault",
       "Vertou",
       "Bouguenais",
@@ -154,28 +154,28 @@
       "La Chapelle-sur-Erdre"
     ],
     "service_area_map_cities": [
+      "Nantes",
       "Saint-Herblain",
       "Rezé",
       "Orvault",
       "Vertou",
-      "Carquefou",
-      "La Chapelle-sur-Erdre"
+      "Carquefou"
     ],
     "service_area_stats": [
       {
         "value": "9",
-        "label": "communes desservies"
+        "label": "Communes desservies"
       },
       {
         "value": "4.8/5",
-        "label": "note Google"
+        "label": "Note Google"
       },
       {
         "value": "20",
-        "label": "avis clients vérifiés"
+        "label": "Avis clients vérifiés"
       }
     ],
-    "service_area_note": "Déplacement rapide sur Nantes et toute l'agglomération — devis gratuit sans engagement.",
+    "service_area_note": "Déplacement rapide à Nantes et dans tout le secteur — devis gratuit sans engagement.",
     "no_reviews_cta": {
       "eyebrow": "",
       "title": "",
@@ -190,19 +190,19 @@
       "email": "",
       "hours": "Lun–Jeu 8h–18h · Ven 8h–13h"
     },
-    "seo_title": "Plombier Nantes — Bruchet Franck | PMR & Urgences",
-    "meta_description": "Plombier à Nantes : rénovation salle de bain PMR, dépannage chauffage et fuites. Bruchet Franck — note 4.8/5, intervention rapide sur Nantes et agglomération."
+    "seo_title": "Plombier à Nantes — Bruchet Franck",
+    "meta_description": "Plombier artisan à Nantes : rénovation salle de bain, mise aux normes PMR, dépannage chauffage et fuites. Intervention rapide. Note 4.8/5 sur Google."
   },
   "reviews": [
     {
-      "author": "Marie-Hélène D.",
-      "location": "Rezé",
+      "author": "Marie T.",
+      "location": "Nantes",
       "rating": 5,
       "text": "M Bruchet a refait totalement notre salle de bain pour la mettre aux normes PMR il y a 1 an, et j'attendais à l'usage pour laisser un avis. Après 1 an d'utilisation quotidienne, rien à signaler, tout est parfait, vraiment du très très bon travail. Merci à vous!"
     },
     {
-      "author": "Patrick G.",
-      "location": "Saint-Herblain",
+      "author": "Pascal G.",
+      "location": "Rezé",
       "rating": 5,
       "text": "impeccable suite a une panne de chauffage et fuites est intervenu tres tres rapidement et a retabli la situation en vrai pro"
     }
