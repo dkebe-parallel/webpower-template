@@ -1,0 +1,216 @@
+{
+  "business": {
+    "name": "NAO solutions",
+    "slug": "nao-solutions",
+    "city": "Nantes",
+    "country": "France",
+    "phone": "+33 7 61 92 12 40",
+    "address": "18 Rue du Port Guichard, 44000 Nantes",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=NAO%20solutions&query_place_id=ChIJ79602qjvBUgRzr90RT0mzF0",
+    "rating": 5,
+    "reviews_count": 16
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-1.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-3.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Devis gratuit"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Votre plombier réactif à Nantes",
+    "hero_subtitle": "Intervention rapide, travail soigné et tarifs justes — 5/5 sur Google pour chaque client.",
+    "hero_stats": [
+      {
+        "value": "5/5",
+        "label": "Note Google"
+      },
+      {
+        "value": "16",
+        "label": "Avis clients vérifiés"
+      },
+      {
+        "value": "100%",
+        "label": "Clients satisfaits"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Intervention d'urgence rapide",
+        "subtitle": "Solution trouvée en un minimum de temps"
+      },
+      {
+        "title": "Travail impeccable garanti",
+        "subtitle": "Résultat soigné, reconnu par chaque client"
+      },
+      {
+        "title": "Tarifs justes et transparents",
+        "subtitle": "Rapport qualité-prix salué spontanément"
+      }
+    ],
+    "value_prop": "NAO solutions, c'est Quentin, plombier artisan à Nantes, reconnu pour sa réactivité en urgence, la qualité irréprochable de ses interventions et des tarifs honnêtes. Note parfaite 5/5 sur Google, 100 % de clients qui recommandent.",
+    "services_intro": "Plomberie, chauffage et dépannage d'urgence à Nantes et environs.",
+    "about": "NAO solutions est une entreprise artisanale de plomberie basée à Nantes, portée par Quentin, artisan reconnu pour sa réactivité et son professionnalisme. Que ce soit pour une fuite d'urgence ou des travaux de chauffage, Quentin intervient avec soin et au juste prix.",
+    "footer_description": "NAO solutions — Plombier artisan à Nantes. Interventions rapides, travail soigné, tarifs transparents. 18 Rue du Port Guichard, 44000 Nantes. Note Google 5/5.",
+    "services": [
+      {
+        "title": "Réparation de fuites d'eau",
+        "desc": "Intervention rapide sur toute fuite, y compris en urgence au niveau du compteur ou des raccordements. Diagnostic précis et solution durable.",
+        "icon": "droplets",
+        "featured": true,
+        "tag": "Urgence",
+        "image": "/images/stock/plombier/services/services-2.webp"
+      },
+      {
+        "title": "Installation de chauffage",
+        "desc": "Modification, installation et mise en service de réseaux de chauffage : arrivées, sorties, raccordements. Travail impeccable et conforme.",
+        "icon": "flame",
+        "featured": true,
+        "tag": "Chauffage",
+        "image": "/images/stock/plombier/services/services-3.webp"
+      },
+      {
+        "title": "Plomberie générale",
+        "desc": "Dépannage et travaux de plomberie courants pour particuliers. Intervention soignée au juste prix.",
+        "icon": "wrench",
+        "featured": false
+      },
+      {
+        "title": "Raccordements compteur",
+        "desc": "Travaux sur compteur d'eau et raccordements réseau, avec maîtrise technique et rapidité d'exécution.",
+        "icon": "zap",
+        "featured": false
+      },
+      {
+        "title": "Diagnostic et dépannage",
+        "desc": "Identification rapide des pannes et dépannage efficace pour rétablir votre installation sans délai.",
+        "icon": "search",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Réactivité en urgence",
+        "desc": "Solution trouvée rapidement, même pour les interventions les plus urgentes."
+      },
+      {
+        "title": "Artisan de confiance",
+        "desc": "Quentin, nommé par ses clients : un service humain et personnalisé."
+      },
+      {
+        "title": "Travail impeccable",
+        "desc": "Résultats soignés, salués unanimement par tous les clients."
+      },
+      {
+        "title": "Prix honnêtes",
+        "desc": "Tarifs justes et transparents, appréciés spontanément par la clientèle."
+      }
+    ],
+    "why_us_badge": {
+      "value": "1h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Nantes, Rezé, Saint-Herblain, Orvault, Vertou, Bouguenais, Carquefou, Sainte-Luce-sur-Loire, La Chapelle-sur-Erdre",
+    "service_area_cities": [
+      "Nantes",
+      "Rezé",
+      "Saint-Herblain",
+      "Orvault",
+      "Vertou",
+      "Bouguenais",
+      "Carquefou",
+      "Sainte-Luce-sur-Loire",
+      "La Chapelle-sur-Erdre"
+    ],
+    "service_area_map_cities": [
+      "Rezé",
+      "Saint-Herblain",
+      "Orvault",
+      "Vertou",
+      "Carquefou",
+      "Bouguenais"
+    ],
+    "service_area_stats": [
+      {
+        "value": "9",
+        "label": "communes desservies"
+      },
+      {
+        "value": "5/5",
+        "label": "note Google"
+      },
+      {
+        "value": "16",
+        "label": "avis vérifiés"
+      }
+    ],
+    "service_area_note": "Déplacement rapide à Nantes et dans toute l'agglomération nantaise, devis gratuit sans engagement.",
+    "no_reviews_cta": {
+      "eyebrow": "",
+      "title": "",
+      "subtitle": "",
+      "button_text": ""
+    },
+    "reviews_note": "5 / 5 sur Google Maps · 16 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 7 61 92 12 40",
+      "email": "",
+      "hours": "Lun–Ven 8h–17h30"
+    },
+    "seo_title": "Plombier Nantes — NAO solutions | Urgence & Chauffage",
+    "meta_description": "NAO solutions, plombier artisan à Nantes. Interventions rapides en urgence, réseaux de chauffage, fuite d'eau. Note 5/5 Google. Devis gratuit."
+  },
+  "reviews": [
+    {
+      "author": "Quentin M.",
+      "location": "Nantes",
+      "rating": 5,
+      "text": "Quentin est intervenu sur la modification des arrivées / sorties chauffage. C'est impeccable, je recommande."
+    },
+    {
+      "author": "JLM",
+      "location": "Rezé",
+      "rating": 5,
+      "text": "Suite à une fuite d'eau au niveau du compteur d'eau, nous avons eu un besoin urgent d'un plombier. Nous avons fait appel à Quentin de NAO solutions, et la solution a très vite été trouvée, grâce à son intervention rapide et son professionnalisme. Nous vous le conseillons vivement ... JLM"
+    },
+    {
+      "author": "Sophie L.",
+      "location": "Saint-Herblain",
+      "rating": 5,
+      "text": "Quentin est une personne très professionnelle qui a su répondre à mes attentes aussi bien pour le résultat que pour le prix ! Je recommande +++ Encore merci !"
+    }
+  ]
+}
