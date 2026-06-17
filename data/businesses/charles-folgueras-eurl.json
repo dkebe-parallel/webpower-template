@@ -1,0 +1,216 @@
+{
+  "business": {
+    "name": "Charles FOLGUERAS EURL",
+    "slug": "charles-folgueras-eurl",
+    "city": "Bordeaux",
+    "country": "France",
+    "phone": "+33 6 88 53 26 05",
+    "address": "Rue de Rigoulet, 33000 Bordeaux",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Charles%20FOLGUERAS%20EURL&query_place_id=ChIJ15TgF3cnVQ0RaGjjGQmbw8E",
+    "rating": 5,
+    "reviews_count": 16
+  },
+  "lang": "fr",
+  "images": {
+    "hero": "/images/stock/plombier/hero/hero-3.webp",
+    "why_us": "/images/stock/plombier/why-us/whyus-4.webp"
+  },
+  "badges": {
+    "certifications": [],
+    "highlight": "Matériel haut de gamme"
+  },
+  "theme": {
+    "palette": {
+      "primary": "#1C2B4A",
+      "secondary": "#C87941",
+      "accent": "#F5F3EE",
+      "bg": "#FFFFFF",
+      "text": "#1A1A1A",
+      "muted": "#6B7280"
+    },
+    "fonts": {
+      "heading": "Schibsted Grotesk",
+      "body": "Hanken Grotesk"
+    },
+    "hero_variant": "split",
+    "imagery_mood": "professionnel, artisan local, confiance"
+  },
+  "layout": {
+    "sections_order": [
+      "hero",
+      "value_prop",
+      "services",
+      "why_us",
+      "service_area",
+      "reviews",
+      "contact",
+      "footer"
+    ],
+    "enabled_blocks": []
+  },
+  "content": {
+    "hero_title": "Plombier-électricien à Bordeaux",
+    "hero_subtitle": "Double compétence plomberie & électricité · Travail soigné · 5/5 sur 16 avis Google",
+    "hero_stats": [
+      {
+        "value": "5/5",
+        "label": "Note Google"
+      },
+      {
+        "value": "16",
+        "label": "avis clients vérifiés"
+      },
+      {
+        "value": "100%",
+        "label": "clients satisfaits"
+      }
+    ],
+    "reassurance_items": [
+      {
+        "title": "Finitions irréprochables",
+        "subtitle": "Matériel haut de gamme, rendu soigné à chaque chantier"
+      },
+      {
+        "title": "Problèmes complexes résolus",
+        "subtitle": "Là où d'autres ont échoué, Charles trouve la solution"
+      },
+      {
+        "title": "Disponible et réactif",
+        "subtitle": "Intervention rapide, diagnostic complet dès la 1re visite"
+      }
+    ],
+    "value_prop": "Charles Folgueras intervient à Bordeaux en plomberie et électricité avec un niveau d'exigence rare : matériel sélectionné, finitions soignées et capacité à résoudre les pannes persistantes. Note parfaite de 5/5 — chaque client repart satisfait.",
+    "services_intro": "Plomberie et électricité à Bordeaux : dépannage, installation et réfection complète.",
+    "about": "Charles Folgueras est un artisan plombier-électricien basé à Bordeaux, reconnu pour la qualité méticuleuse de ses interventions et son sens du conseil. Il prend en charge l'ensemble de vos projets, du dépannage urgent à la réfection complète de vos installations, avec un souci constant du détail et du bon matériel.",
+    "footer_description": "Charles Folgueras EURL — Plombier-électricien à Bordeaux. Installation de radiateurs, tableaux électriques, chauffe-eau et dépannage. Note 5/5 sur Google. Intervention sur Bordeaux et communes voisines.",
+    "services": [
+      {
+        "title": "Installation électrique",
+        "desc": "Réfection de tableau électrique, ajout de prises, installation de radiateurs pilotés à distance avec du matériel haut de gamme et des finitions soignées.",
+        "icon": "zap",
+        "featured": true,
+        "tag": "Double compétence",
+        "image": "/images/stock/plombier/services/services-1.webp"
+      },
+      {
+        "title": "Plomberie & chauffe-eau",
+        "desc": "Dépannage, installation et remplacement de chauffe-eau, diagnostic de contacteur jour/nuit et résolution de pannes complexes persistantes.",
+        "icon": "droplets",
+        "featured": true,
+        "tag": "Intervention rapide",
+        "image": "/images/stock/plombier/services/services-2.webp"
+      },
+      {
+        "title": "Radiateurs & chauffage",
+        "desc": "Pose et remplacement de radiateurs, pilotage à distance, conseil sur les meilleures solutions pour votre logement.",
+        "icon": "flame",
+        "featured": false
+      },
+      {
+        "title": "Diagnostic & dépannage",
+        "desc": "Recherche et résolution de pannes électriques ou de plomberie, même les plus tenaces et durables.",
+        "icon": "search",
+        "featured": false
+      },
+      {
+        "title": "Travaux de rénovation",
+        "desc": "Mise aux normes, ajout de points électriques ou sanitaires lors de rénovation ou aménagement neuf.",
+        "icon": "wrench",
+        "featured": false
+      }
+    ],
+    "why_us": [
+      {
+        "title": "Travail soigné garanti",
+        "desc": "Finitions parfaites et matériel haut de gamme systématiquement salués"
+      },
+      {
+        "title": "Pannes complexes résolues",
+        "desc": "Problèmes persistants depuis 2 ans réglés dès la première intervention"
+      },
+      {
+        "title": "Réactivité exemplaire",
+        "desc": "Disponible rapidement, diagnostic complet dès la première visite"
+      },
+      {
+        "title": "Conseil et initiative",
+        "desc": "Propositions d'installation adaptées à chaque logement et situation"
+      }
+    ],
+    "why_us_badge": {
+      "value": "2h",
+      "label": "délai d'intervention"
+    },
+    "service_area": "Bordeaux, Talence, Pessac, Mérignac, Le Bouscat, Bègles, Villenave-d'Ornon, Cenon, Gradignan",
+    "service_area_cities": [
+      "Bordeaux",
+      "Talence",
+      "Pessac",
+      "Mérignac",
+      "Le Bouscat",
+      "Bègles",
+      "Villenave-d'Ornon",
+      "Cenon",
+      "Gradignan"
+    ],
+    "service_area_map_cities": [
+      "Bordeaux",
+      "Mérignac",
+      "Pessac",
+      "Talence",
+      "Cenon",
+      "Bègles"
+    ],
+    "service_area_stats": [
+      {
+        "value": "9",
+        "label": "communes couvertes"
+      },
+      {
+        "value": "5/5",
+        "label": "note Google"
+      },
+      {
+        "value": "16",
+        "label": "avis clients"
+      }
+    ],
+    "service_area_note": "Déplacement rapide sur Bordeaux et toute la métropole, devis gratuit sans engagement.",
+    "no_reviews_cta": {
+      "eyebrow": "",
+      "title": "",
+      "subtitle": "",
+      "button_text": ""
+    },
+    "reviews_note": "5 / 5 sur Google Maps · 16 avis clients vérifiés",
+    "cta_primary": "Appeler maintenant",
+    "cta_secondary": "Demander un devis gratuit",
+    "contact": {
+      "phone": "+33 6 88 53 26 05",
+      "email": "",
+      "hours": "Lun–Sam 8h–19h"
+    },
+    "seo_title": "Plombier-électricien Bordeaux · Charles Folgueras",
+    "meta_description": "Plombier-électricien à Bordeaux : installation électrique, chauffe-eau, radiateurs pilotés. Travail soigné, note 5/5. Intervention rapide sur Bordeaux et sa métropole."
+  },
+  "reviews": [
+    {
+      "author": "Isabelle M.",
+      "location": "Mérignac",
+      "rating": 5,
+      "text": "Charles Folgueras a réalisé l'installation de tous les radiateurs pilotés à distance dans ma nouvelle maison, refait entièrement le tableau électrique et rajouté des prises. Travail parfait, très soigné avec d'excellentes idées d'installation avec du très bon matériel. Je recommande vivement ce très bon professionnel."
+    },
+    {
+      "author": "Thomas R.",
+      "location": "Talence",
+      "rating": 5,
+      "text": "Plombier sérieux et efficace 👍"
+    },
+    {
+      "author": "Nathalie D.",
+      "location": "Pessac",
+      "rating": 5,
+      "text": "Un grand professionnel qui a réussi à trouver une solution à un problème qui durait depuis 2 ans dans mon logement. Il s'est d'ailleurs rendu disponible très rapidement et a cherché à comprendre toutes les problématiques liés à mon contacteur Jour/nuit et à mon chauffe eau. Consciencieux, méticuleux, pragmatique, réalisant un travail propre et soigné… Je le recommande les yeux fermés."
+    }
+  ]
+}
