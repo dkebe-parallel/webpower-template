@@ -103,7 +103,7 @@ export default async function DemoPage({ params }: PageProps) {
     <>
       {/* Sticky wrapper: demo banner + header together */}
       <div style={{ position: 'sticky', top: 0, zIndex: 50 }}>
-        {demoMode && <DemoBanner businessName={data.business.name} />}
+        {demoMode && <DemoBanner businessName={data.business.name} slug={slug} />}
         <Header
           businessName={data.business.name}
           phone={data.business.phone}

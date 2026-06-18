@@ -1,8 +1,9 @@
 interface DemoBannerProps {
   businessName: string
+  slug?: string
 }
 
-export default function DemoBanner({ businessName }: DemoBannerProps) {
+export default function DemoBanner({ businessName, slug }: DemoBannerProps) {
   if (process.env.NEXT_PUBLIC_DEMO_MODE !== 'true') return null
 
   return (
@@ -15,7 +16,7 @@ export default function DemoBanner({ businessName }: DemoBannerProps) {
         <span style={{ color: 'rgba(255,255,255,.82)' }}>
           ✦ Démo gratuite préparée par <strong style={{ color: '#fff' }}>WebPower</strong> pour <strong style={{ color: '#fff' }}>{businessName}</strong> — Pour en devenir propriétaire :
         </span>
-        <a href="#contact" className="demo-banner-cta">
+        <a href={slug ? `/commander?slug=${slug}` : '#contact'} className="demo-banner-cta">
           Demander l&apos;accès
           <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.4" strokeLinecap="round" strokeLinejoin="round">
             <path d="M5 12h14M13 6l6 6-6 6"/>
