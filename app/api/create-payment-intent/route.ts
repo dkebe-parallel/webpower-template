@@ -3,12 +3,12 @@ export const runtime = 'nodejs'
 import Stripe from 'stripe'
 import { NextResponse } from 'next/server'
 
-const stripe = new Stripe(process.env.STRIPE_SECRET_KEY!, {
-  apiVersion: '2026-05-27.dahlia',
-})
-
 export async function POST(request: Request) {
   try {
+    const stripe = new Stripe(process.env.STRIPE_SECRET_KEY!, {
+      apiVersion: '2026-05-27.dahlia',
+    })
+
     const { amount, currency, metadata } = await request.json()
 
     const paymentIntent = await stripe.paymentIntents.create({
@@ -20,7 +20,10 @@ export async function POST(request: Request) {
 
     return NextResponse.json({ clientSecret: paymentIntent.client_secret })
   } catch (err: unknown) {
-    const message = err instanceof Error ? err.message : 'Internal error'
-    return NextResponse.json({ error: message }, { status: 500 })
+    const e = err as { message?: string; type?: string; code?: string }
+    return NextResponse.json(
+      { error: e.message, type: e.type, code: e.code },
+      { status: 500 }
+    )
   }
 }
