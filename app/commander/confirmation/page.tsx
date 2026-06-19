@@ -33,7 +33,7 @@ export default async function ConfirmationPage({ searchParams }: PageProps) {
           </h1>
 
           <p style={{ color: '#666', fontSize: '17px', lineHeight: 1.6, marginBottom: '32px' }}>
-            Notre équipe vous contactera dans les 24h pour finaliser la mise en ligne de votre site.
+            Nous finalisons la mise en ligne de votre site. Vos accès vous serons envoyé par email dans les 48/72h.
           </p>
 
           {/* Order summary */}

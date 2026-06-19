@@ -273,7 +273,7 @@ export default function CommanderClient({ data, slug }: Props) {
           <h1 style={{ fontFamily: 'var(--display)', fontSize: 'clamp(1.5rem, 4vw, 2.25rem)', marginBottom: '8px', color: '#202020' }}>
             Votre site est prêt,&nbsp;<span style={{ color: '#2275FE' }}>{data.business.name}</span>
           </h1>
-          <p style={{ color: '#999', marginTop: 0, marginBottom: '32px', fontSize: '17px' }}>Activez-le en moins de 24h — domaine inclus.</p>
+          <p style={{ color: '#999', marginTop: 0, marginBottom: '32px', fontSize: '17px' }}>Activé sous 48/72h — domaine inclus.</p>
 
           <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(280px, 1fr))', gap: '24px', alignItems: 'start' }}>
             {/* Business preview */}
@@ -391,7 +391,7 @@ export default function CommanderClient({ data, slug }: Props) {
       {step === 3 && (
         <div style={s.wrap}>
           <h2 style={{ fontFamily: 'var(--display)', fontSize: 'clamp(1.4rem, 3.5vw, 2rem)', marginBottom: '8px' }}>Informations & Paiement</h2>
-          <p style={{ color: '#999', marginTop: 0, marginBottom: '32px' }}>Dernière étape — votre site sera en ligne dans les 24h.</p>
+          <p style={{ color: '#999', marginTop: 0, marginBottom: '32px' }}>Dernière étape — votre site sera en ligne sous 48/72h.</p>
 
           <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(300px, 1fr))', gap: '32px', alignItems: 'start' }}>
             {/* Left: form */}
