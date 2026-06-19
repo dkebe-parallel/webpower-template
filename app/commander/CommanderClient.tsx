@@ -173,13 +173,21 @@ export default function CommanderClient({ data, slug }: Props) {
           metadata: { slug, domain: selectedDomain, businessName: data.business.name },
         }),
       })
+      if (!res.ok) {
+        const errText = await res.text()
+        console.error('[commander] PaymentIntent failed:', res.status, errText)
+        setIntentError(`Erreur ${res.status} — ${errText}`)
+        return
+      }
       const json = await res.json()
       if (json.clientSecret) {
         setClientSecret(json.clientSecret)
       } else {
+        console.error('[commander] No clientSecret in response:', json)
         setIntentError(json.error ?? 'Impossible de charger le paiement.')
       }
-    } catch {
+    } catch (err) {
+      console.error('[commander] Network error:', err)
       setIntentError('Erreur réseau — veuillez réessayer.')
     }
   }, [clientSecret, slug, selectedDomain, data.business.name])
