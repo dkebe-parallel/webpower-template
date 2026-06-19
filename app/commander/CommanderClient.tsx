@@ -11,9 +11,9 @@ import {
 } from '@stripe/react-stripe-js'
 import type { BusinessData } from '@/lib/types'
 
-// loadStripe is called once at module level — safe because NEXT_PUBLIC_ vars are
-// inlined at build time, so the value is always a string in the browser bundle.
-const stripePromise = loadStripe(process.env.NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY ?? '')
+const STRIPE_PK = process.env.NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY ?? ''
+if (!STRIPE_PK) console.error('[commander] NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY is not set — Stripe will fail')
+const stripePromise = STRIPE_PK ? loadStripe(STRIPE_PK) : null
 
 // ── helpers ──────────────────────────────────────────────────────────────────
 
@@ -467,7 +467,7 @@ export default function CommanderClient({ data, slug }: Props) {
                 <div style={{ marginTop: '24px', paddingTop: '20px', borderTop: '1px solid #E8E8E8' }}>
                   {intentError ? (
                     <p style={{ color: '#EF4444', fontSize: '14px', textAlign: 'center' }}>{intentError}</p>
-                  ) : clientSecret && stripeOptions ? (
+                  ) : clientSecret && stripeOptions && stripePromise ? (
                     <Elements stripe={stripePromise} options={stripeOptions}>
                       <PayForm
                         clientSecret={clientSecret}
