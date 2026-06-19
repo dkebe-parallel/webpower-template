@@ -1,8 +1,10 @@
+export const runtime = 'nodejs'
+
 import Stripe from 'stripe'
 import { NextResponse } from 'next/server'
 
 const stripe = new Stripe(process.env.STRIPE_SECRET_KEY!, {
-  apiVersion: '2026-05-27.dahlia',
+  apiVersion: '2024-06-20',
 })
 
 export async function POST(request: Request) {
