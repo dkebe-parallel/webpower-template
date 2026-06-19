@@ -309,7 +309,7 @@ export default function CommanderClient({ data, slug }: Props) {
                   'Domaine personnalisé inclus (1 an)',
                   'Hébergement (1 an)',
                   'Site optimisé pour Google (SEO local)',
-                  "Panel d'administration simplifié",
+                  "Espace de gestion simplifié",
                 ].map(item => (
                   <li key={item} style={{ display: 'flex', alignItems: 'flex-start', gap: '10px', fontSize: '15px', color: '#202020' }}>
                     <span style={{ color: '#22C55E', flexShrink: 0, marginTop: '1px' }}>{CHECK_GREEN}</span>
@@ -323,7 +323,7 @@ export default function CommanderClient({ data, slug }: Props) {
               </button>
               <p style={{ textAlign: 'center', color: '#999', fontSize: '13px', margin: '12px 0 0', display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '6px' }}>
                 <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><rect x="3" y="11" width="18" height="11" rx="2" ry="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></svg>
-                Paiement 100% sécurisé · Satisfait ou remboursé 30 jours
+                Paiement 100% sécurisé
               </p>
             </div>
           </div>
