@@ -18,7 +18,7 @@ export async function GET(request: Request) {
   const clientIp = process.env.NAMECHEAP_CLIENT_IP
 
   if (!apiKey || !apiUser || !clientIp) {
-    return NextResponse.json({ suggestions: suggestions.map(domain => ({ domain, available: null })) })
+    return NextResponse.json({ suggestions: suggestions.map(domain => ({ domain, available: null })), error: 'Missing credentials' })
   }
 
   try {
@@ -33,11 +33,27 @@ export async function GET(request: Request) {
     const res = await fetch(url.toString())
     const text = await res.text()
 
-    const results = [...text.matchAll(/Domain="([^"]+)" Available="([^"]+)"/g)]
-    const availability = results.map(m => ({ domain: m[1], available: m[2] === 'true' }))
+    // Check for API-level errors
+    if (text.includes('Status="ERROR"')) {
+      const errMatch = text.match(/<Error[^>]*>([^<]+)<\/Error>/)
+      const errMsg = errMatch?.[1] ?? 'Namecheap API error'
+      console.error('[suggest-domains] Namecheap error:', errMsg)
+      return NextResponse.json({ suggestions: suggestions.map(domain => ({ domain, available: null })), error: errMsg })
+    }
+
+    // Parse each DomainCheckResult element independently
+    const elements = [...text.matchAll(/<DomainCheckResult[^/]*\/>/g)]
+    const availability = elements.map(m => {
+      const elem = m[0]
+      const domainMatch = elem.match(/Domain="([^"]+)"/)
+      const available = /Available="true"/i.test(elem)
+      return { domain: domainMatch?.[1] ?? '', available }
+    }).filter(r => r.domain)
 
     return NextResponse.json({ suggestions: availability })
-  } catch {
-    return NextResponse.json({ suggestions: [] })
+  } catch (err: unknown) {
+    const e = err as { message?: string }
+    console.error('[suggest-domains] error:', e.message)
+    return NextResponse.json({ suggestions: suggestions.map(domain => ({ domain, available: null })), error: e.message })
   }
 }

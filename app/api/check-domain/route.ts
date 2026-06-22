@@ -18,8 +18,6 @@ export async function GET(request: Request) {
   if (parts.length < 2) {
     return NextResponse.json({ available: false, error: 'Invalid domain format' })
   }
-  const tld = parts[parts.length - 1]
-  const sld = parts.slice(0, -1).join('.')
 
   try {
     const url = new URL('https://api.namecheap.com/xml.response')
@@ -28,15 +26,30 @@ export async function GET(request: Request) {
     url.searchParams.set('UserName', apiUser)
     url.searchParams.set('ClientIp', clientIp)
     url.searchParams.set('Command', 'namecheap.domains.check')
-    url.searchParams.set('DomainList', `${sld}.${tld}`)
+    url.searchParams.set('DomainList', domain)
 
     const res = await fetch(url.toString())
     const text = await res.text()
 
-    const availableMatch = text.match(/Available="([^"]+)"/)
-    const available = availableMatch?.[1] === 'true'
+    // Check for API-level errors first
+    if (text.includes('Status="ERROR"')) {
+      const errMatch = text.match(/<Error[^>]*>([^<]+)<\/Error>/)
+      const errMsg = errMatch?.[1] ?? 'Namecheap API error'
+      console.error('[check-domain] Namecheap error:', errMsg)
+      return NextResponse.json({ available: false, error: errMsg })
+    }
 
-    return NextResponse.json({ available, domain: `${sld}.${tld}` })
+    // Parse the DomainCheckResult element, extracting attributes independently
+    const elemMatch = text.match(/<DomainCheckResult[^/]*\/>/)
+    if (!elemMatch) {
+      console.error('[check-domain] No DomainCheckResult in response:', text.slice(0, 500))
+      return NextResponse.json({ available: false, error: 'Unexpected response format' })
+    }
+
+    const elem = elemMatch[0]
+    const available = /Available="true"/i.test(elem)
+
+    return NextResponse.json({ available, domain })
   } catch (err: unknown) {
     const e = err as { message?: string }
     return NextResponse.json({ available: false, error: e.message })
