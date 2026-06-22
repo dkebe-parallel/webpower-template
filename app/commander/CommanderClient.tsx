@@ -21,20 +21,6 @@ function slugToDomain(slug: string): string {
   return slug.replace(/-/g, '') + '.fr'
 }
 
-function isForbidden(domain: string): boolean {
-  return /google|facebook|apple/.test(domain.toLowerCase())
-}
-
-function isAvailableMock(domain: string): boolean {
-  if (isForbidden(domain)) return false
-  return domain.endsWith('.fr') || domain.endsWith('.com')
-}
-
-function getAlternatives(base: string): string[] {
-  const name = base.replace(/\.(fr|com|net|io)$/, '')
-  return [name + '.com', name + '.net', name + '-pro.fr']
-}
-
 // ── Step 3 payment sub-form ───────────────────────────────────────────────────
 // Receives the clientSecret already fetched by the parent so Elements and
 // confirmPayment always use the SAME PaymentIntent.
@@ -149,6 +135,9 @@ export default function CommanderClient({ data, slug }: Props) {
   const [searchedDomain, setSearchedDomain] = useState('')
   const [selectedDomain, setSelectedDomain] = useState('')
   const [searched, setSearched] = useState(false)
+  const [searching, setSearching] = useState(false)
+  const [availability, setAvailability] = useState<Record<string, boolean>>({})
+  const [suggestions, setSuggestions] = useState<{ domain: string; available: boolean }[]>([])
 
   // Step 3
   const [clientSecret, setClientSecret] = useState<string | null>(null)
@@ -196,6 +185,21 @@ export default function CommanderClient({ data, slug }: Props) {
     if (step === 3) fetchIntent()
   }, [step, fetchIntent])
 
+  // Load domain suggestions on mount
+  useEffect(() => {
+    fetch(`/api/suggest-domains?slug=${encodeURIComponent(slug)}`)
+      .then(r => r.json())
+      .then(d => {
+        if (d.suggestions?.length) {
+          setSuggestions(d.suggestions)
+          const map: Record<string, boolean> = {}
+          for (const s of d.suggestions) map[s.domain] = s.available
+          setAvailability(prev => ({ ...prev, ...map }))
+        }
+      })
+      .catch(() => {})
+  }, [slug])
+
   // Memoize stripeOptions so <Elements> never remounts due to a new object ref
   const stripeOptions = useMemo(() => {
     if (!clientSecret) return undefined
@@ -208,11 +212,23 @@ export default function CommanderClient({ data, slug }: Props) {
     }
   }, [clientSecret])
 
-  function handleSearch() {
+  async function handleSearch() {
     const d = domainInput.trim().toLowerCase()
+    if (!d) return
     setSearchedDomain(d)
     setSearched(true)
     setSelectedDomain('')
+    if (availability[d] !== undefined) return
+    setSearching(true)
+    try {
+      const res = await fetch(`/api/check-domain?domain=${encodeURIComponent(d)}`)
+      const json = await res.json()
+      setAvailability(prev => ({ ...prev, [d]: json.available }))
+    } catch {
+      setAvailability(prev => ({ ...prev, [d]: false }))
+    } finally {
+      setSearching(false)
+    }
   }
 
   function updateForm(field: keyof CustomerForm, value: string) {
@@ -220,7 +236,7 @@ export default function CommanderClient({ data, slug }: Props) {
   }
 
   const formValid = form.prenom && form.nom && form.email && form.telephone && form.adresse && form.codePostal && form.ville
-  const alternatives = searched ? getAlternatives(searchedDomain) : []
+  const alternatives = suggestions.filter(s => s.domain !== searchedDomain)
 
   // ── styles ──
   const s = {
@@ -353,18 +369,25 @@ export default function CommanderClient({ data, slug }: Props) {
                 onChange={e => setDomainInput(e.target.value)}
                 onKeyDown={e => e.key === 'Enter' && handleSearch()}
               />
-              <button onClick={handleSearch} style={{ ...s.btnBlue, padding: '0 20px', height: '48px', borderRadius: '8px' }}>
-                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+              <button onClick={handleSearch} disabled={searching} style={{ ...s.btnBlue, padding: '0 20px', height: '48px', borderRadius: '8px', opacity: searching ? 0.7 : 1 }}>
+                {searching
+                  ? <div style={{ width: '18px', height: '18px', border: '2px solid rgba(255,255,255,0.4)', borderTopColor: '#fff', borderRadius: '50%', animation: 'spin 0.8s linear infinite' }} />
+                  : <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" strokeLinejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+                }
               </button>
             </div>
 
             {searched && (
               <div style={{ display: 'flex', flexDirection: 'column', gap: '10px' }}>
-                <DomainRow domain={searchedDomain} available={isAvailableMock(searchedDomain)} selected={selectedDomain === searchedDomain} onSelect={() => setSelectedDomain(searchedDomain)} primary />
-                <p style={{ fontSize: '13px', color: '#999', margin: '8px 0 4px', fontWeight: 600, textTransform: 'uppercase', letterSpacing: '.08em' }}>Alternatives</p>
-                {alternatives.map(alt => (
-                  <DomainRow key={alt} domain={alt} available={isAvailableMock(alt)} selected={selectedDomain === alt} onSelect={() => setSelectedDomain(alt)} />
-                ))}
+                <DomainRow domain={searchedDomain} available={availability[searchedDomain] ?? null} selected={selectedDomain === searchedDomain} onSelect={() => setSelectedDomain(searchedDomain)} primary />
+                {alternatives.length > 0 && (
+                  <>
+                    <p style={{ fontSize: '13px', color: '#999', margin: '8px 0 4px', fontWeight: 600, textTransform: 'uppercase', letterSpacing: '.08em' }}>Suggestions</p>
+                    {alternatives.map(s => (
+                      <DomainRow key={s.domain} domain={s.domain} available={availability[s.domain] ?? s.available} selected={selectedDomain === s.domain} onSelect={() => setSelectedDomain(s.domain)} />
+                    ))}
+                  </>
+                )}
               </div>
             )}
 
@@ -525,8 +548,14 @@ function FormField({ label, value, onChange, placeholder, type = 'text' }: {
 }
 
 function DomainRow({ domain, available, selected, onSelect, primary = false }: {
-  domain: string; available: boolean; selected: boolean; onSelect: () => void; primary?: boolean
+  domain: string; available: boolean | null; selected: boolean; onSelect: () => void; primary?: boolean
 }) {
+  const badge = available === null
+    ? { bg: '#F3F4F6', color: '#999', label: 'Vérification…' }
+    : available
+      ? { bg: '#DCFCE7', color: '#16A34A', label: '✓ Disponible' }
+      : { bg: '#FEE2E2', color: '#DC2626', label: '✗ Indisponible' }
+
   return (
     <div style={{
       display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: '12px',
@@ -536,8 +565,8 @@ function DomainRow({ domain, available, selected, onSelect, primary = false }: {
     }}>
       <span style={{ fontWeight: primary ? 700 : 500, fontSize: '15px', color: '#202020', overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap', flex: 1, minWidth: 0 }}>{domain}</span>
       <div style={{ display: 'flex', alignItems: 'center', gap: '10px', flexShrink: 0 }}>
-        <span style={{ fontSize: '12px', fontWeight: 700, padding: '4px 10px', borderRadius: '100px', background: available ? '#DCFCE7' : '#FEE2E2', color: available ? '#16A34A' : '#DC2626' }}>
-          {available ? '✓ Disponible' : '✗ Indisponible'}
+        <span style={{ fontSize: '12px', fontWeight: 700, padding: '4px 10px', borderRadius: '100px', background: badge.bg, color: badge.color }}>
+          {badge.label}
         </span>
         {available && (
           <button onClick={onSelect} style={{ background: selected ? '#2275FE' : '#fff', color: selected ? '#fff' : '#2275FE', border: '1.5px solid #2275FE', borderRadius: '6px', padding: '6px 14px', fontSize: '13px', fontWeight: 700, cursor: 'pointer', whiteSpace: 'nowrap', width: 'auto' }}>
