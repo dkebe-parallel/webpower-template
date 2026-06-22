@@ -1,87 +1,32 @@
 import { NextResponse } from 'next/server'
 export const runtime = 'nodejs'
 
-const VERCEL_EGRESS_IPS = ['3.81.98.62', '3.227.246.144']
-
-function extractActualIp(xml: string): string | null {
-  const match = xml.match(/Invalid request IP:\s*([\d.]+)/)
-  return match?.[1] ?? null
-}
-
-async function namecheapFetch(params: Record<string, string>, apiKey: string, apiUser: string, clientIp: string): Promise<string> {
-  const buildUrl = (ip: string) => {
-    const url = new URL('https://api.namecheap.com/xml.response')
-    url.searchParams.set('ApiUser', apiUser)
-    url.searchParams.set('ApiKey', apiKey)
-    url.searchParams.set('UserName', apiUser)
-    url.searchParams.set('ClientIp', ip)
-    for (const [k, v] of Object.entries(params)) url.searchParams.set(k, v)
-    return url.toString()
+function getRdapUrl(domain: string): string {
+  const tld = domain.split('.').pop()?.toLowerCase() ?? ''
+  switch (tld) {
+    case 'fr': return `https://rdap.nic.fr/domain/${domain}`
+    case 'com': return `https://rdap.verisign.com/com/v1/domain/${domain}`
+    case 'net': return `https://rdap.verisign.com/net/v1/domain/${domain}`
+    case 'org': return `https://rdap.publicinterestregistry.org/rdap/domain/${domain}`
+    default: return `https://rdap.org/domain/${domain}`
   }
-
-  const res = await fetch(buildUrl(clientIp))
-  const text = await res.text()
-
-  // Known Vercel egress IP detected from error message
-  const actualIp = extractActualIp(text)
-  if (actualIp && actualIp !== clientIp) {
-    console.log('[check-domain] Retrying with detected IP:', actualIp)
-    return (await fetch(buildUrl(actualIp))).text()
-  }
-
-  // ClientIp param itself was rejected — try known Vercel egress IPs
-  if (text.includes('Parameter ClientIP is invalid')) {
-    for (const ip of VERCEL_EGRESS_IPS) {
-      console.log('[check-domain] Retrying with fallback IP:', ip)
-      const retryText = await (await fetch(buildUrl(ip))).text()
-      if (!retryText.includes('Status="ERROR"')) return retryText
-    }
-  }
-
-  return text
 }
 
 export async function GET(request: Request) {
   const { searchParams } = new URL(request.url)
-  const domain = searchParams.get('domain')
-  if (!domain) return NextResponse.json({ available: false, error: 'Missing domain' })
-
-  const apiKey = process.env.NAMECHEAP_API_KEY
-  const apiUser = process.env.NAMECHEAP_API_USER
-  const clientIp = process.env.NAMECHEAP_CLIENT_IP
-
-  if (!apiKey || !apiUser || !clientIp) {
-    return NextResponse.json({ available: false, error: 'Missing Namecheap credentials' })
-  }
-
-  const parts = domain.split('.')
-  if (parts.length < 2) {
-    return NextResponse.json({ available: false, error: 'Invalid domain format' })
+  const domain = searchParams.get('domain')?.toLowerCase().trim()
+  if (!domain || !domain.includes('.')) {
+    return NextResponse.json({ available: false, error: 'Invalid domain' })
   }
 
   try {
-    const text = await namecheapFetch(
-      { Command: 'namecheap.domains.check', DomainList: domain },
-      apiKey, apiUser, clientIp
-    )
-
-    if (text.includes('Status="ERROR"')) {
-      const errMatch = text.match(/<Error[^>]*>([^<]+)<\/Error>/)
-      const errMsg = errMatch?.[1] ?? 'Namecheap API error'
-      console.error('[check-domain] Namecheap error:', errMsg)
-      return NextResponse.json({ available: false, error: errMsg })
-    }
-
-    const elemMatch = text.match(/<DomainCheckResult[^/]*\/>/)
-    if (!elemMatch) {
-      console.error('[check-domain] No DomainCheckResult in response:', text.slice(0, 500))
-      return NextResponse.json({ available: false, error: 'Unexpected response format' })
-    }
-
-    const available = /Available="true"/i.test(elemMatch[0])
+    const res = await fetch(getRdapUrl(domain), {
+      headers: { Accept: 'application/rdap+json' },
+      signal: AbortSignal.timeout(5000),
+    })
+    const available = res.status === 404
     return NextResponse.json({ available, domain })
-  } catch (err: unknown) {
-    const e = err as { message?: string }
-    return NextResponse.json({ available: false, error: e.message })
+  } catch {
+    return NextResponse.json({ available: null, domain })
   }
 }
