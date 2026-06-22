@@ -1,6 +1,8 @@
 import { NextResponse } from 'next/server'
 export const runtime = 'nodejs'
 
+const VERCEL_EGRESS_IPS = ['3.81.98.62', '3.227.246.144']
+
 function extractActualIp(xml: string): string | null {
   const match = xml.match(/Invalid request IP:\s*([\d.]+)/)
   return match?.[1] ?? null
@@ -20,12 +22,22 @@ async function namecheapFetch(params: Record<string, string>, apiKey: string, ap
   const res = await fetch(buildUrl(clientIp))
   const text = await res.text()
 
+  // Known Vercel egress IP detected from error message
   const actualIp = extractActualIp(text)
   if (actualIp && actualIp !== clientIp) {
     console.log('[check-domain] Retrying with detected IP:', actualIp)
-    const retry = await fetch(buildUrl(actualIp))
-    return retry.text()
+    return (await fetch(buildUrl(actualIp))).text()
   }
+
+  // ClientIp param itself was rejected — try known Vercel egress IPs
+  if (text.includes('Parameter ClientIP is invalid')) {
+    for (const ip of VERCEL_EGRESS_IPS) {
+      console.log('[check-domain] Retrying with fallback IP:', ip)
+      const retryText = await (await fetch(buildUrl(ip))).text()
+      if (!retryText.includes('Status="ERROR"')) return retryText
+    }
+  }
+
   return text
 }
 
