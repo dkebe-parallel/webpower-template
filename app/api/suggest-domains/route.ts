@@ -1,6 +1,34 @@
 import { NextResponse } from 'next/server'
 export const runtime = 'nodejs'
 
+function extractActualIp(xml: string): string | null {
+  const match = xml.match(/Invalid request IP:\s*([\d.]+)/)
+  return match?.[1] ?? null
+}
+
+async function namecheapFetch(params: Record<string, string>, apiKey: string, apiUser: string, clientIp: string): Promise<string> {
+  const buildUrl = (ip: string) => {
+    const url = new URL('https://api.namecheap.com/xml.response')
+    url.searchParams.set('ApiUser', apiUser)
+    url.searchParams.set('ApiKey', apiKey)
+    url.searchParams.set('UserName', apiUser)
+    url.searchParams.set('ClientIp', ip)
+    for (const [k, v] of Object.entries(params)) url.searchParams.set(k, v)
+    return url.toString()
+  }
+
+  const res = await fetch(buildUrl(clientIp))
+  const text = await res.text()
+
+  const actualIp = extractActualIp(text)
+  if (actualIp && actualIp !== clientIp) {
+    console.log('[suggest-domains] Retrying with detected IP:', actualIp)
+    const retry = await fetch(buildUrl(actualIp))
+    return retry.text()
+  }
+  return text
+}
+
 export async function GET(request: Request) {
   const { searchParams } = new URL(request.url)
   const slug = searchParams.get('slug') ?? ''
@@ -22,18 +50,11 @@ export async function GET(request: Request) {
   }
 
   try {
-    const url = new URL('https://api.namecheap.com/xml.response')
-    url.searchParams.set('ApiUser', apiUser)
-    url.searchParams.set('ApiKey', apiKey)
-    url.searchParams.set('UserName', apiUser)
-    url.searchParams.set('ClientIp', clientIp)
-    url.searchParams.set('Command', 'namecheap.domains.check')
-    url.searchParams.set('DomainList', suggestions.join(','))
+    const text = await namecheapFetch(
+      { Command: 'namecheap.domains.check', DomainList: suggestions.join(',') },
+      apiKey, apiUser, clientIp
+    )
 
-    const res = await fetch(url.toString())
-    const text = await res.text()
-
-    // Check for API-level errors
     if (text.includes('Status="ERROR"')) {
       const errMatch = text.match(/<Error[^>]*>([^<]+)<\/Error>/)
       const errMsg = errMatch?.[1] ?? 'Namecheap API error'
@@ -41,7 +62,6 @@ export async function GET(request: Request) {
       return NextResponse.json({ suggestions: suggestions.map(domain => ({ domain, available: null })), error: errMsg })
     }
 
-    // Parse each DomainCheckResult element independently
     const elements = [...text.matchAll(/<DomainCheckResult[^/]*\/>/g)]
     const availability = elements.map(m => {
       const elem = m[0]
