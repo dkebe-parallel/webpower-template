@@ -3,6 +3,21 @@ const { createWriteStream } = require('fs')
 const AIRTABLE_BASE_ID = process.env.AIRTABLE_BASE_ID
 const AIRTABLE_API_KEY = process.env.AIRTABLE_API_KEY
 
+// Same slug logic as generate-demos-agent.js
+function generateSlug(name) {
+  return name
+    .toLowerCase()
+    .normalize('NFD')
+    .replace(/[̀-ͯ]/g, '')
+    .replace(/ç/g, 'c')
+    .replace(/[^a-z0-9\s-]/g, '')
+    .trim()
+    .replace(/[\s]+/g, '-')
+    .replace(/-{2,}/g, '-')
+    .replace(/^-+|-+$/g, '')
+    .slice(0, 60)
+}
+
 // Deterministic 4-char alphanumeric code from slug
 function hashToCode(slug) {
   const chars = 'abcdefghijklmnopqrstuvwxyz0123456789'
@@ -36,7 +51,7 @@ async function getAllLeads() {
   const leads = []
   let offset = null
   do {
-    const url = `/Sans%20Site?filterByFormula={statut}="Démo générée"&pageSize=100${offset ? `&offset=${offset}` : ''}`
+    const url = `/Sans%20Site?filterByFormula={statut}=%22D%C3%A9mo%20g%C3%A9n%C3%A9r%C3%A9e%22&pageSize=100${offset ? `&offset=${offset}` : ''}`
     const data = await airtableFetch(url)
     if (data.records) leads.push(...data.records)
     offset = data.offset
@@ -61,7 +76,7 @@ async function getExistingCodes() {
 }
 
 async function createLink({ short_code, destination_url, slug, lead_name }) {
-  return airtableFetch('/Liens%20Courts', {
+  const result = await airtableFetch('/Liens%20Courts', {
     method: 'POST',
     body: JSON.stringify({
       fields: {
@@ -76,6 +91,8 @@ async function createLink({ short_code, destination_url, slug, lead_name }) {
       typecast: true,
     }),
   })
+  if (result.error) throw new Error(`Airtable: ${result.error.type} — ${result.error.message}`)
+  return result
 }
 
 async function main() {
@@ -94,18 +111,19 @@ async function main() {
   let skipped = 0
 
   for (const lead of leads) {
-    const slug = lead.fields.slug
-    const nom = lead.fields.nom || lead.fields.name || slug
+    const nom = lead.fields.nom || lead.fields.name || ''
     const telephone = lead.fields.telephone || lead.fields.phone || ''
 
-    if (!slug) { skipped++; continue }
+    if (!nom) { skipped++; continue }
 
+    // Derive slug from nom — same logic as the generation agent
+    const slug = generateSlug(nom)
     const code = hashToCode(slug)
     const short_link = `https://wbpw.li/${code}`
 
     if (existing[slug]) {
-      console.log(`  SKIP  ${slug} → already has code ${existing[slug]}`)
       const existingCode = existing[slug]
+      console.log(`  SKIP  ${slug} → already has code ${existingCode}`)
       csvStream.write(`"${nom}","${telephone}","https://wbpw.li/${existingCode}",""\n`)
       skipped++
       continue
@@ -126,7 +144,7 @@ async function main() {
       skipped++
     }
 
-    // Rate-limit: 5 req/s Airtable limit
+    // Airtable rate limit: 5 req/s
     await new Promise(r => setTimeout(r, 220))
   }
 
