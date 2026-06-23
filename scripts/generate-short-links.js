@@ -86,7 +86,6 @@ async function createLink({ short_code, destination_url, slug, lead_name }) {
         lead_name,
         clicks: 0,
         clicked: false,
-        created_at: new Date().toISOString(),
       },
       typecast: true,
     }),
