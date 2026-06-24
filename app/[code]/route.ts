@@ -49,17 +49,18 @@ export async function GET(
       }),
     })
 
-    // Update lead status to "Démo vue" if not already converted
+    // Update lead status to "Démo vue" — find by url_demo containing the slug
     const slug = record.fields.slug
     if (slug) {
+      const filter = encodeURIComponent(`FIND("${slug}", {url_demo})`)
       fetch(
-        `https://api.airtable.com/v0/${baseId}/Sans%20Site?filterByFormula={slug}="${slug}"&maxRecords=1`,
+        `https://api.airtable.com/v0/${baseId}/Sans%20Site?filterByFormula=${filter}&fields[]=statut&maxRecords=1`,
         { headers: { Authorization: `Bearer ${apiKey}` } }
       )
         .then(r => r.json())
         .then(leadData => {
           const leadRecord = leadData.records?.[0]
-          if (leadRecord && leadRecord.fields.statut !== 'Converti') {
+          if (leadRecord && leadRecord.fields.statut === 'Démo générée') {
             fetch(`https://api.airtable.com/v0/${baseId}/Sans%20Site/${leadRecord.id}`, {
               method: 'PATCH',
               headers: {
