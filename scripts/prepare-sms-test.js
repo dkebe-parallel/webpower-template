@@ -1,7 +1,7 @@
 const { readFileSync, writeFileSync } = require('fs')
 
-const AIRTABLE_BASE_ID = process.env.AIRTABLE_BASE_ID
-const AIRTABLE_API_KEY = process.env.AIRTABLE_API_KEY
+const BASE = `https://api.airtable.com/v0/${process.env.AIRTABLE_BASE_ID}`
+const HEADERS = { Authorization: `Bearer ${process.env.AIRTABLE_API_KEY}`, 'Content-Type': 'application/json' }
 
 const MSG_A1 = (link) =>
   `Bonjour, c'est Sam. J'ai créé un aperçu de site web pour votre entreprise, jetez un œil : ${link}`
@@ -11,109 +11,144 @@ const MSG_B6 = (link) =>
 
 function parseCSV(content) {
   const lines = content.trim().split('\n')
-  const headers = lines[0].split(',').map(h => h.replace(/"/g, '').trim())
+  const hdrs = lines[0].split(',').map(h => h.replace(/"/g, '').trim())
   return lines.slice(1).map(line => {
-    const values = []
-    let current = '', inQuotes = false
+    const values = []; let cur = '', inQ = false
     for (const ch of line) {
-      if (ch === '"') { inQuotes = !inQuotes }
-      else if (ch === ',' && !inQuotes) { values.push(current); current = '' }
-      else current += ch
+      if (ch === '"') inQ = !inQ
+      else if (ch === ',' && !inQ) { values.push(cur); cur = '' }
+      else cur += ch
     }
-    values.push(current)
-    return Object.fromEntries(headers.map((h, i) => [h, values[i] ?? '']))
+    values.push(cur)
+    return Object.fromEntries(hdrs.map((h, i) => [h, values[i] ?? '']))
   })
 }
 
-async function updateLienCourt(slug, variant) {
-  const filter = encodeURIComponent(`{slug}="${slug}"`)
-  const res = await fetch(
-    `https://api.airtable.com/v0/${AIRTABLE_BASE_ID}/Liens%20Courts?filterByFormula=${filter}&maxRecords=1`,
-    { headers: { Authorization: `Bearer ${AIRTABLE_API_KEY}` } }
-  )
-  const data = await res.json()
-  const record = data.records?.[0]
-  if (!record) { console.warn(`  WARN: no Liens Courts record for slug "${slug}"`); return }
+async function getAllPages(tableName, formula) {
+  const records = []
+  let offset = null
+  do {
+    let url = `${BASE}/${tableName}?pageSize=100`
+    if (formula) url += `&filterByFormula=${encodeURIComponent(formula)}`
+    if (offset) url += `&offset=${offset}`
+    const res = await fetch(url, { headers: HEADERS })
+    const d = await res.json()
+    if (d.error) throw new Error(`Airtable error: ${JSON.stringify(d.error)}`)
+    records.push(...(d.records || []))
+    offset = d.offset
+  } while (offset)
+  return records
+}
 
-  await fetch(`https://api.airtable.com/v0/${AIRTABLE_BASE_ID}/Liens%20Courts/${record.id}`, {
-    method: 'PATCH',
-    headers: { Authorization: `Bearer ${AIRTABLE_API_KEY}`, 'Content-Type': 'application/json' },
-    body: JSON.stringify({ fields: { sms_variant: variant }, typecast: true }),
+async function patch(table, id, fields) {
+  const res = await fetch(`${BASE}/${table}/${id}`, {
+    method: 'PATCH', headers: HEADERS,
+    body: JSON.stringify({ fields, typecast: true }),
   })
-}
-
-function slugFromLink(short_link) {
-  // short_link-export has no slug col — derive from lead_name not available here
-  // We'll look up by short_link matching short_code in Liens Courts
-  return short_link.split('/').pop()
-}
-
-async function getLienCourtByCode(code) {
-  const filter = encodeURIComponent(`{short_code}="${code}"`)
-  const res = await fetch(
-    `https://api.airtable.com/v0/${AIRTABLE_BASE_ID}/Liens%20Courts?filterByFormula=${filter}&maxRecords=1`,
-    { headers: { Authorization: `Bearer ${AIRTABLE_API_KEY}` } }
-  )
-  const data = await res.json()
-  return data.records?.[0]
+  return res.json()
 }
 
 async function main() {
+  // 1. Fetch already-assigned codes from Airtable Liens Courts
+  console.log('Fetching current Airtable state...')
+  const assignedRecords = await getAllPages('Liens%20Courts', 'NOT({sms_variant} = "")')
+  const assignedByCode = {}
+  for (const r of assignedRecords) {
+    assignedByCode[r.fields.short_code] = r.fields.sms_variant
+  }
+  console.log(`Already assigned: ${Object.entries(assignedByCode).map(([k,v]) => `${k}=${v}`).join(', ')}`)
+
+  // 2. Fetch Non intéressé leads from Sans Site
+  const nonIntRecords = await getAllPages('Sans%20Site', "{statut}='Non int%C3%A9ress%C3%A9'")
+  const nonIntNames = new Set(nonIntRecords.map(r => r.fields.nom?.toLowerCase().trim()))
+  console.log(`Non intéressé leads to exclude: ${nonIntRecords.length}`)
+
+  // 3. Fetch all Liens Courts records (for record IDs)
+  const allLC = await getAllPages('Liens%20Courts', '')
+  const lcByCode = {}
+  for (const r of allLC) {
+    lcByCode[r.fields.short_code] = r
+  }
+
+  // 4. Read and deduplicate CSV by short_link
   const csv = readFileSync('short-links-export.csv', 'utf8')
-  const leads = parseCSV(csv)
+  const allLeads = parseCSV(csv)
+  const seenLinks = new Set()
+  const dedupedLeads = allLeads.filter(r => {
+    const link = r.short_link
+    if (seenLinks.has(link)) return false
+    seenLinks.add(link); return true
+  })
 
-  const unassigned = leads.filter(r => !r.sms_variant || r.sms_variant.trim() === '')
-  console.log(`Total leads in CSV: ${leads.length}, unassigned: ${unassigned.length}`)
+  // 5. Separate already-assigned A1 and B6 leads
+  const a1Leads = [], b6Leads = []
+  for (const r of dedupedLeads) {
+    const code = r.short_link?.split('/').pop()
+    const variant = assignedByCode[code]
+    if (variant === 'A1') a1Leads.push(r)
+    else if (variant === 'B6') b6Leads.push(r)
+  }
+  console.log(`\nExisting A1 (${a1Leads.length}): ${a1Leads.map(r => r.nom).join(', ')}`)
+  console.log(`Existing B6 (${b6Leads.length}): ${b6Leads.map(r => r.nom).join(', ')}`)
 
-  const batch = unassigned.slice(0, 10)
-  const groupA = batch.slice(0, 5)
-  const groupB = batch.slice(5, 10)
+  // 6. Find unassigned eligible leads
+  const available = dedupedLeads.filter(r => {
+    const code = r.short_link?.split('/').pop()
+    if (assignedByCode[code]) return false
+    if (r.nom?.toLowerCase().includes('g.a.p.c')) return false
+    if (nonIntNames.has(r.nom?.toLowerCase().trim())) return false
+    return true
+  })
 
-  const rowsA = [], rowsB = []
-
-  console.log('\nAssigning variants and updating Airtable...')
-
-  for (const lead of groupA) {
-    const code = slugFromLink(lead.short_link)
-    const msg = MSG_A1(lead.short_link)
-    rowsA.push({ ...lead, message: msg, variant: 'A1' })
-    const record = await getLienCourtByCode(code)
-    if (record) {
-      await fetch(`https://api.airtable.com/v0/${AIRTABLE_BASE_ID}/Liens%20Courts/${record.id}`, {
-        method: 'PATCH',
-        headers: { Authorization: `Bearer ${AIRTABLE_API_KEY}`, 'Content-Type': 'application/json' },
-        body: JSON.stringify({ fields: { sms_variant: 'A1' }, typecast: true }),
-      })
-      console.log(`  A1  ${lead.nom} → ${lead.short_link}`)
-    }
-    await new Promise(r => setTimeout(r, 220))
+  const needed = (10 - a1Leads.length) + (10 - b6Leads.length)
+  console.log(`\nAvailable unassigned leads: ${available.length}, need ${needed}`)
+  if (available.length < needed) {
+    console.error(`Not enough leads! Need ${needed}, have ${available.length}`)
+    process.exit(1)
   }
 
-  for (const lead of groupB) {
-    const code = slugFromLink(lead.short_link)
-    const msg = MSG_B6(lead.short_link)
-    rowsB.push({ ...lead, message: msg, variant: 'B6' })
-    const record = await getLienCourtByCode(code)
-    if (record) {
-      await fetch(`https://api.airtable.com/v0/${AIRTABLE_BASE_ID}/Liens%20Courts/${record.id}`, {
-        method: 'PATCH',
-        headers: { Authorization: `Bearer ${AIRTABLE_API_KEY}`, 'Content-Type': 'application/json' },
-        body: JSON.stringify({ fields: { sms_variant: 'B6' }, typecast: true }),
-      })
-      console.log(`  B6  ${lead.nom} → ${lead.short_link}`)
+  // 7. Assign: fill A1 to 10, then B6 to 10
+  const newA1 = available.slice(0, 10 - a1Leads.length)
+  const newB6 = available.slice(10 - a1Leads.length, needed)
+
+  console.log('\nAssigning new leads...')
+  for (const r of newA1) {
+    const code = r.short_link.split('/').pop()
+    const lcRec = lcByCode[code]
+    if (lcRec) {
+      await patch('Liens%20Courts', lcRec.id, { sms_variant: 'A1' })
+      console.log(`  A1  ${r.nom} (${code})`)
     }
-    await new Promise(r => setTimeout(r, 220))
+    await new Promise(resolve => setTimeout(resolve, 220))
+  }
+  for (const r of newB6) {
+    const code = r.short_link.split('/').pop()
+    const lcRec = lcByCode[code]
+    if (lcRec) {
+      await patch('Liens%20Courts', lcRec.id, { sms_variant: 'B6' })
+      console.log(`  B6  ${r.nom} (${code})`)
+    }
+    await new Promise(resolve => setTimeout(resolve, 220))
   }
 
-  const toCSVRow = r => `"${r.nom}","${r.telephone}","${r.short_link}","${r.message.replace(/"/g, '""')}","${r.variant}"`
-  const header = 'nom,telephone,short_link,message,variant'
+  // 8. Build final lists and export CSVs
+  const finalA1 = [...a1Leads, ...newA1]
+  const finalB6 = [...b6Leads, ...newB6]
 
-  writeFileSync('sms-test-A1.csv', [header, ...rowsA.map(toCSVRow)].join('\n'), 'utf8')
-  writeFileSync('sms-test-B6.csv', [header, ...rowsB.map(toCSVRow)].join('\n'), 'utf8')
+  const q = (s) => `"${String(s ?? '').replace(/"/g, '""')}"`
+  const toRow = (r, variant) => {
+    const msg = variant === 'A1' ? MSG_A1(r.short_link) : MSG_B6(r.short_link)
+    return [q(r.nom), q(r.telephone), q(r.short_link), q(msg), q(variant)].join(',')
+  }
+  const header = '"nom","telephone","short_link","message","variant"'
+  const BOM = '﻿'
 
-  console.log('\nA1:', groupA.map(r => r.nom).join(', '))
-  console.log('B6:', groupB.map(r => r.nom).join(', '))
-  console.log('CSVs exported: sms-test-A1.csv, sms-test-B6.csv')
+  writeFileSync('sms-test-A1.csv', BOM + [header, ...finalA1.map(r => toRow(r, 'A1'))].join('\n'), 'utf8')
+  writeFileSync('sms-test-B6.csv', BOM + [header, ...finalB6.map(r => toRow(r, 'B6'))].join('\n'), 'utf8')
+
+  console.log(`\nA1 (${finalA1.length} leads): ${finalA1.map(r => r.nom).join(', ')}`)
+  console.log(`B6 (${finalB6.length} leads): ${finalB6.map(r => r.nom).join(', ')}`)
+  console.log('\nCSVs exported: sms-test-A1.csv, sms-test-B6.csv')
 }
 
 main().catch(console.error)
