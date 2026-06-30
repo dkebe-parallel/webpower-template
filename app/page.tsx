@@ -1,6 +1,6 @@
 import type { Metadata } from 'next'
 import Image from 'next/image'
-import { StickyHeader, StatsSection, DemoFormSection, FAQSection } from './LandingClient'
+import { StickyHeader, StatsSection, DemoFormSection, FAQSection, StepIcon, WhatsAppWidget } from './LandingClient'
 
 export const metadata: Metadata = {
   title: 'WebPower — Le site web des artisans',
@@ -37,19 +37,16 @@ const INCLUS = [
 const HOW_IT_WORKS = [
   {
     num: '1',
-    icon: '📍',
     title: 'Partagez votre fiche Google Maps',
     desc: 'Collez simplement le lien de votre fiche Google dans notre formulaire. Pas besoin de préparer quoi que ce soit d\'autre.',
   },
   {
     num: '2',
-    icon: '🎨',
     title: 'On crée votre site sur mesure',
     desc: 'Notre équipe conçoit votre site vitrine en s\'appuyant sur vos vraies infos : avis clients, services, zone d\'intervention. Livré sous 48h.',
   },
   {
     num: '3',
-    icon: '🚀',
     title: 'Vous en devenez propriétaire',
     desc: 'Votre site vous plaît ? Validez la commande et il est à vous pour toujours. Paiement unique, aucun abonnement.',
   },
@@ -91,12 +88,10 @@ export default function LandingPage() {
         <div style={{ maxWidth: 1160, margin: '0 auto', display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 64, alignItems: 'center' }} className="hero-grid">
           <div>
             <div style={{ display: 'inline-block', background: '#EEF4FF', color: '#2275FE', borderRadius: 20, padding: '6px 14px', fontSize: 13, fontWeight: 600, marginBottom: 24 }}>
-              🛠 Le site web des artisans
+              🛠 La solution web pour les artisans
             </div>
             <h1 style={{ fontSize: 'clamp(34px, 4.5vw, 54px)', color: '#202020', marginBottom: 20, lineHeight: 1.08 }}>
-              Votre fiche Google Maps<br />
-              <span style={{ color: '#2275FE' }}>devient votre site web</span><br />
-              professionnel.
+              Votre fiche Google Maps <span style={{ color: '#2275FE' }}>devient votre site web</span> professionnel.
             </h1>
             <p style={{ fontSize: 18, color: '#555', lineHeight: 1.65, marginBottom: 36, maxWidth: 500 }}>
               On analyse vos avis, vos services et votre localisation pour créer un site vitrine unique, livré en 48h. Vous n&apos;avez rien à préparer.
@@ -146,13 +141,7 @@ export default function LandingPage() {
             {HOW_IT_WORKS.map((step, i) => (
               <>
                 <div key={step.num} style={{ textAlign: 'center', padding: '0 24px' }}>
-                  <div style={{
-                    width: 72, height: 72, borderRadius: '50%', background: '#EEF4FF',
-                    display: 'flex', alignItems: 'center', justifyContent: 'center',
-                    fontSize: 32, margin: '0 auto 20px', border: '3px solid #2275FE',
-                  }}>
-                    {step.icon}
-                  </div>
+                  <StepIcon step={(i + 1) as 1 | 2 | 3} />
                   <div style={{ display: 'inline-block', background: '#2275FE', color: '#fff', borderRadius: 20, padding: '3px 12px', fontSize: 12, fontWeight: 700, marginBottom: 14, letterSpacing: '0.05em' }}>
                     ÉTAPE {step.num}
                   </div>
@@ -179,7 +168,7 @@ export default function LandingPage() {
           <p style={{ fontSize: 13, fontWeight: 700, letterSpacing: '0.12em', color: '#2275FE', marginBottom: 16, textTransform: 'uppercase', textAlign: 'center' }}>— NOS MÉTIERS —</p>
           <h2 style={{ fontSize: 'clamp(28px, 4vw, 42px)', textAlign: 'center', color: '#202020', marginBottom: 12 }}>Un site taillé pour votre corps de métier</h2>
           <p style={{ fontSize: 17, color: '#666', textAlign: 'center', marginBottom: 52, maxWidth: 560, margin: '0 auto 52px' }}>
-            Chaque site est créé spécifiquement pour votre activité — pas un template copié-collé.
+            Chaque site est créé spécifiquement pour votre activité, votre ville et vos clients.
           </p>
           <div style={{ display: 'grid', gridTemplateColumns: 'repeat(4, 1fr)', gap: 20 }} className="metiers-grid">
             {METIERS.map((m) => (
@@ -215,7 +204,7 @@ export default function LandingPage() {
             padding: '52px 52px', boxShadow: '0 24px 64px rgba(0,0,0,0.25)',
           }}>
             <div style={{ fontSize: 72, fontWeight: 800, color: '#2275FE', fontFamily: 'var(--display)', lineHeight: 1, marginBottom: 8 }}>490 €</div>
-            <p style={{ fontSize: 15, color: '#999', marginBottom: 40 }}>Paiement unique · Sans abonnement</p>
+            <p style={{ fontSize: 15, color: '#999', marginBottom: 40 }}>Paiement unique, après validation de votre démo</p>
 
             <div style={{ display: 'flex', flexDirection: 'column', gap: 16, marginBottom: 44, textAlign: 'left' }}>
               {INCLUS.map((item) => (
@@ -232,7 +221,7 @@ export default function LandingPage() {
           </div>
 
           <p style={{ marginTop: 28, fontSize: 14, color: 'rgba(255,255,255,0.4)' }}>
-            Après la première année, renouvellement domaine + hébergement à 99€/an.
+            Après la première année, renouvellement domaine + hébergement à 49€/an.
           </p>
         </div>
       </section>
@@ -252,10 +241,23 @@ export default function LandingPage() {
                 WebPower accompagne les artisans français dans leur présence en ligne. Sites web professionnels, personnalisés, livrés rapidement et sans prise de tête.
               </p>
               <div style={{ display: 'flex', gap: 10 }}>
-                {/* Social placeholders */}
-                {['f', 'in', 'ig'].map(s => (
-                  <div key={s} style={{ width: 36, height: 36, borderRadius: '50%', background: '#1F2937', display: 'flex', alignItems: 'center', justifyContent: 'center', fontSize: 12, color: '#9CA3AF', fontWeight: 700 }}>{s}</div>
-                ))}
+                {/* WhatsApp */}
+                <a href="https://wa.me/33000000000" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp"
+                  style={{ width: 36, height: 36, borderRadius: '50%', background: '#25D366', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+                  <svg width="18" height="18" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M16 3C8.82 3 3 8.82 3 16c0 2.3.6 4.48 1.65 6.38L3 29l6.8-1.61A13 13 0 0 0 16 29c7.18 0 13-5.82 13-13S23.18 3 16 3Z" fill="#25D366"/>
+                    <path d="M16 5.5A10.5 10.5 0 0 0 7.05 21.4l.27.44-1.15 4.2 4.32-1.13.43.25A10.5 10.5 0 1 0 16 5.5Z" fill="white"/>
+                    <path d="M12.3 10.5c-.2-.44-.4-.45-.58-.46l-.5-.01c-.17 0-.45.06-.69.33-.23.27-.9.88-.9 2.14s.92 2.48 1.05 2.65c.13.17 1.78 2.86 4.4 3.89 2.17.86 2.62.69 3.09.65.47-.04 1.52-.62 1.73-1.22.21-.6.21-1.12.15-1.22-.06-.1-.24-.16-.5-.28-.27-.13-1.58-.78-1.83-.87-.24-.09-.42-.13-.6.13-.17.27-.67.87-.82 1.05-.15.17-.3.19-.57.06-.27-.13-1.14-.42-2.17-1.34-.8-.71-1.34-1.59-1.5-1.86-.16-.27-.02-.41.12-.55.12-.12.27-.31.4-.47.14-.16.18-.27.27-.45.09-.18.04-.34-.02-.47-.06-.14-.57-1.4-.8-1.91Z" fill="#25D366"/>
+                  </svg>
+                </a>
+                {/* Email */}
+                <a href="mailto:hello@yourwebpower.com" aria-label="Email"
+                  style={{ width: 36, height: 36, borderRadius: '50%', background: '#1F2937', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+                  <svg width="18" height="18" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <rect x="2" y="4" width="20" height="16" rx="3" stroke="#9CA3AF" strokeWidth="1.8" fill="none"/>
+                    <path d="M2 7l10 7 10-7" stroke="#9CA3AF" strokeWidth="1.8" strokeLinecap="round"/>
+                  </svg>
+                </a>
               </div>
             </div>
 
@@ -263,7 +265,7 @@ export default function LandingPage() {
             <div>
               <p style={{ fontSize: 13, fontWeight: 700, letterSpacing: '0.08em', color: '#6B7280', marginBottom: 20, textTransform: 'uppercase' }}>Services</p>
               <div style={{ display: 'flex', flexDirection: 'column', gap: 12 }}>
-                {[['Démo gratuite', '#demo'], ['Commander un site', '/commander'], ['Nos métiers', '#nos-metiers'], ['Tarif', '#tarif']].map(([l, h]) => (
+                {[['Démo gratuite', '#demo'], ['Nos métiers', '#nos-metiers'], ['Prix Unique', '#tarif']].map(([l, h]) => (
                   <a key={h} href={h} className="footer-nav-link">{l}</a>
                 ))}
               </div>
@@ -279,7 +281,7 @@ export default function LandingPage() {
               </div>
             </div>
 
-            {/* Contact + CTA */}
+            {/* CTA */}
             <div>
               <p style={{ fontSize: 13, fontWeight: 700, letterSpacing: '0.08em', color: '#6B7280', marginBottom: 20, textTransform: 'uppercase' }}>Vous êtes artisan ?</p>
               <p style={{ fontSize: 14, color: '#9CA3AF', lineHeight: 1.6, marginBottom: 20 }}>
@@ -297,13 +299,16 @@ export default function LandingPage() {
           <div style={{ borderTop: '1px solid #1F2937', padding: '20px 0', display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: 12 }}>
             <p style={{ fontSize: 13, color: '#4B5563' }}>© 2025-2026 WebPower. Tous droits réservés.</p>
             <div style={{ display: 'flex', gap: 24 }}>
-              {[['Mentions légales', '#'], ['Politique de confidentialité', '#']].map(([l, h]) => (
+              {[['Mentions légales', '/mentions-legales'], ['CGV', '/cgv'], ['Confidentialité', '/confidentialite']].map(([l, h]) => (
                 <a key={l} href={h} style={{ fontSize: 13, color: '#4B5563' }} className="footer-nav-link">{l}</a>
               ))}
             </div>
           </div>
         </div>
       </footer>
+
+      {/* WhatsApp floating widget */}
+      <WhatsAppWidget />
     </>
   )
 }

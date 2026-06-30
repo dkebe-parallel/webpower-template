@@ -16,9 +16,10 @@ export function StickyHeader() {
   }, [])
 
   const navLinks = [
-    { label: 'Comment ça marche', href: '#comment-ca-marche' },
-    { label: 'Nos métiers', href: '#nos-metiers' },
-    { label: 'Tarif', href: '#tarif' },
+    { label: 'Démo Gratuite', href: '#demo' },
+    { label: 'Comment Ça Marche', href: '#comment-ca-marche' },
+    { label: 'Nos Métiers', href: '#nos-metiers' },
+    { label: 'Prix Unique', href: '#tarif' },
     { label: 'FAQ', href: '#faq' },
   ]
 
@@ -35,9 +36,9 @@ export function StickyHeader() {
         </a>
 
         {/* Desktop nav */}
-        <nav style={{ display: 'flex', gap: 32, alignItems: 'center' }} className="landing-desktop-nav">
+        <nav style={{ display: 'flex', gap: 28, alignItems: 'center' }} className="landing-desktop-nav">
           {navLinks.map(l => (
-            <a key={l.href} href={l.href} style={{ fontSize: 15, color: '#202020', fontWeight: 500 }}
+            <a key={l.href} href={l.href} style={{ fontSize: 14, color: '#202020', fontWeight: 500 }}
               onMouseEnter={e => (e.currentTarget.style.color = '#2275FE')}
               onMouseLeave={e => (e.currentTarget.style.color = '#202020')}
             >{l.label}</a>
@@ -100,29 +101,6 @@ function useCountUp(target: number, duration = 1600, started: boolean) {
   return value
 }
 
-function StatCard({ value, suffix, label }: { value: number; suffix: string; label: string }) {
-  const [started, setStarted] = useState(false)
-  const ref = useRef<HTMLDivElement>(null)
-  const count = useCountUp(value, 1600, started)
-
-  useEffect(() => {
-    const el = ref.current
-    if (!el) return
-    const obs = new IntersectionObserver(([entry]) => { if (entry.isIntersecting) { setStarted(true); obs.disconnect() } }, { threshold: 0.3 })
-    obs.observe(el)
-    return () => obs.disconnect()
-  }, [])
-
-  return (
-    <div ref={ref} style={{ textAlign: 'center', flex: 1, minWidth: 180, padding: '8px 16px' }}>
-      <div style={{ fontSize: 48, fontWeight: 700, fontFamily: 'var(--display)', lineHeight: 1, marginBottom: 8 }}>
-        {suffix.startsWith('-') ? `${count}${suffix}` : `${suffix}${count}`}
-      </div>
-      <div style={{ fontSize: 15, opacity: 0.85, lineHeight: 1.4 }}>{label}</div>
-    </div>
-  )
-}
-
 export function StatsSection() {
   const stats = [
     { value: 500, suffix: '+', label: 'Sites réalisés pour les artisans', pre: '' },
@@ -167,6 +145,100 @@ function AnimatedStat({ value, prefix, suffix, label, started }: { value: number
 
 // ── Demo Form + Modal ─────────────────────────────────────────────────────────
 
+// Mini Google Maps card used in both the mockup and the step icons
+function MiniGmapsCard({ highlight }: { highlight: 'partager' | 'siteweb' }) {
+  return (
+    <div style={{
+      background: '#fff', borderRadius: 10, boxShadow: '0 4px 20px rgba(0,0,0,0.13)',
+      width: 180, fontFamily: '-apple-system, Arial, sans-serif', fontSize: 10,
+      border: '1px solid #e8e8e8', overflow: 'hidden',
+    }}>
+      <div style={{ padding: '8px 10px 6px' }}>
+        <div style={{ fontWeight: 700, fontSize: 11, color: '#202020', marginBottom: 2 }}>PLOMBIER PARISIEN</div>
+        <div style={{ color: '#888', fontSize: 9, marginBottom: 6 }}>4.9 ★ (458) · Plombier</div>
+        <div style={{ display: 'flex', gap: 5, flexWrap: 'wrap' }}>
+          {/* Site web — highlighted when step=siteweb */}
+          <div style={{
+            borderRadius: 12, padding: '3px 7px', fontSize: 9, fontWeight: 600, whiteSpace: 'nowrap',
+            background: highlight === 'siteweb' ? '#2275FE' : '#f0f4ff',
+            color: highlight === 'siteweb' ? '#fff' : '#1a73e8',
+            border: highlight === 'siteweb' ? '1.5px solid #2275FE' : '1px solid #d0d9f0',
+            boxShadow: highlight === 'siteweb' ? '0 0 0 3px rgba(34,117,254,0.2)' : 'none',
+          }}>🌐 Site web</div>
+          <div style={{ background: '#f0f4ff', border: '1px solid #d0d9f0', borderRadius: 12, padding: '3px 7px', fontSize: 9, fontWeight: 500, color: '#1a73e8', whiteSpace: 'nowrap' }}>🧭 Itinéraire</div>
+          {/* Partager — highlighted when step=partager */}
+          <div style={{
+            borderRadius: 12, padding: '3px 7px', fontSize: 9, fontWeight: 600, whiteSpace: 'nowrap',
+            background: highlight === 'partager' ? '#FF6D00' : '#f0f4ff',
+            color: highlight === 'partager' ? '#fff' : '#1a73e8',
+            border: highlight === 'partager' ? '1.5px solid #FF6D00' : '1px solid #d0d9f0',
+            boxShadow: highlight === 'partager' ? '0 0 0 3px rgba(255,109,0,0.2)' : 'none',
+          }}>↗ Partager</div>
+          <div style={{ background: '#f0f4ff', border: '1px solid #d0d9f0', borderRadius: 12, padding: '3px 7px', fontSize: 9, fontWeight: 500, color: '#1a73e8', whiteSpace: 'nowrap' }}>📞 Appeler</div>
+        </div>
+      </div>
+    </div>
+  )
+}
+
+// Step icon illustrations
+export function StepIcon({ step }: { step: 1 | 2 | 3 }) {
+  if (step === 1) return (
+    <div style={{ position: 'relative', width: 120, margin: '0 auto 20px' }}>
+      <MiniGmapsCard highlight="partager" />
+      {/* Magnifying glass overlay */}
+      <div style={{
+        position: 'absolute', bottom: -16, right: -16, width: 44, height: 44,
+        background: '#EEF4FF', borderRadius: '50%', border: '2px solid #2275FE',
+        display: 'flex', alignItems: 'center', justifyContent: 'center', fontSize: 22,
+        boxShadow: '0 2px 8px rgba(34,117,254,0.25)',
+      }}>🔍</div>
+    </div>
+  )
+
+  if (step === 2) return (
+    <div style={{ margin: '0 auto 20px', width: 120 }}>
+      <svg viewBox="0 0 120 80" width="120" height="80" xmlns="http://www.w3.org/2000/svg">
+        {/* Laptop body */}
+        <rect x="10" y="10" width="100" height="55" rx="6" fill="#f5f5f5" stroke="#ddd" strokeWidth="1.5"/>
+        {/* Screen */}
+        <rect x="16" y="15" width="88" height="44" rx="4" fill="#1a1a2e"/>
+        {/* Code lines */}
+        <rect x="22" y="22" width="30" height="3" rx="1.5" fill="#2275FE" opacity="0.9"/>
+        <rect x="26" y="28" width="45" height="3" rx="1.5" fill="#64d9a0" opacity="0.8"/>
+        <rect x="26" y="34" width="38" height="3" rx="1.5" fill="#f9a825" opacity="0.8"/>
+        <rect x="22" y="40" width="25" height="3" rx="1.5" fill="#2275FE" opacity="0.9"/>
+        <rect x="26" y="46" width="52" height="3" rx="1.5" fill="#64d9a0" opacity="0.8"/>
+        {/* Cursor blink */}
+        <rect x="80" y="46" width="2" height="8" rx="1" fill="#fff" opacity="0.8"/>
+        {/* Keyboard base */}
+        <rect x="0" y="65" width="120" height="8" rx="4" fill="#e0e0e0" stroke="#ccc" strokeWidth="1"/>
+        <rect x="40" y="65" width="40" height="3" rx="1.5" fill="#bbb"/>
+      </svg>
+    </div>
+  )
+
+  // step === 3
+  return (
+    <div style={{ position: 'relative', width: 120, margin: '0 auto 20px' }}>
+      <MiniGmapsCard highlight="siteweb" />
+      {/* Animated pulse ring around Site web button */}
+      <div style={{ position: 'absolute', top: 30, left: 6, pointerEvents: 'none' }}>
+        <div style={{
+          width: 60, height: 20, borderRadius: 10,
+          border: '2px solid rgba(34,117,254,0.4)',
+          animation: 'stepPulse 1.8s ease-in-out infinite',
+        }} />
+      </div>
+      {/* Arrow pointing down-left to the Site web button */}
+      <svg style={{ position: 'absolute', bottom: -20, right: -10 }} width="36" height="36" viewBox="0 0 36 36">
+        <circle cx="18" cy="18" r="14" fill="#EEF4FF" stroke="#2275FE" strokeWidth="2"/>
+        <text x="18" y="23" textAnchor="middle" fontSize="14" fill="#2275FE">✓</text>
+      </svg>
+    </div>
+  )
+}
+
 export function DemoFormSection() {
   const [mapsUrl, setMapsUrl] = useState('')
   const [modalOpen, setModalOpen] = useState(false)
@@ -200,7 +272,6 @@ export function DemoFormSection() {
     }
   }, [modalOpen, closeModal])
 
-  // Focus trap
   useEffect(() => {
     if (modalOpen) {
       setTimeout(() => {
@@ -245,8 +316,26 @@ export function DemoFormSection() {
     </div>
   )
 
+  const ACTION_BTNS = [
+    { label: '🌐 Site web', blue: true },
+    { label: '🧭 Itinéraire', blue: false },
+    { label: '🔖 Enregistrer', blue: false },
+    { label: '↗ Partager', blue: false },
+    { label: '📞 Appeler', blue: false },
+  ]
+
   return (
     <section id="demo" style={{ background: '#F8F9FF', padding: '96px 24px' }}>
+      <style>{`
+        @keyframes siteWebPulse {
+          0%, 100% { transform: scale(1); box-shadow: 0 0 0 0 rgba(34,117,254,0.4); }
+          50% { transform: scale(1.06); box-shadow: 0 0 0 6px rgba(34,117,254,0); }
+        }
+        @keyframes stepPulse {
+          0%, 100% { opacity: 0; transform: scale(0.9); }
+          50% { opacity: 1; transform: scale(1.05); }
+        }
+      `}</style>
       <div style={{ maxWidth: 1100, margin: '0 auto', display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 72, alignItems: 'center' }} className="demo-grid">
 
         {/* Left — form */}
@@ -274,80 +363,84 @@ export function DemoFormSection() {
           <p style={{ fontSize: 13, color: '#999' }}>Gratuit · Sans engagement · Livré sous 48h</p>
         </div>
 
-        {/* Right — Google Business Profile mockup */}
+        {/* Right — Google Business Profile mockup (2 floating cards) */}
         <div style={{ display: 'flex', justifyContent: 'center' }}>
-          <div style={{
-            background: '#fff', borderRadius: 20, boxShadow: '0 12px 48px rgba(0,0,0,0.15)',
-            width: '100%', maxWidth: 340, overflow: 'hidden', fontFamily: '-apple-system, Arial, sans-serif',
-            border: '1px solid #e8e8e8',
-          }}>
-            {/* Header */}
-            <div style={{ padding: '16px 16px 0', background: '#fff' }}>
-              <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', marginBottom: 4 }}>
-                <div style={{ fontSize: 18, fontWeight: 700, color: '#202020', lineHeight: 1.2, flex: 1 }}>PLOMBIER PARISIEN</div>
-                <div style={{ display: 'flex', gap: 12, color: '#666', fontSize: 18, marginLeft: 8 }}>⋮ ✕</div>
-              </div>
-              <div style={{ display: 'flex', alignItems: 'center', gap: 6, marginBottom: 12 }}>
-                <span style={{ fontSize: 13, fontWeight: 600, color: '#202020' }}>4.9</span>
-                <span style={{ color: '#FBBC04', fontSize: 13 }}>★</span>
-                <span style={{ fontSize: 13, color: '#666' }}>(458) · Plombier</span>
+          <div style={{ width: '100%', maxWidth: 340, display: 'flex', flexDirection: 'column', gap: 12 }}>
+
+            {/* Card A — Header + Photos + Buttons */}
+            <div style={{
+              background: '#fff', borderRadius: 18, boxShadow: '0 8px 32px rgba(0,0,0,0.12)',
+              overflow: 'hidden', fontFamily: '-apple-system, Arial, sans-serif',
+              border: '1px solid #e8e8e8',
+            }}>
+              <div style={{ padding: '14px 14px 0' }}>
+                <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', marginBottom: 3 }}>
+                  <div style={{ fontSize: 16, fontWeight: 700, color: '#202020', lineHeight: 1.2 }}>PLOMBIER PARISIEN</div>
+                  <div style={{ color: '#999', fontSize: 16, marginLeft: 8 }}>⋮ ✕</div>
+                </div>
+                <div style={{ display: 'flex', alignItems: 'center', gap: 5, marginBottom: 10 }}>
+                  <span style={{ fontSize: 12, fontWeight: 600, color: '#202020' }}>4.9</span>
+                  <span style={{ color: '#FBBC04', fontSize: 12 }}>★</span>
+                  <span style={{ fontSize: 12, color: '#666' }}>(458) · Plombier</span>
+                </div>
+                <div style={{ display: 'flex', borderBottom: '1px solid #e8e8e8' }}>
+                  {['Aperçu', 'Avis', 'Photos'].map((tab, i) => (
+                    <div key={tab} style={{
+                      padding: '7px 12px', fontSize: 12, fontWeight: i === 0 ? 600 : 400,
+                      color: i === 0 ? '#1a73e8' : '#555',
+                      borderBottom: i === 0 ? '2.5px solid #1a73e8' : '2.5px solid transparent',
+                    }}>{tab}</div>
+                  ))}
+                </div>
               </div>
 
-              {/* Tabs */}
-              <div style={{ display: 'flex', gap: 0, borderBottom: '1px solid #e8e8e8', marginBottom: 0 }}>
-                {['Aperçu', 'Avis', 'Photos'].map((tab, i) => (
-                  <div key={tab} style={{
-                    padding: '8px 14px', fontSize: 13, fontWeight: i === 0 ? 600 : 400,
-                    color: i === 0 ? '#1a73e8' : '#444',
-                    borderBottom: i === 0 ? '3px solid #1a73e8' : '3px solid transparent',
-                    cursor: 'default',
-                  }}>{tab}</div>
+              {/* Photos */}
+              <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 2, height: 100 }}>
+                <div style={{ background: 'linear-gradient(135deg, #b8cfe8, #8aafc7)', display: 'flex', alignItems: 'center', justifyContent: 'center', fontSize: 26 }}>🚿</div>
+                <div style={{ background: 'linear-gradient(135deg, #c8d8e4, #9ab5c4)', display: 'flex', alignItems: 'center', justifyContent: 'center', fontSize: 26, position: 'relative' }}>
+                  🔧
+                  <div style={{ position: 'absolute', right: 7, top: '50%', transform: 'translateY(-50%)', background: 'rgba(255,255,255,0.88)', borderRadius: '50%', width: 22, height: 22, display: 'flex', alignItems: 'center', justifyContent: 'center', fontSize: 11 }}>›</div>
+                </div>
+              </div>
+
+              {/* Action buttons — ALL in one row */}
+              <div style={{ padding: '10px 10px 12px', display: 'flex', gap: 6, flexWrap: 'wrap' }}>
+                {ACTION_BTNS.map(btn => (
+                  <div key={btn.label} style={{
+                    borderRadius: 16, padding: '5px 9px', fontSize: 10, fontWeight: btn.blue ? 700 : 500,
+                    whiteSpace: 'nowrap', cursor: 'default',
+                    background: btn.blue ? '#2275FE' : '#f0f4ff',
+                    color: btn.blue ? '#fff' : '#1a73e8',
+                    border: btn.blue ? '1.5px solid #2275FE' : '1px solid #d0d9f0',
+                    animation: btn.blue ? 'siteWebPulse 2.4s ease-in-out infinite' : 'none',
+                  }}>{btn.label}</div>
                 ))}
               </div>
             </div>
 
-            {/* Photos */}
-            <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 2, height: 120, position: 'relative' }}>
-              <div style={{ background: 'linear-gradient(135deg, #b8cfe8, #8aafc7)', display: 'flex', alignItems: 'center', justifyContent: 'center', fontSize: 28 }}>🚿</div>
-              <div style={{ background: 'linear-gradient(135deg, #c8d8e4, #9ab5c4)', display: 'flex', alignItems: 'center', justifyContent: 'center', fontSize: 28, position: 'relative' }}>
-                🔧
-                <div style={{ position: 'absolute', right: 8, top: '50%', transform: 'translateY(-50%)', background: 'rgba(255,255,255,0.9)', borderRadius: '50%', width: 24, height: 24, display: 'flex', alignItems: 'center', justifyContent: 'center', fontSize: 12 }}>›</div>
-              </div>
-            </div>
-
-            {/* Action buttons */}
-            <div style={{ padding: '12px 12px 0' }}>
-              <div style={{ display: 'flex', gap: 8, marginBottom: 8, flexWrap: 'wrap' }}>
-                {['🌐 Site web', '🧭 Itinéraire', '🔖 Enregistrer', '↗ Partager'].map(btn => (
-                  <div key={btn} style={{ background: '#f0f4ff', border: '1px solid #d0d9f0', borderRadius: 20, padding: '5px 10px', fontSize: 11, fontWeight: 500, color: '#1a73e8', whiteSpace: 'nowrap' }}>{btn}</div>
-                ))}
-              </div>
-              <div style={{ display: 'flex', justifyContent: 'center', marginBottom: 10 }}>
-                <div style={{ background: '#f0f4ff', border: '1px solid #d0d9f0', borderRadius: 20, padding: '5px 20px', fontSize: 11, fontWeight: 500, color: '#1a73e8' }}>📞 Appeler</div>
-              </div>
-            </div>
-
-            {/* Info rows */}
-            <div style={{ borderTop: '1px solid #f0f0f0' }}>
+            {/* Card B — Info rows + CTA */}
+            <div style={{
+              background: '#fff', borderRadius: 18, boxShadow: '0 8px 32px rgba(0,0,0,0.10)',
+              overflow: 'hidden', fontFamily: '-apple-system, Arial, sans-serif',
+              border: '1px solid #e8e8e8',
+            }}>
               {[
                 { icon: '🕐', text: 'Ouvert 24h/24', color: '#1e8a3c', bold: true },
-                { icon: '📋', text: 'Services : Détection de fuites, Installation de WC, Débouchage...', color: '#444' },
-                { icon: '📍', text: '12 rue de la Paix, 75008, Paris, France', color: '#444' },
-                { icon: '⭐', text: '4.9 · 458 avis', color: '#444' },
+                { icon: '📋', text: 'Services : Détection de fuites, WC, Débouchage...', color: '#444' },
+                { icon: '📍', text: '12 rue de la Paix, 75008, Paris', color: '#444' },
+                { icon: '⭐', text: '4.9 · 458 avis Google', color: '#444' },
                 { icon: '📞', text: '+336 12 34 56 78', color: '#444' },
               ].map((row, i) => (
-                <div key={i} style={{ display: 'flex', alignItems: 'flex-start', gap: 10, padding: '9px 14px', borderBottom: '1px solid #f5f5f5', fontSize: 12 }}>
-                  <span style={{ fontSize: 14, flexShrink: 0, marginTop: 1 }}>{row.icon}</span>
+                <div key={i} style={{ display: 'flex', alignItems: 'flex-start', gap: 9, padding: '8px 13px', borderBottom: '1px solid #f5f5f5', fontSize: 11 }}>
+                  <span style={{ fontSize: 13, flexShrink: 0, marginTop: 1 }}>{row.icon}</span>
                   <span style={{ color: row.color, fontWeight: row.bold ? 600 : 400, lineHeight: 1.4, flex: 1 }}>{row.text}</span>
-                  <span style={{ color: '#999', fontSize: 14, flexShrink: 0 }}>›</span>
+                  <span style={{ color: '#bbb', fontSize: 13, flexShrink: 0 }}>›</span>
                 </div>
               ))}
-            </div>
-
-            {/* CTA banner */}
-            <div style={{ background: '#EEF4FF', padding: '11px 16px', display: 'flex', alignItems: 'center', gap: 8 }}>
-              <span style={{ fontSize: 16 }}>☝️</span>
-              <span style={{ fontSize: 12, color: '#1a73e8', fontWeight: 600, lineHeight: 1.4 }}>Copiez ce lien et collez-le dans le formulaire</span>
+              <div style={{ background: '#EEF4FF', padding: '10px 14px', display: 'flex', alignItems: 'center', gap: 8 }}>
+                <span style={{ fontSize: 14 }}>☝️</span>
+                <span style={{ fontSize: 11, color: '#1a73e8', fontWeight: 600, lineHeight: 1.4 }}>Copiez le lien de votre fiche et collez-le dans le formulaire</span>
+              </div>
             </div>
           </div>
         </div>
@@ -422,7 +515,7 @@ export function DemoFormSection() {
 const FAQ_ITEMS = [
   {
     q: 'Est-ce que mon site sera vraiment fait pour mon métier ?',
-    a: "Oui. Chaque site est créé spécifiquement pour votre activité, votre ville et vos services. Nous analysons votre fiche Google Maps pour extraire vos vraies informations : avis clients, services proposés, zone d'intervention. Le résultat est un site unique, pas un template copié-collé.",
+    a: "Oui. Chaque site est créé spécifiquement pour votre activité, votre ville et vos services. Nous analysons votre fiche Google Maps pour extraire vos vraies informations : avis clients, services proposés, zone d'intervention. Le résultat est un site unique, pensé pour vous.",
   },
   {
     q: 'Combien de temps pour recevoir mon site ?',
@@ -434,7 +527,7 @@ const FAQ_ITEMS = [
   },
   {
     q: "Que contient exactement l'offre à 490€ ?",
-    a: "L'offre inclut la création de votre site vitrine personnalisé, votre nom de domaine pour 1 an, l'hébergement pour 1 an et votre espace de gestion. Tout est inclus dans les 490€, sans frais cachés. Après la première année, le renouvellement domaine + hébergement est à 99€/an.",
+    a: "L'offre inclut la création de votre site vitrine personnalisé, votre nom de domaine pour 1 an, l'hébergement pour 1 an et votre espace de gestion. Tout est inclus dans les 490€, sans frais cachés. Après la première année, le renouvellement domaine + hébergement est à 49€/an.",
   },
   {
     q: 'Pourquoi WebPower et pas une agence web classique ?',
@@ -465,10 +558,7 @@ export function FAQSection() {
                 <span style={{ fontSize: 16, fontWeight: 600, color: '#202020', lineHeight: 1.4 }}>{item.q}</span>
                 <span style={{ fontSize: 22, color: '#2275FE', flexShrink: 0, transform: open === i ? 'rotate(45deg)' : 'none', transition: 'transform 0.2s' }}>+</span>
               </button>
-              <div style={{
-                maxHeight: open === i ? 400 : 0, overflow: 'hidden',
-                transition: 'max-height 0.3s ease',
-              }}>
+              <div style={{ maxHeight: open === i ? 400 : 0, overflow: 'hidden', transition: 'max-height 0.3s ease' }}>
                 <div style={{ padding: '0 24px 20px', fontSize: 15, color: '#555', lineHeight: 1.7 }}>{item.a}</div>
               </div>
             </div>
@@ -476,5 +566,54 @@ export function FAQSection() {
         </div>
       </div>
     </section>
+  )
+}
+
+// ── WhatsApp Floating Widget ──────────────────────────────────────────────────
+
+export function WhatsAppWidget() {
+  const [hovered, setHovered] = useState(false)
+
+  return (
+    <div style={{ position: 'fixed', bottom: 24, right: 24, zIndex: 999, display: 'flex', alignItems: 'center', gap: 10 }}>
+      {/* Tooltip */}
+      {hovered && (
+        <div style={{
+          background: '#1A1A1A', color: '#fff', borderRadius: 8, padding: '8px 14px',
+          fontSize: 13, fontWeight: 500, whiteSpace: 'nowrap',
+          boxShadow: '0 4px 16px rgba(0,0,0,0.2)',
+          animation: 'fadeIn 0.15s ease',
+        }}>
+          Discutons sur WhatsApp
+        </div>
+      )}
+      <a
+        href="https://wa.me/33000000000"
+        target="_blank"
+        rel="noopener noreferrer"
+        aria-label="Contacter sur WhatsApp"
+        onMouseEnter={() => setHovered(true)}
+        onMouseLeave={() => setHovered(false)}
+        style={{
+          width: 56, height: 56, borderRadius: '50%', background: '#25D366',
+          display: 'flex', alignItems: 'center', justifyContent: 'center',
+          boxShadow: '0 4px 20px rgba(37,211,102,0.45)',
+          transform: hovered ? 'scale(1.08)' : 'scale(1)',
+          transition: 'transform 0.2s ease, box-shadow 0.2s ease',
+          flexShrink: 0,
+        }}
+      >
+        {/* WhatsApp SVG icon */}
+        <svg width="28" height="28" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M16 3C8.82 3 3 8.82 3 16c0 2.3.6 4.48 1.65 6.38L3 29l6.8-1.61A13 13 0 0 0 16 29c7.18 0 13-5.82 13-13S23.18 3 16 3Z" fill="#25D366"/>
+          <path d="M16 5.5A10.5 10.5 0 0 0 7.05 21.4l.27.44-1.15 4.2 4.32-1.13.43.25A10.5 10.5 0 1 0 16 5.5Z" fill="white"/>
+          <path d="M12.3 10.5c-.2-.44-.4-.45-.58-.46l-.5-.01c-.17 0-.45.06-.69.33-.23.27-.9.88-.9 2.14s.92 2.48 1.05 2.65c.13.17 1.78 2.86 4.4 3.89 2.17.86 2.62.69 3.09.65.47-.04 1.52-.62 1.73-1.22.21-.6.21-1.12.15-1.22-.06-.1-.24-.16-.5-.28-.27-.13-1.58-.78-1.83-.87-.24-.09-.42-.13-.6.13-.17.27-.67.87-.82 1.05-.15.17-.3.19-.57.06-.27-.13-1.14-.42-2.17-1.34-.8-.71-1.34-1.59-1.5-1.86-.16-.27-.02-.41.12-.55.12-.12.27-.31.4-.47.14-.16.18-.27.27-.45.09-.18.04-.34-.02-.47-.06-.14-.57-1.4-.8-1.91Z" fill="#25D366"/>
+        </svg>
+      </a>
+
+      <style>{`
+        @keyframes fadeIn { from { opacity: 0; transform: translateX(6px); } to { opacity: 1; transform: translateX(0); } }
+      `}</style>
+    </div>
   )
 }
