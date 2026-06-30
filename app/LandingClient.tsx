@@ -104,7 +104,7 @@ function useCountUp(target: number, duration = 1600, started: boolean) {
 export function StatsSection() {
   const stats = [
     { value: 500, suffix: '+', label: 'Sites réalisés pour les artisans', pre: '' },
-    { value: 72, suffix: 'h', label: 'Temps moyen de livraison', pre: '48-' },
+    { value: 48, suffix: 'h', label: 'Temps moyen de livraison', pre: '' },
     { value: 490, suffix: '€', label: 'Tout compris, sans surprise', pre: '' },
     { value: 99, suffix: '%', label: 'Clients satisfaits', pre: '' },
   ]
@@ -143,9 +143,8 @@ function AnimatedStat({ value, prefix, suffix, label, started }: { value: number
   )
 }
 
-// ── Demo Form + Modal ─────────────────────────────────────────────────────────
+// ── Mini Google Maps card ─────────────────────────────────────────────────────
 
-// Mini Google Maps card used in both the mockup and the step icons
 function MiniGmapsCard({ highlight }: { highlight: 'partager' | 'siteweb' }) {
   return (
     <div style={{
@@ -153,91 +152,129 @@ function MiniGmapsCard({ highlight }: { highlight: 'partager' | 'siteweb' }) {
       width: 180, fontFamily: '-apple-system, Arial, sans-serif', fontSize: 10,
       border: '1px solid #e8e8e8', overflow: 'hidden',
     }}>
-      <div style={{ padding: '8px 10px 6px' }}>
+      <div style={{ padding: '8px 10px 8px' }}>
         <div style={{ fontWeight: 700, fontSize: 11, color: '#202020', marginBottom: 2 }}>PLOMBIER PARISIEN</div>
-        <div style={{ color: '#888', fontSize: 9, marginBottom: 6 }}>4.9 ★ (458) · Plombier</div>
+        <div style={{ color: '#888', fontSize: 9, marginBottom: 8 }}>4.9 ★ (458) · Plombier</div>
         <div style={{ display: 'flex', gap: 5, flexWrap: 'wrap' }}>
-          {/* Site web — highlighted when step=siteweb */}
+          {/* Site web */}
           <div style={{
-            borderRadius: 12, padding: '3px 7px', fontSize: 9, fontWeight: 600, whiteSpace: 'nowrap',
+            borderRadius: 12, padding: '4px 8px', fontSize: 9, fontWeight: 600, whiteSpace: 'nowrap',
             background: highlight === 'siteweb' ? '#2275FE' : '#f0f4ff',
             color: highlight === 'siteweb' ? '#fff' : '#1a73e8',
             border: highlight === 'siteweb' ? '1.5px solid #2275FE' : '1px solid #d0d9f0',
-            boxShadow: highlight === 'siteweb' ? '0 0 0 3px rgba(34,117,254,0.2)' : 'none',
+            animation: highlight === 'siteweb' ? 'siteWebPulse 2.4s ease-in-out infinite' : 'none',
           }}>🌐 Site web</div>
-          <div style={{ background: '#f0f4ff', border: '1px solid #d0d9f0', borderRadius: 12, padding: '3px 7px', fontSize: 9, fontWeight: 500, color: '#1a73e8', whiteSpace: 'nowrap' }}>🧭 Itinéraire</div>
-          {/* Partager — highlighted when step=partager */}
+          <div style={{ background: '#f0f4ff', border: '1px solid #d0d9f0', borderRadius: 12, padding: '4px 8px', fontSize: 9, fontWeight: 500, color: '#1a73e8', whiteSpace: 'nowrap' }}>🧭 Itinéraire</div>
+          {/* Partager */}
           <div style={{
-            borderRadius: 12, padding: '3px 7px', fontSize: 9, fontWeight: 600, whiteSpace: 'nowrap',
+            borderRadius: 12, padding: '4px 8px', fontSize: 9, fontWeight: 600, whiteSpace: 'nowrap',
             background: highlight === 'partager' ? '#FF6D00' : '#f0f4ff',
             color: highlight === 'partager' ? '#fff' : '#1a73e8',
             border: highlight === 'partager' ? '1.5px solid #FF6D00' : '1px solid #d0d9f0',
-            boxShadow: highlight === 'partager' ? '0 0 0 3px rgba(255,109,0,0.2)' : 'none',
+            animation: highlight === 'partager' ? 'partagerBounce 1.4s ease-in-out infinite' : 'none',
           }}>↗ Partager</div>
-          <div style={{ background: '#f0f4ff', border: '1px solid #d0d9f0', borderRadius: 12, padding: '3px 7px', fontSize: 9, fontWeight: 500, color: '#1a73e8', whiteSpace: 'nowrap' }}>📞 Appeler</div>
+          <div style={{ background: '#f0f4ff', border: '1px solid #d0d9f0', borderRadius: 12, padding: '4px 8px', fontSize: 9, fontWeight: 500, color: '#1a73e8', whiteSpace: 'nowrap' }}>📞 Appeler</div>
         </div>
       </div>
     </div>
   )
 }
 
-// Step icon illustrations
+// ── Step icon illustrations ───────────────────────────────────────────────────
+
 export function StepIcon({ step }: { step: 1 | 2 | 3 }) {
-  if (step === 1) return (
-    <div style={{ position: 'relative', width: 120, margin: '0 auto 20px' }}>
-      <MiniGmapsCard highlight="partager" />
-      {/* Magnifying glass overlay */}
-      <div style={{
-        position: 'absolute', bottom: -16, right: -16, width: 44, height: 44,
-        background: '#EEF4FF', borderRadius: '50%', border: '2px solid #2275FE',
-        display: 'flex', alignItems: 'center', justifyContent: 'center', fontSize: 22,
-        boxShadow: '0 2px 8px rgba(34,117,254,0.25)',
-      }}>🔍</div>
-    </div>
-  )
-
-  if (step === 2) return (
-    <div style={{ margin: '0 auto 20px', width: 120 }}>
-      <svg viewBox="0 0 120 80" width="120" height="80" xmlns="http://www.w3.org/2000/svg">
-        {/* Laptop body */}
-        <rect x="10" y="10" width="100" height="55" rx="6" fill="#f5f5f5" stroke="#ddd" strokeWidth="1.5"/>
-        {/* Screen */}
-        <rect x="16" y="15" width="88" height="44" rx="4" fill="#1a1a2e"/>
-        {/* Code lines */}
-        <rect x="22" y="22" width="30" height="3" rx="1.5" fill="#2275FE" opacity="0.9"/>
-        <rect x="26" y="28" width="45" height="3" rx="1.5" fill="#64d9a0" opacity="0.8"/>
-        <rect x="26" y="34" width="38" height="3" rx="1.5" fill="#f9a825" opacity="0.8"/>
-        <rect x="22" y="40" width="25" height="3" rx="1.5" fill="#2275FE" opacity="0.9"/>
-        <rect x="26" y="46" width="52" height="3" rx="1.5" fill="#64d9a0" opacity="0.8"/>
-        {/* Cursor blink */}
-        <rect x="80" y="46" width="2" height="8" rx="1" fill="#fff" opacity="0.8"/>
-        {/* Keyboard base */}
-        <rect x="0" y="65" width="120" height="8" rx="4" fill="#e0e0e0" stroke="#ccc" strokeWidth="1"/>
-        <rect x="40" y="65" width="40" height="3" rx="1.5" fill="#bbb"/>
-      </svg>
-    </div>
-  )
-
-  // step === 3
   return (
-    <div style={{ position: 'relative', width: 120, margin: '0 auto 20px' }}>
-      <MiniGmapsCard highlight="siteweb" />
-      {/* Animated pulse ring around Site web button */}
-      <div style={{ position: 'absolute', top: 30, left: 6, pointerEvents: 'none' }}>
+    <>
+      <style>{`
+        @keyframes partagerBounce {
+          0%, 100% { transform: scale(1); }
+          40% { transform: scale(1.15); box-shadow: 0 0 0 4px rgba(255,109,0,0.25); }
+          60% { transform: scale(1.08); }
+        }
+        @keyframes siteWebPulse {
+          0%, 100% { transform: scale(1); box-shadow: 0 0 0 0 rgba(34,117,254,0.45); }
+          50% { transform: scale(1.08); box-shadow: 0 0 0 6px rgba(34,117,254,0); }
+        }
+        @keyframes cursorBlink {
+          0%, 100% { opacity: 1; } 50% { opacity: 0; }
+        }
+      `}</style>
+
+      {step === 1 && (
         <div style={{
-          width: 60, height: 20, borderRadius: 10,
-          border: '2px solid rgba(34,117,254,0.4)',
-          animation: 'stepPulse 1.8s ease-in-out infinite',
-        }} />
-      </div>
-      {/* Arrow pointing down-left to the Site web button */}
-      <svg style={{ position: 'absolute', bottom: -20, right: -10 }} width="36" height="36" viewBox="0 0 36 36">
-        <circle cx="18" cy="18" r="14" fill="#EEF4FF" stroke="#2275FE" strokeWidth="2"/>
-        <text x="18" y="23" textAnchor="middle" fontSize="14" fill="#2275FE">✓</text>
-      </svg>
-    </div>
+          height: 130, display: 'flex', alignItems: 'center', justifyContent: 'center',
+          marginBottom: 20,
+        }}>
+          <MiniGmapsCard highlight="partager" />
+        </div>
+      )}
+
+      {step === 2 && (
+        <div style={{
+          height: 130, display: 'flex', alignItems: 'center', justifyContent: 'center',
+          marginBottom: 20,
+        }}>
+          <svg viewBox="0 0 160 110" width="160" height="110" xmlns="http://www.w3.org/2000/svg">
+            {/* Browser window chrome */}
+            <rect x="4" y="4" width="152" height="102" rx="8" fill="#f0f0f0" stroke="#ddd" strokeWidth="1.5"/>
+            {/* Title bar */}
+            <rect x="4" y="4" width="152" height="22" rx="8" fill="#e0e0e0"/>
+            <rect x="4" y="18" width="152" height="8" fill="#e0e0e0"/>
+            {/* Traffic lights */}
+            <circle cx="17" cy="15" r="4" fill="#FF5F57"/>
+            <circle cx="29" cy="15" r="4" fill="#FEBC2E"/>
+            <circle cx="41" cy="15" r="4" fill="#28C840"/>
+            {/* URL bar */}
+            <rect x="52" y="10" width="86" height="10" rx="5" fill="#fff" stroke="#ccc" strokeWidth="1"/>
+            <text x="60" y="18" fontSize="6" fill="#888" fontFamily="monospace">yourwebpower.com</text>
+            {/* Editor background */}
+            <rect x="4" y="26" width="152" height="80" rx="0" fill="#1a1a2e"/>
+            <rect x="4" y="74" width="152" height="32" rx="0" fill="#1a1a2e"/>
+            <rect x="4" y="98" width="152" height="8" rx="0" ry="0" fill="#1a1a2e"/>
+            <rect x="4" y="100" width="152" height="6" rx="4" fill="#1a1a2e"/>
+            {/* Line numbers */}
+            <rect x="4" y="26" width="20" height="80" fill="#16162a"/>
+            <text x="11" y="38" fontSize="6" fill="#555" fontFamily="monospace">1</text>
+            <text x="11" y="48" fontSize="6" fill="#555" fontFamily="monospace">2</text>
+            <text x="11" y="58" fontSize="6" fill="#555" fontFamily="monospace">3</text>
+            <text x="11" y="68" fontSize="6" fill="#555" fontFamily="monospace">4</text>
+            <text x="11" y="78" fontSize="6" fill="#555" fontFamily="monospace">5</text>
+            <text x="11" y="88" fontSize="6" fill="#555" fontFamily="monospace">6</text>
+            {/* Code lines — colored syntax */}
+            <rect x="28" y="33" width="22" height="4" rx="2" fill="#c792ea" opacity="0.9"/>
+            <rect x="53" y="33" width="36" height="4" rx="2" fill="#2275FE" opacity="0.9"/>
+            <rect x="32" y="43" width="14" height="4" rx="2" fill="#64d9a0" opacity="0.85"/>
+            <rect x="49" y="43" width="8" height="4" rx="2" fill="#fff" opacity="0.6"/>
+            <rect x="60" y="43" width="40" height="4" rx="2" fill="#f9a825" opacity="0.85"/>
+            <rect x="32" y="53" width="20" height="4" rx="2" fill="#64d9a0" opacity="0.85"/>
+            <rect x="55" y="53" width="28" height="4" rx="2" fill="#2275FE" opacity="0.7"/>
+            <rect x="28" y="63" width="10" height="4" rx="2" fill="#c792ea" opacity="0.9"/>
+            <rect x="32" y="73" width="30" height="4" rx="2" fill="#ff6d00" opacity="0.8"/>
+            <rect x="65" y="73" width="20" height="4" rx="2" fill="#64d9a0" opacity="0.85"/>
+            <rect x="32" y="83" width="16" height="4" rx="2" fill="#f9a825" opacity="0.8"/>
+            <rect x="51" y="83" width="44" height="4" rx="2" fill="#2275FE" opacity="0.7"/>
+            {/* Blinking cursor */}
+            <rect x="97" y="83" width="2" height="7" rx="1" fill="#fff" opacity="0.9" style={{ animation: 'cursorBlink 1s step-end infinite' }}/>
+            {/* Bottom bar */}
+            <rect x="4" y="98" width="152" height="8" rx="4" fill="#14142b"/>
+            <rect x="4" y="100" width="152" height="6" fill="#14142b"/>
+          </svg>
+        </div>
+      )}
+
+      {step === 3 && (
+        <div style={{
+          height: 130, display: 'flex', alignItems: 'center', justifyContent: 'center',
+          marginBottom: 20,
+        }}>
+          <MiniGmapsCard highlight="siteweb" />
+        </div>
+      )}
+    </>
   )
 }
+
+// ── Demo Form + Modal ─────────────────────────────────────────────────────────
 
 export function DemoFormSection() {
   const [mapsUrl, setMapsUrl] = useState('')
@@ -328,12 +365,16 @@ export function DemoFormSection() {
     <section id="demo" style={{ background: '#F8F9FF', padding: '96px 24px' }}>
       <style>{`
         @keyframes siteWebPulse {
-          0%, 100% { transform: scale(1); box-shadow: 0 0 0 0 rgba(34,117,254,0.4); }
+          0%, 100% { transform: scale(1); box-shadow: 0 0 0 0 rgba(34,117,254,0.45); }
           50% { transform: scale(1.06); box-shadow: 0 0 0 6px rgba(34,117,254,0); }
         }
-        @keyframes stepPulse {
-          0%, 100% { opacity: 0; transform: scale(0.9); }
-          50% { opacity: 1; transform: scale(1.05); }
+        @keyframes partagerBounce {
+          0%, 100% { transform: scale(1); }
+          40% { transform: scale(1.15); box-shadow: 0 0 0 4px rgba(255,109,0,0.25); }
+          60% { transform: scale(1.08); }
+        }
+        @keyframes cursorBlink {
+          0%, 100% { opacity: 1; } 50% { opacity: 0; }
         }
       `}</style>
       <div style={{ maxWidth: 1100, margin: '0 auto', display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 72, alignItems: 'center' }} className="demo-grid">
@@ -363,20 +404,21 @@ export function DemoFormSection() {
           <p style={{ fontSize: 13, color: '#999' }}>Gratuit · Sans engagement · Livré sous 48h</p>
         </div>
 
-        {/* Right — Google Business Profile mockup (2 floating cards) */}
+        {/* Right — Google Business Profile mockup (2 diagonal floating cards) */}
         <div style={{ display: 'flex', justifyContent: 'center' }}>
-          <div style={{ width: '100%', maxWidth: 340, display: 'flex', flexDirection: 'column', gap: 12 }}>
+          <div style={{ position: 'relative', width: 320, height: 390 }}>
 
-            {/* Card A — Header + Photos + Buttons */}
+            {/* Card A — header + photos + buttons — higher and to the left */}
             <div style={{
-              background: '#fff', borderRadius: 18, boxShadow: '0 8px 32px rgba(0,0,0,0.12)',
+              position: 'absolute', top: 0, left: 0, right: 28, zIndex: 2,
+              background: '#fff', borderRadius: 18, boxShadow: '0 8px 32px rgba(0,0,0,0.14)',
               overflow: 'hidden', fontFamily: '-apple-system, Arial, sans-serif',
               border: '1px solid #e8e8e8',
             }}>
               <div style={{ padding: '14px 14px 0' }}>
                 <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', marginBottom: 3 }}>
-                  <div style={{ fontSize: 16, fontWeight: 700, color: '#202020', lineHeight: 1.2 }}>PLOMBIER PARISIEN</div>
-                  <div style={{ color: '#999', fontSize: 16, marginLeft: 8 }}>⋮ ✕</div>
+                  <div style={{ fontSize: 15, fontWeight: 700, color: '#202020', lineHeight: 1.2 }}>PLOMBIER PARISIEN</div>
+                  <div style={{ color: '#999', fontSize: 15, marginLeft: 8 }}>⋮ ✕</div>
                 </div>
                 <div style={{ display: 'flex', alignItems: 'center', gap: 5, marginBottom: 10 }}>
                   <span style={{ fontSize: 12, fontWeight: 600, color: '#202020' }}>4.9</span>
@@ -395,7 +437,7 @@ export function DemoFormSection() {
               </div>
 
               {/* Photos */}
-              <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 2, height: 100 }}>
+              <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 2, height: 90 }}>
                 <div style={{ background: 'linear-gradient(135deg, #b8cfe8, #8aafc7)', display: 'flex', alignItems: 'center', justifyContent: 'center', fontSize: 26 }}>🚿</div>
                 <div style={{ background: 'linear-gradient(135deg, #c8d8e4, #9ab5c4)', display: 'flex', alignItems: 'center', justifyContent: 'center', fontSize: 26, position: 'relative' }}>
                   🔧
@@ -418,8 +460,9 @@ export function DemoFormSection() {
               </div>
             </div>
 
-            {/* Card B — Info rows + CTA */}
+            {/* Card B — info rows — lower and to the right, overlapping Card A bottom */}
             <div style={{
+              position: 'absolute', top: 210, left: 28, right: 0, zIndex: 1,
               background: '#fff', borderRadius: 18, boxShadow: '0 8px 32px rgba(0,0,0,0.10)',
               overflow: 'hidden', fontFamily: '-apple-system, Arial, sans-serif',
               border: '1px solid #e8e8e8',
@@ -428,7 +471,6 @@ export function DemoFormSection() {
                 { icon: '🕐', text: 'Ouvert 24h/24', color: '#1e8a3c', bold: true },
                 { icon: '📋', text: 'Services : Détection de fuites, WC, Débouchage...', color: '#444' },
                 { icon: '📍', text: '12 rue de la Paix, 75008, Paris', color: '#444' },
-                { icon: '⭐', text: '4.9 · 458 avis Google', color: '#444' },
                 { icon: '📞', text: '+336 12 34 56 78', color: '#444' },
               ].map((row, i) => (
                 <div key={i} style={{ display: 'flex', alignItems: 'flex-start', gap: 9, padding: '8px 13px', borderBottom: '1px solid #f5f5f5', fontSize: 11 }}>
@@ -571,12 +613,13 @@ export function FAQSection() {
 
 // ── WhatsApp Floating Widget ──────────────────────────────────────────────────
 
+const WA_OFFICIAL_PATH = "M12.04 2C6.58 2 2.13 6.45 2.13 11.91C2.13 13.66 2.59 15.36 3.45 16.86L2.05 22L7.3 20.62C8.75 21.41 10.38 21.83 12.04 21.83C17.5 21.83 21.95 17.38 21.95 11.92C21.95 9.27 20.92 6.78 19.05 4.91C17.18 3.03 14.69 2 12.04 2ZM12.04 20.15C10.56 20.15 9.11 19.76 7.85 19.01L7.55 18.83L4.43 19.65L5.26 16.61L5.06 16.29C4.24 14.98 3.8 13.46 3.8 11.91C3.8 7.37 7.5 3.67 12.05 3.67C14.25 3.67 16.31 4.53 17.87 6.09C19.42 7.65 20.28 9.71 20.28 11.92C20.27 16.46 16.57 20.15 12.04 20.15ZM16.56 13.99C16.32 13.87 15.13 13.28 14.9 13.2C14.68 13.12 14.52 13.08 14.36 13.32C14.2 13.56 13.74 14.1 13.6 14.27C13.46 14.43 13.32 14.45 13.08 14.33C12.84 14.21 12.06 13.95 11.14 13.13C10.42 12.49 9.94 11.7 9.8 11.46C9.66 11.22 9.78 11.09 9.9 10.97C10.01 10.86 10.14 10.68 10.27 10.54C10.4 10.4 10.44 10.3 10.53 10.14C10.61 9.98 10.57 9.84 10.51 9.72C10.45 9.6 9.98 8.41 9.78 7.93C9.58 7.47 9.38 7.53 9.23 7.52C9.09 7.51 8.93 7.51 8.77 7.51C8.61 7.51 8.35 7.57 8.12 7.81C7.9 8.05 7.27 8.65 7.27 9.84C7.27 11.03 8.14 12.18 8.26 12.34C8.38 12.5 9.97 14.97 12.42 16.01C13 16.26 13.45 16.41 13.81 16.52C14.39 16.7 14.92 16.67 15.34 16.61C15.81 16.54 16.79 16.02 16.99 15.45C17.19 14.88 17.19 14.4 17.13 14.3C17.07 14.2 16.91 14.13 16.67 14.01L16.56 13.99Z"
+
 export function WhatsAppWidget() {
   const [hovered, setHovered] = useState(false)
 
   return (
     <div style={{ position: 'fixed', bottom: 24, right: 24, zIndex: 999, display: 'flex', alignItems: 'center', gap: 10 }}>
-      {/* Tooltip */}
       {hovered && (
         <div style={{
           background: '#1A1A1A', color: '#fff', borderRadius: 8, padding: '8px 14px',
@@ -603,11 +646,8 @@ export function WhatsAppWidget() {
           flexShrink: 0,
         }}
       >
-        {/* WhatsApp SVG icon */}
-        <svg width="28" height="28" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-          <path d="M16 3C8.82 3 3 8.82 3 16c0 2.3.6 4.48 1.65 6.38L3 29l6.8-1.61A13 13 0 0 0 16 29c7.18 0 13-5.82 13-13S23.18 3 16 3Z" fill="#25D366"/>
-          <path d="M16 5.5A10.5 10.5 0 0 0 7.05 21.4l.27.44-1.15 4.2 4.32-1.13.43.25A10.5 10.5 0 1 0 16 5.5Z" fill="white"/>
-          <path d="M12.3 10.5c-.2-.44-.4-.45-.58-.46l-.5-.01c-.17 0-.45.06-.69.33-.23.27-.9.88-.9 2.14s.92 2.48 1.05 2.65c.13.17 1.78 2.86 4.4 3.89 2.17.86 2.62.69 3.09.65.47-.04 1.52-.62 1.73-1.22.21-.6.21-1.12.15-1.22-.06-.1-.24-.16-.5-.28-.27-.13-1.58-.78-1.83-.87-.24-.09-.42-.13-.6.13-.17.27-.67.87-.82 1.05-.15.17-.3.19-.57.06-.27-.13-1.14-.42-2.17-1.34-.8-.71-1.34-1.59-1.5-1.86-.16-.27-.02-.41.12-.55.12-.12.27-.31.4-.47.14-.16.18-.27.27-.45.09-.18.04-.34-.02-.47-.06-.14-.57-1.4-.8-1.91Z" fill="#25D366"/>
+        <svg width="28" height="28" viewBox="0 0 24 24" fill="white" xmlns="http://www.w3.org/2000/svg">
+          <path d={WA_OFFICIAL_PATH}/>
         </svg>
       </a>
 
@@ -617,3 +657,6 @@ export function WhatsAppWidget() {
     </div>
   )
 }
+
+// ── WhatsApp icon SVG path (for footer use in page.tsx) ───────────────────────
+export { WA_OFFICIAL_PATH }

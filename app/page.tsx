@@ -1,6 +1,7 @@
 import type { Metadata } from 'next'
+import { Fragment } from 'react'
 import Image from 'next/image'
-import { StickyHeader, StatsSection, DemoFormSection, FAQSection, StepIcon, WhatsAppWidget } from './LandingClient'
+import { StickyHeader, StatsSection, DemoFormSection, FAQSection, StepIcon, WhatsAppWidget, WA_OFFICIAL_PATH } from './LandingClient'
 
 export const metadata: Metadata = {
   title: 'WebPower — Le site web des artisans',
@@ -91,7 +92,7 @@ export default function LandingPage() {
               🛠 La solution web pour les artisans
             </div>
             <h1 style={{ fontSize: 'clamp(34px, 4.5vw, 54px)', color: '#202020', marginBottom: 20, lineHeight: 1.08 }}>
-              Votre fiche Google Maps <span style={{ color: '#2275FE' }}>devient votre site web</span> professionnel.
+              Votre fiche Google Maps <span style={{ color: '#2275FE' }}>devient votre site web d&apos;artisan</span>
             </h1>
             <p style={{ fontSize: 18, color: '#555', lineHeight: 1.65, marginBottom: 36, maxWidth: 500 }}>
               On analyse vos avis, vos services et votre localisation pour créer un site vitrine unique, livré en 48h. Vous n&apos;avez rien à préparer.
@@ -139,8 +140,8 @@ export default function LandingPage() {
 
           <div style={{ display: 'grid', gridTemplateColumns: '1fr auto 1fr auto 1fr', gap: 0, alignItems: 'start' }} className="how-grid">
             {HOW_IT_WORKS.map((step, i) => (
-              <>
-                <div key={step.num} style={{ textAlign: 'center', padding: '0 24px' }}>
+              <Fragment key={step.num}>
+                <div style={{ textAlign: 'center', padding: '0 24px' }}>
                   <StepIcon step={(i + 1) as 1 | 2 | 3} />
                   <div style={{ display: 'inline-block', background: '#2275FE', color: '#fff', borderRadius: 20, padding: '3px 12px', fontSize: 12, fontWeight: 700, marginBottom: 14, letterSpacing: '0.05em' }}>
                     ÉTAPE {step.num}
@@ -149,11 +150,11 @@ export default function LandingPage() {
                   <p style={{ fontSize: 15, color: '#666', lineHeight: 1.65 }}>{step.desc}</p>
                 </div>
                 {i < HOW_IT_WORKS.length - 1 && (
-                  <div key={`arrow-${i}`} className="how-arrow" style={{ display: 'flex', alignItems: 'center', paddingTop: 32, color: '#CBD5E0', fontSize: 28, fontWeight: 300 }}>
+                  <div className="how-arrow" style={{ display: 'flex', alignItems: 'center', paddingTop: 32, color: '#CBD5E0', fontSize: 28, fontWeight: 300 }}>
                     →
                   </div>
                 )}
-              </>
+              </Fragment>
             ))}
           </div>
         </div>
@@ -238,16 +239,14 @@ export default function LandingPage() {
             <div className="footer-brand">
               <Image src="/logo-webpower-white.png" alt="WebPower" width={148} height={38} style={{ objectFit: 'contain', marginBottom: 20 }} />
               <p style={{ fontSize: 14, color: '#9CA3AF', lineHeight: 1.7, maxWidth: 280, marginBottom: 24 }}>
-                WebPower accompagne les artisans français dans leur présence en ligne. Sites web professionnels, personnalisés, livrés rapidement et sans prise de tête.
+                WebPower accompagne les artisans dans leur présence en ligne. Sites web professionnels, personnalisés, livrés rapidement et sans prise de tête.
               </p>
               <div style={{ display: 'flex', gap: 10 }}>
                 {/* WhatsApp */}
                 <a href="https://wa.me/33000000000" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp"
-                  style={{ width: 36, height: 36, borderRadius: '50%', background: '#25D366', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
-                  <svg width="18" height="18" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
-                    <path d="M16 3C8.82 3 3 8.82 3 16c0 2.3.6 4.48 1.65 6.38L3 29l6.8-1.61A13 13 0 0 0 16 29c7.18 0 13-5.82 13-13S23.18 3 16 3Z" fill="#25D366"/>
-                    <path d="M16 5.5A10.5 10.5 0 0 0 7.05 21.4l.27.44-1.15 4.2 4.32-1.13.43.25A10.5 10.5 0 1 0 16 5.5Z" fill="white"/>
-                    <path d="M12.3 10.5c-.2-.44-.4-.45-.58-.46l-.5-.01c-.17 0-.45.06-.69.33-.23.27-.9.88-.9 2.14s.92 2.48 1.05 2.65c.13.17 1.78 2.86 4.4 3.89 2.17.86 2.62.69 3.09.65.47-.04 1.52-.62 1.73-1.22.21-.6.21-1.12.15-1.22-.06-.1-.24-.16-.5-.28-.27-.13-1.58-.78-1.83-.87-.24-.09-.42-.13-.6.13-.17.27-.67.87-.82 1.05-.15.17-.3.19-.57.06-.27-.13-1.14-.42-2.17-1.34-.8-.71-1.34-1.59-1.5-1.86-.16-.27-.02-.41.12-.55.12-.12.27-.31.4-.47.14-.16.18-.27.27-.45.09-.18.04-.34-.02-.47-.06-.14-.57-1.4-.8-1.91Z" fill="#25D366"/>
+                  style={{ width: 36, height: 36, borderRadius: '50%', background: '#1F2937', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+                  <svg width="18" height="18" viewBox="0 0 24 24" fill="#9CA3AF" xmlns="http://www.w3.org/2000/svg">
+                    <path d={WA_OFFICIAL_PATH}/>
                   </svg>
                 </a>
                 {/* Email */}
