@@ -277,52 +277,77 @@ export function DemoFormSection() {
         {/* Right — Google Business Profile mockup */}
         <div style={{ display: 'flex', justifyContent: 'center' }}>
           <div style={{
-            background: '#fff', borderRadius: 16, boxShadow: '0 8px 40px rgba(0,0,0,0.12)',
-            width: '100%', maxWidth: 360, overflow: 'hidden', fontFamily: 'Arial, sans-serif',
+            background: '#fff', borderRadius: 20, boxShadow: '0 12px 48px rgba(0,0,0,0.15)',
+            width: '100%', maxWidth: 340, overflow: 'hidden', fontFamily: '-apple-system, Arial, sans-serif',
+            border: '1px solid #e8e8e8',
           }}>
-            {/* Map placeholder */}
-            <div style={{ height: 140, background: 'linear-gradient(135deg, #e8f0fe 0%, #c5d9f7 50%, #a8c4f0 100%)', position: 'relative', overflow: 'hidden' }}>
-              <div style={{ position: 'absolute', inset: 0, opacity: 0.3, backgroundImage: 'repeating-linear-gradient(0deg, #9ab transparent, #9ab 1px, transparent 1px, transparent 40px), repeating-linear-gradient(90deg, #9ab transparent, #9ab 1px, transparent 1px, transparent 40px)' }} />
-              <div style={{ position: 'absolute', bottom: 16, left: '50%', transform: 'translateX(-50%)' }}>
-                <div style={{ width: 28, height: 36, background: '#EA4335', borderRadius: '50% 50% 50% 0', transform: 'rotate(-45deg)', margin: '0 auto', boxShadow: '0 2px 8px rgba(234,67,53,0.4)' }} />
+            {/* Header */}
+            <div style={{ padding: '16px 16px 0', background: '#fff' }}>
+              <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start', marginBottom: 4 }}>
+                <div style={{ fontSize: 18, fontWeight: 700, color: '#202020', lineHeight: 1.2, flex: 1 }}>PLOMBIER PARISIEN</div>
+                <div style={{ display: 'flex', gap: 12, color: '#666', fontSize: 18, marginLeft: 8 }}>⋮ ✕</div>
               </div>
-            </div>
-
-            {/* Business info */}
-            <div style={{ padding: '18px 20px' }}>
-              <div style={{ fontSize: 17, fontWeight: 700, color: '#202020', marginBottom: 4 }}>Plomberie Dupont</div>
-              <div style={{ display: 'flex', alignItems: 'center', gap: 6, marginBottom: 6 }}>
-                <div style={{ display: 'flex', gap: 2 }}>
-                  {'★★★★★'.split('').map((s, i) => <span key={i} style={{ color: '#FBBC04', fontSize: 14 }}>{s}</span>)}
-                </div>
-                <span style={{ fontSize: 13, fontWeight: 600, color: '#202020' }}>4.8</span>
-                <span style={{ fontSize: 13, color: '#666' }}>(127 avis)</span>
-              </div>
-              <div style={{ fontSize: 13, color: '#666', marginBottom: 12 }}>Plombier · Ouvert 24h/24</div>
-
-              <div style={{ borderTop: '1px solid #f0f0f0', paddingTop: 12, display: 'flex', flexDirection: 'column', gap: 8 }}>
-                <div style={{ display: 'flex', alignItems: 'center', gap: 10, fontSize: 13, color: '#444' }}>
-                  <span style={{ fontSize: 16 }}>📞</span> +33 6 12 34 56 78
-                </div>
-                <div style={{ display: 'flex', alignItems: 'center', gap: 10, fontSize: 13, color: '#444' }}>
-                  <span style={{ fontSize: 16 }}>📍</span> 12 rue de la Paix, Paris 75001
-                </div>
-                <div style={{ display: 'flex', alignItems: 'center', gap: 10, fontSize: 13, color: '#2275FE', fontWeight: 500 }}>
-                  <span style={{ fontSize: 16 }}>🔗</span> maps.google.com/...
-                </div>
+              <div style={{ display: 'flex', alignItems: 'center', gap: 6, marginBottom: 12 }}>
+                <span style={{ fontSize: 13, fontWeight: 600, color: '#202020' }}>4.9</span>
+                <span style={{ color: '#FBBC04', fontSize: 13 }}>★</span>
+                <span style={{ fontSize: 13, color: '#666' }}>(458) · Plombier</span>
               </div>
 
-              <div style={{ display: 'flex', gap: 8, marginTop: 14 }}>
-                {['Site web', 'Itinéraire', 'Appeler'].map(btn => (
-                  <div key={btn} style={{ flex: 1, background: '#EEF4FF', borderRadius: 6, padding: '7px 4px', fontSize: 12, fontWeight: 600, color: '#2275FE', textAlign: 'center' }}>{btn}</div>
+              {/* Tabs */}
+              <div style={{ display: 'flex', gap: 0, borderBottom: '1px solid #e8e8e8', marginBottom: 0 }}>
+                {['Aperçu', 'Avis', 'Photos'].map((tab, i) => (
+                  <div key={tab} style={{
+                    padding: '8px 14px', fontSize: 13, fontWeight: i === 0 ? 600 : 400,
+                    color: i === 0 ? '#1a73e8' : '#444',
+                    borderBottom: i === 0 ? '3px solid #1a73e8' : '3px solid transparent',
+                    cursor: 'default',
+                  }}>{tab}</div>
                 ))}
               </div>
             </div>
 
-            {/* Arrow label */}
-            <div style={{ background: '#EEF4FF', padding: '10px 20px', display: 'flex', alignItems: 'center', gap: 10 }}>
-              <span style={{ fontSize: 20 }}>↑</span>
-              <span style={{ fontSize: 13, color: '#2275FE', fontWeight: 600 }}>Copiez ce lien et collez-le dans le formulaire</span>
+            {/* Photos */}
+            <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 2, height: 120, position: 'relative' }}>
+              <div style={{ background: 'linear-gradient(135deg, #b8cfe8, #8aafc7)', display: 'flex', alignItems: 'center', justifyContent: 'center', fontSize: 28 }}>🚿</div>
+              <div style={{ background: 'linear-gradient(135deg, #c8d8e4, #9ab5c4)', display: 'flex', alignItems: 'center', justifyContent: 'center', fontSize: 28, position: 'relative' }}>
+                🔧
+                <div style={{ position: 'absolute', right: 8, top: '50%', transform: 'translateY(-50%)', background: 'rgba(255,255,255,0.9)', borderRadius: '50%', width: 24, height: 24, display: 'flex', alignItems: 'center', justifyContent: 'center', fontSize: 12 }}>›</div>
+              </div>
+            </div>
+
+            {/* Action buttons */}
+            <div style={{ padding: '12px 12px 0' }}>
+              <div style={{ display: 'flex', gap: 8, marginBottom: 8, flexWrap: 'wrap' }}>
+                {['🌐 Site web', '🧭 Itinéraire', '🔖 Enregistrer', '↗ Partager'].map(btn => (
+                  <div key={btn} style={{ background: '#f0f4ff', border: '1px solid #d0d9f0', borderRadius: 20, padding: '5px 10px', fontSize: 11, fontWeight: 500, color: '#1a73e8', whiteSpace: 'nowrap' }}>{btn}</div>
+                ))}
+              </div>
+              <div style={{ display: 'flex', justifyContent: 'center', marginBottom: 10 }}>
+                <div style={{ background: '#f0f4ff', border: '1px solid #d0d9f0', borderRadius: 20, padding: '5px 20px', fontSize: 11, fontWeight: 500, color: '#1a73e8' }}>📞 Appeler</div>
+              </div>
+            </div>
+
+            {/* Info rows */}
+            <div style={{ borderTop: '1px solid #f0f0f0' }}>
+              {[
+                { icon: '🕐', text: 'Ouvert 24h/24', color: '#1e8a3c', bold: true },
+                { icon: '📋', text: 'Services : Détection de fuites, Installation de WC, Débouchage...', color: '#444' },
+                { icon: '📍', text: '12 rue de la Paix, 75008, Paris, France', color: '#444' },
+                { icon: '⭐', text: '4.9 · 458 avis', color: '#444' },
+                { icon: '📞', text: '+336 12 34 56 78', color: '#444' },
+              ].map((row, i) => (
+                <div key={i} style={{ display: 'flex', alignItems: 'flex-start', gap: 10, padding: '9px 14px', borderBottom: '1px solid #f5f5f5', fontSize: 12 }}>
+                  <span style={{ fontSize: 14, flexShrink: 0, marginTop: 1 }}>{row.icon}</span>
+                  <span style={{ color: row.color, fontWeight: row.bold ? 600 : 400, lineHeight: 1.4, flex: 1 }}>{row.text}</span>
+                  <span style={{ color: '#999', fontSize: 14, flexShrink: 0 }}>›</span>
+                </div>
+              ))}
+            </div>
+
+            {/* CTA banner */}
+            <div style={{ background: '#EEF4FF', padding: '11px 16px', display: 'flex', alignItems: 'center', gap: 8 }}>
+              <span style={{ fontSize: 16 }}>☝️</span>
+              <span style={{ fontSize: 12, color: '#1a73e8', fontWeight: 600, lineHeight: 1.4 }}>Copiez ce lien et collez-le dans le formulaire</span>
             </div>
           </div>
         </div>
