@@ -246,29 +246,86 @@ export function DemoFormSection() {
   )
 
   return (
-    <section id="demo" style={{ background: '#fff', padding: '88px 24px' }}>
-      <div style={{ maxWidth: 680, margin: '0 auto', textAlign: 'center' }}>
-        <p style={{ fontSize: 13, fontWeight: 700, letterSpacing: '0.12em', color: '#2275FE', marginBottom: 16, textTransform: 'uppercase' }}>— DÉMO GRATUITE —</p>
-        <h2 style={{ fontSize: 'clamp(28px, 4vw, 40px)', color: '#202020', marginBottom: 16 }}>Votre site est peut-être déjà prêt.</h2>
-        <p style={{ fontSize: 17, color: '#666', marginBottom: 40, lineHeight: 1.6 }}>
-          Collez le lien de votre fiche Google Maps et recevez votre site démo personnalisé gratuitement sous 48h.
-        </p>
+    <section id="demo" style={{ background: '#F8F9FF', padding: '96px 24px' }}>
+      <div style={{ maxWidth: 1100, margin: '0 auto', display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 72, alignItems: 'center' }} className="demo-grid">
 
-        <div style={{ display: 'flex', gap: 10, flexWrap: 'wrap' }}>
-          <input
-            type="url" value={mapsUrl} onChange={e => setMapsUrl(e.target.value)}
-            placeholder="https://maps.google.com/... ou https://g.page/..."
-            style={{ flex: 1, minWidth: 240, padding: '13px 16px', border: '1px solid #E8E8E8', borderRadius: 8, fontSize: 15, outline: 'none' }}
-            onFocus={e => (e.currentTarget.style.borderColor = '#2275FE')}
-            onBlur={e => (e.currentTarget.style.borderColor = '#E8E8E8')}
-            onKeyDown={e => e.key === 'Enter' && openModal()}
-          />
-          <button onClick={openModal} style={{
-            background: '#2275FE', color: '#fff', border: 'none', borderRadius: 8,
-            padding: '13px 24px', fontSize: 15, fontWeight: 600, cursor: 'pointer', whiteSpace: 'nowrap',
-          }}>Obtenir ma démo gratuite →</button>
+        {/* Left — form */}
+        <div>
+          <p style={{ fontSize: 13, fontWeight: 700, letterSpacing: '0.12em', color: '#2275FE', marginBottom: 16, textTransform: 'uppercase' }}>— DÉMO GRATUITE —</p>
+          <h2 style={{ fontSize: 'clamp(26px, 3.5vw, 38px)', color: '#202020', marginBottom: 16 }}>Votre site est peut-être déjà prêt.</h2>
+          <p style={{ fontSize: 17, color: '#555', marginBottom: 32, lineHeight: 1.65 }}>
+            Collez le lien de votre fiche Google Maps et recevez votre site démo personnalisé gratuitement sous 48h.
+          </p>
+
+          <div style={{ display: 'flex', gap: 10, flexWrap: 'wrap', marginBottom: 12 }}>
+            <input
+              type="url" value={mapsUrl} onChange={e => setMapsUrl(e.target.value)}
+              placeholder="https://maps.google.com/... ou https://g.page/..."
+              style={{ flex: 1, minWidth: 220, padding: '13px 16px', border: '1px solid #E8E8E8', borderRadius: 8, fontSize: 15, outline: 'none', background: '#fff' }}
+              onFocus={e => (e.currentTarget.style.borderColor = '#2275FE')}
+              onBlur={e => (e.currentTarget.style.borderColor = '#E8E8E8')}
+              onKeyDown={e => e.key === 'Enter' && openModal()}
+            />
+            <button onClick={openModal} style={{
+              background: '#2275FE', color: '#fff', border: 'none', borderRadius: 8,
+              padding: '13px 22px', fontSize: 15, fontWeight: 600, cursor: 'pointer', whiteSpace: 'nowrap',
+            }}>Obtenir ma démo →</button>
+          </div>
+          <p style={{ fontSize: 13, color: '#999' }}>Gratuit · Sans engagement · Livré sous 48h</p>
         </div>
-        <p style={{ marginTop: 12, fontSize: 13, color: '#999' }}>Gratuit · Sans engagement · Livré sous 48h</p>
+
+        {/* Right — Google Business Profile mockup */}
+        <div style={{ display: 'flex', justifyContent: 'center' }}>
+          <div style={{
+            background: '#fff', borderRadius: 16, boxShadow: '0 8px 40px rgba(0,0,0,0.12)',
+            width: '100%', maxWidth: 360, overflow: 'hidden', fontFamily: 'Arial, sans-serif',
+          }}>
+            {/* Map placeholder */}
+            <div style={{ height: 140, background: 'linear-gradient(135deg, #e8f0fe 0%, #c5d9f7 50%, #a8c4f0 100%)', position: 'relative', overflow: 'hidden' }}>
+              <div style={{ position: 'absolute', inset: 0, opacity: 0.3, backgroundImage: 'repeating-linear-gradient(0deg, #9ab transparent, #9ab 1px, transparent 1px, transparent 40px), repeating-linear-gradient(90deg, #9ab transparent, #9ab 1px, transparent 1px, transparent 40px)' }} />
+              <div style={{ position: 'absolute', bottom: 16, left: '50%', transform: 'translateX(-50%)' }}>
+                <div style={{ width: 28, height: 36, background: '#EA4335', borderRadius: '50% 50% 50% 0', transform: 'rotate(-45deg)', margin: '0 auto', boxShadow: '0 2px 8px rgba(234,67,53,0.4)' }} />
+              </div>
+            </div>
+
+            {/* Business info */}
+            <div style={{ padding: '18px 20px' }}>
+              <div style={{ fontSize: 17, fontWeight: 700, color: '#202020', marginBottom: 4 }}>Plomberie Dupont</div>
+              <div style={{ display: 'flex', alignItems: 'center', gap: 6, marginBottom: 6 }}>
+                <div style={{ display: 'flex', gap: 2 }}>
+                  {'★★★★★'.split('').map((s, i) => <span key={i} style={{ color: '#FBBC04', fontSize: 14 }}>{s}</span>)}
+                </div>
+                <span style={{ fontSize: 13, fontWeight: 600, color: '#202020' }}>4.8</span>
+                <span style={{ fontSize: 13, color: '#666' }}>(127 avis)</span>
+              </div>
+              <div style={{ fontSize: 13, color: '#666', marginBottom: 12 }}>Plombier · Ouvert 24h/24</div>
+
+              <div style={{ borderTop: '1px solid #f0f0f0', paddingTop: 12, display: 'flex', flexDirection: 'column', gap: 8 }}>
+                <div style={{ display: 'flex', alignItems: 'center', gap: 10, fontSize: 13, color: '#444' }}>
+                  <span style={{ fontSize: 16 }}>📞</span> +33 6 12 34 56 78
+                </div>
+                <div style={{ display: 'flex', alignItems: 'center', gap: 10, fontSize: 13, color: '#444' }}>
+                  <span style={{ fontSize: 16 }}>📍</span> 12 rue de la Paix, Paris 75001
+                </div>
+                <div style={{ display: 'flex', alignItems: 'center', gap: 10, fontSize: 13, color: '#2275FE', fontWeight: 500 }}>
+                  <span style={{ fontSize: 16 }}>🔗</span> maps.google.com/...
+                </div>
+              </div>
+
+              <div style={{ display: 'flex', gap: 8, marginTop: 14 }}>
+                {['Site web', 'Itinéraire', 'Appeler'].map(btn => (
+                  <div key={btn} style={{ flex: 1, background: '#EEF4FF', borderRadius: 6, padding: '7px 4px', fontSize: 12, fontWeight: 600, color: '#2275FE', textAlign: 'center' }}>{btn}</div>
+                ))}
+              </div>
+            </div>
+
+            {/* Arrow label */}
+            <div style={{ background: '#EEF4FF', padding: '10px 20px', display: 'flex', alignItems: 'center', gap: 10 }}>
+              <span style={{ fontSize: 20 }}>↑</span>
+              <span style={{ fontSize: 13, color: '#2275FE', fontWeight: 600 }}>Copiez ce lien et collez-le dans le formulaire</span>
+            </div>
+          </div>
+        </div>
       </div>
 
       {/* Modal backdrop */}
@@ -340,11 +397,11 @@ export function DemoFormSection() {
 const FAQ_ITEMS = [
   {
     q: 'Est-ce que mon site sera vraiment fait pour mon métier ?',
-    a: "Oui. Chaque site est généré spécifiquement pour votre activité, votre ville et vos services. Nous analysons votre fiche Google Maps pour extraire vos vraies informations : avis clients, services proposés, zone d'intervention. Le résultat est un site unique, pas un template copié-collé.",
+    a: "Oui. Chaque site est créé spécifiquement pour votre activité, votre ville et vos services. Nous analysons votre fiche Google Maps pour extraire vos vraies informations : avis clients, services proposés, zone d'intervention. Le résultat est un site unique, pas un template copié-collé.",
   },
   {
     q: 'Combien de temps pour recevoir mon site ?',
-    a: 'Une fois votre commande confirmée, votre site est mis en ligne sous 48 à 72 heures ouvrées. Vous recevez un email avec votre adresse web définitive et vos accès dès que c\'est prêt.',
+    a: "Une fois votre commande confirmée, votre site est mis en ligne sous 48 à 72 heures ouvrées. Vous recevez un email avec votre adresse web définitive et vos accès dès que c'est prêt.",
   },
   {
     q: 'Puis-je modifier le contenu de mon site moi-même ?',
@@ -352,15 +409,15 @@ const FAQ_ITEMS = [
   },
   {
     q: "Que contient exactement l'offre à 490€ ?",
-    a: "L'offre inclut la création de votre site vitrine personnalisé, votre nom de domaine pour 1 an, l'hébergement pour 1 an, l'optimisation SEO locale et votre espace de gestion. Tout est inclus dans les 490€, sans frais cachés. Après la première année, le renouvellement domaine + hébergement est à 99€/an.",
+    a: "L'offre inclut la création de votre site vitrine personnalisé, votre nom de domaine pour 1 an, l'hébergement pour 1 an et votre espace de gestion. Tout est inclus dans les 490€, sans frais cachés. Après la première année, le renouvellement domaine + hébergement est à 99€/an.",
   },
   {
     q: 'Pourquoi WebPower et pas une agence web classique ?',
-    a: "Une agence web facture généralement entre 1 500€ et 5 000€ pour un site vitrine, avec des délais de plusieurs semaines. WebPower propose un site de qualité professionnelle à 490€, livré en 72h, grâce à une technologie de personnalisation automatisée développée spécifiquement pour les artisans.",
+    a: "Une agence web facture généralement entre 1 500€ et 5 000€ pour un site vitrine, avec des délais de plusieurs semaines. WebPower propose un site de qualité professionnelle à 490€, livré en 72h, grâce à une équipe de jeunes motivés, fans de technologie, prêts à faire l'effort pour aider les artisans. Vous ne payez que si votre démo vous convainc.",
   },
   {
     q: 'Comment ça marche concrètement, de la démo à la mise en ligne ?',
-    a: "1. Vous demandez votre démo gratuite en collant votre lien Google Maps. 2. Nous générons votre site personnalisé et vous l'envoyons sous 48h. 3. Si le site vous convient, vous commandez en ligne en choisissant votre nom de domaine. 4. Nous mettons votre site en ligne sous 48-72h et vous envoyons vos accès par email.",
+    a: "1. Vous demandez votre démo gratuite en collant votre lien Google Maps. 2. Notre équipe crée votre site personnalisé et vous l'envoie sous 48h. 3. Si le site vous convient, vous commandez en ligne en choisissant votre nom de domaine. 4. Nous mettons votre site en ligne sous 48-72h et vous envoyons vos accès par email.",
   },
 ]
 
