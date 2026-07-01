@@ -226,7 +226,7 @@ export function StepIcon({ step }: { step: 1 | 2 | 3 }) {
             <circle cx="41" cy="15" r="4" fill="#28C840"/>
             {/* URL bar */}
             <rect x="52" y="10" width="86" height="10" rx="5" fill="#fff" stroke="#ccc" strokeWidth="1"/>
-            <text x="60" y="18" fontSize="6" fill="#888" fontFamily="monospace">yourwebpower.com</text>
+            <text x="60" y="18" fontSize="6" fill="#888" fontFamily="monospace">webpower.app</text>
             {/* Editor background */}
             <rect x="4" y="26" width="152" height="80" rx="0" fill="#1a1a2e"/>
             <rect x="4" y="74" width="152" height="32" rx="0" fill="#1a1a2e"/>
